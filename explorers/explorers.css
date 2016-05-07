@@ -1,3 +1,7 @@
-.auto-aligned {
+.video {
+    margin: auto;
+    align: center;
     text-align: center;
+    margin-top: 50px;
+    background-color: #1e73be;
 }
