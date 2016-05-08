@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/why/why.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/why/why.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/header (old).jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tlee753.github.io.iws" />
@@ -1097,7 +1094,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1462281140589</updated>
-      <workItem from="1462281142585" duration="16079000" />
+      <workItem from="1462281142585" duration="16179000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1462281516844</created>
@@ -1446,7 +1443,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16079000" />
+    <option name="totallyTimeSpent" value="16179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1119" extended-state="0" />
