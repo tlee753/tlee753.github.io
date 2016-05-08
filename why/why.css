@@ -8,6 +8,6 @@
 }
 
 body {
-    background-image: "why_background.jpg";
+    background-image: url("why_background.jpg");
     background-color: #000000;
 }
