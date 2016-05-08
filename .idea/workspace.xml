@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/portfolio.html" afterPath="$PROJECT_DIR$/_includes/portfolio.html" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1085,14 +1084,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1462281140589</updated>
-      <workItem from="1462281142585" duration="16651000" />
-    </task>
-    <task id="LOCAL-00005" summary="modifications">
-      <created>1462282511741</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1462282511741</updated>
+      <workItem from="1462281142585" duration="16870000" />
     </task>
     <task id="LOCAL-00006" summary="modifications">
       <created>1462283574555</created>
@@ -1430,11 +1422,18 @@
       <option name="project" value="LOCAL" />
       <updated>1462740177360</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="start with why&#10;">
+      <created>1462740232561</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1462740232561</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16651000" />
+    <option name="totallyTimeSpent" value="16870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1119" extended-state="0" />
