@@ -1,5 +1,8 @@
+.image {
+    width: 500px;
+}
+
 .centered {
     text-align: center;
     align: center;
-    width: 200px;
 }
