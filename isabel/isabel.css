@@ -12,3 +12,10 @@
 body {
     background-color: pink;
 }
+
+.title {
+    font-family: Garamond;
+    font-size: 30px;
+    text-align: center;
+    align: center;
+}
