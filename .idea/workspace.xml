@@ -4,6 +4,7 @@
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/isabel/isabel.css" afterPath="$PROJECT_DIR$/isabel/isabel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/isabel/isabel.html" afterPath="$PROJECT_DIR$/isabel/isabel.html" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,8 +73,8 @@
       <file leaf-file-name="isabel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/isabel/isabel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -82,8 +83,8 @@
       <file leaf-file-name="isabel.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/isabel/isabel.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -150,8 +151,8 @@
         <option value="$PROJECT_DIR$/why/why.css" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_includes/portfolio.html" />
-        <option value="$PROJECT_DIR$/isabel/isabel.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/isabel/isabel.html" />
         <option value="$PROJECT_DIR$/isabel/isabel.css" />
       </list>
     </option>
@@ -902,14 +903,7 @@
       <workItem from="1462980248771" duration="47000" />
       <workItem from="1463022470088" duration="136000" />
       <workItem from="1463088954111" duration="2850000" />
-      <workItem from="1463327747594" duration="5886000" />
-    </task>
-    <task id="LOCAL-00023" summary="modifications">
-      <created>1462296920022</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1462296920022</updated>
+      <workItem from="1463327747594" duration="6037000" />
     </task>
     <task id="LOCAL-00024" summary="modifications">
       <created>1462300772454</created>
@@ -1247,11 +1241,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463428268376</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="modifications&#10;">
+      <created>1463428434929</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1463428434929</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26431000" />
+    <option name="totallyTimeSpent" value="26582000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1119" extended-state="0" />
@@ -1665,16 +1666,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/isabel/isabel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/isabel/isabel.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
           <folding />
         </state>
       </provider>
