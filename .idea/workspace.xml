@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,6 +55,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/post.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/nav.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
@@ -153,13 +163,13 @@
         <option value="$PROJECT_DIR$/wanderers/wanderers.css" />
         <option value="$PROJECT_DIR$/why/why.html" />
         <option value="$PROJECT_DIR$/why/why.css" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/isabel/isabel.html" />
         <option value="$PROJECT_DIR$/isabel/isabel.css" />
         <option value="$PROJECT_DIR$/blog/index.html" />
         <option value="$PROJECT_DIR$/_layouts/front.html" />
         <option value="$PROJECT_DIR$/_includes/portfolio.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
       </list>
     </option>
   </component>
@@ -909,14 +919,7 @@
       <workItem from="1462980248771" duration="47000" />
       <workItem from="1463022470088" duration="136000" />
       <workItem from="1463088954111" duration="2850000" />
-      <workItem from="1463327747594" duration="8538000" />
-    </task>
-    <task id="LOCAL-00029" summary="modifications">
-      <created>1462424063583</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1462424063583</updated>
+      <workItem from="1463327747594" duration="8602000" />
     </task>
     <task id="LOCAL-00030" summary="modifications">
       <created>1462424109297</created>
@@ -1254,11 +1257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463460030899</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="modifications&#10;">
+      <created>1463460090221</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1463460090221</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29083000" />
+    <option name="totallyTimeSpent" value="29147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1119" extended-state="6" />
@@ -1440,14 +1450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1688,6 +1690,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
       </provider>
