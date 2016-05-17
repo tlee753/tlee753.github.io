@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio/6.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/portfolio.html" afterPath="$PROJECT_DIR$/_includes/portfolio.html" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -925,7 +918,7 @@
       <workItem from="1462980248771" duration="47000" />
       <workItem from="1463022470088" duration="136000" />
       <workItem from="1463088954111" duration="2850000" />
-      <workItem from="1463327747594" duration="9039000" />
+      <workItem from="1463327747594" duration="9101000" />
     </task>
     <task id="LOCAL-00032" summary="d">
       <created>1462482763917</created>
@@ -1274,7 +1267,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29584000" />
+    <option name="totallyTimeSpent" value="29646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1119" extended-state="6" />
