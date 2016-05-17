@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/header.jpg" afterPath="$PROJECT_DIR$/img/header.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_base.scss" afterPath="$PROJECT_DIR$/_sass/_base.scss" />
     </list>
@@ -218,6 +219,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="tlee753.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tlee753.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tlee753.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -937,14 +952,7 @@
       <workItem from="1462980248771" duration="47000" />
       <workItem from="1463022470088" duration="136000" />
       <workItem from="1463088954111" duration="2850000" />
-      <workItem from="1463327747594" duration="10833000" />
-    </task>
-    <task id="LOCAL-00039" summary="explorers page addition">
-      <created>1462653601454</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1462653601454</updated>
+      <workItem from="1463327747594" duration="10859000" />
     </task>
     <task id="LOCAL-00040" summary="explorers page addition">
       <created>1462653673839</created>
@@ -1282,11 +1290,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463462204504</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="modifications&#10;">
+      <created>1463462550237</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1463462550237</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31378000" />
+    <option name="totallyTimeSpent" value="31404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1119" extended-state="6" />
@@ -1701,7 +1716,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.jpg">
+    <entry file="file://$PROJECT_DIR$/img/header.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
