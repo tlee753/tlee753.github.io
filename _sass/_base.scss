@@ -112,10 +112,10 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: rgba(black, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: black; // color for main menu navbar title
             }
         }
         .nav > li > a,
@@ -126,7 +126,7 @@ aside {
             }
         }
         &.affix {
-            background-color: black; // testing
+            background-color: white; // testing
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
