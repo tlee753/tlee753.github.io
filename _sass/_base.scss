@@ -109,7 +109,7 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: rgba(white, .3); // backgound color for desktop navbar
+        background-color: rgba(white, .5); // background color for desktop navbar
         border-color: rgba($theme-primary, .3);
         .navbar-header .navbar-brand {
             color: rgba($theme-primary, .7); // title color
