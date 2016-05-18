@@ -126,7 +126,7 @@ aside {
             }
         }
         &.affix {
-            background-color: pink; // testing mobile background color
+            background-color: rgba(white, .9); // scrolled down color (affixed)
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
