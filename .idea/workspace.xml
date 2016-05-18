@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/portfolio.html" afterPath="$PROJECT_DIR$/_includes/portfolio.html" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +47,7 @@
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="-1202">
               <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
@@ -977,14 +976,7 @@
       <workItem from="1463088954111" duration="2850000" />
       <workItem from="1463327747594" duration="13052000" />
       <workItem from="1463507232424" duration="6000" />
-      <workItem from="1463507408603" duration="6184000" />
-    </task>
-    <task id="LOCAL-00067" summary="modifications&#10;">
-      <created>1463118723359</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1463118723359</updated>
+      <workItem from="1463507408603" duration="6207000" />
     </task>
     <task id="LOCAL-00068" summary="modifications&#10;">
       <created>1463118877674</created>
@@ -1322,11 +1314,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463544193449</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="modifications&#10;">
+      <created>1463545778476</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1463545778476</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39787000" />
+    <option name="totallyTimeSpent" value="39810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1705,7 +1704,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-1202">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding />
         </state>
