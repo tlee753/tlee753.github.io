@@ -120,13 +120,13 @@ aside {
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(black, .7);
+            color: rgba(black, .7); // also here
             &:hover {
-                color: black;
+                color: black; // color for main menu navbar links
             }
         }
         &.affix {
-            background-color: white;
+            background-color: black; // testing
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
