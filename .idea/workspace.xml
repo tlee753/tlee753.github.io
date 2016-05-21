@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/temp.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/blog.html" afterPath="$PROJECT_DIR$/_layouts/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/temp.html" afterPath="$PROJECT_DIR$/_includes/temp.html" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -106,17 +105,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="temp.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/temp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -185,8 +184,8 @@
         <option value="$PROJECT_DIR$/_sass/_base.scss" />
         <option value="$PROJECT_DIR$/css/main.scss" />
         <option value="$PROJECT_DIR$/isabel/isabel.html" />
-        <option value="$PROJECT_DIR$/_includes/temp.html" />
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
+        <option value="$PROJECT_DIR$/_includes/temp.html" />
       </list>
     </option>
   </component>
@@ -1036,14 +1035,7 @@
       <workItem from="1463327747594" duration="13052000" />
       <workItem from="1463507232424" duration="6000" />
       <workItem from="1463507408603" duration="7533000" />
-      <workItem from="1463547602241" duration="3216000" />
-    </task>
-    <task id="LOCAL-00085" summary="modifications&#10;">
-      <created>1463462094538</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1463462094538</updated>
+      <workItem from="1463547602241" duration="3539000" />
     </task>
     <task id="LOCAL-00086" summary="modifications&#10;">
       <created>1463462135873</created>
@@ -1381,11 +1373,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463641933371</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="modifications&#10;">
+      <created>1463813093621</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1463813093621</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44352000" />
+    <option name="totallyTimeSpent" value="44675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1741,18 +1740,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/temp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/temp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding />
         </state>
       </provider>
