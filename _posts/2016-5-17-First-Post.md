@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: Day 1 Mexico
 ---
 
-This is a testing post to see if things are working correctly. Hope this shows up!!! :)
+Brace yourself, posts are coming, and I'll be cleaning this up soon!!! :) Thanks for hanging in there.
