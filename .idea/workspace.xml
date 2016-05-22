@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tlee753.github.io.iws" />
@@ -1019,14 +1017,7 @@
       <workItem from="1463327747594" duration="13052000" />
       <workItem from="1463507232424" duration="6000" />
       <workItem from="1463507408603" duration="7533000" />
-      <workItem from="1463547602241" duration="6901000" />
-    </task>
-    <task id="LOCAL-00096" summary="modifications&#10;">
-      <created>1463524621683</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1463524621683</updated>
+      <workItem from="1463547602241" duration="6908000" />
     </task>
     <task id="LOCAL-00097" summary="modifications&#10;">
       <created>1463524782061</created>
@@ -1364,11 +1355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1463946679733</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="blogging">
+      <created>1463946743259</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1463946743259</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48037000" />
+    <option name="totallyTimeSpent" value="48044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
