@@ -349,7 +349,7 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
-/*
+
 // added to clean up posts
 .posts > .post {
     padding-bottom: 2em;
@@ -360,4 +360,11 @@ body {
     padding-bottom: 1em;
     border-bottom: none;
 }
-*/
+
+// added for about me div
+#aboutme {
+    background-color: $theme-primary;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
