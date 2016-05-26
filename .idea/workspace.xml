@@ -103,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="403">
-              <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
+              <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -1022,14 +1022,7 @@
       <workItem from="1463507232424" duration="6000" />
       <workItem from="1463507408603" duration="7533000" />
       <workItem from="1463547602241" duration="10148000" />
-      <workItem from="1464233710877" duration="974000" />
-    </task>
-    <task id="LOCAL-00102" summary="modifications&#10;">
-      <created>1463526404942</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1463526404942</updated>
+      <workItem from="1464233710877" duration="1011000" />
     </task>
     <task id="LOCAL-00103" summary="modifications&#10;">
       <created>1463526762809</created>
@@ -1367,11 +1360,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464235108054</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="color shift&#10;">
+      <created>1464235175912</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1464235175912</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52258000" />
+    <option name="totallyTimeSpent" value="52295000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1751,7 +1751,7 @@
     <entry file="file://$PROJECT_DIR$/_sass/_base.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
-          <caret line="111" column="32" selection-start-line="111" selection-start-column="32" selection-end-line="111" selection-end-column="32" />
+          <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
           <folding />
         </state>
       </provider>
