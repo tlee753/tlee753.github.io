@@ -86,7 +86,7 @@ aside {
       background-color: transparent; }
   @media (min-width: 768px) {
     .navbar-default {
-      background-color: rgba(238, 178, 17, 0.5);
+      background-color: rgba(190, 160, 105, 0.5);
       border-color: rgba(0, 37, 76, 0.3); }
       .navbar-default .navbar-header .navbar-brand {
         color: rgba(0, 37, 76, 0.7); }
@@ -318,3 +318,9 @@ body {
 
 #aboutmetext {
   color: white; }
+
+#maintitle {
+  color: #BEA069; }
+
+#kicker {
+  color: black; }
