@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/e0ba49c201756af669a78e3713d480438e334023/_base.scssc" afterPath="$PROJECT_DIR$/.sass-cache/e0ba49c201756af669a78e3713d480438e334023/_base.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/header.jpg" afterPath="$PROJECT_DIR$/_site/img/header.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/header.jpg" afterPath="$PROJECT_DIR$/img/header.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/_base.scss" afterPath="$PROJECT_DIR$/_sass/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/isabel/isabel.css" afterPath="$PROJECT_DIR$/isabel/isabel.css" />
     </list>
     <ignored path="tlee753.github.io.iws" />
@@ -112,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/isabel/isabel.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -1008,14 +1002,7 @@
       <workItem from="1464233710877" duration="1863000" />
       <workItem from="1464237536069" duration="555000" />
       <workItem from="1464286478394" duration="1685000" />
-      <workItem from="1464302635581" duration="1526000" />
-    </task>
-    <task id="LOCAL-00116" summary="modifications&#10;">
-      <created>1463545778476</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1463545778476</updated>
+      <workItem from="1464302635581" duration="1567000" />
     </task>
     <task id="LOCAL-00117" summary="modifications&#10;">
       <created>1463546074259</created>
@@ -1353,11 +1340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464238102258</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="update portfolio">
+      <created>1464366216011</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1464366216011</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56913000" />
+    <option name="totallyTimeSpent" value="56954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1738,7 +1732,7 @@
     <entry file="file://$PROJECT_DIR$/isabel/isabel.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
           <folding />
         </state>
       </provider>
