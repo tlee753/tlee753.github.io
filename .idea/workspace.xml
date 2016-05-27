@@ -105,8 +105,8 @@
       <file leaf-file-name="isabel.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/isabel/isabel.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="30">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -1002,14 +1002,7 @@
       <workItem from="1464233710877" duration="1863000" />
       <workItem from="1464237536069" duration="555000" />
       <workItem from="1464286478394" duration="1685000" />
-      <workItem from="1464302635581" duration="1567000" />
-    </task>
-    <task id="LOCAL-00117" summary="modifications&#10;">
-      <created>1463546074259</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1463546074259</updated>
+      <workItem from="1464302635581" duration="1596000" />
     </task>
     <task id="LOCAL-00118" summary="modifications&#10;">
       <created>1463546139907</created>
@@ -1347,11 +1340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464366216011</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="update portfolio">
+      <created>1464366256989</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1464366256989</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56954000" />
+    <option name="totallyTimeSpent" value="56983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1731,8 +1731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/isabel/isabel.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
