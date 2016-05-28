@@ -399,7 +399,7 @@ footer {
     font-size: 18px; }
 
 #isabel-page {
-  background-color: #2beedd;
+  background-color: lightpink;
   height: 1200px; }
   #isabel-page .isabel-image {
     width: 500px;
@@ -415,6 +415,6 @@ footer {
     font-size: 30px;
     text-align: center;
     align: center;
-    color: #386d97; }
+    color: darkturquoise; }
 
 /*# sourceMappingURL=main.css.map */
