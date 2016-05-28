@@ -399,18 +399,22 @@ footer {
     font-size: 18px; }
 
 #isabel-page {
-  background-color: #3ea9c9;
+  background-color: #2beedd;
   height: 1200px; }
-  #isabel-page .image {
+  #isabel-page .isabel-image {
     width: 500px;
     border-radius: 25px; }
-  #isabel-page .centered {
+  #isabel-page .isabel-centered {
     text-align: center;
     align: center; }
-  #isabel-page .title {
+  #isabel-page .isabel-title {
+    margin: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
     font-family: Garamond;
     font-size: 30px;
     text-align: center;
-    align: center; }
+    align: center;
+    color: #386d97; }
 
 /*# sourceMappingURL=main.css.map */
