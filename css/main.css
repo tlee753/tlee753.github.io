@@ -388,6 +388,13 @@ header {
   font-size: 20px;
   font-weight: 400; }
 
+#quickport {
+  height: 300px;
+  background: #00254c; }
+  #quickport .quickport-item {
+    width: 25%;
+    height: 100%; }
+
 footer {
   background: #00254c;
   height: 200px;
@@ -420,7 +427,7 @@ footer {
       text-transform: uppercase;
       text-align: center;
       color: #666666;
-      margin-top: 20px;
+      margin-top: 10px;
       font-size: 18px;
       font-weight: 400; }
 
