@@ -323,22 +323,25 @@ input[type="button"] {
   #navbar .navbar-item {
     float: right;
     position: relative;
-    margin-right: 15px;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
     height: 100%;
-    color: #00254c;
     text-decoration: none;
     font-size: 24px;
     font-weight: 400; }
     #navbar .navbar-item:hover, #navbar .navbar-item:focus {
       color: white;
       background-color: #00254c; }
+  #navbar .navbar-brand {
+    text-decoration: none;
+    color: #00254c; }
+    #navbar .navbar-brand:hover, #navbar .navbar-brand:focus {
+      color: #0057b2; }
   #navbar .navbar-link {
     text-decoration: none;
     color: #00254c; }
     #navbar .navbar-link:hover, #navbar .navbar-link:focus {
-      color: #003e7f; }
+      color: white; }
   @media (min-width: 768px) {
     #navbar {
       background-color: rgba(255, 255, 255, 0.8); } }
