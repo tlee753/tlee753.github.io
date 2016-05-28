@@ -313,7 +313,7 @@ input[type="button"] {
   #navbar .navbar-title {
     float: left;
     position: relative;
-    margin-left: 15px;
+    padding-left: 15px;
     height: 100%;
     color: #00254c;
     font-size: 30px;
@@ -321,6 +321,7 @@ input[type="button"] {
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
       color: black; }
   #navbar .navbar-item {
+    vertical-align: middle;
     float: right;
     position: relative;
     padding-left: 15px;
@@ -338,6 +339,8 @@ input[type="button"] {
     #navbar .navbar-brand:hover, #navbar .navbar-brand:focus {
       color: #0057b2; }
   #navbar .navbar-link {
+    padding: 100% 5px 100% 5px;
+    vertical-align: middle;
     text-decoration: none;
     color: #00254c; }
     #navbar .navbar-link:hover, #navbar .navbar-link:focus {
