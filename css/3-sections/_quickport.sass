@@ -1,7 +1,44 @@
 #quickport
-  height: 300px
+  position: relative
   background: $theme-primary
+  padding: 0px
+  //padding-right: 15px
+  //padding-left: 15px
+  margin-right: auto
+  margin-left: auto
+  height: 300px
 
-  .quickport-item
-    width: 25%
-    height: 100%
+  .quickport-container
+    position: relative
+    width: 50%
+    //margin-right: -15px
+    //margin-left: -15px
+    //padding-right: 0px
+    //padding-left: 0px
+
+    .quickport-link
+      color: white
+      opacity: 0
+      display: block
+      background: rgba( $theme-primary, .9 )
+      position: absolute
+      bottom: 0
+      text-align: center
+      width: 100%
+      height: 100%
+
+      .quickport-item
+        position: relative
+        display: block
+        width: 25%
+        margin: 0 auto
+        padding: 0px
+        min-height: 1px
+        padding-right: 15px
+        padding-left: 15px
+
+        .quickport-image
+          position: relative
+          display: block
+          max-width: 100%
+          height: auto

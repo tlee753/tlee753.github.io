@@ -389,11 +389,39 @@ header {
   font-weight: 400; }
 
 #quickport {
-  height: 300px;
-  background: #00254c; }
-  #quickport .quickport-item {
-    width: 25%;
-    height: 100%; }
+  position: relative;
+  background: #00254c;
+  padding: 0px;
+  margin-right: auto;
+  margin-left: auto;
+  height: 300px; }
+  #quickport .quickport-container {
+    position: relative;
+    width: 50%; }
+    #quickport .quickport-container .quickport-link {
+      color: white;
+      opacity: 0;
+      display: block;
+      background: rgba(0, 37, 76, 0.9);
+      position: absolute;
+      bottom: 0;
+      text-align: center;
+      width: 100%;
+      height: 100%; }
+      #quickport .quickport-container .quickport-link .quickport-item {
+        position: relative;
+        display: block;
+        width: 25%;
+        margin: 0 auto;
+        padding: 0px;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px; }
+        #quickport .quickport-container .quickport-link .quickport-item .quickport-image {
+          position: relative;
+          display: block;
+          max-width: 100%;
+          height: auto; }
 
 footer {
   background: #00254c;

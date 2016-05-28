@@ -2,122 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/quickport.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/3-sections/_quickport.sass" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/0c9b3b6bda5f4e87a7de71d8fa7fe8b07c8dc54f/_example-flex-video.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/0c9b3b6bda5f4e87a7de71d8fa7fe8b07c8dc54f/_example-fork-tag.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/0c9b3b6bda5f4e87a7de71d8fa7fe8b07c8dc54f/_example-module-name-lockup.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/2dac98666612a2fedd8f9c1aa63897bffb85e7a1/_asset-pipeline.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/2dac98666612a2fedd8f9c1aa63897bffb85e7a1/_prefixer.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/2dac98666612a2fedd8f9c1aa63897bffb85e7a1/_px-to-em.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/31025bf861739c6de32eb4776819750040fa3232/_example-page-home.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/31025bf861739c6de32eb4776819750040fa3232/_home.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/3a46e8b140f6a5de30eabf51d67c318f171a296d/_body-element.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/3a46e8b140f6a5de30eabf51d67c318f171a296d/_example-buttons.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/3a46e8b140f6a5de30eabf51d67c318f171a296d/_links.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/3a46e8b140f6a5de30eabf51d67c318f171a296d/_selection-colors.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/3a46e8b140f6a5de30eabf51d67c318f171a296d/_typography.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/5b0e6eadfa58a680f5d6122ac917b15241082216/main.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_border-color.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_border-radius.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_border-style.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_border-width.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_buttons.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_clearfix.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_ellipsis.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_font-stacks.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_hide-text.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_margin.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_padding.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_position.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_prefixer.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_retina-image.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_size.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_text-inputs.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_timing-functions.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_triangle.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/65cd267b0de3625713532c3102cf2afaf49f8013/_word-wrap.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/6d37cc68ba2cea29cb803cda9ac2112929af2936/_fonts.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/6d37cc68ba2cea29cb803cda9ac2112929af2936/_mixins.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/6d37cc68ba2cea29cb803cda9ac2112929af2936/_normalize.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/6d37cc68ba2cea29cb803cda9ac2112929af2936/_vars.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_convert-units.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_directional-values.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_font-source-declaration.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_gradient-positions-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_linear-angle-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_linear-gradient-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_linear-positions-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_linear-side-corner-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_radial-arg-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_radial-gradient-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_radial-positions-parser.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_render-gradients.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_shape-size-stripper.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/7f757f2995ea899088b88ac25de50594269c5bb5/_str-to-num.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/bce20e3972bb9e627ce572390d7bcf91abbc1345/_bourbon-deprecated-upcoming.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/bce20e3972bb9e627ce572390d7bcf91abbc1345/_bourbon.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_assign-inputs.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_contains-falsy.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_contains.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_is-length.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_is-light.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_is-number.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_is-size.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_modular-scale.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_px-to-em.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_px-to-rem.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_shade.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_strip-units.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_tint.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_transition-property-name.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/c657792efda57c03589236c336366f44dbfeb86d/_unpack.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d2f7098b17d1d02601f6fd272ec5d34cee451d80/_about.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d2f7098b17d1d02601f6fd272ec5d34cee451d80/_footer.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d2f7098b17d1d02601f6fd272ec5d34cee451d80/_header.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d2f7098b17d1d02601f6fd272ec5d34cee451d80/_navbar.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_animation.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_appearance.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_backface-visibility.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_background-image.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_background.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_border-image.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_calc.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_columns.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_filter.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_flex-box.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_font-face.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_font-feature-settings.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_hidpi-media-query.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_hyphens.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_image-rendering.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_keyframes.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_linear-gradient.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_perspective.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_placeholder.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_radial-gradient.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_selection.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_text-decoration.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_transform.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_transition.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/d9890174cc778768df7276df4e7f3e02a09a5677/_user-select.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/e0449caab7cef2c9e6223dde7c883ea87799b01d/_about.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/e0449caab7cef2c9e6223dde7c883ea87799b01d/_example-flex-video.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/e0449caab7cef2c9e6223dde7c883ea87799b01d/_example-fork-tag.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/e0449caab7cef2c9e6223dde7c883ea87799b01d/_example-module-name-lockup.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/e0449caab7cef2c9e6223dde7c883ea87799b01d/_footer.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/e0449caab7cef2c9e6223dde7c883ea87799b01d/_header.sassc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/.sass-cache/e0449caab7cef2c9e6223dde7c883ea87799b01d/_navbar.sassc" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/quickport.html" afterPath="$PROJECT_DIR$/_includes/quickport.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css.map" afterPath="$PROJECT_DIR$/_site/css/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.sass" afterPath="$PROJECT_DIR$/_site/css/main.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_footer.sass" afterPath="$PROJECT_DIR$/css/3-sections/_footer.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_quickport.sass" afterPath="$PROJECT_DIR$/css/3-sections/_quickport.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.sass" afterPath="$PROJECT_DIR$/css/main.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -156,21 +48,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quickport.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="quickport.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/quickport.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+            <state relative-caret-position="105">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_quickport.sass" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_quickport.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_quickport.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="128" selection-start-line="3" selection-start-column="128" selection-end-line="3" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -199,8 +121,8 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="45">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -277,8 +199,8 @@
         <option value="$PROJECT_DIR$/_includes/quick-port.html" />
         <option value="$PROJECT_DIR$/css/main.sass" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/3-sections/_quickport.sass" />
         <option value="$PROJECT_DIR$/_includes/quickport.html" />
+        <option value="$PROJECT_DIR$/css/3-sections/_quickport.sass" />
       </list>
     </option>
   </component>
@@ -299,8 +221,7 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="511" />
-    <option name="width" value="1409" />
+    <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -328,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -471,6 +391,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1148,7 +1069,8 @@
       <workItem from="1464430175582" duration="761000" />
       <workItem from="1464447671689" duration="8934000" />
       <workItem from="1464457763943" duration="45000" />
-      <workItem from="1464457857646" duration="6567000" />
+      <workItem from="1464457857646" duration="7362000" />
+      <workItem from="1464467073040" duration="3873000" />
     </task>
     <task id="LOCAL-00133" summary="modifications&#10;">
       <created>1463641933371</created>
@@ -1497,11 +1419,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78745000" />
+    <option name="totallyTimeSpent" value="83413000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="511" y="0" width="1409" height="1200" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1510,23 +1432,23 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283186" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283186" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32773852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20629115" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20607029" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283186" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1639,82 +1561,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6000">
           <caret line="420" column="0" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
-          <folding>
-            <marker date="1464464882000" expanded="true" signature="11:89" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="156:250" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="257:273" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="378:399" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="432:488" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="512:545" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="566:586" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="590:626" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="646:663" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="677:709" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="721:745" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="751:776" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="781:822" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="829:867" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="875:896" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="907:996" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1002:1020" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1026:1048" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1054:1070" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1087:1110" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1119:1142" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1147:1222" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1228:1249" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1272:1330" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1374:1425" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1434:1458" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1475:1502" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1581:1633" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1674:1696" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1748:1778" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1786:1812" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1858:1901" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2042:2172" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2316:2399" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2408:2438" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2449:2470" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2481:2505" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2513:2566" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2575:2592" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2599:2801" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2815:2841" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2860:2886" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2903:2933" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2955:2985" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2992:3035" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3039:3099" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3119:3142" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3208:3247" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3259:3327" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3339:3406" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3419:3462" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3476:3519" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3530:3573" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3589:3631" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3635:3660" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3665:3690" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3699:3723" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3728:3829" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3912:4301" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="4668:4728" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="4738:4955" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="4980:5030" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5477:5480" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5504:5510" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5904:5935" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5964:6033" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5978:6031" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6042:6325" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6338:6558" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6578:6672" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6690:6780" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6792:6916" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="7048:7336" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="8010:8033" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1722,106 +1569,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6000">
           <caret line="420" column="0" selection-start-line="420" selection-start-column="0" selection-end-line="420" selection-end-column="0" />
-          <folding>
-            <marker date="1464464882000" expanded="true" signature="11:89" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="156:250" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="257:273" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="378:399" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="432:488" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="512:545" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="566:586" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="590:626" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="646:663" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="677:709" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="721:745" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="751:776" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="781:822" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="829:867" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="875:896" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="907:996" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1002:1020" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1026:1048" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1054:1070" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1087:1110" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1119:1142" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1147:1222" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1228:1249" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1272:1330" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1374:1425" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1434:1458" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1475:1502" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1581:1633" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1674:1696" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1748:1778" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1786:1812" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="1858:1901" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2042:2172" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2316:2399" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2408:2438" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2449:2470" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2481:2505" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2513:2566" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2575:2592" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2599:2801" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2815:2841" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2860:2886" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2903:2933" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2955:2985" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="2992:3035" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3039:3099" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3119:3142" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3208:3247" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3259:3327" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3339:3406" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3419:3462" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3476:3519" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3530:3573" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3589:3631" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3635:3660" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3665:3690" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3699:3723" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3728:3829" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="3912:4301" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="4668:4728" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="4738:4955" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="4980:5030" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5477:5480" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5504:5510" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5904:5935" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5964:6033" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="5978:6031" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6042:6325" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6338:6558" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6578:6672" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6690:6780" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="6792:6916" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="7048:7336" ph="{...}" />
-            <marker date="1464464882000" expanded="true" signature="8010:8033" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/isabel/isabel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/isabel/isabel.css" />
     <entry file="file://$PROJECT_DIR$/css/4-pages/_isabel.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1829,15 +1585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1845,7 +1592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1853,7 +1599,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1861,7 +1606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1869,7 +1613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1899,22 +1642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="128" selection-start-line="3" selection-start-column="128" selection-end-line="3" selection-end-column="128" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/3-sections/_footer.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -1939,18 +1666,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/3-sections/_quickport.sass">
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="128" selection-start-line="3" selection-start-column="128" selection-end-line="3" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/quickport.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        <state relative-caret-position="105">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_quickport.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding />
         </state>
       </provider>
