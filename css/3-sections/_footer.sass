@@ -10,23 +10,36 @@ footer
   -webkit-background-size: cover
   -moz-background-size: cover
   -o-background-size: cover
-  width: 100vw
-
-  .logo
 
   .footer-image
-    display: inline-block
+    position: relative
     float: left
     width: 100px
-    margin-left: 175px
+    margin-left: 150px
     margin-top: 50px
 
+  #footer-content
+    display: inline-block
+    margin-top: 50px
+    margin-left: 0px
 
-  p
-    padding-top: 20px
-    color: white
-    text-align: center
-    font:
-      size: 18px
-      weight: 700
+    nav
 
+      .footer-link
+        margin-left: 20px
+        color: $theme-tertiary
+        font:
+          size: 20px
+          weight: 500
+        &:hover,
+        &:focus
+          color: lighten($theme-primary, 30%)
+
+    #copyright
+      text-transform: uppercase
+      text-align: center
+      color: $theme-secondary
+      margin-top: 20px
+      font:
+        size: 18px
+        weight: 400
