@@ -308,13 +308,12 @@ input[type="button"] {
   width: 100%;
   text-decoration: none;
   border-color: #00254c;
-  padding-right: 15px;
-  padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
   #navbar .navbar-title {
     float: left;
     position: relative;
+    margin-left: 15px;
     height: 100%;
     color: #00254c;
     font-size: 30px;
@@ -325,13 +324,16 @@ input[type="button"] {
     float: right;
     position: relative;
     margin-right: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
     height: 100%;
-    top: 25%;
     color: #00254c;
+    text-decoration: none;
     font-size: 24px;
     font-weight: 400; }
     #navbar .navbar-item:hover, #navbar .navbar-item:focus {
-      color: black; }
+      color: white;
+      background-color: #00254c; }
   #navbar .navbar-link {
     text-decoration: none;
     color: #00254c; }
