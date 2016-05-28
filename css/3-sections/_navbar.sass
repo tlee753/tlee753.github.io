@@ -25,11 +25,9 @@
   .navbar-item
     float: right
     position: relative
-    margin-right: 15px
-    padding-left: 5px
-    padding-right: 5px
+    padding-left: 15px
+    padding-right: 15px
     height: 100%
-    color: $theme-primary
     text-decoration: none
     font:
       size: 24px
@@ -39,13 +37,19 @@
       color: white
       background-color: $theme-primary
 
+  .navbar-brand
+    text-decoration: none
+    color: $theme-primary
+    &:hover,
+    &:focus
+      color: lighten($theme-primary, 20%)
 
   .navbar-link
     text-decoration: none
     color: $theme-primary
     &:hover,
     &:focus
-      color: lighten($theme-primary, 10%)
+      color: white
 
   @media (min-width: 768px)
     background-color: rgba(white, 0.8)
