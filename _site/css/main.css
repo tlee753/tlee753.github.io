@@ -332,6 +332,8 @@ input[type="button"] {
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
       color: black; }
   #navbar .navbar-item {
+    display: inline-block;
+    vertical-align: middle;
     float: right;
     position: relative;
     padding-left: 15px;
@@ -343,7 +345,8 @@ input[type="button"] {
       color: white;
       background-color: #00254c; }
     #navbar .navbar-item .vertical-center {
-      margin: 0 auto; }
+      vertical-align: middle;
+      display: inline-block; }
   @media (min-width: 768px) {
     #navbar {
       background-color: rgba(255, 255, 255, 0.8); } }
