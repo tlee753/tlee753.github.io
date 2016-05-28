@@ -380,7 +380,21 @@ header {
     font-size: 24px;
     font-weight: 700; }
 
-#about-me {
+#about {
+  font-size: 20px;
+  font-weight: 400; }
+  #about h3 {
+    color: #00254c;
+    text-align: center; }
+  #about .about-me {
+    text-align: center;
+    max-width: 620px;
+    padding: 0 20px;
+    margin: 50px auto;
+    font-size: 20px;
+    font-weight: 400; }
+
+#objective-text {
   text-align: center;
   max-width: 620px;
   padding: 0 20px;
@@ -397,7 +411,7 @@ header {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    height: auto;
+    height: 100%;
     width: 100%; }
     #quickport .quickport-container .quickport-link {
       text-decoration: none; }
