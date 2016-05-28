@@ -3,19 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2016/05/25/Hello-World.html" afterPath="$PROJECT_DIR$/_site/2016/05/25/Hello-World.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css.map" afterPath="$PROJECT_DIR$/_site/css/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_footer.sass" afterPath="$PROJECT_DIR$/css/3-sections/_footer.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/4-pages/_isabel.sass" afterPath="$PROJECT_DIR$/css/4-pages/_isabel.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1016,14 +1003,7 @@
       <workItem from="1464430175582" duration="761000" />
       <workItem from="1464447671689" duration="8934000" />
       <workItem from="1464457763943" duration="45000" />
-      <workItem from="1464457857646" duration="3677000" />
-    </task>
-    <task id="LOCAL-00131" summary="modifications&#10;">
-      <created>1463608440057</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1463608440057</updated>
+      <workItem from="1464457857646" duration="3692000" />
     </task>
     <task id="LOCAL-00132" summary="modifications&#10;">
       <created>1463608584531</created>
@@ -1361,11 +1341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464460104997</updated>
     </task>
-    <option name="localTasksCounter" value="180" />
+    <task id="LOCAL-00180" summary="footer">
+      <created>1464461958394</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1464461958394</updated>
+    </task>
+    <option name="localTasksCounter" value="181" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75855000" />
+    <option name="totallyTimeSpent" value="75870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="962" y="0" width="958" height="1200" extended-state="0" />
@@ -1426,7 +1413,8 @@
     <MESSAGE value="isabel files&#10;" />
     <MESSAGE value="navbar links" />
     <MESSAGE value="isabel" />
-    <option name="LAST_COMMIT_MESSAGE" value="isabel" />
+    <MESSAGE value="footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
