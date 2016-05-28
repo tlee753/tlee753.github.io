@@ -313,8 +313,6 @@ input[type="button"] {
   #navbar .navbar-brand {
     text-decoration: none;
     color: #00254c; }
-    #navbar .navbar-brand:hover, #navbar .navbar-brand:focus {
-      color: #0057b2; }
   #navbar .navbar-link {
     padding: 100% 0px 100% 0px;
     text-decoration: none;
@@ -330,7 +328,7 @@ input[type="button"] {
     font-size: 30px;
     font-weight: 700; }
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
-      color: black; }
+      color: #003e7f; }
   #navbar .navbar-item {
     display: inline-block;
     vertical-align: middle;
@@ -399,5 +397,20 @@ footer {
     color: white;
     text-align: center;
     font-size: 18px; }
+
+#isabel-page {
+  background-color: #3ea9c9;
+  height: 1200px; }
+  #isabel-page .image {
+    width: 500px;
+    border-radius: 25px; }
+  #isabel-page .centered {
+    text-align: center;
+    align: center; }
+  #isabel-page .title {
+    font-family: Garamond;
+    font-size: 30px;
+    text-align: center;
+    align: center; }
 
 /*# sourceMappingURL=main.css.map */
