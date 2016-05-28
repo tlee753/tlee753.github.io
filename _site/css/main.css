@@ -391,12 +391,27 @@ header {
 footer {
   background: #00254c;
   height: 200px;
-  position: relative; }
+  position: relative;
+  background-image: url(/img/header.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  width: 100vw; }
+  footer .footer-image {
+    display: inline-block;
+    float: left;
+    width: 100px;
+    margin-left: 175px;
+    margin-top: 50px; }
   footer p {
     padding-top: 20px;
     color: white;
     text-align: center;
-    font-size: 18px; }
+    font-size: 18px;
+    font-weight: 700; }
 
 #isabel-page {
   background-color: lightpink;
@@ -415,6 +430,6 @@ footer {
     font-size: 30px;
     text-align: center;
     align: center;
-    color: darkturquoise; }
+    color: #009294; }
 
 /*# sourceMappingURL=main.css.map */
