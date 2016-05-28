@@ -51,8 +51,8 @@
       <file leaf-file-name="_navbar.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_navbar.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+            <state relative-caret-position="375">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -62,10 +62,10 @@
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
-              <caret line="365" column="17" selection-start-line="365" selection-start-column="17" selection-end-line="365" selection-end-column="17" />
+              <caret line="366" column="17" selection-start-line="366" selection-start-column="17" selection-end-line="366" selection-end-column="17" />
               <folding>
-                <marker date="1464453108000" expanded="true" signature="5226:5232" placeholder="{...}" />
-                <marker date="1464453108000" expanded="true" signature="5890:5893" placeholder="{...}" />
+                <marker date="1464455342000" expanded="true" signature="4969:5016" placeholder="{...}" />
+                <marker date="1464455342000" expanded="true" signature="5929:5932" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -75,10 +75,10 @@
         <entry file="file://$PROJECT_DIR$/_site/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
-              <caret line="365" column="17" selection-start-line="365" selection-start-column="17" selection-end-line="365" selection-end-column="17" />
+              <caret line="366" column="17" selection-start-line="366" selection-start-column="17" selection-end-line="366" selection-end-column="17" />
               <folding>
-                <marker date="1464453108000" expanded="true" signature="5226:5232" placeholder="{...}" />
-                <marker date="1464453108000" expanded="true" signature="5890:5893" placeholder="{...}" />
+                <marker date="1464455342000" expanded="true" signature="4969:5016" placeholder="{...}" />
+                <marker date="1464455342000" expanded="true" signature="5929:5932" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -1001,14 +1001,7 @@
       <workItem from="1464302635581" duration="6497000" />
       <workItem from="1464424250581" duration="554000" />
       <workItem from="1464430175582" duration="761000" />
-      <workItem from="1464447671689" duration="5374000" />
-    </task>
-    <task id="LOCAL-00123" summary="modifications&#10;">
-      <created>1463547944932</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1463547944932</updated>
+      <workItem from="1464447671689" duration="6950000" />
     </task>
     <task id="LOCAL-00124" summary="modifications&#10;">
       <created>1463584682980</created>
@@ -1346,11 +1339,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464452302871</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="navbar links">
+      <created>1464453206582</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1464453206582</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68573000" />
+    <option name="totallyTimeSpent" value="70149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1566,10 +1566,10 @@
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
-          <caret line="365" column="17" selection-start-line="365" selection-start-column="17" selection-end-line="365" selection-end-column="17" />
+          <caret line="366" column="17" selection-start-line="366" selection-start-column="17" selection-end-line="366" selection-end-column="17" />
           <folding>
-            <marker date="1464453108000" expanded="true" signature="5226:5232" placeholder="{...}" />
-            <marker date="1464453108000" expanded="true" signature="5890:5893" placeholder="{...}" />
+            <marker date="1464455342000" expanded="true" signature="4969:5016" placeholder="{...}" />
+            <marker date="1464455342000" expanded="true" signature="5929:5932" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1577,10 +1577,10 @@
     <entry file="file://$PROJECT_DIR$/_site/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
-          <caret line="365" column="17" selection-start-line="365" selection-start-column="17" selection-end-line="365" selection-end-column="17" />
+          <caret line="366" column="17" selection-start-line="366" selection-start-column="17" selection-end-line="366" selection-end-column="17" />
           <folding>
-            <marker date="1464453108000" expanded="true" signature="5226:5232" placeholder="{...}" />
-            <marker date="1464453108000" expanded="true" signature="5890:5893" placeholder="{...}" />
+            <marker date="1464455342000" expanded="true" signature="4969:5016" placeholder="{...}" />
+            <marker date="1464455342000" expanded="true" signature="5929:5932" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -1595,8 +1595,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/3-sections/_navbar.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+        <state relative-caret-position="375">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding />
         </state>
       </provider>

@@ -12,7 +12,7 @@
   .navbar-title
     float: left
     position: relative
-    margin-left: 15px
+    padding-left: 15px
     height: 100%
     color: $theme-primary
     font:
@@ -23,6 +23,7 @@
       color: darken($theme-primary, 20%)
 
   .navbar-item
+    vertical-align: middle
     float: right
     position: relative
     padding-left: 15px
@@ -45,6 +46,8 @@
       color: lighten($theme-primary, 20%)
 
   .navbar-link
+    padding: 100% 5px 100% 5px
+    vertical-align: middle
     text-decoration: none
     color: $theme-primary
     &:hover,
