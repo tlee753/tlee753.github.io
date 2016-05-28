@@ -1,2 +1,2 @@
-# new-site
-designing website from scratch for personal use
+# web-dev-3
+starting website from scratch using jekyll
