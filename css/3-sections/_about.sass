@@ -22,21 +22,39 @@
   .about-content
     max-width: 780px
     +display(flex)
+    background: grey
+    margin: 0 auto
+    +align-items(center)
+    +justify-content(space-around)
 
 
     .about-face
       border-radius: 50%
+      width: 200px
+      height: 200px
+      order: 3
       background:
-        image: url('')
+        image: url('/img/headshot.jpg')
+
+    [class^="about-item"]
+      height: 100px
+      width: 100px
+
+      path
+        fill: $theme-primary
 
     .about-item1
       border-radius: 50%
+      order: 1
 
     .about-item2
       border-radius: 50%
+      order: 2
 
     .about-item3
       border-radius: 50%
+      order: 4
 
     .about-item4
       border-radius: 50%
+      order: 5
