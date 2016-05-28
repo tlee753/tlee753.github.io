@@ -393,6 +393,28 @@ header {
     margin: 50px auto;
     font-size: 20px;
     font-weight: 400; }
+    #about .about-me strong {
+      color: #00254c; }
+  #about .about-content {
+    max-width: 780px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex; }
+    #about .about-content .about-face {
+      border-radius: 50%;
+      background-image: url(""); }
+    #about .about-content .about-item1 {
+      border-radius: 50%; }
+    #about .about-content .about-item2 {
+      border-radius: 50%; }
+    #about .about-content .about-item3 {
+      border-radius: 50%; }
+    #about .about-content .about-item4 {
+      border-radius: 50%; }
 
 #objective-text {
   text-align: center;
