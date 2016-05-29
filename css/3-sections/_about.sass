@@ -22,7 +22,6 @@
   .about-content
     max-width: 780px
     +display(flex)
-    background: grey
     margin: 0 auto
     +align-items(center)
     +justify-content(space-around)
@@ -39,24 +38,20 @@
     [class^="about-item"]
       height: 100px
       width: 100px
+      background: $theme-secondary
+      border-radius: 50%
 
       path
         fill: $theme-primary
 
     .about-item1
-      border-radius: 50%
       order: 1
-      height: 100px
-      width: 100px
 
     .about-item2
-      border-radius: 50%
       order: 2
 
     .about-item3
-      border-radius: 50%
       order: 4
 
     .about-item4
-      border-radius: 50%
       order: 5
