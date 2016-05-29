@@ -434,16 +434,7 @@ header {
       border-radius: 50%;
       height: 100px;
       width: 100px;
-      margin: 0 auto;
-      -webkit-box-align: center;
-      -moz-box-align: center;
-      box-align: center;
-      -webkit-align-items: center;
-      -moz-align-items: center;
-      -ms-align-items: center;
-      -o-align-items: center;
-      align-items: center;
-      -ms-flex-align: center; }
+      vertical-align: middle; }
       #about .about-content [class^="about-item"] path {
         fill: #00254c; }
       #about .about-content [class^="about-item"].about-item1 {
@@ -502,7 +493,7 @@ footer {
     position: relative;
     float: left;
     width: 100px;
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 50px; }
   footer #footer-content {
     display: inline-block;
