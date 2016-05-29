@@ -430,20 +430,21 @@ header {
       order: 3;
       background-image: url("/img/headshot.jpg"); }
     #about .about-content [class^="about-item"] {
+      background: #666666;
+      border-radius: 50%;
       height: 100px;
       width: 100px;
-      background: #666666;
-      border-radius: 50%; }
+      margin: auto auto; }
       #about .about-content [class^="about-item"] path {
         fill: #00254c; }
-    #about .about-content .about-item1 {
-      order: 1; }
-    #about .about-content .about-item2 {
-      order: 2; }
-    #about .about-content .about-item3 {
-      order: 4; }
-    #about .about-content .about-item4 {
-      order: 5; }
+      #about .about-content [class^="about-item"].about-item1 {
+        order: 1; }
+      #about .about-content [class^="about-item"].about-item2 {
+        order: 2; }
+      #about .about-content [class^="about-item"].about-item3 {
+        order: 4; }
+      #about .about-content [class^="about-item"].about-item4 {
+        order: 5; }
 
 #objective {
   background: #00254c; }
