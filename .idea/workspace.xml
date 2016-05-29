@@ -3,15 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/about.html" afterPath="$PROJECT_DIR$/_includes/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/airplane-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/airplane-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/display-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/display-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/embed-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/embed-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/rocket-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/rocket-icon.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css.map" afterPath="$PROJECT_DIR$/_site/css/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_about.sass" afterPath="$PROJECT_DIR$/css/3-sections/_about.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_footer.sass" afterPath="$PROJECT_DIR$/css/3-sections/_footer.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
     </list>
@@ -42,7 +37,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_footer.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/3-sections/_footer.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -75,8 +80,8 @@
       <file leaf-file-name="_about.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_about.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="630">
+              <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -97,16 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -193,7 +188,6 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/css/1-tools/_vars.sass" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/css/3-sections/_footer.sass" />
         <option value="$PROJECT_DIR$/_includes/quick-portfolio.html" />
         <option value="$PROJECT_DIR$/_includes/quick-port.html" />
         <option value="$PROJECT_DIR$/css/3-sections/_quickport.sass" />
@@ -209,12 +203,13 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/css/3-sections/_skills.sass" />
         <option value="$PROJECT_DIR$/css/3-sections/_navbar.sass" />
-        <option value="$PROJECT_DIR$/css/3-sections/_about.sass" />
         <option value="$PROJECT_DIR$/_includes/icons/airplane-icon.html" />
         <option value="$PROJECT_DIR$/_includes/icons/display-icon.html" />
         <option value="$PROJECT_DIR$/_includes/icons/embed-icon.html" />
         <option value="$PROJECT_DIR$/_includes/icons/rocket-icon.html" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
+        <option value="$PROJECT_DIR$/css/3-sections/_about.sass" />
+        <option value="$PROJECT_DIR$/css/3-sections/_footer.sass" />
       </list>
     </option>
   </component>
@@ -1029,14 +1024,7 @@
       <workItem from="1464447671689" duration="8934000" />
       <workItem from="1464457763943" duration="45000" />
       <workItem from="1464457857646" duration="7362000" />
-      <workItem from="1464467073040" duration="15684000" />
-    </task>
-    <task id="LOCAL-00141" summary="blogging modifications">
-      <created>1463946339413</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1463946339413</updated>
+      <workItem from="1464467073040" duration="16121000" />
     </task>
     <task id="LOCAL-00142" summary="blogging modifications">
       <created>1463946436876</created>
@@ -1374,11 +1362,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464500341909</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="about section">
+      <created>1464501340379</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1464501340379</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95224000" />
+    <option name="totallyTimeSpent" value="95661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="646" y="0" width="1274" height="1200" extended-state="0" />
@@ -1564,14 +1559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/3-sections/_footer.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1732,14 +1719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/3-sections/_about.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/icons/airplane-icon.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1776,6 +1755,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="109" selection-start-line="15" selection-start-column="109" selection-end-line="15" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_about.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_footer.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>
