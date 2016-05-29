@@ -437,7 +437,9 @@ header {
         fill: #00254c; }
     #about .about-content .about-item1 {
       border-radius: 50%;
-      order: 1; }
+      order: 1;
+      height: 100px;
+      width: 100px; }
     #about .about-content .about-item2 {
       border-radius: 50%;
       order: 2; }
@@ -448,13 +450,16 @@ header {
       border-radius: 50%;
       order: 5; }
 
-#objective-text {
-  text-align: center;
-  max-width: 620px;
-  padding: 0 20px;
-  margin: 50px auto;
-  font-size: 20px;
-  font-weight: 400; }
+#objective {
+  background: #00254c; }
+  #objective #objective-text {
+    text-align: center;
+    color: #FFFFFF;
+    max-width: 620px;
+    padding: 0 20px;
+    margin: 50px auto;
+    font-size: 20px;
+    font-weight: 400; }
 
 #quickport {
   position: relative;
