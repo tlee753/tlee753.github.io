@@ -3,16 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/airplane-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/airplane-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/display-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/display-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/embed-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/embed-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/icons/rocket-icon.html" afterPath="$PROJECT_DIR$/_includes/icons/rocket-icon.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css.map" afterPath="$PROJECT_DIR$/_site/css/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_about.sass" afterPath="$PROJECT_DIR$/css/3-sections/_about.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_skills.sass" afterPath="$PROJECT_DIR$/css/3-sections/_skills.sass" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,6 +54,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_skills.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/3-sections/_skills.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="_about.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_about.sass">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="airplane-icon.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="airplane-icon.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/icons/airplane-icon.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -143,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/skills.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_includes/portfolio.html" />
@@ -158,7 +170,6 @@
         <option value="$PROJECT_DIR$/_posts/2016-5-11-Mexico-Day-1.md" />
         <option value="$PROJECT_DIR$/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/_includes/page.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/post.html" />
         <option value="$PROJECT_DIR$/_layouts/about.html" />
         <option value="$PROJECT_DIR$/css/main.scss" />
@@ -194,6 +205,8 @@
         <option value="$PROJECT_DIR$/_includes/icons/rocket-icon.html" />
         <option value="$PROJECT_DIR$/_includes/icons/display-icon.html" />
         <option value="$PROJECT_DIR$/css/3-sections/_about.sass" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/css/3-sections/_skills.sass" />
       </list>
     </option>
   </component>
@@ -1008,14 +1021,7 @@
       <workItem from="1464447671689" duration="8934000" />
       <workItem from="1464457763943" duration="45000" />
       <workItem from="1464457857646" duration="7362000" />
-      <workItem from="1464467073040" duration="14443000" />
-    </task>
-    <task id="LOCAL-00139" summary="blogging modifications">
-      <created>1463945501542</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1463945501542</updated>
+      <workItem from="1464467073040" duration="14878000" />
     </task>
     <task id="LOCAL-00140" summary="blogging modifications">
       <created>1463945521446</created>
@@ -1353,11 +1359,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464481236522</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="about section">
+      <created>1464499554361</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1464499554361</updated>
+    </task>
+    <option name="localTasksCounter" value="189" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93983000" />
+    <option name="totallyTimeSpent" value="94418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="404" y="0" width="1516" height="1200" extended-state="0" />
@@ -1493,13 +1506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1678,22 +1684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/3-sections/_skills.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/3-sections/_objective.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1753,7 +1743,31 @@
     <entry file="file://$PROJECT_DIR$/_includes/icons/airplane-icon.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <caret line="0" column="50" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_skills.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
