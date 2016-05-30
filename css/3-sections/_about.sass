@@ -34,6 +34,7 @@
       order: 3
       background:
         image: url('/img/headshot.jpg')
+        size: cover
 
     [class^="about-item"]
       background: $theme-secondary
@@ -65,4 +66,20 @@
       &.about-item4
         order: 5
 
+@media screen and (max-width: 650px)
+  .face-lockup
+    display: block
+    text-align: center
 
+    div
+      display: inline-block
+
+    .about-face
+      display: block
+      background:
+        position: center center
+        repeat: no-repeat
+      margin: 0 auto 30px
+
+    [class^="about-item"]
+      margin: 10px 9%

@@ -435,7 +435,8 @@ header {
       width: 200px;
       height: 200px;
       order: 3;
-      background-image: url("/img/headshot.jpg"); }
+      background-image: url("/img/headshot.jpg");
+      background-size: cover; }
     #about .about-content [class^="about-item"] {
       background: #666666;
       border-radius: 50%;
@@ -460,6 +461,19 @@ header {
       #about .about-content [class^="about-item"].about-item4 {
         order: 5; }
 
+@media screen and (max-width: 650px) {
+  .face-lockup {
+    display: block;
+    text-align: center; }
+    .face-lockup div {
+      display: inline-block; }
+    .face-lockup .about-face {
+      display: block;
+      background-position: center center;
+      background-repeat: no-repeat;
+      margin: 0 auto 30px; }
+    .face-lockup [class^="about-item"] {
+      margin: 10px 9%; } }
 #objective {
   background: #00254c; }
   #objective #objective-text {
