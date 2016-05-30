@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css.map" afterPath="$PROJECT_DIR$/_site/css/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_about.sass" afterPath="$PROJECT_DIR$/css/3-sections/_about.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_header.sass" afterPath="$PROJECT_DIR$/css/3-sections/_header.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
@@ -36,21 +37,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_about.sass" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_about.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_about.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+            <state relative-caret-position="550">
+              <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_header.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_header.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_header.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="525">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -61,16 +62,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_navbar.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/3-sections/_navbar.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -155,10 +146,10 @@
         <option value="$PROJECT_DIR$/_includes/icons/rocket-icon.html" />
         <option value="$PROJECT_DIR$/css/3-sections/_footer.sass" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
-        <option value="$PROJECT_DIR$/css/3-sections/_navbar.sass" />
         <option value="$PROJECT_DIR$/_includes/navbar.html" />
-        <option value="$PROJECT_DIR$/css/3-sections/_about.sass" />
         <option value="$PROJECT_DIR$/css/3-sections/_header.sass" />
+        <option value="$PROJECT_DIR$/css/3-sections/_navbar.sass" />
+        <option value="$PROJECT_DIR$/css/3-sections/_about.sass" />
       </list>
     </option>
   </component>
@@ -987,14 +978,7 @@
       <workItem from="1464457763943" duration="45000" />
       <workItem from="1464457857646" duration="7362000" />
       <workItem from="1464467073040" duration="16861000" />
-      <workItem from="1464634179995" duration="1879000" />
-    </task>
-    <task id="LOCAL-00144" summary="blogging">
-      <created>1463946679733</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1463946679733</updated>
+      <workItem from="1464634179995" duration="2403000" />
     </task>
     <task id="LOCAL-00145" summary="blogging">
       <created>1463946743259</created>
@@ -1332,11 +1316,18 @@
       <option name="project" value="LOCAL" />
       <updated>1464635981719</updated>
     </task>
-    <option name="localTasksCounter" value="193" />
+    <task id="LOCAL-00193" summary="general fixes">
+      <created>1464636100549</created>
+      <option name="number" value="00193" />
+      <option name="presentableId" value="LOCAL-00193" />
+      <option name="project" value="LOCAL" />
+      <updated>1464636100550</updated>
+    </task>
+    <option name="localTasksCounter" value="194" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98280000" />
+    <option name="totallyTimeSpent" value="98804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -1401,7 +1392,8 @@
     <MESSAGE value="quickport" />
     <MESSAGE value="new sections&#10;" />
     <MESSAGE value="about section" />
-    <option name="LAST_COMMIT_MESSAGE" value="about section" />
+    <MESSAGE value="general fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="general fixes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1654,14 +1646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/navbar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1670,26 +1654,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_header.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/3-sections/_navbar.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="27" />
+        <state relative-caret-position="512">
+          <caret line="63" column="27" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/3-sections/_about.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/3-sections/_header.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="550">
+          <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
           <folding />
         </state>
       </provider>
