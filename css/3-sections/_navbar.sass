@@ -9,6 +9,13 @@
   margin-right: auto
   margin-left: auto
 
+  .navbar-logo
+    float: left
+    position: relative
+    height: 80%
+    vertical-align: center
+    padding: 5px 0px 5px 15px
+
   .navbar-brand
     text-decoration: none
     color: $theme-primary
@@ -36,6 +43,7 @@
       color: lighten($theme-primary, 10%)
 
   .navbar-item
+    border-left: $theme-primary solid 2px
     display: inline-block
     vertical-align: middle
     float: right
@@ -51,7 +59,7 @@
       color: white
       background-color: $theme-primary
 
-    .vertical-center
+    .navbar-center
       vertical-align: middle
       display: inline-block
 

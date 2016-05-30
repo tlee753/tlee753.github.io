@@ -310,6 +310,12 @@ input[type="button"] {
   border-bottom: #00254c solid 2px;
   margin-right: auto;
   margin-left: auto; }
+  #navbar .navbar-logo {
+    float: left;
+    position: relative;
+    height: 80%;
+    vertical-align: center;
+    padding: 5px 0px 5px 15px; }
   #navbar .navbar-brand {
     text-decoration: none;
     color: #00254c; }
@@ -330,6 +336,7 @@ input[type="button"] {
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
       color: #003e7f; }
   #navbar .navbar-item {
+    border-left: #00254c solid 2px;
     display: inline-block;
     vertical-align: middle;
     float: right;
@@ -342,7 +349,7 @@ input[type="button"] {
     #navbar .navbar-item:hover, #navbar .navbar-item:focus {
       color: white;
       background-color: #00254c; }
-    #navbar .navbar-item .vertical-center {
+    #navbar .navbar-item .navbar-center {
       vertical-align: middle;
       display: inline-block; }
   @media (min-width: 768px) {
@@ -435,6 +442,12 @@ header {
       height: 100px;
       width: 100px;
       vertical-align: middle; }
+      #about .about-content [class^="about-item"] .about-center {
+        height: 60px;
+        width: 60px;
+        position: relative;
+        vertical-align: middle;
+        margin: 0 auto; }
       #about .about-content [class^="about-item"] path {
         fill: #00254c; }
       #about .about-content [class^="about-item"].about-item1 {
