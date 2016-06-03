@@ -543,14 +543,13 @@ footer {
       font-weight: 400; }
 
 #isabel-page {
-  background-color: #FFB6C1;
+  background: linear-gradient(to bottom right, #00CED1, #FFB6C1, #228B22);
   height: 100vh; }
   #isabel-page .isabel-image {
+    display: block;
+    margin: 0 auto;
     width: 500px;
     border-radius: 25px; }
-  #isabel-page .isabel-centered {
-    text-align: center;
-    align: center; }
   #isabel-page .isabel-title {
     margin: 0;
     padding-top: 75px;
@@ -558,7 +557,7 @@ footer {
     font-family: Garamond;
     font-size: 30px;
     text-align: center;
-    color: #00CED1; }
+    color: #00696b; }
   #isabel-page .isabel-poetry {
     margin: 0;
     padding-top: 15px;
@@ -566,6 +565,9 @@ footer {
     font-family: Garamond;
     font-size: 24px;
     text-align: center;
-    color: #228B22; }
+    color: #00696b; }
+  #isabel-page .isabel-song {
+    max-width: 500px;
+    height: 20px; }
 
 /*# sourceMappingURL=main.css.map */
