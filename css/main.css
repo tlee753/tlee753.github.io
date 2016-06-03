@@ -544,7 +544,7 @@ footer {
 
 #isabel-page {
   background: linear-gradient(to bottom right, #00CED1, #FFB6C1, #228B22);
-  height: 100vh; }
+  height: 100%; }
   #isabel-page .isabel-image {
     display: block;
     margin: 0 auto;
@@ -572,7 +572,7 @@ footer {
     height: 20px; }
   #isabel-page #isabel-lockup {
     margin: 0 auto;
-    padding: 0;
+    padding: 0px 0px 50px 0px;
     display: -webkit-box;
     display: -moz-box;
     display: box;
@@ -580,7 +580,7 @@ footer {
     display: -moz-flex;
     display: -ms-flexbox;
     display: flex;
-    height: 400px;
+    height: 500px;
     -webkit-box-align: center;
     -moz-box-align: center;
     box-align: center;
