@@ -5,7 +5,7 @@
   .isabel-image
     display: block
     margin: 0 auto
-    width: 500px
+    width: 300px
     border-radius: 25px
 
   .isabel-title
@@ -18,7 +18,7 @@
     color: darken($isabel-secondary, 20%)
 
   .isabel-poetry
-    margin: 0
+    margin: 0 auto
     padding-top: 15px
     padding-bottom: 15px
     font:
@@ -26,7 +26,23 @@
       size: 24px
     text-align: center
     color: darken($isabel-secondary, 20%)
+    max-width: 400px
 
   .isabel-song
     max-width: 500px
     height: 20px
+
+  #isabel-lockup
+    margin: 0 auto
+    padding: 0
+    +display(flex)
+    height: 400px
+    background: $isabel-primary
+    +align-items(center)
+    +justify-content(space-around)
+
+    .isabel-anniver
+      height: 100%
+      positition: relative
+      margin: 0
+      padding: 0

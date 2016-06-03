@@ -548,7 +548,7 @@ footer {
   #isabel-page .isabel-image {
     display: block;
     margin: 0 auto;
-    width: 500px;
+    width: 300px;
     border-radius: 25px; }
   #isabel-page .isabel-title {
     margin: 0;
@@ -559,15 +559,51 @@ footer {
     text-align: center;
     color: #00696b; }
   #isabel-page .isabel-poetry {
-    margin: 0;
+    margin: 0 auto;
     padding-top: 15px;
     padding-bottom: 15px;
     font-family: Garamond;
     font-size: 24px;
     text-align: center;
-    color: #00696b; }
+    color: #00696b;
+    max-width: 400px; }
   #isabel-page .isabel-song {
     max-width: 500px;
     height: 20px; }
+  #isabel-page #isabel-lockup {
+    margin: 0 auto;
+    padding: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 400px;
+    background: #FFB6C1;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    box-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: distribute;
+    -moz-box-pack: distribute;
+    box-pack: distribute;
+    -webkit-justify-content: space-around;
+    -moz-justify-content: space-around;
+    -ms-justify-content: space-around;
+    -o-justify-content: space-around;
+    justify-content: space-around;
+    -ms-flex-pack: distribute; }
+    #isabel-page #isabel-lockup .isabel-anniver {
+      height: 100%;
+      positition: relative;
+      margin: 0;
+      padding: 0; }
 
 /*# sourceMappingURL=main.css.map */
