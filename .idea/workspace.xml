@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/3-sections/_contact.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/quickport.html" afterPath="$PROJECT_DIR$/_includes/quickport.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/contact.html" afterPath="$PROJECT_DIR$/_includes/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css.map" afterPath="$PROJECT_DIR$/_site/css/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.sass" afterPath="$PROJECT_DIR$/_site/css/main.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_about.sass" afterPath="$PROJECT_DIR$/css/3-sections/_about.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/3-sections/_quickport.sass" afterPath="$PROJECT_DIR$/css/3-sections/_quickport.sass" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.sass" afterPath="$PROJECT_DIR$/css/main.sass" />
     </list>
     <ignored path="tlee753.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,11 +40,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_quickport.sass" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_quickport.sass" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_quickport.sass">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_contact.sass" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/3-sections/_contact.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -59,14 +80,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="_isabel.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/4-pages/_isabel.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="Sass File" />
         <option value="HTML File" />
+        <option value="Sass File" />
       </list>
     </option>
   </component>
@@ -81,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/temp.html" />
         <option value="$PROJECT_DIR$/_includes/posts.html" />
         <option value="$PROJECT_DIR$/_posts/2016-5-18-Mexico-Day-2.md" />
         <option value="$PROJECT_DIR$/_posts/2016-5-17-First-Post.md" />
@@ -102,7 +132,6 @@
         <option value="$PROJECT_DIR$/_includes/quick-portfolio.html" />
         <option value="$PROJECT_DIR$/_includes/quick-port.html" />
         <option value="$PROJECT_DIR$/css/3-sections/skills.sass" />
-        <option value="$PROJECT_DIR$/_includes/contact.html" />
         <option value="$PROJECT_DIR$/_includes/objective.html" />
         <option value="$PROJECT_DIR$/_includes/icons/computer-icon.html" />
         <option value="$PROJECT_DIR$/_includes/icons/airplane-icon.html" />
@@ -117,7 +146,6 @@
         <option value="$PROJECT_DIR$/isabel/index.html" />
         <option value="$PROJECT_DIR$/css/4-pages/_isabel.sass" />
         <option value="$PROJECT_DIR$/lauren/index.html" />
-        <option value="$PROJECT_DIR$/css/main.sass" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
         <option value="$PROJECT_DIR$/_includes/skills.html" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -132,6 +160,9 @@
         <option value="$PROJECT_DIR$/_includes/quickport.html" />
         <option value="$PROJECT_DIR$/css/3-sections/_quickport.sass" />
         <option value="$PROJECT_DIR$/css/3-sections/_about.sass" />
+        <option value="$PROJECT_DIR$/_includes/contact.html" />
+        <option value="$PROJECT_DIR$/css/main.sass" />
+        <option value="$PROJECT_DIR$/css/3-sections/_contact.sass" />
       </list>
     </option>
   </component>
@@ -1055,14 +1086,7 @@
       <workItem from="1464467073040" duration="16861000" />
       <workItem from="1464634179995" duration="3107000" />
       <workItem from="1464966969127" duration="5773000" />
-      <workItem from="1465077167962" duration="12502000" />
-    </task>
-    <task id="LOCAL-00175" summary="navbar links">
-      <created>1464458632266</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1464458632266</updated>
+      <workItem from="1465077167962" duration="19022000" />
     </task>
     <task id="LOCAL-00176" summary="isabel">
       <created>1464459470734</created>
@@ -1400,11 +1424,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465102034736</updated>
     </task>
-    <option name="localTasksCounter" value="224" />
+    <task id="LOCAL-00224" summary="quickport section">
+      <created>1465102281651</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1465102281651</updated>
+    </task>
+    <option name="localTasksCounter" value="225" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117783000" />
+    <option name="totallyTimeSpent" value="124303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="988" height="1200" extended-state="0" />
@@ -1485,7 +1516,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/jquery.easing.min.js" />
     <entry file="file://$PROJECT_DIR$/js/creative.js" />
     <entry file="file://$PROJECT_DIR$/js/classie.js" />
     <entry file="file://$PROJECT_DIR$/css/main.scss" />
@@ -1554,13 +1584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/icons/087-display.svg" />
     <entry file="file://$PROJECT_DIR$/_includes/icons/166-rocket.svg" />
     <entry file="file://$PROJECT_DIR$/_includes/icons/385-embed2.svg" />
@@ -1594,13 +1617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/3-sections/_footer.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1630,14 +1646,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/4-pages/_isabel.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lauren/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1646,34 +1654,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/isabel/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/objective.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="111" selection-start-line="1" selection-start-column="111" selection-end-line="1" selection-end-column="111" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1794,10 +1778,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/4-pages/_isabel.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isabel/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/3-sections/_quickport.sass">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_footer.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_contact.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
