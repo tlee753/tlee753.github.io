@@ -476,7 +476,7 @@ header {
       margin: 10px 9%; } }
 #skills .skill-lockup {
   max-width: 700px;
-  margin: 100px auto; }
+  margin: 50px auto; }
   #skills .skill-lockup::after {
     clear: both;
     content: "";
@@ -507,7 +507,7 @@ header {
           margin: 2px; }
 
 #skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+10), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+11) {
-  background: #999999; }
+  background: #a6a6a6; }
 
 @media screen and (max-width: 541px) {
   .skill-lockup {
@@ -520,8 +520,7 @@ header {
     text-align: center;
     color: #FFFFFF;
     max-width: 620px;
-    padding: 0 20px;
-    margin: 50px auto;
+    margin: 0px auto;
     font-size: 20px;
     font-weight: 400; }
 
