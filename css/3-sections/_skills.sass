@@ -1,13 +1,18 @@
 #skills
 
   .skill-lockup
-    max-width: 540px
+    max-width: 700px
     margin: 100px auto
     +clearfix
 
     .skill-unit
-      width: 270px
+      width: 350px
       float: left
+
+      .skill-label
+        font:
+          size: 20px
+          color: $theme-secondary
 
       .skill-icons
         font-size: 0
@@ -15,7 +20,7 @@
 
         span
           display: inline-block
-          +size(14px)
+          +size(16px)
           margin-right: 8px
           border-radius: 50%
           background-color: $theme-primary
@@ -23,22 +28,17 @@
           &:after
             content: ''
             display: block
-            +size(10px)
+            +size(12px)
             background: white
             border-radius: 50%
             margin: 2px
-
 
         @for $i from 1 through 10
           &.skill-#{$i} span:nth-child(n+#{$i+1})
             @extend %skill-color
 
-        @for $i from 1 through 10
-          &.skill-#{$i} span:nth-child(n+#{$i})
-            @extend %skill-color
-
 %skill-color
-  background: $theme-secondary
+  background: lighten($theme-secondary, 20%)
 
 
 @media screen and (max-width: 541px)

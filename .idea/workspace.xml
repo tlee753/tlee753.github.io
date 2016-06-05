@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b50fef9-c154-45ac-b83f-47c0fc133e17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/about.html" afterPath="$PROJECT_DIR$/_includes/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/skills.html" afterPath="$PROJECT_DIR$/_includes/skills.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css" afterPath="$PROJECT_DIR$/_site/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/main.css.map" afterPath="$PROJECT_DIR$/_site/css/main.css.map" />
@@ -49,27 +48,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_skills.sass" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_skills.sass" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/3-sections/_skills.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+            <state relative-caret-position="45">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skills.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/skills.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -149,9 +138,9 @@
         <option value="$PROJECT_DIR$/css/3-sections/_about.sass" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.sass" />
+        <option value="$PROJECT_DIR$/_includes/about.html" />
         <option value="$PROJECT_DIR$/_includes/skills.html" />
         <option value="$PROJECT_DIR$/css/3-sections/_skills.sass" />
-        <option value="$PROJECT_DIR$/_includes/about.html" />
       </list>
     </option>
   </component>
@@ -1033,14 +1022,7 @@
       <workItem from="1464467073040" duration="16861000" />
       <workItem from="1464634179995" duration="3107000" />
       <workItem from="1464966969127" duration="5773000" />
-      <workItem from="1465077167962" duration="4868000" />
-    </task>
-    <task id="LOCAL-00167" summary="update portfolio">
-      <created>1464366285074</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1464366285075</updated>
+      <workItem from="1465077167962" duration="5991000" />
     </task>
     <task id="LOCAL-00168" summary="update portfolio">
       <created>1464414721601</created>
@@ -1378,11 +1360,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465085940725</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="skill section">
+      <created>1465092171861</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1465092171861</updated>
+    </task>
+    <option name="localTasksCounter" value="217" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110149000" />
+    <option name="totallyTimeSpent" value="111272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="988" height="1200" extended-state="0" />
@@ -1716,18 +1705,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/3-sections/_skills.sass">
+    <entry file="file://$PROJECT_DIR$/_includes/skills.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        <state relative-caret-position="497">
+          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/skills.html">
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+        <state relative-caret-position="225">
+          <caret line="15" column="117" selection-start-line="15" selection-start-column="117" selection-end-line="15" selection-end-column="117" />
           <folding />
         </state>
       </provider>
@@ -1740,10 +1729,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+    <entry file="file://$PROJECT_DIR$/css/3-sections/_skills.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="117" selection-start-line="15" selection-start-column="117" selection-end-line="15" selection-end-column="117" />
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
