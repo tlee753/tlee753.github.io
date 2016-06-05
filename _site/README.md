@@ -1,2 +1,2 @@
-# web-dev-3
-starting website from scratch using jekyll
+# personal website
+developing website from scratch
