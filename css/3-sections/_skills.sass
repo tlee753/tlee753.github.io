@@ -1,1 +1,31 @@
 #skills
+
+  .skill-lockup
+    max-width: 540px
+    margin: 100px auto
+    +clearfix
+
+    .skill-unit
+      width: 270px
+      float: left
+
+      .skill-icons
+        font-size: 0
+        margin: 3px 0 30px
+
+        span
+          display: inline-block
+          +size(14px)
+          margin-right: 8px
+          border-radius: 50%
+          background-color: $theme-primary
+
+          &:after
+            content: ''
+            display: block
+            +size(10px)
+            background: white
+            border-radius: 50%
+            margin: 2px
+
+        &.skill-8 span: nth
