@@ -390,7 +390,7 @@ header {
 #about {
   font-size: 20px;
   font-weight: 400; }
-  #about h3 {
+  #about .about-title {
     color: #00254c;
     text-align: center; }
   #about .about-me {
@@ -421,15 +421,15 @@ header {
     -o-align-items: center;
     align-items: center;
     -ms-flex-align: center;
-    -webkit-box-pack: distribute;
-    -moz-box-pack: distribute;
-    box-pack: distribute;
-    -webkit-justify-content: space-around;
-    -moz-justify-content: space-around;
-    -ms-justify-content: space-around;
-    -o-justify-content: space-around;
-    justify-content: space-around;
-    -ms-flex-pack: distribute; }
+    -webkit-box-pack: justify;
+    -moz-box-pack: justify;
+    box-pack: justify;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    -ms-justify-content: space-between;
+    -o-justify-content: space-between;
+    justify-content: space-between;
+    -ms-flex-pack: justify; }
     #about .about-content .about-face {
       border-radius: 50%;
       width: 200px;
@@ -444,7 +444,7 @@ header {
       background-image: url("/img/headshot.jpg");
       background-size: cover; }
     #about .about-content [class^="about-item"] {
-      background: #666666;
+      background: #b1b1b1;
       border-radius: 50%;
       height: 100px;
       width: 100px;
@@ -516,7 +516,7 @@ header {
     float: left; }
     #skills .skill-lockup .skill-unit .skill-label {
       font-size: 20px;
-      font-color: #666666; }
+      font-color: #b1b1b1; }
     #skills .skill-lockup .skill-unit .skill-icons {
       font-size: 0;
       margin: 3px 0 30px; }
@@ -537,7 +537,7 @@ header {
           margin: 2px; }
 
 #skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+10), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+11) {
-  background: #a6a6a6; }
+  background: #b1b1b1; }
 
 @media screen and (max-width: 541px) {
   .skill-lockup {
@@ -606,7 +606,7 @@ footer {
     footer #footer-content #copyright {
       text-transform: uppercase;
       text-align: center;
-      color: #666666;
+      color: #b1b1b1;
       margin-top: 10px;
       font-size: 18px;
       font-weight: 400; }
