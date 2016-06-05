@@ -475,36 +475,39 @@ header {
     .about-content [class^="about-item"] {
       margin: 10px 9%; } }
 #skills .skill-lockup {
-  max-width: 540px;
+  max-width: 700px;
   margin: 100px auto; }
   #skills .skill-lockup::after {
     clear: both;
     content: "";
     display: table; }
   #skills .skill-lockup .skill-unit {
-    width: 270px;
+    width: 350px;
     float: left; }
+    #skills .skill-lockup .skill-unit .skill-label {
+      font-size: 20px;
+      font-color: #666666; }
     #skills .skill-lockup .skill-unit .skill-icons {
       font-size: 0;
       margin: 3px 0 30px; }
       #skills .skill-lockup .skill-unit .skill-icons span {
         display: inline-block;
-        height: 14px;
-        width: 14px;
+        height: 16px;
+        width: 16px;
         margin-right: 8px;
         border-radius: 50%;
         background-color: #00254c; }
         #skills .skill-lockup .skill-unit .skill-icons span:after {
           content: "";
           display: block;
-          height: 10px;
-          width: 10px;
+          height: 12px;
+          width: 12px;
           background: white;
           border-radius: 50%;
           margin: 2px; }
 
-#skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+10), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+11), #skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+1), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+10) {
-  background: #666666; }
+#skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+10), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+11) {
+  background: #999999; }
 
 @media screen and (max-width: 541px) {
   .skill-lockup {
