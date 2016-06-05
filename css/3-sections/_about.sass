@@ -31,7 +31,7 @@
       border-radius: 50%
       width: 200px
       height: 200px
-      order: 3
+      +order(3)
       background:
         image: url('/img/headshot.jpg')
         size: cover
@@ -54,16 +54,16 @@
         fill: $theme-primary
 
       &.about-item1
-        order: 1
+        +order(1)
 
       &.about-item2
-        order: 2
+        +order(2)
 
       &.about-item3
-        order: 4
+        +order(4)
 
       &.about-item4
-        order: 5
+        +order(5)
 
 @media screen and (max-width: 780px)
   .about-content
