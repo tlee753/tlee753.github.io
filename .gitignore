@@ -1,6 +1,6 @@
 # InteliJ Files/Folder
 *.iml
-*.idea
+.idea
 
 # OS X
 .DS_Store
