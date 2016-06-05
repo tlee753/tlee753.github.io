@@ -28,4 +28,22 @@
             border-radius: 50%
             margin: 2px
 
-        //&.skill-8 span: nth
+
+        @for $i from 1 through 10
+          &.skill-#{$i} span:nth-child(n+#{$i+1})
+            @extend %skill-color
+
+        @for $i from 1 through 10
+          &.skill-#{$i} span:nth-child(n+#{$i})
+            @extend %skill-color
+
+%skill-color
+  background: $theme-secondary
+
+
+@media screen and (max-width: 541px)
+  .skill-lockup
+    width: 220px
+
+    .skill-unit
+      width: 220px
