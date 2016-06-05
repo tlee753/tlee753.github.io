@@ -434,7 +434,13 @@ header {
       border-radius: 50%;
       width: 200px;
       height: 200px;
+      -webkit-box-ordinal-group: 3;
+      -moz-box-ordinal-group: 3;
+      box-ordinal-group: 3;
+      -webkit-order: 3;
+      -moz-order: 3;
       order: 3;
+      -ms-flex-order: 3;
       background-image: url("/img/headshot.jpg");
       background-size: cover; }
     #about .about-content [class^="about-item"] {
@@ -453,13 +459,37 @@ header {
       #about .about-content [class^="about-item"] path {
         fill: #00254c; }
       #about .about-content [class^="about-item"].about-item1 {
-        order: 1; }
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        box-ordinal-group: 1;
+        -webkit-order: 1;
+        -moz-order: 1;
+        order: 1;
+        -ms-flex-order: 1; }
       #about .about-content [class^="about-item"].about-item2 {
-        order: 2; }
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        box-ordinal-group: 2;
+        -webkit-order: 2;
+        -moz-order: 2;
+        order: 2;
+        -ms-flex-order: 2; }
       #about .about-content [class^="about-item"].about-item3 {
-        order: 4; }
+        -webkit-box-ordinal-group: 4;
+        -moz-box-ordinal-group: 4;
+        box-ordinal-group: 4;
+        -webkit-order: 4;
+        -moz-order: 4;
+        order: 4;
+        -ms-flex-order: 4; }
       #about .about-content [class^="about-item"].about-item4 {
-        order: 5; }
+        -webkit-box-ordinal-group: 5;
+        -moz-box-ordinal-group: 5;
+        box-ordinal-group: 5;
+        -webkit-order: 5;
+        -moz-order: 5;
+        order: 5;
+        -ms-flex-order: 5; }
 
 @media screen and (max-width: 780px) {
   .about-content {
