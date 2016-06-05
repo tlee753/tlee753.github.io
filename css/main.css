@@ -556,9 +556,12 @@ header {
 
 #quickport {
   position: relative;
-  background: #00254c;
+  background: #b1b1b1;
   padding: 0px;
   width: 100%; }
+  #quickport .quickport-title {
+    color: #00254c;
+    text-align: center; }
   #quickport .quickport-container {
     position: relative;
     margin-left: auto;
@@ -570,7 +573,7 @@ header {
       #quickport .quickport-container .quickport-link .quickport-item {
         position: relative;
         display: inline-block;
-        width: 24%; }
+        width: 24.75%; }
         #quickport .quickport-container .quickport-link .quickport-item .quickport-image {
           position: relative;
           width: 100%; }
