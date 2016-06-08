@@ -1,0 +1,53 @@
+#work
+  background: $theme-secondary
+
+  .work-title
+    text-align: center
+    font:
+      size: 24px
+      weight: 700
+
+  .work-container
+    //max-width: 968px
+    margin: 0 auto
+    padding-bottom: 100px
+    +clearfix
+
+    .work-unit
+      display: block
+      position: relative
+      width: 25%
+      padding-top: 12.5%
+      background: pink
+      float: left
+      background:
+        image: url(/img/work/work-1.jpg)
+        position: center center
+        size: cover
+        repeat: no-repeat
+      overflow: hidden
+
+      .work-overlay
+        +position(absolute, 100% 0px null 0px)
+        height: 100%
+        background: fade-out($theme-primary, 0.2)
+        +transition
+        text-align: center
+
+        strong
+          display: block
+          padding: 20px
+          color: $theme-tertiary
+          font:
+            weight: 400
+            size: 24px
+          text-transform: uppercase
+          line-height: 1.2
+
+
+      &:hover .work-overlay
+        +position(absolute, 0% 0px 0px 0px)
+
+
+
+
