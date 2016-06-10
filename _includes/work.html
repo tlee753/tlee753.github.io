@@ -4,61 +4,16 @@
 
     <div class="work-container">
 
-        <a href="" class="work-unit">
+        {% for project in site.data.settings.projects %}
+
+        <a href="" class="work-unit" style="background-image: url(/img/work/{{ project.folder }}/display.jpg);">
             <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
+                <strong> {{ project.name }} </strong>
+                <div class="zoom-icon"> {% include icons/zoom-icon.html %} </div>
             </div>
         </a>
 
-        <a href="" class="work-unit">
-            <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
-            </div>
-        </a>
-
-        <a href="" class="work-unit">
-            <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
-            </div>
-        </a>
-
-        <a href="" class="work-unit">
-            <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
-            </div>
-        </a>
-
-        <a href="" class="work-unit">
-            <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
-            </div>
-        </a>
-
-        <a href="" class="work-unit">
-            <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
-            </div>
-        </a>
-
-        <a href="" class="work-unit">
-            <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
-            </div>
-        </a>
-
-        <a href="" class="work-unit">
-            <div class="work-overlay">
-                <strong>Ascension Computer Build</strong>
-                <div class="zoom-icon"></div>
-            </div>
-        </a>
+        {% endfor %}
 
     </div>
 
