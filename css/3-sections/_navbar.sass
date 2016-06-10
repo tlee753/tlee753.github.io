@@ -64,7 +64,11 @@
       display: inline-block
 
 
-  @media (min-width: 768px)
-    background-color: rgba(white, 0.8)
+  @media screen and (max-width: 768px)
+    #navbar
+      background: $theme-primary
+
+      .navbar-item
+        display: none
 
 
