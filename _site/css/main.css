@@ -352,12 +352,12 @@ input[type="button"] {
     #navbar .navbar-item .navbar-center {
       vertical-align: middle;
       display: inline-block; }
-  @media screen and (max-width: 768px) {
-    #navbar #navbar {
-      background: #00254c; }
-      #navbar #navbar .navbar-item {
-        display: none; } }
 
+@media screen and (max-width: 768px) {
+  #navbar {
+    background: #00254c; }
+    #navbar .navbar-item {
+      display: none; } }
 header {
   position: relative;
   background-image: url("/img/header.jpg");
@@ -491,18 +491,18 @@ header {
       -ms-flex-order: 5; }
 
 @media screen and (max-width: 780px) {
-  .about-content {
+  #about .about-content {
     display: block;
     text-align: center; }
-    .about-content div {
+    #about .about-content div {
       display: inline-block; }
-    .about-content .about-face {
+    #about .about-content .about-face {
       display: block;
       background-position: center center;
       background-repeat: no-repeat;
       margin: 0 auto 30px; }
-    .about-content [class^="about-item"] {
-      margin: 10px 9%; } }
+    #about .about-content [class^="about-item"] {
+      margin: 10px 10%; } }
 #skills .skill-lockup {
   max-width: 700px;
   margin: 50px auto; }
@@ -556,13 +556,12 @@ header {
 #work {
   background: #b1b1b1; }
   #work .work-title {
+    padding-top: 25px;
     text-align: center;
-    color: #00254c;
-    font-size: 24px;
-    font-weight: 700; }
+    color: #00254c; }
   #work .work-container {
     margin: 0 auto;
-    padding-bottom: 50px; }
+    padding-bottom: 0; }
     #work .work-container::after {
       clear: both;
       content: "";
@@ -577,6 +576,14 @@ header {
       background-size: cover;
       background-repeat: no-repeat;
       overflow: hidden; }
+      @media screen and (max-width: 780px) {
+        #work .work-container .work-unit {
+          width: 50%;
+          padding-top: 25%; } }
+      @media screen and (max-width: 390px) {
+        #work .work-container .work-unit {
+          width: 100%;
+          padding-top: 50%; } }
       #work .work-container .work-unit .work-overlay {
         position: absolute;
         top: 100%;
@@ -615,7 +622,7 @@ header {
         -ms-flex-pack: distribute; }
         #work .work-container .work-unit .work-overlay strong {
           display: block;
-          padding: 20px;
+          padding: 0px 20px;
           color: #FFFFFF;
           font-weight: 400;
           font-size: 24px;
