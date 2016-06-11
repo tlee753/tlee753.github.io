@@ -20,7 +20,7 @@ header
     text-transform: uppercase
     letter-spacing: 0.05em
     font:
-      size: 7em
+      size: 72px
       weight: 700
 
     span
@@ -32,6 +32,19 @@ header
     color: $theme-primary
     text-align: center
     font:
-      size: 2em
+      size: 24px
       weight: 700
 
+@media screen and (max-width: 540px)
+  header
+
+    h1
+      font:
+        size: 54px
+
+      span
+        border: $theme-primary solid 6px
+
+    .kicker
+      font:
+        size: 18px

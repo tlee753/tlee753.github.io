@@ -190,7 +190,11 @@ body {
   font-family: "Century Gothic", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
-  -webkit-text-size-adjust: 100%; }
+  -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
 
 ::selection {
   background: #FFF498; }
@@ -305,7 +309,7 @@ input[type="button"] {
   position: fixed;
   background-color: rgba(255, 255, 255, 0.8);
   z-index: 2;
-  width: 100%;
+  width: 100vw;
   text-decoration: none;
   border-bottom: #00254c solid 2px;
   margin-right: auto;
@@ -355,7 +359,8 @@ input[type="button"] {
 
 @media screen and (max-width: 780px) {
   #navbar .navbar-item {
-    display: none; } }
+    display: none;
+    position: absolute; } }
 header {
   position: relative;
   background-image: url("/img/header.jpg");
@@ -375,7 +380,7 @@ header {
     color: #00254c;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    font-size: 7em;
+    font-size: 72px;
     font-weight: 700; }
     header h1 span {
       display: inline-block;
@@ -384,9 +389,16 @@ header {
   header .kicker {
     color: #00254c;
     text-align: center;
-    font-size: 2em;
+    font-size: 24px;
     font-weight: 700; }
 
+@media screen and (max-width: 540px) {
+  header h1 {
+    font-size: 54px; }
+    header h1 span {
+      border: #00254c solid 6px; }
+  header .kicker {
+    font-size: 18px; } }
 #about .about-title {
   color: #00254c;
   text-align: center; }
@@ -682,8 +694,8 @@ footer {
       font-size: 18px;
       font-weight: 400; }
 
-@media screen and (max-width: 780px) {
-  #footer .footer-content {
+@media screen and (max-width: 390px) {
+  footer .footer-image {
     display: none; } }
 #isabel-page {
   background: linear-gradient(to bottom right, #00CED1, #FFB6C1, #228B22);
