@@ -682,6 +682,9 @@ footer {
       font-size: 18px;
       font-weight: 400; }
 
+@media screen and (max-width: 780px) {
+  #footer .footer-content {
+    display: none; } }
 #isabel-page {
   background: linear-gradient(to bottom right, #00CED1, #FFB6C1, #228B22);
   height: 100%; }
