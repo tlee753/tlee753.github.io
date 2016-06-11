@@ -597,7 +597,7 @@ header {
 #skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+10), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+11) {
   background: #b1b1b1; }
 
-@media screen and (max-width: 541px) {
+@media screen and (max-width: 540px) {
   .skill-lockup {
     width: 220px; }
     .skill-lockup .skill-unit {
@@ -746,6 +746,11 @@ footer {
 @media screen and (max-width: 450px) {
   footer .footer-image {
     display: none; } }
+#margin {
+  position: relative;
+  height: 50px;
+  width: 100%; }
+
 #isabel-page {
   background: linear-gradient(to bottom right, #00CED1, #FFB6C1, #228B22);
   height: 100%; }
