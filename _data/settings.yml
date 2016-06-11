@@ -29,7 +29,7 @@ projects:
 - {name: Ascension Computer Build, folder: 'proj-1'}
 - {name: Autonomous Cargo Robot, folder: 'proj-2'}
 - {name: Eagle Scout Project, folder: 'proj-3'}
-- {name: Electrothon Vehicle, folder: 'proj-4'}
+- {name: Electrathon Vehicle, folder: 'proj-4'}
 - {name: Automated Can Crusher, folder: 'proj-5'}
 - {name: Windows Technical Preview Server, folder: 'proj-6'}
 - {name: Cross Platform Stock Monitoring App, folder: 'proj-7'}
