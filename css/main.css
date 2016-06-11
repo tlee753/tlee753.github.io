@@ -183,6 +183,19 @@ td,
 th {
   padding: 0; }
 
+html {
+  background-color: white;
+  font-size: 14px;
+  line-height: 1.6;
+  font-family: "Century Gothic", sans-serif;
+  color: #666;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
 body {
   background-color: white;
   font-size: 14px;
@@ -459,6 +472,12 @@ header {
     border-radius: 50%;
     height: 100px;
     width: 100px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
     display: flex;
     align-items: center;
     text-align: center; }
@@ -696,7 +715,7 @@ footer {
       font-size: 18px;
       font-weight: 400; }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 450px) {
   footer .footer-image {
     display: none; } }
 #isabel-page {
