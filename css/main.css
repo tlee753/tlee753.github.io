@@ -353,11 +353,9 @@ input[type="button"] {
       vertical-align: middle;
       display: inline-block; }
 
-@media screen and (max-width: 768px) {
-  #navbar {
-    background: #00254c; }
-    #navbar .navbar-item {
-      display: none; } }
+@media screen and (max-width: 780px) {
+  #navbar .navbar-item {
+    display: none; } }
 header {
   position: relative;
   background-image: url("/img/header.jpg");
