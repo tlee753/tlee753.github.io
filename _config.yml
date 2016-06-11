@@ -1,15 +1,23 @@
+# General Information
 title: Tyler Lee
 description: Leader // Explorer // Engineer
 
+
+# Site Location
 baseurl: ""
 url: "http://tlee753.com"
 
-email: tlee753@protonmail.com
-linkedin_username: tlee753
-github_username:  tlee753
-dribble_username: tlee753
-twitter_username: tlee753
-facebook_username: Tyler Lee
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
+
+# Specify the port jekyll uses to serve locally
+port: 4000
+
+
+# Sass settings
+sass:
+  sass_dir: css
+  style: :nested
