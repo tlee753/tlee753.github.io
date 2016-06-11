@@ -17,8 +17,8 @@ skills:
 - {name: Learning, value: '9'}
 - {name: Teaching, value: '7'}
 - {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
-- {name: UX Design, value: '6'}
+- {name: Visual Design, value: '6'}
+- {name: UX Design, value: '5'}
 - {name: Programming, value: '6'}
 
 
