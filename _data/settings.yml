@@ -1,11 +1,25 @@
 #-------------------------------
+# Menu Section
+
+menu:
+- {name: About, link: 'www.tlee753.com/about/'}
+- {name: Portfolio, link: 'www.tlee753.com'}
+- {name: Blog, link: 'www.tlee753.com'}
+- {name: Contact, link: 'www.linkedin.com/in/tlee753'}
+
+
+#-------------------------------
 # About Section
 
-blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+about: >
+  **I enjoy intertwining my creativity with complex problem solving,
+  whether it's coding, computer building, graphic design, 3D printing, laser engraving, welding, or web development.
+  My passion stems from an unrelenting desire to learn more, and the hope that I can change the world for the better.
+
+#  **Travis specializes in making things** for human people.
+#  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
+#  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
+#  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
 
 
 #-------------------------------
