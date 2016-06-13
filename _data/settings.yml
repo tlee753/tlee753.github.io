@@ -2,7 +2,7 @@
 # Menu Section
 
 menu:
-- {name: About, link: 'www.tlee753.com/about/'}
+- {name: About, link: 'about'}
 - {name: Portfolio, link: 'www.tlee753.com'}
 - {name: Blog, link: 'www.tlee753.com'}
 - {name: Contact, link: 'www.linkedin.com/in/tlee753'}
@@ -59,6 +59,20 @@ social:
 - {icon: 'email', link: 'tlee753@gatech.edu'}
 - {icon: 'twitter', link: 'https://www.twitter.com/tlee753'}
 - {icon: 'facebook', link: 'http://www.facebook.com/'}
+
+
+#-------------------------------
+# Collection Section
+
+interests:
+- {name: How to Win Friends and Influence People, folder: 'coll-1'}
+- {name: Wanderers, folder: 'coll-2'}
+- {name: Start with Why, folder: 'coll-3'}
+- {name: Euler Problems, folder: 'coll-4'}
+- {name: My Favorite Movies, folder: 'coll-5'}
+- {name: The Boy and the Starfish, folder: 'coll-6'}
+- {name: UNICEF, folder: 'coll-7'}
+- {name: Calvin and Hobbes, folder: 'coll-8'}
 
 
 #-------------------------------
