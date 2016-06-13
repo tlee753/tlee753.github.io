@@ -1,18 +1,12 @@
-#work
+#collection
   background: $theme-secondary
 
-  .work-title
-    padding: 25px 0
-    margin: 0
-    text-align: center
-    color: $theme-primary
-
-  .work-container
+  .collection-container
     margin: 0 auto
     padding-bottom: 0
     +clearfix
 
-    .work-unit
+    .collection-unit
       display: block
       position: relative
       width: 25%
@@ -33,7 +27,7 @@
         width: 100%
         padding-top: 50%
 
-      .work-overlay
+      .collection-overlay
         +position(absolute, 100% 0px null 0px)
         height: 100%
         background: fade-out($theme-primary, 0.2)
@@ -54,7 +48,7 @@
           line-height: 1.2
 
 
-      &:hover .work-overlay
+      &:hover .collection-overlay
         +position(absolute, 0% 0px 0px 0px)
 
 
