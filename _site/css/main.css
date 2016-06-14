@@ -744,7 +744,7 @@ footer {
       font-size: 18px;
       font-weight: 400; }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 560px) {
   footer .footer-image {
     display: none; } }
 #margin {
