@@ -65,22 +65,26 @@ social:
 # Collection Section
 
 interests:
-- {name: How to Win Friends and Influence People, folder: 'coll-1'}
-- {name: Wanderers, folder: 'coll-2'}
-- {name: Start with Why, folder: 'coll-3'}
-- {name: Euler Problems, folder: 'coll-4'}
-- {name: My Favorite Movies, folder: 'coll-5'}
-- {name: The Boy and the Starfish, folder: 'coll-6'}
-- {name: UNICEF, folder: 'coll-7'}
-- {name: Calvin and Hobbes, folder: 'coll-8'}
-- {name: Stockfish vs Komodo Chess Engines, folder: 'coll-9'}
-- {name: Star Wars, folder: 'coll-10'}
-- {name: My Favorite Quotes, folder: 'coll-11'}
-- {name: Coding Jokes, folder: 'coll-12'}
-- {name: Albert Einstein, folder: 'coll-13'}
-- {name: Space X, folder: 'coll-14'}
-- {name: John Wooden, folder: 'coll-15'}
-- {name: Dream Cars, folder: 'coll-16'}
+- {name: How to Win Friends and Influence People, folder: 'coll-1', link: 'https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People'}
+- {name: Wanderers, folder: 'coll-2', link: 'https://vimeo.com/108650530'}
+- {name: Start with Why, folder: 'coll-3', link: 'https://www.youtube.com/watch?v=sioZd3AxmnE'}
+- {name: Euler Problems, folder: 'coll-4', link: 'https://projecteuler.net/'}
+- {name: My Favorite Movies, folder: 'coll-5', link: 'http://www.imdb.com/title/tt0118799/'}
+- {name: The Boy and the Starfish, folder: 'coll-6', link: 'http://dreamemporium.com/starfish.html'}
+- {name: UNICEF, folder: 'coll-7', link: 'http://www.unicef.org/'}
+- {name: Calvin and Hobbes, folder: 'coll-8', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
+- {name: Stockfish vs Komodo Chess Engines, folder: 'coll-9', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
+- {name: Star Wars, folder: 'coll-10', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
+- {name: My Favorite Quotes, folder: 'coll-11', link: 'https://www.youtube.com/watch?v=GC7Aqc-h9no'}
+- {name: Coding Jokes, folder: 'coll-12', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
+- {name: Albert Einstein, folder: 'coll-13', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
+- {name: Space X, folder: 'coll-14', link: 'http://www.spacex.com/'}
+- {name: John Wooden, folder: 'coll-15', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
+- {name: Dream Cars, folder: 'coll-16', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
+
+# amazon reviews
+# scott sterling
+#
 
 
 #-------------------------------
