@@ -613,7 +613,7 @@ header {
     font-weight: 400; }
 
 #work {
-  background: #b1b1b1; }
+  background: #FFFFFF; }
   #work .work-title {
     padding: 25px 0;
     margin: 0;
@@ -771,7 +771,7 @@ footer {
       display: block;
       position: relative;
       width: 25%;
-      padding-top: 12.5%;
+      padding-top: 15%;
       float: left;
       background-position: center center;
       background-size: cover;
