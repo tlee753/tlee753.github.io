@@ -907,4 +907,37 @@ footer {
       margin: 0;
       padding: 0; }
 
+#dad-page {
+  position: relative;
+  background-image: url("/img/brown-plaid.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  width: 100vw;
+  height: 100vh; }
+  #dad-page #dad-title {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700;
+    margin: 0;
+    padding-top: 80px; }
+  #dad-page #dad-blurb {
+    color: white;
+    background-color: saddlebrown;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 20px auto;
+    max-width: 400px; }
+  #dad-page #dad-joke {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px; }
+
 /*# sourceMappingURL=main.css.map */
