@@ -390,7 +390,7 @@ header {
     padding-top: 200px;
     margin-top: 0px;
     margin-bottom: 10px;
-    color: #00254c;
+    color: #FFFFFF;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-size: 72px;
@@ -398,9 +398,9 @@ header {
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
-      border: #00254c solid 10px; }
+      border: #FFFFFF solid 10px; }
   header .kicker {
-    color: #00254c;
+    color: #FFFFFF;
     text-align: center;
     font-size: 24px;
     font-weight: 700; }
@@ -410,7 +410,7 @@ header {
     padding-top: 100px;
     font-size: 54px; }
     header h1 span {
-      border: #00254c solid 8px;
+      border: #FFFFFF solid 8px;
       padding: 0.1em 0.25em; }
   header .kicker {
     font-size: 18px; } }
@@ -420,7 +420,7 @@ header {
     font-size: 36px;
     letter-spacing: 0.01em; }
     header h1 span {
-      border: #00254c solid 6px;
+      border: #FFFFFF solid 6px;
       padding: 0.05em 0.125em; }
   header .kicker {
     font-size: 14px; } }
@@ -429,7 +429,7 @@ header {
     padding-top: 60px;
     font-size: 54px; }
     header h1 span {
-      border: #00254c solid 8px;
+      border: #FFFFFF solid 8px;
       padding: 0.1em 0.25em; }
   header .kicker {
     font-size: 18px; } }
@@ -438,7 +438,7 @@ header {
     padding-top: 60px;
     font-size: 36px; }
     header h1 span {
-      border: #00254c solid 6px;
+      border: #FFFFFF solid 6px;
       padding: 0.05em 0.125em; }
   header .kicker {
     font-size: 14px; } }
