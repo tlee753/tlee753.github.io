@@ -564,7 +564,7 @@ header {
       margin: 10px 10%; } }
 #skills .skill-lockup {
   max-width: 700px;
-  margin: 50px auto; }
+  margin: 20px auto; }
   #skills .skill-lockup::after {
     clear: both;
     content: "";
@@ -615,8 +615,7 @@ header {
 #work {
   background: #FFFFFF; }
   #work .work-title {
-    padding: 25px 0;
-    margin: 0;
+    margin: 20px auto;
     text-align: center;
     color: #00254c; }
   #work .work-container {
