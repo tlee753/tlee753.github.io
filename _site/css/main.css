@@ -376,7 +376,7 @@ input[type="button"] {
     position: absolute; } }
 header {
   position: relative;
-  background-image: url("/img/header.jpg");
+  background-image: url("/assets/img/header.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -493,7 +493,7 @@ header {
     -moz-order: 3;
     order: 3;
     -ms-flex-order: 3;
-    background-image: url(/img/headshot.jpg);
+    background-image: url(/assets/img/headshot.jpg);
     background-size: cover; }
   #about .about-content [class^="about-item"] {
     background: #b1b1b1;
@@ -711,7 +711,7 @@ footer {
   background: #00254c;
   height: 200px;
   position: relative;
-  background-image: url(/img/header.jpg);
+  background-image: url(/assets/img/header.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -752,7 +752,7 @@ footer {
   width: 100%; }
 
 #profile {
-  background-image: url(/img/profile.jpg);
+  background-image: url(/assets/img/profile.jpg);
   background-size: cover;
   background-position: center center;
   height: 550px; }
@@ -908,7 +908,7 @@ footer {
 
 #dad-page {
   position: relative;
-  background-image: url("/img/dad/brown-plaid.jpg");
+  background-image: url("/assets/img/dad/brown-plaid.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

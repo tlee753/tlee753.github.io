@@ -1,0 +1,81 @@
+#isabel-page
+  background: linear-gradient(to bottom right, $isabel-secondary, $isabel-primary, $isabel-tertiary)
+  height: 100%
+
+  .isabel-image
+    display: block
+    margin: 0 auto
+    width: 300px
+    border-radius: 25px
+
+  .isabel-title
+    margin: 0
+    padding-top: 75px
+    padding-bottom: 15px
+    font:
+      family: Garamond, serif
+      size: 30px
+    text-align: center
+    color: darken($isabel-secondary, 20%)
+
+  .isabel-poetry
+    margin: 0 auto
+    padding-top: 15px
+    padding-bottom: 15px
+    font:
+      family: Garamond, serif
+      size: 24px
+    text-align: center
+    color: darken($isabel-secondary, 20%)
+    max-width: 400px
+
+  .isabel-song
+    max-width: 500px
+    height: 20px
+
+  #isabel-lockup
+    margin: 0 auto
+    padding: 0 0 50px 0
+    +display(flex)
+    height: 500px
+    +align-items(center)
+    +justify-content(space-around)
+
+    .isabel-anniver
+      height: 100%
+      position: relative
+      margin: 0
+      padding: 0
+
+#isabel-poetry
+  background: linear-gradient(to right, whitesmoke, gold, whitesmoke)
+  height: 400px
+  font-family: Garamond, serif
+
+  h3
+    padding: 10px 20px
+    margin: 0
+    color: white
+    text-align: center
+    font:
+      size: 30px
+      weight: 600
+
+  .isabel-poem
+    text-align: center
+    max-width: 620px
+    padding: 0 20px
+    margin: 0 auto
+    font:
+      size: 20px
+      weight: 400
+
+    .poem-line
+      color: white
+      font:
+        size: 20px
+        weight: 500
+      padding: 0
+
+
+
