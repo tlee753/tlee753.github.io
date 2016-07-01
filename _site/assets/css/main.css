@@ -908,7 +908,7 @@ header {
 
 #isabel-poetry {
   background: linear-gradient(to right, whitesmoke, gold, whitesmoke);
-  height: 400px;
+  height: 100%;
   font-family: Garamond, serif; }
   #isabel-poetry h3 {
     padding: 10px 20px;
@@ -924,6 +924,16 @@ header {
     margin: 0 auto;
     font-size: 20px;
     font-weight: 400; }
+    #isabel-poetry .isabel-poem .poem-newline {
+      color: white;
+      font-size: 20px;
+      font-weight: 500;
+      padding-top: 10px; }
+    #isabel-poetry .isabel-poem .poem-endline {
+      color: white;
+      font-size: 20px;
+      font-weight: 500;
+      padding-bottom: 20px; }
     #isabel-poetry .isabel-poem .poem-line {
       color: white;
       font-size: 20px;
