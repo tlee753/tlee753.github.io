@@ -859,7 +859,7 @@ header {
     font-size: 30px;
     text-align: center;
     color: #00696b; }
-  #isabel-page .isabel-poetry {
+  #isabel-page .isabel-text {
     margin: 0 auto;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -868,9 +868,6 @@ header {
     text-align: center;
     color: #00696b;
     max-width: 400px; }
-  #isabel-page .isabel-song {
-    max-width: 500px;
-    height: 20px; }
   #isabel-page #isabel-lockup {
     margin: 0 auto;
     padding: 0 0 50px 0;
@@ -906,35 +903,35 @@ header {
       margin: 0;
       padding: 0; }
 
-#isabel-poetry {
+.isabel-poetry {
   background: linear-gradient(to right, whitesmoke, gold, whitesmoke);
   height: 100%;
   font-family: Garamond, serif; }
-  #isabel-poetry h3 {
+  .isabel-poetry h3 {
     padding: 10px 20px;
     margin: 0;
     color: white;
     text-align: center;
     font-size: 30px;
     font-weight: 600; }
-  #isabel-poetry .isabel-poem {
+  .isabel-poetry .isabel-poem {
     text-align: center;
     max-width: 620px;
     padding: 0 20px;
     margin: 0 auto;
     font-size: 20px;
     font-weight: 400; }
-    #isabel-poetry .isabel-poem .poem-newline {
+    .isabel-poetry .isabel-poem .poem-newline {
       color: white;
       font-size: 20px;
       font-weight: 500;
       padding-top: 10px; }
-    #isabel-poetry .isabel-poem .poem-endline {
+    .isabel-poetry .isabel-poem .poem-endline {
       color: white;
       font-size: 20px;
       font-weight: 500;
       padding-bottom: 20px; }
-    #isabel-poetry .isabel-poem .poem-line {
+    .isabel-poetry .isabel-poem .poem-line {
       color: white;
       font-size: 20px;
       font-weight: 500;
