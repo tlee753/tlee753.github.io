@@ -912,7 +912,7 @@ header {
     margin: 0;
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 36px;
     font-weight: 600; }
   .isabel-poetry .isabel-poem {
     text-align: center;
@@ -923,19 +923,23 @@ header {
     font-weight: 400; }
     .isabel-poetry .isabel-poem .poem-newline {
       color: white;
-      font-size: 20px;
+      font-size: 22px;
       font-weight: 500;
-      padding-top: 10px; }
+      padding-top: 10px;
+      line-height: 100%; }
     .isabel-poetry .isabel-poem .poem-endline {
       color: white;
-      font-size: 20px;
+      font-size: 22px;
       font-weight: 500;
-      padding-bottom: 20px; }
+      padding-bottom: 20px;
+      line-height: 100%; }
     .isabel-poetry .isabel-poem .poem-line {
       color: white;
-      font-size: 20px;
+      font-size: 22px;
       font-weight: 500;
-      padding: 0; }
+      padding: 0;
+      margin: 0;
+      line-height: 100%; }
 
 #dad-page {
   position: relative;
