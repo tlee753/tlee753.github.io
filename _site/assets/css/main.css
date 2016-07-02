@@ -975,7 +975,7 @@ header {
 
 #mom-page {
   position: relative;
-  background-image: url("/assets/img/mom/");
+  background-image: url("/assets/img/mom/ecuador-path.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -985,19 +985,19 @@ header {
   width: 100vw;
   height: 100vh; }
   #mom-page #mom-title {
-    color: white;
+    color: #1ec71e;
     text-align: center;
+    text-shadow: -2px -2px 0 #FFF, 2px 2px 0 #FFF;
     font-size: 100px;
     font-weight: 700;
     margin: 0;
     padding-top: 80px; }
-  #mom-page #mom-blurb {
-    color: white;
-    background-color: saddlebrown;
+  #mom-page .mom-text {
+    color: lightgreen;
     text-align: center;
     font-size: 24px;
-    font-weight: 700;
-    margin: 20px auto;
+    font-weight: 400;
+    margin: 40px auto;
     max-width: 600px; }
   #mom-page #mom-joke {
     width: 50%;
