@@ -938,12 +938,15 @@ header {
 #countdown {
   background: #00ECB9;
   font-family: Garamond, serif;
-  text-align: center; }
+  text-align: center;
+  color: white; }
   #countdown h3 {
     text-align: center;
     color: white;
     margin: 0 auto;
-    padding: 15px 0 15px; }
+    padding: 10px 0;
+    font-size: 36px;
+    font-weight: 600; }
   #countdown #clock {
     display: inline-block;
     text-align: center;
@@ -970,7 +973,7 @@ header {
   height: 100%;
   font-family: Garamond, serif; }
   .isabel-poetry h3 {
-    padding: 10px 20px;
+    padding: 10px 0;
     margin: 0;
     color: white;
     text-align: center;
