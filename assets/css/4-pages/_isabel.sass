@@ -111,34 +111,59 @@
     padding: 0 20px
     margin: 0 auto
     font:
-      size: 20px
+      size: 22px
       weight: 400
 
     .poem-newline
       color: white
-      font:
-        size: 22px
-        weight: 500
       padding-top: 10px
       line-height: 100%
 
     .poem-endline
       color: white
-      font:
-        size: 22px
-        weight: 500
       padding-bottom: 20px
       line-height: 100%
 
     .poem-line
       color: white
-      font:
-        size: 22px
-        weight: 500
       padding: 0
       margin: 0
       line-height: 100%
 
+
+@media screen and (max-width: 500px)
+  #isabel-page
+
+    .isabel-title
+      font-size: 22px
+
+    .isabel-image
+      width: 150px
+
+    .isabel-text
+      line-height: 100%
+
+    #isabel-lockup
+      height: 150px
+
+  #countdown
+
+    h3
+      font-size: 24px
+
+    #clock
+      +clearfix()
+
+      div
+        display: flex
+
+  .isabel-poetry
+
+    h3
+      font-size: 22px
+
+    .isabel-poem
+      font-size: 16px
 
 
 

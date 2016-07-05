@@ -437,6 +437,12 @@ hr {
       margin: 0 auto 30px; }
     #about .about-content [class^="about-item"] {
       margin: 10px 10%; } }
+#bucket h3 {
+  margin: 10px auto 10px; }
+#bucket ul {
+  line-height: 150%;
+  margin: 0; }
+
 #collection {
   background: #b1b1b1; }
   #collection .collection-container {
@@ -989,28 +995,45 @@ header {
     max-width: 620px;
     padding: 0 20px;
     margin: 0 auto;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 400; }
     .isabel-poetry .isabel-poem .poem-newline {
       color: white;
-      font-size: 22px;
-      font-weight: 500;
       padding-top: 10px;
       line-height: 100%; }
     .isabel-poetry .isabel-poem .poem-endline {
       color: white;
-      font-size: 22px;
-      font-weight: 500;
       padding-bottom: 20px;
       line-height: 100%; }
     .isabel-poetry .isabel-poem .poem-line {
       color: white;
-      font-size: 22px;
-      font-weight: 500;
       padding: 0;
       margin: 0;
       line-height: 100%; }
 
+@media screen and (max-width: 500px) {
+  #isabel-page .isabel-title {
+    font-size: 22px; }
+  #isabel-page .isabel-image {
+    width: 150px; }
+  #isabel-page .isabel-text {
+    line-height: 100%; }
+  #isabel-page #isabel-lockup {
+    height: 150px; }
+
+  #countdown h3 {
+    font-size: 24px; }
+  #countdown #clock::after {
+    clear: both;
+    content: "";
+    display: table; }
+  #countdown #clock div {
+    display: flex; }
+
+  .isabel-poetry h3 {
+    font-size: 22px; }
+  .isabel-poetry .isabel-poem {
+    font-size: 16px; } }
 #mom-page {
   position: relative;
   background-image: url("/assets/img/mom/ecuador-path.jpg");
