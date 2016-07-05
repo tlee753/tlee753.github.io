@@ -1023,12 +1023,8 @@ header {
 
   #countdown h3 {
     font-size: 24px; }
-  #countdown #clock::after {
-    clear: both;
-    content: "";
-    display: table; }
-  #countdown #clock div {
-    display: flex; }
+  #countdown #clock {
+    font-size: 22px; }
 
   .isabel-poetry h3 {
     font-size: 22px; }
