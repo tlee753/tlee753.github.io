@@ -590,6 +590,7 @@ header {
     margin-top: 0px;
     margin-bottom: 10px;
     color: #FFFFFF;
+    text-shadow: -2px 0 #00254c, 2px 0 #00254c, 0 -2px #00254c, 0 2px #00254c;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-size: 72px;
@@ -597,9 +598,11 @@ header {
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
-      border: #FFFFFF solid 10px; }
+      border: #FFFFFF solid 10px;
+      box-shadow: -2px 0 #00254c, 2px 0 #00254c, 0 -2px #00254c, 0 2px #00254c; }
   header .kicker {
     color: #FFFFFF;
+    text-shadow: -2px 0 #00254c, 2px 0 #00254c, 0 -2px #00254c, 0 2px #00254c;
     text-align: center;
     font-size: 24px;
     font-weight: 700; }
