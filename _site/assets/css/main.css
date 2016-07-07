@@ -558,11 +558,33 @@ hr {
       margin: 0 auto 30px; }
     #about .about-content [class^="about-item"] {
       margin: 10px 10%; } }
-#bucket h3 {
-  margin: 10px auto 10px; }
-#bucket ul {
-  line-height: 150%;
-  margin: 0; }
+#bucket {
+  background-image: url("/assets/img/sand-tile.jpg");
+  background-repeat: repeat;
+  text-align: center; }
+  #bucket h3 {
+    margin: 0 auto;
+    padding: 10px 0 10px;
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    color: #C27640;
+    text-shadow: 0 0 2px #503019; }
+  #bucket #bucket-lockup .bucket-complete {
+    line-height: 150%;
+    margin: 0;
+    text-decoration: line-through;
+    font-size: 18px;
+    font-weight: 700;
+    color: #C27640;
+    text-shadow: 0 0 2px #503019; }
+  #bucket #bucket-lockup .bucket-incomplete {
+    line-height: 150%;
+    margin: 0;
+    font-size: 18px;
+    font-weight: 700;
+    color: #C27640;
+    text-shadow: 0 0 2px #503019; }
 
 #collection {
   background: #b1b1b1; }
@@ -829,7 +851,7 @@ header {
     position: absolute; } }
 #objective {
   background-color: #00254c;
-  background-image: url("/assets/img/circuit.png");
+  background-image: url("/assets/img/circuit-tile.png");
   background-repeat: repeat; }
   #objective #objective-text {
     text-align: center;
