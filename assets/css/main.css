@@ -561,30 +561,31 @@ hr {
 #bucket {
   background-image: url("/assets/img/sand-tile.jpg");
   background-repeat: repeat;
-  text-align: center; }
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif; }
   #bucket h3 {
     margin: 0 auto;
     padding: 10px 0 10px;
     position: relative;
-    font-size: 30px;
+    font-size: 36px;
     font-weight: 700;
-    color: #C27640;
-    text-shadow: 0 0 2px #503019; }
+    color: rgba(200, 132, 83, 0.9);
+    text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
   #bucket #bucket-lockup .bucket-complete {
     line-height: 150%;
     margin: 0;
     text-decoration: line-through;
     font-size: 18px;
     font-weight: 700;
-    color: #C27640;
-    text-shadow: 0 0 2px #503019; }
+    color: rgba(200, 132, 83, 0.9);
+    text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
   #bucket #bucket-lockup .bucket-incomplete {
     line-height: 150%;
     margin: 0;
     font-size: 18px;
     font-weight: 700;
-    color: #C27640;
-    text-shadow: 0 0 2px #503019; }
+    color: rgba(200, 132, 83, 0.9);
+    text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
 
 #collection {
   background: #b1b1b1; }
