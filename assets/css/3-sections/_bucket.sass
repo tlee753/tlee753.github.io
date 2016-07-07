@@ -1,9 +1,37 @@
 #bucket
+  background:
+    image: url('/assets/img/sand-tile.jpg')
+    repeat: repeat
+  text-align: center
 
   h3
-    margin: 10px auto 10px
+    margin: 0 auto
+    padding: 10px 0 10px
+    position: relative
+    font:
+      size: 30px
+      weight: 700
+    color: #C27640
+    text-shadow: 0 0 2px darken($darksand, 30%)
 
-  ul
-    line-height: 150%
-    margin: 0
-    //padding: 0
+  #bucket-lockup
+
+    .bucket-complete
+      line-height: 150%
+      margin: 0
+      text-decoration: line-through
+      font:
+        size: 18px
+        weight: 700
+      color: #C27640
+      text-shadow: 0 0 2px darken($darksand, 30%)
+
+
+    .bucket-incomplete
+      line-height: 150%
+      margin: 0
+      font:
+        size: 18px
+        weight: 700
+      color: #C27640
+      text-shadow: 0 0 2px darken($darksand, 30%)
