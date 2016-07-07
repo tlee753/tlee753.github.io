@@ -707,14 +707,17 @@ header {
     display: none;
     position: absolute; } }
 #objective {
-  background: #00254c; }
+  background-color: #00254c;
+  background-image: url("/assets/img/circuit.png");
+  background-repeat: repeat; }
   #objective #objective-text {
     text-align: center;
     color: #FFFFFF;
     max-width: 620px;
     margin: 0px auto;
     font-size: 20px;
-    font-weight: 400; }
+    font-weight: 400;
+    background-color: #00254c; }
 
 #profile {
   background-image: url(/assets/img/profile.jpg);
