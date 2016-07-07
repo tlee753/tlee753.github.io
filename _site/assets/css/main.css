@@ -571,21 +571,23 @@ hr {
     font-weight: 700;
     color: rgba(200, 132, 83, 0.9);
     text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
-  #bucket #bucket-lockup .bucket-complete {
-    line-height: 150%;
-    margin: 0;
-    text-decoration: line-through;
-    font-size: 18px;
-    font-weight: 700;
-    color: rgba(200, 132, 83, 0.9);
-    text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
-  #bucket #bucket-lockup .bucket-incomplete {
-    line-height: 150%;
-    margin: 0;
-    font-size: 18px;
-    font-weight: 700;
-    color: rgba(200, 132, 83, 0.9);
-    text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
+  #bucket #bucket-lockup {
+    padding-bottom: 10px; }
+    #bucket #bucket-lockup .bucket-complete {
+      line-height: 150%;
+      margin: 0;
+      text-decoration: line-through;
+      font-size: 18px;
+      font-weight: 700;
+      color: rgba(200, 132, 83, 0.9);
+      text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
+    #bucket #bucket-lockup .bucket-incomplete {
+      line-height: 150%;
+      margin: 0;
+      font-size: 18px;
+      font-weight: 700;
+      color: rgba(200, 132, 83, 0.9);
+      text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
 
 #collection {
   background: #b1b1b1; }
