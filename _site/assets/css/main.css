@@ -668,17 +668,17 @@ hr {
         left: 0px; }
 
 #contact {
-  background: linear-gradient(to bottom right, #00254c, #b1b1b1); }
+  background-image: url("/assets/img/wood-tile.jpg");
+  background-repeat: repeat; }
   #contact .temp {
     text-align: center;
     color: #FFFFFF;
     font-size: 30px;
     font-weight: 400;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 85px 0 85px;
     margin: 0; }
     #contact .temp:hover, #contact .temp:focus {
-      color: #00254c; }
+      background-color: #00254c; }
 
 footer {
   background: #00254c;
