@@ -6,7 +6,7 @@
 
         {% for socialmedia in site.data.settings.social %}
 
-            <a href="{{ socialmedia.link }}"><div class="contact-item" style="path"> {% include social-icons/{{ socialmedia.icon }}.html %} </div></a>
+            <a href="{{ socialmedia.link }}"><div class="contact-item"> {% include social-icons/{{ socialmedia.icon }}.html %} </div></a>
 
         {% endfor %}
 
