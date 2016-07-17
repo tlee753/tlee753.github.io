@@ -16,14 +16,28 @@
     +justify-content(space-around)
 
 
-    [class^="contact-item"]
-      background: $theme-secondary
-      border-radius: 50%
-      height: 100px
-      width: 100px
-      +display(flex)
-      align-items: center
-      text-align: center
+    .contact-item
+      background: $theme-tertiary
+
+      svg
+        background-color: $theme-tertiary
+        border-radius: 50%
+
+        path
+          fill: $theme-primary
+
+        #Oval
+          stroke: $theme-primary
+
+        &:hover
+          path
+            fill: $theme-tertiary
+
+          #Oval
+            fill: $theme-primary
+            stroke: $theme-tertiary
+
+
 
 
 

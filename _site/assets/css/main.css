@@ -690,20 +690,20 @@ hr {
     -o-justify-content: space-around;
     justify-content: space-around;
     -ms-flex-pack: distribute; }
-    #contact .contact-lockup [class^="contact-item"] {
-      background: #b1b1b1;
-      border-radius: 50%;
-      height: 100px;
-      width: 100px;
-      display: -webkit-box;
-      display: -moz-box;
-      display: box;
-      display: -webkit-flex;
-      display: -moz-flex;
-      display: -ms-flexbox;
-      display: flex;
-      align-items: center;
-      text-align: center; }
+    #contact .contact-lockup .contact-item {
+      background: #FFFFFF; }
+      #contact .contact-lockup .contact-item svg {
+        background-color: #FFFFFF;
+        border-radius: 50%; }
+        #contact .contact-lockup .contact-item svg path {
+          fill: #00254c; }
+        #contact .contact-lockup .contact-item svg #Oval {
+          stroke: #00254c; }
+        #contact .contact-lockup .contact-item svg:hover path {
+          fill: #FFFFFF; }
+        #contact .contact-lockup .contact-item svg:hover #Oval {
+          fill: #00254c;
+          stroke: #FFFFFF; }
 
 footer {
   background: #00254c;
