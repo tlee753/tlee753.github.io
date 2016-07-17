@@ -1,4 +1,4 @@
-#contact
+/* #contact
   background:
     image: url('/assets/img/wood-tile.jpg')
     repeat: repeat
@@ -15,4 +15,27 @@
 
     &:hover,
     &:focus
-      background-color: $theme-primary
+      background-color: $theme-primary */
+
+#contact
+  background:
+    color: $theme-tertiary
+
+  .contact-lockup
+    margin: 0 auto
+    +display(flex)
+    +align-items(center)
+    +justify-content(space-around)
+
+
+    [class^="contact-item"]
+      background: $theme-secondary
+      border-radius: 50%
+      height: 100px
+      width: 100px
+      +display(flex)
+      align-items: center
+      text-align: center
+
+
+
