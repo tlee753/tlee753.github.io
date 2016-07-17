@@ -4,11 +4,11 @@
 
     <div class="contact-lockup">
 
-        <div class="contact-item1"> {% include social-icons/skype.html %} </div>
-        <div class="contact-item2"> {% include social-icons/github.html %} </div>
-        <div class="contact-item3"> {% include social-icons/linkedin.html %} </div>
-        <div class="contact-item4"> {% include social-icons/twitter.html %} </div>
-        <div class="contact-item5"> {% include social-icons/facebook.html %} </div>
+        {% for socialmedia in site.data.settings.social %}
+
+            <a href="{{ socialmedia.link }}"><div class="contact-item"> {% include social-icons/{{ socialmedia.icon }}.html %} </div></a>
+
+        {% endfor %}
 
     </div>
 

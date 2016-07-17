@@ -56,7 +56,7 @@ projects:
 social:
 - {icon: 'github', link: 'http://www.github.com/tlee753'}
 - {icon: 'linkedin', link: 'https://www.linkedin/in/tlee753'}
-- {icon: 'email', link: 'tlee753@gatech.edu'}
+- {icon: 'mail', link: 'mailto:tlee753@gatech.edu'}
 - {icon: 'twitter', link: 'https://www.twitter.com/tlee753'}
 - {icon: 'facebook', link: 'http://www.facebook.com/'}
 
