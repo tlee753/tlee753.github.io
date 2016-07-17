@@ -439,6 +439,8 @@ hr {
   height: 0; }
 
 #about .about-title {
+  margin: 0;
+  padding: 15px 0 15px;
   color: #00254c;
   text-align: center; }
 #about .about-me {
@@ -656,6 +658,8 @@ hr {
 #contact {
   background-color: #FFFFFF; }
   #contact .contact-title {
+    margin: 0;
+    padding: 15px 0 15px;
     color: #00254c;
     text-align: center; }
   #contact .contact-lockup {
@@ -941,14 +945,15 @@ header {
     .skill-lockup .skill-unit {
       width: 220px; } }
 #work {
-  background: #FFFFFF; }
+  background-color: #b1b1b1; }
   #work .work-title {
-    margin: 20px auto;
+    margin: 0;
+    padding: 15px 0 15px;
     text-align: center;
     color: #00254c; }
   #work .work-container {
     margin: 0 auto;
-    padding-bottom: 0; }
+    padding-bottom: 30px; }
     #work .work-container::after {
       clear: both;
       content: "";
