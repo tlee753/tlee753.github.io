@@ -653,28 +653,14 @@ hr {
         bottom: 0px;
         left: 0px; }
 
-/* #contact
- * background:
- *   image: url('/assets/img/wood-tile.jpg')
- *   repeat: repeat
- *
- *
- * .temp
- *   text-align: center
- *   color: $theme-tertiary
- *   font:
- *     size: 30px
- *     weight: 400
- *   padding: 85px 0 85px
- *   margin: 0
- *
- *   &:hover,
- *   &:focus
- *     background-color: $theme-primary */
 #contact {
   background-color: #FFFFFF; }
+  #contact .contact-title {
+    color: #00254c;
+    text-align: center; }
   #contact .contact-lockup {
     margin: 0 auto;
+    padding: 10px 0 10px;
     display: -webkit-box;
     display: -moz-box;
     display: box;
