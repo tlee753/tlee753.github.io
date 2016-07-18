@@ -662,6 +662,14 @@ hr {
     padding: 15px 0 15px;
     color: #00254c;
     text-align: center; }
+  #contact .contact-line {
+    border: 4px solid #00254c;
+    width: 40%;
+    margin: 15px auto; }
+  #contact .contact-email {
+    color: #00254c;
+    text-align: center;
+    padding-bottom: 10px; }
   #contact .contact-lockup {
     margin: 0 auto;
     padding: 15px 0 15px;
