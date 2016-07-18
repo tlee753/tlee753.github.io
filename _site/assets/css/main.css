@@ -691,9 +691,10 @@ hr {
     justify-content: space-around;
     -ms-flex-pack: distribute; }
     #contact .contact-lockup a {
-      text-decoration: none; }
+      text-decoration: none;
+      line-height: 0; }
       #contact .contact-lockup a .contact-item {
-        background: gold; }
+        background: none; }
         #contact .contact-lockup a .contact-item svg {
           background-color: #FFFFFF;
           border-radius: 50%; }
