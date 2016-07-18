@@ -21,25 +21,27 @@ $colorlist: #000000 #007BB5 #008BCF #55ACEE #3B5998 #0078D7 #00AFF0 #FE7A15 #BB0
       text-decoration: none
 
       .contact-item
-        background: $theme-tertiary
+        background: gold
 
         svg
           background-color: $theme-tertiary
           border-radius: 50%
 
+          circle
+            stroke: $theme-primary
+            fill: $theme-tertiary
+
           path
             fill: $theme-primary
 
-          #Oval
-            stroke: $theme-primary
-
           &:hover
+            circle
+              stroke: $theme-tertiary
+              fill: $theme-primary
+
             path
               fill: $theme-tertiary
 
-            #Oval
-              fill: $theme-primary
-              stroke: $theme-tertiary
 
       //@each $color in $colorlist
         .socialcolor-#{$color}
@@ -47,19 +49,20 @@ $colorlist: #000000 #007BB5 #008BCF #55ACEE #3B5998 #0078D7 #00AFF0 #FE7A15 #BB0
             background-color: $theme-tertiary
             border-radius: 50%
 
+            circle
+              stroke: #{$color}
+              fill: $theme-tertiary
+
             path
               fill: #{$color}
 
-            #Oval
-              stroke: #{$color}
-
             &:hover
+              circle
+                stroke: $theme-tertiary
+                fill: #{$color}
+
               path
                 fill: $theme-tertiary
-
-              #Oval
-                fill: #{$color}
-                stroke: $theme-tertiary
 
 
 

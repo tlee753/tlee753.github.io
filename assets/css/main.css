@@ -693,19 +693,20 @@ hr {
     #contact .contact-lockup a {
       text-decoration: none; }
       #contact .contact-lockup a .contact-item {
-        background: #FFFFFF; }
+        background: gold; }
         #contact .contact-lockup a .contact-item svg {
           background-color: #FFFFFF;
           border-radius: 50%; }
+          #contact .contact-lockup a .contact-item svg circle {
+            stroke: #00254c;
+            fill: #FFFFFF; }
           #contact .contact-lockup a .contact-item svg path {
             fill: #00254c; }
-          #contact .contact-lockup a .contact-item svg #Oval {
-            stroke: #00254c; }
+          #contact .contact-lockup a .contact-item svg:hover circle {
+            stroke: #FFFFFF;
+            fill: #00254c; }
           #contact .contact-lockup a .contact-item svg:hover path {
             fill: #FFFFFF; }
-          #contact .contact-lockup a .contact-item svg:hover #Oval {
-            fill: #00254c;
-            stroke: #FFFFFF; }
 
 footer {
   background: #00254c;
