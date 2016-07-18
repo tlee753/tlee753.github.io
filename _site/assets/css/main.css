@@ -377,10 +377,10 @@ a {
     color: #40a6ff; }
 
 ::selection {
-  background: #FFF498; }
+  background: #aaddff; }
 
 ::-moz-selection {
-  background: #FFF498; }
+  background: #aaddff; }
 
 img::selection {
   background: transparent; }
@@ -389,7 +389,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #FFF498; }
+  -webkit-tap-highlight-color: #aaddff; }
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
@@ -690,20 +690,22 @@ hr {
     -o-justify-content: space-around;
     justify-content: space-around;
     -ms-flex-pack: distribute; }
-    #contact .contact-lockup .contact-item {
-      background: #FFFFFF; }
-      #contact .contact-lockup .contact-item svg {
-        background-color: #FFFFFF;
-        border-radius: 50%; }
-        #contact .contact-lockup .contact-item svg path {
-          fill: #00254c; }
-        #contact .contact-lockup .contact-item svg #Oval {
-          stroke: #00254c; }
-        #contact .contact-lockup .contact-item svg:hover path {
-          fill: #FFFFFF; }
-        #contact .contact-lockup .contact-item svg:hover #Oval {
-          fill: #00254c;
-          stroke: #FFFFFF; }
+    #contact .contact-lockup a {
+      text-decoration: none; }
+      #contact .contact-lockup a .contact-item {
+        background: #FFFFFF; }
+        #contact .contact-lockup a .contact-item svg {
+          background-color: #FFFFFF;
+          border-radius: 50%; }
+          #contact .contact-lockup a .contact-item svg path {
+            fill: #00254c; }
+          #contact .contact-lockup a .contact-item svg #Oval {
+            stroke: #00254c; }
+          #contact .contact-lockup a .contact-item svg:hover path {
+            fill: #FFFFFF; }
+          #contact .contact-lockup a .contact-item svg:hover #Oval {
+            fill: #00254c;
+            stroke: #FFFFFF; }
 
 footer {
   background: #00254c;

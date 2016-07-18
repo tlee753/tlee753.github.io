@@ -1,3 +1,5 @@
+$colorlist: #000000 #007BB5 #008BCF #55ACEE #3B5998 #0078D7 #00AFF0 #FE7A15 #BB0000 #DD4B39
+
 #contact
   background:
     color: $theme-tertiary
@@ -15,27 +17,49 @@
     +align-items(center)
     +justify-content(space-around)
 
+    a
+      text-decoration: none
 
-    .contact-item
-      background: $theme-tertiary
+      .contact-item
+        background: $theme-tertiary
 
-      svg
-        background-color: $theme-tertiary
-        border-radius: 50%
+        svg
+          background-color: $theme-tertiary
+          border-radius: 50%
 
-        path
-          fill: $theme-primary
-
-        #Oval
-          stroke: $theme-primary
-
-        &:hover
           path
-            fill: $theme-tertiary
+            fill: $theme-primary
 
           #Oval
-            fill: $theme-primary
-            stroke: $theme-tertiary
+            stroke: $theme-primary
+
+          &:hover
+            path
+              fill: $theme-tertiary
+
+            #Oval
+              fill: $theme-primary
+              stroke: $theme-tertiary
+
+      //@each $color in $colorlist
+        .socialcolor-#{$color}
+          svg
+            background-color: $theme-tertiary
+            border-radius: 50%
+
+            path
+              fill: #{$color}
+
+            #Oval
+              stroke: #{$color}
+
+            &:hover
+              path
+                fill: $theme-tertiary
+
+              #Oval
+                fill: #{$color}
+                stroke: $theme-tertiary
 
 
 
