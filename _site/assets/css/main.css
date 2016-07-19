@@ -669,7 +669,8 @@ hr {
   #contact .contact-email {
     color: #00254c;
     text-align: center;
-    padding-bottom: 10px; }
+    padding: 0 0 15px;
+    margin: 0; }
   #contact .contact-lockup {
     margin: 0 auto;
     padding: 15px 0 15px;
@@ -957,12 +958,12 @@ header {
     .skill-lockup .skill-unit {
       width: 220px; } }
 #work {
-  background-color: #b1b1b1; }
+  background-color: #00254c; }
   #work .work-title {
     margin: 0;
     padding: 15px 0 15px;
     text-align: center;
-    color: #00254c; }
+    color: #FFFFFF; }
   #work .work-container {
     margin: 0 auto;
     padding-bottom: 30px; }
