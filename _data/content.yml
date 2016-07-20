@@ -42,12 +42,50 @@ movies:
     description: 'Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.',
     review: ''
 }
+- { title: 'Blood Diamond', image: 'blooddiamond', year: '2006',
+    description: 'A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.',
+    review: ''
+}
+- { title: 'Star Wars: A New Hope', image: 'newhope', year: '1977',
+    description: 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empires world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.',
+    review: ''
+}
+- { title: 'Raiders of the Lost Ark', image: 'raidersark', year: '1981',
+    description: 'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.',
+    review: ''
+}
+- { title: 'Oceans Eleven', image: 'oceanseleven', year: '2001',
+    description: 'Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.',
+    review: ''
+}
+- { title: 'Gran Torino', image: 'grantorino', year: '2008',
+    description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
+    review: ''
+}
+- { title: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+- { title: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+- { title: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+- { title: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+- { title: '', image: '', year: '',
+    description: '',
+    review: ''
+}
 
 
 
-
-
-#- { title: '', image: '', year: '',
-#    description: '',
-#    review: ''
-#}
+- { title: '', image: '', year: '',
+    description: '',
+    review: ''
+}
