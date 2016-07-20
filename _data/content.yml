@@ -62,30 +62,30 @@ movies:
     description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
     review: ''
 }
-- { title: '', image: '', year: '',
-    description: '',
+- { title: 'Rush', image: 'rush', year: '2013',
+    description: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
     review: ''
 }
-- { title: '', image: '', year: '',
-    description: '',
+- { title: 'Jurassic Park', image: 'jurassicpark', year: '1993',
+    description: 'During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.',
     review: ''
 }
-- { title: '', image: '', year: '',
-    description: '',
+- { title: 'Star Wars: The Empire Strikes Back', image: 'empirestrike', year: '1980',
+    description: 'After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.',
     review: ''
 }
-- { title: '', image: '', year: '',
-    description: '',
+- { title: 'Shutter Island', image: 'shutterisland', year: '2010',
+    description: 'A U.S Marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.',
     review: ''
 }
-- { title: '', image: '', year: '',
-    description: '',
+- { title: 'Schindlers List', image: 'schindler', year: '1993',
+    description: 'In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.',
     review: ''
 }
 
 
 
-- { title: '', image: '', year: '',
-    description: '',
-    review: ''
-}
+#- { title: '', image: '', year: '',
+#    description: '',
+#    review: ''
+#}
