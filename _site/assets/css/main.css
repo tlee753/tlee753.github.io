@@ -722,6 +722,18 @@ hr {
           #contact .contact-lockup a .contact-item svg:hover path {
             fill: #FFFFFF; }
 
+@media screen and (max-width: 650px) {
+  #contact .contact-item svg {
+    height: 75px;
+    width: 75px; }
+  #contact .contact-email {
+    font-size: 45px; } }
+@media screen and (max-width: 480px) {
+  #contact .contact-item svg {
+    height: 50px;
+    width: 50px; }
+  #contact .contact-email {
+    font-size: 30px; } }
 footer {
   background: #003166;
   height: 200px;
