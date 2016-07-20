@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+{% for movie in site.data.content.movies %}
+
+    <div class="movie-container">
+        <img src="/assets/img/movies/{{ movie.image }}.jpg"/>
+        <div class="movie-content">
+            <h3 class="movie-title"> {{ movie.title }} </h3>
+            <h4 class="movie-year"> {{ movie.year }} </h4>
+            <p class="movie.descripton"> {{ movie.description }} </p>
+            <p class="movie.review"> {{movie.review }} </p>
+
+        </div>
+    </div>
+
+{% endfor %}
+
+
+<!--
+
+{% for item in site.posts %}
+    {% assign mod = forloop.index | modulo: 2 %}
+    {% if mod == 0 %}
+        //even
+{% else %}
+        //odd
+{% endif %}
+{% endfor %}
+
+-->
