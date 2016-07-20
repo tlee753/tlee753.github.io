@@ -441,7 +441,7 @@ hr {
 #about .about-title {
   margin: 0;
   padding: 15px 0 15px;
-  color: #00254c;
+  color: #003166;
   text-align: center; }
 #about .about-me {
   text-align: center;
@@ -451,7 +451,7 @@ hr {
   font-size: 20px;
   font-weight: 400; }
   #about .about-me strong {
-    color: #00254c; }
+    color: #003166; }
 #about .about-content {
   max-width: 780px;
   display: -webkit-box;
@@ -499,7 +499,7 @@ hr {
     height: 100px;
     width: 100px; }
     #about .about-content [class^="about-item"] path {
-      fill: #00254c; }
+      fill: #003166; }
     #about .about-content [class^="about-item"].about-item1 {
       -webkit-box-ordinal-group: 1;
       -moz-box-ordinal-group: 1;
@@ -610,7 +610,7 @@ hr {
         right: 0px;
         left: 0px;
         height: 100%;
-        background: rgba(0, 37, 76, 0.8);
+        background: rgba(0, 49, 102, 0.8);
         -webkit-transition: all 0.15s ease-out 0s;
         -moz-transition: all 0.15s ease-out 0s;
         transition: all 0.15s ease-out 0s;
@@ -660,17 +660,21 @@ hr {
   #contact .contact-title {
     margin: 0;
     padding: 15px 0 15px;
-    color: #00254c;
+    color: #003166;
     text-align: center; }
   #contact .contact-line {
-    border: 4px solid #00254c;
+    border: 2px solid #003166;
     width: 40%;
     margin: 15px auto; }
   #contact .contact-email {
-    color: #00254c;
+    color: #003166;
     text-align: center;
     padding: 0 0 15px;
-    margin: 0; }
+    margin: 0;
+    font-size: 60px;
+    font-weight: 400; }
+    #contact .contact-email:hover {
+      color: #0057b2; }
   #contact .contact-lockup {
     margin: 0 auto;
     padding: 15px 0 15px;
@@ -708,18 +712,18 @@ hr {
           background-color: #FFFFFF;
           border-radius: 50%; }
           #contact .contact-lockup a .contact-item svg circle {
-            stroke: #00254c;
+            stroke: #003166;
             fill: #FFFFFF; }
           #contact .contact-lockup a .contact-item svg path {
-            fill: #00254c; }
+            fill: #003166; }
           #contact .contact-lockup a .contact-item svg:hover circle {
             stroke: #FFFFFF;
-            fill: #00254c; }
+            fill: #003166; }
           #contact .contact-lockup a .contact-item svg:hover path {
             fill: #FFFFFF; }
 
 footer {
-  background: #00254c;
+  background: #003166;
   height: 200px;
   position: relative;
   background-image: url(/assets/img/ocean.jpg);
@@ -774,7 +778,7 @@ header {
     margin-top: 0px;
     margin-bottom: 10px;
     color: #FFFFFF;
-    text-shadow: 0 0 20px #00254c;
+    text-shadow: 0 0 20px #003166;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-size: 72px;
@@ -783,10 +787,10 @@ header {
       display: inline-block;
       padding: 0.2em 0.5em;
       border: #FFFFFF solid 10px;
-      box-shadow: 0 0 20px #00254c; }
+      box-shadow: 0 0 20px #003166; }
   header .kicker {
     color: #FFFFFF;
-    text-shadow: 0 0 20px #00254c;
+    text-shadow: 0 0 20px #003166;
     text-align: center;
     font-size: 24px;
     font-weight: 700; }
@@ -840,7 +844,7 @@ header {
   z-index: 2;
   width: 100vw;
   text-decoration: none;
-  border-bottom: #00254c solid 2px;
+  border-bottom: #003166 solid 2px;
   margin-right: auto;
   margin-left: auto; }
   #navbar .navbar-logo {
@@ -851,11 +855,11 @@ header {
     padding: 5px 0px 5px 15px; }
   #navbar .navbar-brand {
     text-decoration: none;
-    color: #00254c; }
+    color: #003166; }
   #navbar .navbar-link {
     padding: 100% 0px 100% 0px;
     text-decoration: none;
-    color: #00254c; }
+    color: #003166; }
     #navbar .navbar-link:hover, #navbar .navbar-link:focus {
       color: white; }
   #navbar .navbar-title {
@@ -863,13 +867,13 @@ header {
     position: relative;
     padding-left: 15px;
     height: 100%;
-    color: #00254c;
+    color: #003166;
     font-size: 2.2em;
     font-weight: 700; }
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
-      color: #003e7f; }
+      color: #004a99; }
   #navbar .navbar-item {
-    border-left: #00254c solid 2px;
+    border-left: #003166 solid 2px;
     display: flex;
     align-items: center;
     float: right;
@@ -881,7 +885,7 @@ header {
     font-weight: 400; }
     #navbar .navbar-item:hover, #navbar .navbar-item:focus {
       color: white;
-      background-color: #00254c; }
+      background-color: #003166; }
     #navbar .navbar-item .navbar-center {
       vertical-align: middle;
       display: inline-block; }
@@ -891,7 +895,7 @@ header {
     display: none;
     position: absolute; } }
 #objective {
-  background-color: #00254c;
+  background-color: #003166;
   background-image: url("/assets/img/circuit-tile.png");
   background-repeat: repeat; }
   #objective #objective-text {
@@ -901,7 +905,7 @@ header {
     margin: 0px auto;
     font-size: 20px;
     font-weight: 400;
-    background-color: #00254c; }
+    background-color: #003166; }
 
 #profile {
   background-image: url(/assets/img/profile.jpg);
@@ -939,7 +943,7 @@ header {
         width: 16px;
         margin-right: 8px;
         border-radius: 50%;
-        background-color: #00254c; }
+        background-color: #003166; }
         #skills .skill-lockup .skill-unit .skill-icons span:after {
           content: "";
           display: block;
@@ -958,7 +962,7 @@ header {
     .skill-lockup .skill-unit {
       width: 220px; } }
 #work {
-  background-color: #00254c; }
+  background-color: #003166; }
   #work .work-title {
     margin: 0;
     padding: 15px 0 15px;
@@ -999,7 +1003,7 @@ header {
         right: 0px;
         left: 0px;
         height: 100%;
-        background: rgba(0, 37, 76, 0.8);
+        background: rgba(0, 49, 102, 0.8);
         opacity: 0;
         text-align: center;
         display: -webkit-box;
