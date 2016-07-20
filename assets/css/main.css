@@ -1279,22 +1279,47 @@ header {
 .movie-container {
   height: 300px;
   border-bottom: 2px solid #003166;
-  display: block;
-  position: relative; }
+  margin: 0;
+  padding: 0; }
+  .movie-container::after {
+    clear: both;
+    content: "";
+    display: table; }
   .movie-container .movie-image {
-    background-color: #003166;
+    background-color: #b1b1b1;
+    height: 100%;
+    width: 25%;
+    display: block;
     float: left; }
+    .movie-container .movie-image img {
+      height: 100%;
+      margin: 0 auto;
+      display: block; }
   .movie-container .movie-content {
-    border-bottom: 2px solid red;
-    float: right; }
+    background-color: #FFFFFF;
+    height: 100%;
+    widtH: 75%;
+    display: block;
+    float: left; }
     .movie-container .movie-content .movie-title {
-      float: right;
-      color: #003166; }
+      color: #003166;
+      text-align: center;
+      padding: 0;
+      margin: 10px auto; }
     .movie-container .movie-content .movie-year {
-      color: #b1b1b1; }
+      color: #b1b1b1;
+      text-align: center;
+      padding: 0;
+      margin: 10px auto; }
     .movie-container .movie-content .movie-description {
-      color: red; }
+      color: #003166;
+      text-align: center;
+      padding: 0 5px;
+      margin: 5px auto; }
     .movie-container .movie-content .movie-review {
-      color: teal; }
+      color: #b1b1b1;
+      text-align: center;
+      padding: 0 5px;
+      margin: 5px auto; }
 
 /*# sourceMappingURL=main.css.map */
