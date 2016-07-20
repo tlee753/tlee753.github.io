@@ -2,6 +2,9 @@
 *.iml
 .idea
 
+# Bash Shell
+.sh
+
 # OS X
 .DS_Store
 .AppleDouble
@@ -31,3 +34,5 @@ Icon
 # Old example files
 .old
 .isabel
+
+
