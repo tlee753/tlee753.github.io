@@ -1,18 +1,16 @@
 .movie-container
-  height: 200px
+  height: 300px
   border-bottom: 2px solid $theme-primary
-  border-style: solid
-  display: inline
+  display: block
   position: relative
 
-  img
+  .movie-image
+    background-color: $theme-primary
     float: left
-    display: inline-block
 
   .movie-content
     border-bottom: 2px solid red
     float: right
-    display: inline-block
 
     .movie-title
       float: right
@@ -22,6 +20,8 @@
       color: $theme-secondary
 
     .movie-description
+      color: red
 
     .movie-review
+      color: teal
 
