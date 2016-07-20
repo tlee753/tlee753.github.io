@@ -3,7 +3,7 @@
 .idea
 
 # Bash Shell
-.sh
+*.sh
 
 # OS X
 .DS_Store
