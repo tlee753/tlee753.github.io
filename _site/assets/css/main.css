@@ -734,6 +734,19 @@ hr {
     width: 50px; }
   #contact .contact-email {
     font-size: 30px; } }
+#core {
+  background: radial-gradient(circle, #003166, #b1b1b1, #FFFFFF);
+  height: 200px;
+  overflow: hidden; }
+  #core a h1 {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    margin: 0 auto; }
+    #core a h1:hover {
+      color: #b1b1b1; }
+
 footer {
   background: #003166;
   height: 200px;
@@ -1286,7 +1299,7 @@ header {
     content: "";
     display: table; }
   .movie-container .movie-image {
-    background-color: #b1b1b1;
+    background: linear-gradient(to right, #003166, #b1b1b1, #003166);
     height: 100%;
     width: 25%;
     display: block;
