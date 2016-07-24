@@ -30,16 +30,41 @@
           display: block
           float: left
           width: 25%
+          height: 100%
           margin: 0 auto
+
+          svg
+            background-color: $theme-tertiary
+            border-radius: 50%
+
+            circle
+              stroke: $theme-primary
+              fill: $theme-tertiary
+
+            path
+              fill: $theme-primary
+
+            &:hover
+              circle
+                stroke: $theme-tertiary
+                fill: $theme-primary
+
+              path
+                fill: $theme-tertiary
 
         .contact-content
           display: block
           float: left
           text-align: center
           width: 75%
+          height: 100%
 
-          h3
+          h1
+            padding: 0
+            margin: 0
             color: $theme-primary
+            display: table-cell
+            vertical-align: middle
 
             &:hover
               color: lighten($theme-primary, 15%)
