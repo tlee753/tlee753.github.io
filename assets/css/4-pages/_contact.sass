@@ -9,8 +9,9 @@
     width: 50%
     height: 100%
     background:
-      image: url('/assets/img/profile.jpg')
+      image: url(/assets/img/profile.jpg)
       size: cover
+      position: 30% 50%
 
   #contact-lockup
     display: block
@@ -62,6 +63,9 @@
           text-align: left
           width: 75%
           height: 100%
+          +display(flex)
+          +align-items(center)
+          +justify-content(space-around)
 
           h1
             padding: 0
@@ -73,3 +77,42 @@
 
             &:hover
               color: lighten($theme-primary, 15%)
+
+
+@media screen and (max-width: 780px)
+  #contact-page
+
+    #contact-lockup
+
+      .contact-item
+
+        a
+
+          .contact-content
+
+            h1
+              font:
+                size: 54px
+
+@media screen and (max-width: 480px)
+  #contact-page
+
+    #contact-lockup
+
+      .contact-item
+
+        a
+
+          .contact-socialicon
+            width: 100%
+            svg
+              +size(75px)
+
+
+          .contact-content
+            display: none
+            width: 0%
+            h1
+              font:
+                size: 36px
+
