@@ -1181,6 +1181,42 @@ header {
     width: 0%; }
     #contact-page #contact-lockup .contact-item a .contact-content h1 {
       font-size: 36px; } }
+@media screen and (max-height: 500px) {
+  #contact-page #contact-lockup .contact-item {
+    width: 50%;
+    margin: 0;
+    display: block;
+    float: left;
+    height: calc(100vh / 5); }
+    #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+      height: 75px;
+      width: 75px; }
+    #contact-page #contact-lockup .contact-item a .contact-content h1 {
+      font-size: 36px; } }
+@media screen and (max-height: 500px) and (max-width: 1200px) {
+  #contact-page #contact-lockup .contact-item {
+    width: 50%;
+    margin: 0;
+    display: block;
+    float: left;
+    height: calc(100vh / 5); }
+    #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+      height: 75px;
+      width: 75px; }
+    #contact-page #contact-lockup .contact-item a .contact-content h1 {
+      font-size: 36px; } }
+@media screen and (max-height: 500px) and (max-width: 1000px) {
+  #contact-page #contact-lockup .contact-item {
+    width: 50%;
+    margin: 0;
+    display: block;
+    float: left;
+    height: calc(100vh / 5); }
+    #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+      height: 50px;
+      width: 50px; }
+    #contact-page #contact-lockup .contact-item a .contact-content h1 {
+      font-size: 24px; } }
 #dad-page {
   position: relative;
   background-image: url("/assets/img/dad/brown-plaid.jpg");
