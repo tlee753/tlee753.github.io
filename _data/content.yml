@@ -4,7 +4,7 @@
 movies:
 - { title: 'La Vita e Bella', image: 'lavitaebella', year: '1997',
     description: 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.',
-    review: 'Wonderful love story but an even more amazing sacrifice. This movie is by far the most beautiful I have ever seen, and shall remain above the reest forever.',
+    review: 'Wonderful love story but an even more amazing sacrifice. This movie is by far the most beautiful I have ever seen, and shall remain above the rest forever.',
 }
 - { title: 'Fight Club', image: 'fightclub', year: '1999',
     description: 'An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more...',

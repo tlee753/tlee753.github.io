@@ -5,7 +5,7 @@ menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: 'http://www.tlee753.com'}
 - {name: Blog, link: 'http://www.tlee753.com'}
-- {name: Contact, link: 'http://www.linkedin.com/in/tlee753'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------

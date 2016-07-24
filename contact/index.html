@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div id="contact-page">
+    <div id="contact-image"></div>
+
+    <div id="contact-lockup">
+
+        {% for socialmedia in site.data.settings.social %}
+            <div class="contact-item">
+                <a href="{{ socialmedia.link }}"><div class="contact-socialicon">{% include social-icons/{{ socialmedia.icon }}.html %}</div></a>
+                <a href="{{ socialmedia.link }}"><div class="contact-content"><h3>{{ socialmedia.icon }}</h3></div></a>
+            </div>
+        {% endfor %}
+
+    </div>
+</div>
+

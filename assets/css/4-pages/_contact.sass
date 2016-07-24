@@ -1,0 +1,45 @@
+#contact-page
+  position: relative
+  height: 100vh
+
+  #contact-image
+    display: block
+    float: left
+    width: 50%
+    height: 100%
+    background:
+      image: url('/assets/img/profile.jpg')
+      size: cover
+
+  #contact-lockup
+    display: block
+    float: left
+    width: 50%
+
+    .contact-item
+      position: relative
+      width: 100%
+      height: 20vh
+      +clearfix()
+      display: block
+
+      a
+        text-decoration: none
+
+        .contact-socialicon
+          display: block
+          float: left
+          width: 25%
+          margin: 0 auto
+
+        .contact-content
+          display: block
+          float: left
+          text-align: center
+          width: 75%
+
+          h3
+            color: $theme-primary
+
+            &:hover
+              color: lighten($theme-primary, 15%)
