@@ -7,7 +7,7 @@ layout: default
 
     <div id="contact-lockup">
 
-        {% for socialmedia in site.data.settings.social %}
+        {% for socialmedia in site.data.settings.socialpage %}
             <div class="contact-item">
                 <a href="{{ socialmedia.link }}"><div class="contact-socialicon">{% include social-icons/{{ socialmedia.icon }}.html %}</div></a>
                 <a href="{{ socialmedia.link }}"><div class="contact-content"><h1>{{ socialmedia.icon }}</h1></div></a>
