@@ -166,140 +166,140 @@ movies:
     description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
     review: ''
 }
-- { title: 'The Book Theif', image: 'booktheif', year: '',
-    description: '',
+- { title: 'The Book Theif', image: 'booktheif', year: '2013',
+    description: 'While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.',
     review: ''
 }
-- { title: 'The Book of Eli', image: '', year: '',
-    description: '',
+- { title: 'The Book of Eli', image: 'bookofeli', year: '2010',
+    description: 'A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.',
     review: ''
 }
-- { title: 'The Martian', image: '', year: '',
-    description: '',
+- { title: 'The Martian', image: 'martian', year: '2015',
+    description: 'An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.',
     review: ''
 }
-- { title: 'I Am Legend', image: '', year: '',
-    description: '',
+- { title: 'I Am Legend', image: 'iamlegend', year: '2007',
+    description: 'Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.',
     review: ''
 }
-- { title: 'American Gangster', image: '', year: '',
-    description: '',
+- { title: 'American Gangster', image: 'americangangster', year: '2007',
+    description: 'In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.',
     review: ''
 }
-- { title: 'The Pursuit of Happiness', image: '', year: '',
-    description: '',
+- { title: 'The Pursuit of Happiness', image: 'pursuitofhappiness', year: '2006',
+    description: 'A struggling salesman takes custody of his son as hes poised to begin a life-changing professional endeavor.',
     review: ''
 }
-- { title: 'L.A. Confidential', image: '', year: '',
-    description: '',
+- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
+    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
     review: ''
 }
-- { title: 'Good Will Hunting', image: '', year: '',
-    description: '',
+- { title: 'Good Will Hunting', image: 'goodwillhunting', year: '1997',
+    description: 'Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.',
     review: ''
 }
-- { title: 'Fury', image: '', year: '',
-    description: '',
+- { title: 'Fury', image: 'fury', year: '2014',
+    description: '1945, in the World War II Germany, the tough Sergeant Don "Wardaddy" Collier commands a tank and survives a German attack with his veteran crew.',
     review: ''
 }
-- { title: 'Forest Gump', image: '', year: '',
-    description: '',
+- { title: 'Forrest Gump', image: 'forrestgump', year: '1994',
+    description: 'Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.',
     review: ''
 }
-- { title: 'Terminator 2: Judgement Day', image: '', year: '',
-    description: '',
+- { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
+    description: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.',
     review: ''
 }
-- { title: 'Groundhog Day', image: '', year: '',
-    description: '',
+- { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
+    description: 'A weatherman finds himself living the same day over and over again.',
     review: ''
 }
-- { title: 'Eternal Sunshine of the Spotless Mind', image: '', year: '',
-    description: '',
+- { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
+    description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
     review: ''
 }
-- { title: 'Mission Impossible 2', image: '', year: '',
-    description: '',
+- { title: 'Mission: Impossible II', image: 'missionimpossible2', year: '2000',
+    description: 'A secret agent is sent to Sydney, to find and destroy a genetically modified disease called "Chimera".',
     review: ''
 }
-- { title: 'Spiderman 2', image: '', year: '',
-    description: '',
+- { title: 'Spiderman 2', image: 'spiderman2', year: '2004',
+    description: 'Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.',
     review: ''
 }
-- { title: 'Saving Private Ryan', image: '', year: '',
-    description: '',
+- { title: 'Saving Private Ryan', image: 'savingprivateryan', year: '1998',
+    description: 'Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.',
     review: ''
 }
-- { title: 'Dirty Harry', image: '', year: '',
-    description: '',
+- { title: 'Dirty Harry', image: 'dirtyharry', year: '1971',
+    description: 'When a mad man calling himself "the Scorpio Killer" menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.',
     review: ''
 }
-- { title: 'October Sky', image: '', year: '',
-    description: '',
+- { title: 'October Sky', image: 'octobersky', year: '1999',
+    description: 'The true story of Homer Hickam, a coal miners son who was inspired by the first Sputnik launch to take up rocketry against his fathers wishes.',
     review: ''
 }
-- { title: 'Rocky', image: '', year: '',
-    description: '',
+- { title: 'Rocky', image: 'rocky', year: '1976',
+    description: 'Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.',
     review: ''
 }
-- { title: 'Rocky 4', image: '', year: '',
-    description: '',
+- { title: 'Rocky IV', image: 'rocky4', year: '1985',
+    description: 'After iron man Drago, a highly intimidating 6-foot-5, 261-pound Soviet athlete, kills Apollo Creed in an exhibition match, Rocky comes to the heart of Russia for 15 pile-driving boxing rounds of revenge.',
     review: ''
 }
-- { title: 'Guardians of the Galaxy', image: '', year: '',
-    description: '',
+- { title: 'Guardians of the Galaxy', image: 'guardiansgalaxy', year: '2014',
+    description: 'A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.',
     review: ''
 }
-- { title: 'Iron Man 3', image: '', year: '',
-    description: '',
+- { title: 'Iron Man 3', image: 'ironman3', year: '2013',
+    description: 'When Tony Starks world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.',
     review: ''
 }
-- { title: 'Pirates of the Carribbean: At Worlds End', image: '', year: '',
-    description: '',
+- { title: 'Pirates of the Carribbean: At Worlds End', image: 'atworldsend', year: '2007',
+    description: 'Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.',
     review: ''
 }
-- { title: 'Boyhood', image: '', year: '',
-    description: '',
+- { title: 'Boyhood', image: 'boyhood', year: '2014',
+    description: 'The life of Mason, from early childhood to his arrival at college.',
     review: ''
 }
-- { title: 'Butch Cassidy and the Sundance Kid', image: '', year: '',
-    description: '',
+- { title: 'Butch Cassidy and the Sundance Kid', image: 'butchandsundance', year: '1969',
+    description: 'Two Western bank/train robbers flee to Bolivia when the law gets too close.',
     review: ''
 }
-- { title: 'Braveheart', image: '', year: '',
-    description: '',
+- { title: 'Braveheart', image: 'braveheart', year: '1995',
+    description: 'When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.',
     review: ''
 }
-- { title: 'The Great Escape', image: '', year: '',
-    description: '',
+- { title: 'The Great Escape', image: 'greatescape', year: '1963',
+    description: 'Allied P.O.W.s plan for several hundred of their number to escape from a German camp during World War II.',
     review: ''
 }
-- { title: 'Star Wars: Return of the Jedi', image: '', year: '',
-    description: '',
+- { title: 'Star Wars: Return of the Jedi', image: 'returnofthejedi', year: '1983',
+    description: 'After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.',
     review: ''
 }
-- { title: 'Harry Potter: Order of the Pheonix', image: '', year: '',
-    description: '',
+- { title: 'Harry Potter: Order of the Phoenix', image: 'orderofthephoenix', year: '2007',
+    description: 'With their warning about Lord Voldemorts return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.',
     review: ''
 }
-- { title: 'Harry Potter: Chamber of Secrets', image: '', year: '',
-    description: '',
+- { title: 'Harry Potter: Chamber of Secrets', image: 'chamberofsecrets', year: '2002',
+    description: 'Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.',
     review: ''
 }
-- { title: 'Star Wars: The Force Awakens', image: '', year: '',
-    description: '',
+- { title: 'Star Wars: The Force Awakens', image: 'forceawakens', year: '2015',
+    description: 'Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.',
     review: ''
 }
-- { title: 'The Edge of Tomorrow', image: '', year: '',
-    description: '',
+- { title: 'The Edge of Tomorrow', image: 'edgeoftomorrow', year: '2014',
+    description: 'A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.',
     review: ''
 }
-- { title: 'Oblivion', image: '', year: '',
-    description: '',
+- { title: 'Oblivion', image: 'oblivion', year: '2013',
+    description: 'A veteran assigned to extract Earths remaining resources begins to question what he knows about his mission and himself.',
     review: ''
 }
-- { title: 'E.T. The Extra Terrestrial', image: '', year: '',
-    description: '',
+- { title: 'E.T. The Extra Terrestrial', image: 'etextra', year: '1982',
+    description: 'A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.',
     review: ''
 }
 
