@@ -1088,8 +1088,9 @@ header {
     float: left;
     width: 50%;
     height: 100%;
-    background-image: url("/assets/img/profile.jpg");
-    background-size: cover; }
+    background-image: url(/assets/img/profile.jpg);
+    background-size: cover;
+    background-position: 30% 50%; }
   #contact-page #contact-lockup {
     display: block;
     float: left;
@@ -1132,7 +1133,32 @@ header {
           float: left;
           text-align: left;
           width: 75%;
-          height: 100%; }
+          height: 100%;
+          display: -webkit-box;
+          display: -moz-box;
+          display: box;
+          display: -webkit-flex;
+          display: -moz-flex;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+          -moz-box-align: center;
+          box-align: center;
+          -webkit-align-items: center;
+          -moz-align-items: center;
+          -ms-align-items: center;
+          -o-align-items: center;
+          align-items: center;
+          -ms-flex-align: center;
+          -webkit-box-pack: distribute;
+          -moz-box-pack: distribute;
+          box-pack: distribute;
+          -webkit-justify-content: space-around;
+          -moz-justify-content: space-around;
+          -ms-justify-content: space-around;
+          -o-justify-content: space-around;
+          justify-content: space-around;
+          -ms-flex-pack: distribute; }
           #contact-page #contact-lockup .contact-item a .contact-content h1 {
             padding: 0;
             margin: 0;
@@ -1142,6 +1168,20 @@ header {
             #contact-page #contact-lockup .contact-item a .contact-content h1:hover {
               color: #0057b2; }
 
+@media screen and (max-width: 780px) {
+  #contact-page #contact-lockup .contact-item a .contact-content h1 {
+    font-size: 54px; } }
+@media screen and (max-width: 480px) {
+  #contact-page #contact-lockup .contact-item a .contact-socialicon {
+    width: 100%; }
+    #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+      height: 75px;
+      width: 75px; }
+  #contact-page #contact-lockup .contact-item a .contact-content {
+    display: none;
+    width: 0%; }
+    #contact-page #contact-lockup .contact-item a .contact-content h1 {
+      font-size: 36px; } }
 #dad-page {
   position: relative;
   background-image: url("/assets/img/dad/brown-plaid.jpg");
