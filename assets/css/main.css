@@ -1108,15 +1108,34 @@ header {
           display: block;
           float: left;
           width: 25%;
+          height: 100%;
           margin: 0 auto; }
+          #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+            background-color: #FFFFFF;
+            border-radius: 50%; }
+            #contact-page #contact-lockup .contact-item a .contact-socialicon svg circle {
+              stroke: #003166;
+              fill: #FFFFFF; }
+            #contact-page #contact-lockup .contact-item a .contact-socialicon svg path {
+              fill: #003166; }
+            #contact-page #contact-lockup .contact-item a .contact-socialicon svg:hover circle {
+              stroke: #FFFFFF;
+              fill: #003166; }
+            #contact-page #contact-lockup .contact-item a .contact-socialicon svg:hover path {
+              fill: #FFFFFF; }
         #contact-page #contact-lockup .contact-item a .contact-content {
           display: block;
           float: left;
           text-align: center;
-          width: 75%; }
-          #contact-page #contact-lockup .contact-item a .contact-content h3 {
-            color: #003166; }
-            #contact-page #contact-lockup .contact-item a .contact-content h3:hover {
+          width: 75%;
+          height: 100%; }
+          #contact-page #contact-lockup .contact-item a .contact-content h1 {
+            padding: 0;
+            margin: 0;
+            color: #003166;
+            display: table-cell;
+            vertical-align: middle; }
+            #contact-page #contact-lockup .contact-item a .contact-content h1:hover {
               color: #0057b2; }
 
 #dad-page {
