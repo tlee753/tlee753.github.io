@@ -738,7 +738,7 @@ hr {
       color: rgba(200, 132, 83, 0.9);
       text-shadow: 2px 2px 2px rgba(200, 132, 83, 0.1); }
 #core #movies {
-  background: radial-gradient(circle, #003166, #b1b1b1, #FFFFFF);
+  background: radial-gradient(circle, #003166, #003166, #b1b1b1, #FFFFFF);
   text-align: center;
   line-height: 300px; }
   #core #movies a h1 {

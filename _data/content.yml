@@ -26,10 +26,6 @@ movies:
     description: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.',
     review: ''
 }
-- { title: 'American Beauty', image: 'americanbeauty', year: '1999',
-    description: 'A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughters best friend.',
-    review: ''
-}
 - { title: 'The Dark Knight', image: 'darkknight', year: '2008',
     description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
     review: ''
@@ -38,12 +34,12 @@ movies:
     description: 'When a Roman general is betrayed and his family murdered by an emperors corrupt son, he comes to Rome as a gladiator to seek revenge.',
     review: ''
 }
-- { title: 'Seven', image: 'seven', year: '1995',
-    description: 'Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.',
+- { title: 'American Beauty', image: 'americanbeauty', year: '1999',
+    description: 'A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughters best friend.',
     review: ''
 }
-- { title: 'Blood Diamond', image: 'blooddiamond', year: '2006',
-    description: 'A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.',
+- { title: 'Seven', image: 'seven', year: '1995',
+    description: 'Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.',
     review: ''
 }
 - { title: 'Star Wars: A New Hope', image: 'newhope', year: '1977',
@@ -54,16 +50,12 @@ movies:
     description: 'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.',
     review: ''
 }
-- { title: 'Oceans Eleven', image: 'oceanseleven', year: '2001',
-    description: 'Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.',
-    review: ''
-}
-- { title: 'Gran Torino', image: 'grantorino', year: '2008',
-    description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
-    review: ''
-}
 - { title: 'Rush', image: 'rush', year: '2013',
     description: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
+    review: ''
+}
+- { title: 'Blood Diamond', image: 'blooddiamond', year: '2006',
+    description: 'A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.',
     review: ''
 }
 - { title: 'Jurassic Park', image: 'jurassicpark', year: '1993',
@@ -78,14 +70,99 @@ movies:
     description: 'A U.S Marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.',
     review: ''
 }
+- { title: 'Oceans Eleven', image: 'oceanseleven', year: '2001',
+    description: 'Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.',
+    review: ''
+}
+- { title: 'Gran Torino', image: 'grantorino', year: '2008',
+    description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
+    review: ''
+}
 - { title: 'Schindlers List', image: 'schindler', year: '1993',
     description: 'In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.',
     review: ''
 }
-
-
-
-#- { title: '', image: '', year: '',
-#    description: '',
-#    review: ''
-#}
+- { title: 'Inception', image: 'inception', year: '2010',
+    description: 'A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.',
+    review: ''
+}
+- { title: 'Die Hard', image: 'diehard', year: '1988',
+    description: 'John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.',
+    review: ''
+}
+- { title: 'The Prestige', image: 'prestige', year: '2006',
+    description: 'Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.',
+    review: ''
+}
+- { title: 'The Departed', image: 'departed', year: '2006',
+    description: 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.',
+    review: ''
+}
+- { title: 'Goodfellas', image: 'goodfellas', year: '1990',
+    description: 'Henry Hill and his friends work their way up through the mob hierarchy.',
+    review: ''
+}
+- { title: 'The Pianist', image: 'pianist', year: '2002',
+    description: 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.',
+    review: ''
+}
+- { title: 'Back to the Future', image: 'backtothefuture', year: '1985',
+    description: 'A young man is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.',
+    review: ''
+}
+- { title: 'Heat', image: 'heat', year: '1995',
+    description: 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.',
+    review: ''
+}
+- { title: 'Scarface', image: 'scarface', year: '1983',
+    description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
+    review: ''
+}
+- { title: 'Iron Man', image: 'ironman', year: '2008',
+    description: 'After being held captive in an Afghan cave, a billionaire engineer creates a unique weaponized suit of armor to fight evil.',
+    review: ''
+}
+- { title: 'Interstellar', image: 'interstellar', year: '2014',
+    description: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.',
+    review: ''
+}
+- { title: 'The Matrix', image: 'matrix', year: '1999',
+    description: 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.',
+    review: ''
+}
+- { title: 'Memento', image: 'memento', year: '2000',
+    description: 'A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.',
+    review: ''
+}
+- { title: 'Inglourious Basterds', image: 'inglouriousbasterds', year: '2009',
+    description: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.',
+    review: ''
+}
+- { title: 'The Imitation Game', image: 'imitationgame', year: '2014',
+    description: 'During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.',
+    review: ''
+}
+- { title: 'Indiana Jones: The Last Crusade', image: 'lastcrusade', year: '1989',
+    description: 'When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his fathers footsteps and stop the Nazis.',
+    review: ''
+}
+- { title: 'V for Vendetta', image: 'vforvendetta', year: '2005',
+    description: 'In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.',
+    review: ''
+}
+- { title: 'Silver Linings Playbook', image: 'silverlinings', year: '2012',
+    description: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.',
+    review: ''
+}
+- { title: 'Secondhand Lions', image: 'secondhandlions', year: '2003',
+    description: 'A coming-of-age story about a shy, young boy sent by his irresponsible mother to spend the summer with his wealthy, eccentric uncles in Texas.',
+    review: ''
+}
+- { title: 'Minority Report', image: 'minorityreport', year: '2002',
+    description: 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.',
+    review: ''
+}
+- { title: 'Black Swan', image: 'blackswan', year: '2010',
+    description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
+    review: ''
+}
