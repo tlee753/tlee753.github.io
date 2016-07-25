@@ -364,35 +364,35 @@ movies:
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Death Race', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Captain America: Winter Solider', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Romancing the Stone', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Star Wars: Revenge of the Sith', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Edward Scissorhands', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Radio', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Gattaca', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', image: '', year: '',
+- { title: 'Miracle', image: '', year: '',
     description: '',
     review: ''
 }
