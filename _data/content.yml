@@ -42,7 +42,7 @@ movies:
     description: 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empires world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.',
     review: ''
 }
-- { title: 'Raiders of the Lost Ark', image: 'raidersark', year: '1981',
+- { title: 'Indiana Jones: Raiders of the Lost Ark', image: 'raidersark', year: '1981',
     description: 'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.',
     review: ''
 }
@@ -131,6 +131,14 @@ movies:
     description: 'A young man is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.',
     review: ''
 }
+- { title: 'Minority Report', image: 'minorityreport', year: '2002',
+    description: 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.',
+    review: ''
+}
+- { title: 'The Matrix', image: 'matrix', year: '1999',
+    description: 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.',
+    review: ''
+}
 - { title: 'Heat', image: 'heat', year: '1995',
     description: 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.',
     review: ''
@@ -139,14 +147,11 @@ movies:
     description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
     review: ''
 }
-- { title: 'The Matrix', image: 'matrix', year: '1999',
-    description: 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.',
+- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
+    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
     review: ''
 }
-- { title: 'Goodfellas', image: 'goodfellas', year: '1990',
-    description: 'Henry Hill and his friends work their way up through the mob hierarchy.',
-    review: ''
-}
+
 - { title: 'Memento', image: 'memento', year: '2000',
     description: 'A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.',
     review: ''
@@ -155,18 +160,14 @@ movies:
     description: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.',
     review: ''
 }
-- { title: 'The Imitation Game', image: 'imitationgame', year: '2014',
-    description: 'During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.',
-    review: ''
-}
-- { title: 'Minority Report', image: 'minorityreport', year: '2002',
-    description: 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.',
-    review: ''
-}
+
+
+
 - { title: 'Black Swan', image: 'blackswan', year: '2010',
     description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
     review: ''
 }
+
 - { title: 'The Book Thief', image: 'booktheif', year: '2013',
     description: 'While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.',
     review: ''
@@ -177,18 +178,12 @@ movies:
     review: ''
 }
 
-- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
-    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
-    review: ''
-}
+
 - { title: 'Good Will Hunting', image: 'goodwillhunting', year: '1997',
     description: 'Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.',
     review: ''
 }
-- { title: 'Silver Linings Playbook', image: 'silverlinings', year: '2012',
-    description: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.',
-    review: ''
-}
+
 - { title: 'Star Wars: Return of the Jedi', image: 'returnofthejedi', year: '1983',
     description: 'After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.',
     review: ''
@@ -201,8 +196,17 @@ movies:
     description: 'An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.',
     review: ''
 }
+- { title: 'The Imitation Game', image: 'imitationgame', year: '2014',
+    description: 'During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.',
+    review: ''
+}
 - { title: 'I Am Legend', image: 'iamlegend', year: '2007',
     description: 'Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.',
+    review: ''
+}
+
+- { title: 'Goodfellas', image: 'goodfellas', year: '1990',
+    description: 'Henry Hill and his friends work their way up through the mob hierarchy.',
     review: ''
 }
 - { title: 'Fury', image: 'fury', year: '2014',
@@ -210,18 +214,12 @@ movies:
     review: ''
 }
 
-- { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
-    description: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.',
-    review: ''
-}
+
 - { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
     description: 'A weatherman finds himself living the same day over and over again.',
     review: ''
 }
-- { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
-    description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
-    review: ''
-}
+
 
 - { title: 'Spiderman 2', image: 'spiderman2', year: '2004',
     description: 'Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.',
@@ -248,12 +246,22 @@ movies:
     description: 'When Tony Starks world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.',
     review: ''
 }
-- { title: 'Pirates of the Carribbean: At Worlds End', image: 'atworldsend', year: '2007',
-    description: 'Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.',
-    review: ''
-}
 - { title: 'Boyhood', image: 'boyhood', year: '2014',
     description: 'The life of Mason, from early childhood to his arrival at college.',
+    review: ''
+}
+- { title: 'Silver Linings Playbook', image: 'silverlinings', year: '2012',
+    description: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.',
+    review: ''
+}
+- { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
+    description: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.',
+    review: ''
+}
+
+
+- { title: 'Pirates of the Carribbean: At Worlds End', image: 'atworldsend', year: '2007',
+    description: 'Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.',
     review: ''
 }
 - { title: 'Braveheart', image: 'braveheart', year: '1995',
@@ -277,15 +285,19 @@ movies:
     description: 'With their warning about Lord Voldemorts return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.',
     review: ''
 }
-
-- { title: 'Harry Potter: Chamber of Secrets', image: 'chamberofsecrets', year: '2002',
-    description: 'Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.',
+- { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
+    description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
     review: ''
 }
 - { title: 'Star Wars: The Force Awakens', image: 'forceawakens', year: '2015',
     description: 'Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.',
     review: ''
 }
+- { title: 'Harry Potter: Chamber of Secrets', image: 'chamberofsecrets', year: '2002',
+    description: 'Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.',
+    review: ''
+}
+
 - { title: 'The Edge of Tomorrow', image: 'edgeoftomorrow', year: '2014',
     description: 'A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.',
     review: ''
@@ -294,16 +306,17 @@ movies:
     description: 'A veteran assigned to extract Earths remaining resources begins to question what he knows about his mission and himself.',
     review: ''
 }
-- { title: 'Dirty Harry', image: 'dirtyharry', year: '1971',
-    description: 'When a mad man calling himself "the Scorpio Killer" menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.',
-    review: ''
-}
+
 - { title: 'Forrest Gump', image: 'forrestgump', year: '1994',
     description: 'Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.',
     review: ''
 }
 - { title: 'E.T. The Extra Terrestrial', image: 'etextra', year: '1982',
     description: 'A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.',
+    review: ''
+}
+- { title: 'Dirty Harry', image: 'dirtyharry', year: '1971',
+    description: 'When a mad man calling himself "the Scorpio Killer" menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.',
     review: ''
 }
 - { title: 'Secondhand Lions', image: 'secondhandlions', year: '2003',
