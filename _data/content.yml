@@ -114,7 +114,6 @@ movies:
     description: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.',
     review: ''
 }
-
 - { title: 'Gran Torino', image: 'grantorino', year: '2008',
     description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
     review: ''
@@ -131,12 +130,10 @@ movies:
     description: 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.',
     review: ''
 }
-
 - { title: 'The Pianist', image: 'pianist', year: '2002',
     description: 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.',
     review: ''
 }
-
 - { title: 'The Matrix', image: 'matrix', year: '1999',
     description: 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.',
     review: ''
@@ -157,7 +154,6 @@ movies:
     description: 'A secret agent is sent to Sydney, to find and destroy a genetically modified disease called "Chimera".',
     review: ''
 }
-
 - { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
     description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
     review: ''
@@ -166,19 +162,14 @@ movies:
     description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
     review: ''
 }
-
-
-
 - { title: 'Good Will Hunting', image: 'goodwillhunting', year: '1997',
     description: 'Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.',
     review: ''
 }
-
 - { title: 'Star Wars: Return of the Jedi', image: 'returnofthejedi', year: '1983',
     description: 'After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.',
     review: ''
 }
-
 - { title: 'The Martian', image: 'martian', year: '2015',
     description: 'An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.',
     review: ''
@@ -191,7 +182,6 @@ movies:
     description: 'Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.',
     review: ''
 }
-
 - { title: 'Mission: Impossible', image: 'missionimpossible', year: '1996',
     description: 'An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.',
     review: ''
@@ -228,7 +218,6 @@ movies:
     description: '1945, in the World War II Germany, the tough Sergeant Don "Wardaddy" Collier commands a tank and survives a German attack with his veteran crew.',
     review: ''
 }
-
 - { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
     description: 'A weatherman finds himself living the same day over and over again.',
     review: ''
@@ -257,7 +246,6 @@ movies:
     description: 'A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.',
     review: ''
 }
-
 - { title: 'Boyhood', image: 'boyhood', year: '2014',
     description: 'The life of Mason, from early childhood to his arrival at college.',
     review: ''
@@ -278,13 +266,10 @@ movies:
     description: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.',
     review: ''
 }
-
 - { title: 'Rocky IV', image: 'rocky4', year: '1985',
     description: 'After iron man Drago, a highly intimidating 6-foot-5, 261-pound Soviet athlete, kills Apollo Creed in an exhibition match, Rocky comes to the heart of Russia for 15 pile-driving boxing rounds of revenge.',
     review: ''
 }
-
-
 - { title: 'Pirates of the Carribbean: At Worlds End', image: 'atworldsend', year: '2007',
     description: 'Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.',
     review: ''
@@ -297,7 +282,6 @@ movies:
     description: 'When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.',
     review: ''
 }
-
 - { title: 'The Italian Job', image: 'italianjob', year: '2003',
     description: 'After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.',
     review: ''
@@ -306,17 +290,14 @@ movies:
     description: 'Two Western bank/train robbers flee to Bolivia when the law gets too close.',
     review: ''
 }
-
 - { title: 'The Great Escape', image: 'greatescape', year: '1963',
     description: 'Allied P.O.W.s plan for several hundred of their number to escape from a German camp during World War II.',
     review: ''
 }
-
 - { title: 'Harry Potter: Order of the Phoenix', image: 'orderofthephoenix', year: '2007',
     description: 'With their warning about Lord Voldemorts return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.',
     review: ''
 }
-
 - { title: 'The Edge of Tomorrow', image: 'edgeoftomorrow', year: '2014',
     description: 'A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.',
     review: ''
@@ -325,7 +306,6 @@ movies:
     description: 'A veteran assigned to extract Earths remaining resources begins to question what he knows about his mission and himself.',
     review: ''
 }
-
 - { title: 'Forrest Gump', image: 'forrestgump', year: '1994',
     description: 'Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.',
     review: ''
@@ -354,7 +334,6 @@ movies:
     description: 'King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.',
     review: ''
 }
-
 - { title: 'Star Wars: Revenge of the Sith', image: 'revengeofthesith', year: '2005',
     description: 'During the near end of the clone wars, Darth Sidious has revealed himself and is ready to execute the last part of his plan to rule the Galaxy.',
     review: ''
@@ -371,9 +350,6 @@ movies:
     description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
     review: ''
 }
-
-
-
 - { title: 'War of the Worlds', image: 'waroftheworlds', year: '2005',
     description: 'As Earth is invaded by alien tripod fighting machines, one family fights for survival.',
     review: ''
@@ -382,13 +358,10 @@ movies:
     description: '123 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.',
     review: ''
 }
-
-
 - { title: 'X-Men: First Class', image: 'firstclass', year: '2011',
     description: 'In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III.',
     review: ''
 }
-
 - { title: 'Harry Potter: Chamber of Secrets', image: 'chamberofsecrets', year: '2002',
     description: 'Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.',
     review: ''
@@ -397,7 +370,6 @@ movies:
     description: 'A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"',
     review: ''
 }
-
 - { title: 'Captain America: Winter Solider', image: 'wintersoldier', year: '2014',
     description: 'As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.',
     review: ''
@@ -410,7 +382,6 @@ movies:
     description: 'Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.',
     review: ''
 }
-
 - { title: 'Dirty Harry', image: 'dirtyharry', year: '1971',
     description: 'When a mad man calling himself "the Scorpio Killer" menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.',
     review: ''
