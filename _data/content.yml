@@ -22,10 +22,6 @@ movies:
     description: 'A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.',
     review: 'Unbelievably underated, this sci-fi thriller gets more and more interesting as it goes on. The conflict and plot twists make this movie imortal for me.'
 }
-- { title: 'City of God', image: 'cityofgod', year: '2002',
-    description: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.',
-    review: ''
-}
 - { title: 'The Dark Knight', image: 'darkknight', year: '2008',
     description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
     review: ''
@@ -46,8 +42,16 @@ movies:
     description: 'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.',
     review: ''
 }
+- { title: 'City of God', image: 'cityofgod', year: '2002',
+    description: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.',
+    review: ''
+}
 - { title: 'The Pursuit of Happiness', image: 'pursuitofhappiness', year: '2006',
     description: 'A struggling salesman takes custody of his son as hes poised to begin a life-changing professional endeavor.',
+    review: ''
+}
+- { title: 'Star Wars: The Empire Strikes Back', image: 'empirestrike', year: '1980',
+    description: 'After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.',
     review: ''
 }
 - { title: 'Blood Diamond', image: 'blooddiamond', year: '2006',
@@ -66,10 +70,6 @@ movies:
     description: 'During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.',
     review: ''
 }
-- { title: 'Star Wars: The Empire Strikes Back', image: 'empirestrike', year: '1980',
-    description: 'After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.',
-    review: ''
-}
 - { title: 'Shutter Island', image: 'shutterisland', year: '2010',
     description: 'A U.S Marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.',
     review: ''
@@ -78,20 +78,12 @@ movies:
     description: 'Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.',
     review: ''
 }
-- { title: 'Gran Torino', image: 'grantorino', year: '2008',
-    description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
-    review: ''
-}
-- { title: 'Schindlers List', image: 'schindler', year: '1993',
-    description: 'In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.',
+- { title: 'Casino Royale', image: 'casinoroyale', year: '2006',
+    description: 'Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.',
     review: ''
 }
 - { title: 'Inception', image: 'inception', year: '2010',
     description: 'A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.',
-    review: ''
-}
-- { title: 'Casino Royale', image: 'casinoroyale', year: '2006',
-    description: 'Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.',
     review: ''
 }
 - { title: 'The Prestige', image: 'prestige', year: '2006',
@@ -102,11 +94,18 @@ movies:
     description: 'When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his fathers footsteps and stop the Nazis.',
     review: ''
 }
-- { title: 'Die Hard', image: 'diehard', year: '1988',
-    description: 'John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.',
+- { title: 'V for Vendetta', image: 'vforvendetta', year: '2005',
+    description: 'In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.',
     review: ''
 }
-
+- { title: 'Minority Report', image: 'minorityreport', year: '2002',
+    description: 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.',
+    review: ''
+}
+- { title: 'Schindlers List', image: 'schindler', year: '1993',
+    description: 'In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.',
+    review: ''
+}
 - { title: 'Iron Man', image: 'ironman', year: '2008',
     description: 'After being held captive in an Afghan cave, a billionaire engineer creates a unique weaponized suit of armor to fight evil.',
     review: ''
@@ -115,79 +114,58 @@ movies:
     description: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.',
     review: ''
 }
-- { title: 'V for Vendetta', image: 'vforvendetta', year: '2005',
-    description: 'In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.',
+
+- { title: 'Gran Torino', image: 'grantorino', year: '2008',
+    description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
+    review: ''
+}
+- { title: 'Back to the Future', image: 'backtothefuture', year: '1985',
+    description: 'A young man is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.',
+    review: ''
+}
+- { title: 'Die Hard', image: 'diehard', year: '1988',
+    description: 'John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.',
     review: ''
 }
 - { title: 'The Departed', image: 'departed', year: '2006',
     description: 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.',
     review: ''
 }
+
 - { title: 'The Pianist', image: 'pianist', year: '2002',
     description: 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.',
     review: ''
 }
 
-
-
-
-- { title: 'Back to the Future', image: 'backtothefuture', year: '1985',
-    description: 'A young man is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.',
-    review: ''
-}
-- { title: 'Minority Report', image: 'minorityreport', year: '2002',
-    description: 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.',
-    review: ''
-}
-- { title: 'Mission: Impossible II', image: 'missionimpossible2', year: '2000',
-    description: 'A secret agent is sent to Sydney, to find and destroy a genetically modified disease called "Chimera".',
-    review: ''
-}
 - { title: 'The Matrix', image: 'matrix', year: '1999',
     description: 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.',
-    review: ''
-}
-- { title: 'Heat', image: 'heat', year: '1995',
-    description: 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.',
-    review: ''
-}
-- { title: 'Scarface', image: 'scarface', year: '1983',
-    description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
-    review: ''
-}
-- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
-    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
-    review: ''
-}
-
-- { title: 'Memento', image: 'memento', year: '2000',
-    description: 'A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.',
-    review: ''
-}
-- { title: 'Inglourious Basterds', image: 'inglouriousbasterds', year: '2009',
-    description: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.',
-    review: ''
-}
-
-- { title: 'Black Swan', image: 'blackswan', year: '2010',
-    description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
-    review: ''
-}
-
-- { title: 'The Book Thief', image: 'booktheif', year: '2013',
-    description: 'While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.',
-    review: ''
-}
-
-- { title: 'American Gangster', image: 'americangangster', year: '2007',
-    description: 'In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.',
     review: ''
 }
 - { title: 'Sherlock Holmes: Game of Shadows', image: 'gameofshadows', year: '2011',
     description: 'Sherlock Holmes and his sidekick Dr. Watson join forces to outwit and bring down their fiercest adversary, Professor Moriarty.',
     review: ''
 }
+- { title: 'Inglourious Basterds', image: 'inglouriousbasterds', year: '2009',
+    description: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.',
+    review: ''
+}
+- { title: 'Black Swan', image: 'blackswan', year: '2010',
+    description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
+    review: ''
+}
+- { title: 'Mission: Impossible II', image: 'missionimpossible2', year: '2000',
+    description: 'A secret agent is sent to Sydney, to find and destroy a genetically modified disease called "Chimera".',
+    review: ''
+}
 
+- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
+    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
+    review: ''
+}
+- { title: 'Scarface', image: 'scarface', year: '1983',
+    description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
+    review: ''
+}
 
 
 
@@ -200,10 +178,7 @@ movies:
     description: 'After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.',
     review: ''
 }
-- { title: 'The Book of Eli', image: 'bookofeli', year: '2010',
-    description: 'A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.',
-    review: ''
-}
+
 - { title: 'The Martian', image: 'martian', year: '2015',
     description: 'An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.',
     review: ''
@@ -216,6 +191,7 @@ movies:
     description: 'Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.',
     review: ''
 }
+
 - { title: 'Mission: Impossible', image: 'missionimpossible', year: '1996',
     description: 'An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.',
     review: ''
@@ -224,24 +200,39 @@ movies:
     description: 'A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.',
     review: ''
 }
+- { title: 'Memento', image: 'memento', year: '2000',
+    description: 'A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.',
+    review: ''
+}
+- { title: 'Heat', image: 'heat', year: '1995',
+    description: 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.',
+    review: ''
+}
+- { title: 'The Book Thief', image: 'booktheif', year: '2013',
+    description: 'While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.',
+    review: ''
+}
+- { title: 'American Gangster', image: 'americangangster', year: '2007',
+    description: 'In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.',
+    review: ''
+}
+- { title: 'The Book of Eli', image: 'bookofeli', year: '2010',
+    description: 'A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.',
+    review: ''
+}
 - { title: 'I Am Legend', image: 'iamlegend', year: '2007',
     description: 'Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.',
     review: ''
 }
-
-
 - { title: 'Fury', image: 'fury', year: '2014',
     description: '1945, in the World War II Germany, the tough Sergeant Don "Wardaddy" Collier commands a tank and survives a German attack with his veteran crew.',
     review: ''
 }
 
-
 - { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
     description: 'A weatherman finds himself living the same day over and over again.',
     review: ''
 }
-
-
 - { title: 'Spiderman 2', image: 'spiderman2', year: '2004',
     description: 'Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.',
     review: ''
@@ -266,10 +257,7 @@ movies:
     description: 'A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.',
     review: ''
 }
-- { title: 'Iron Man 3', image: 'ironman3', year: '2013',
-    description: 'When Tony Starks world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.',
-    review: ''
-}
+
 - { title: 'Boyhood', image: 'boyhood', year: '2014',
     description: 'The life of Mason, from early childhood to his arrival at college.',
     review: ''
@@ -282,6 +270,10 @@ movies:
     description: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.',
     review: ''
 }
+- { title: 'Iron Man 3', image: 'ironman3', year: '2013',
+    description: 'When Tony Starks world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.',
+    review: ''
+}
 - { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
     description: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.',
     review: ''
@@ -292,7 +284,10 @@ movies:
     review: ''
 }
 
-
+- { title: 'Deadpool', image: 'deadpool', year: '2016',
+    description: 'A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool.',
+    review: ''
+}
 - { title: 'Pirates of the Carribbean: At Worlds End', image: 'atworldsend', year: '2007',
     description: 'Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.',
     review: ''
@@ -301,10 +296,7 @@ movies:
     description: 'When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.',
     review: ''
 }
-- { title: 'Deadpool', image: 'deadpool', year: '2016',
-    description: 'A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool.',
-    review: ''
-}
+
 - { title: 'The Italian Job', image: 'italianjob', year: '2003',
     description: 'After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.',
     review: ''
@@ -323,12 +315,6 @@ movies:
     description: 'With their warning about Lord Voldemorts return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.',
     review: ''
 }
-- { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
-    description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
-    review: ''
-}
-
-
 
 - { title: 'The Edge of Tomorrow', image: 'edgeoftomorrow', year: '2014',
     description: 'A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.',
@@ -347,7 +333,10 @@ movies:
     description: 'Miracle tells the true story of Herb Brooks (Russell), the player-turned-coach who led the 1980 U.S. Olympic hockey team to victory over the seemingly invincible Russian squad.',
     review: ''
 }
-
+- { title: 'First Blood', image: 'firstblood', year: '1982',
+    description: 'Former Green Beret John Rambo is pursued into the mountains surrounding a small town by a tyrannical sheriff and his deputies, forcing him to survive using his combat skills.',
+    review: ''
+}
 - { title: 'E.T. The Extra Terrestrial', image: 'etextra', year: '1982',
     description: 'A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.',
     review: ''
@@ -356,62 +345,58 @@ movies:
     description: 'A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.',
     review: ''
 }
-
-- { title: 'X-Men: Days of Future Past', image: 'daysoffuturepast', year: '2014',
-    description: 'The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.',
-    review: ''
-}
-- { title: 'War of the Worlds', image: 'waroftheworlds', year: '2005',
-    description: 'As Earth is invaded by alien tripod fighting machines, one family fights for survival.',
-    review: ''
-}
-
-
-- { title: 'Black Hawk Down', image: 'blackhawkdown', year: '2001',
-    description: '123 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.',
-    review: ''
-}
-- { title: 'Valkyrie', image: 'valkyrie', year: '2008',
-    description: 'A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.',
-    review: ''
-}
 - { title: 'Troy', image: 'troy', year: '2004',
     description: 'An adaptation of Homer''s great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.',
-    review: ''
-}
-- { title: 'X-Men: First Class', image: 'firstclass', year: '2011',
-    description: 'In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III.',
-    review: ''
-}
-- { title: 'First Blood', image: 'firstblood', year: '1982',
-    description: 'Former Green Beret John Rambo is pursued into the mountains surrounding a small town by a tyrannical sheriff and his deputies, forcing him to survive using his combat skills.',
-    review: ''
-}
-- { title: 'Harry Potter: Chamber of Secrets', image: 'chamberofsecrets', year: '2002',
-    description: 'Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.',
-    review: ''
-}
-
-- { title: 'The Mask', image: 'mask', year: '1994',
-    description: 'Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.',
     review: ''
 }
 - { title: 'Monty Python and the Holy Grail', image: 'montypython', year: '1975',
     description: 'King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.',
     review: ''
 }
+
 - { title: 'Star Wars: Revenge of the Sith', image: 'revengeofthesith', year: '2005',
     description: 'During the near end of the clone wars, Darth Sidious has revealed himself and is ready to execute the last part of his plan to rule the Galaxy.',
+    review: ''
+}
+- { title: 'X-Men: Days of Future Past', image: 'daysoffuturepast', year: '2014',
+    description: 'The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.',
+    review: ''
+}
+- { title: 'Valkyrie', image: 'valkyrie', year: '2008',
+    description: 'A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.',
+    review: ''
+}
+- { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
+    description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
+    review: ''
+}
+
+
+
+- { title: 'War of the Worlds', image: 'waroftheworlds', year: '2005',
+    description: 'As Earth is invaded by alien tripod fighting machines, one family fights for survival.',
+    review: ''
+}
+- { title: 'Black Hawk Down', image: 'blackhawkdown', year: '2001',
+    description: '123 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.',
+    review: ''
+}
+
+
+- { title: 'X-Men: First Class', image: 'firstclass', year: '2011',
+    description: 'In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III.',
+    review: ''
+}
+
+- { title: 'Harry Potter: Chamber of Secrets', image: 'chamberofsecrets', year: '2002',
+    description: 'Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.',
     review: ''
 }
 - { title: 'Slumdog Millionare', image: 'slumdogmillionare', year: '2008',
     description: 'A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"',
     review: ''
 }
-- { title: 'Lone Survivor', image: 'lonesurvivor', year: '2013',
-    description: 'Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.',
-    review: ''
-}
+
 - { title: 'Captain America: Winter Solider', image: 'wintersoldier', year: '2014',
     description: 'As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.',
     review: ''
@@ -420,9 +405,17 @@ movies:
     description: 'A romance writer sets off to Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure.',
     review: ''
 }
+- { title: 'The Mask', image: 'mask', year: '1994',
+    description: 'Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.',
+    review: ''
+}
 
 - { title: 'Dirty Harry', image: 'dirtyharry', year: '1971',
     description: 'When a mad man calling himself "the Scorpio Killer" menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.',
+    review: ''
+}
+- { title: 'Lone Survivor', image: 'lonesurvivor', year: '2013',
+    description: 'Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.',
     review: ''
 }
 - { title: 'Secondhand Lions', image: 'secondhandlions', year: '2003',
