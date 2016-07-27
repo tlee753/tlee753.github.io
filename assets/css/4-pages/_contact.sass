@@ -27,21 +27,21 @@
       height: calc(100vh / 8 - 50px / 8)
       +clearfix()
 
-      a
-        text-decoration: none
+      .contact-socialicon
+        display: inline-flex
+        justify-content: center
+        width: 25%
+        height: 100%
+        align-self: center
 
-        .contact-socialicon
-          display: inline-flex
-          justify-content: center
-          width: 25%
-          height: 100%
+        a
+          text-decoration: none
           align-self: center
 
           svg
             background-color: $theme-tertiary
             border-radius: 50%
             margin: 0 auto
-            align-self: center
 
             circle
               stroke: $theme-primary
@@ -58,18 +58,20 @@
               path
                 fill: $theme-tertiary
 
-        .contact-content
-          display: inline-flex
-          float: right
-          align-items: center
-          height: 100%
-          width: 75%
+      .contact-content
+        display: inline-flex
+        float: right
+        align-items: center
+        height: 100%
+        width: 75%
+
+        a
+          text-decoration: none
 
           h1
             padding: 0 10px 0
             margin: 0
             color: $theme-primary
-
 
             &:hover
               color: lighten($theme-primary, 15%)
@@ -99,13 +101,11 @@
         height: calc(100vh / 4 - 50px / 4)
         float: left
 
-        a
+        .contact-socialicon
+          width: 100%
 
-          .contact-socialicon
-            width: 100%
-
-          .contact-content
-            display: none
+        .contact-content
+          display: none
 
 @media screen and (max-width: 480px)
   #contact-page
@@ -121,16 +121,16 @@
         height: calc(100vh / 4 - 50px / 4)
         float: left
 
-        a
+        .contact-socialicon
+          width: 100%
 
-          .contact-socialicon
-            width: 100%
+          a
 
             svg
               +size(75px)
 
-          .contact-content
-            display: none
+        .contact-content
+          display: none
 
 /* height media queries */
 
@@ -148,13 +148,11 @@
         height: calc(100vh / 4 - 50px / 4)
         float: left
 
-        a
+        .contact-socialicon
+          width: 100%
 
-          .contact-socialicon
-            width: 100%
-
-          .contact-content
-            display: none
+        .contact-content
+          display: none
 
 @media screen and (max-height: 480px)
   #contact-page
@@ -170,16 +168,16 @@
         height: calc(100vh / 4 - 50px / 4)
         float: left
 
-        a
+        .contact-socialicon
+          width: 100%
 
-          .contact-socialicon
-            width: 100%
+          a
 
             svg
               +size(75px)
 
-          .contact-content
-            display: none
+        .contact-content
+          display: none
 
 @media screen and (max-height: 380px)
   #contact-page
@@ -195,13 +193,13 @@
         height: calc(100vh / 4 - 50px / 4)
         float: left
 
-        a
+        .contact-socialicon
+          width: 100%
 
-          .contact-socialicon
-            width: 100%
+          a
 
             svg
               +size(50px)
 
-          .contact-content
-            display: none
+        .contact-content
+          display: none

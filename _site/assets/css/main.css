@@ -1106,40 +1106,42 @@ header {
         clear: both;
         content: "";
         display: table; }
-      #contact-page #contact-lockup .contact-item a {
-        text-decoration: none; }
-        #contact-page #contact-lockup .contact-item a .contact-socialicon {
-          display: inline-flex;
-          justify-content: center;
-          width: 25%;
-          height: 100%;
+      #contact-page #contact-lockup .contact-item .contact-socialicon {
+        display: inline-flex;
+        justify-content: center;
+        width: 25%;
+        height: 100%;
+        align-self: center; }
+        #contact-page #contact-lockup .contact-item .contact-socialicon a {
+          text-decoration: none;
           align-self: center; }
-          #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+          #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
             background-color: #FFFFFF;
             border-radius: 50%;
-            margin: 0 auto;
-            align-self: center; }
-            #contact-page #contact-lockup .contact-item a .contact-socialicon svg circle {
+            margin: 0 auto; }
+            #contact-page #contact-lockup .contact-item .contact-socialicon a svg circle {
               stroke: #003166;
               fill: #FFFFFF; }
-            #contact-page #contact-lockup .contact-item a .contact-socialicon svg path {
+            #contact-page #contact-lockup .contact-item .contact-socialicon a svg path {
               fill: #003166; }
-            #contact-page #contact-lockup .contact-item a .contact-socialicon svg:hover circle {
+            #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover circle {
               stroke: #FFFFFF;
               fill: #003166; }
-            #contact-page #contact-lockup .contact-item a .contact-socialicon svg:hover path {
+            #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover path {
               fill: #FFFFFF; }
-        #contact-page #contact-lockup .contact-item a .contact-content {
-          display: inline-flex;
-          float: right;
-          align-items: center;
-          height: 100%;
-          width: 75%; }
-          #contact-page #contact-lockup .contact-item a .contact-content h1 {
+      #contact-page #contact-lockup .contact-item .contact-content {
+        display: inline-flex;
+        float: right;
+        align-items: center;
+        height: 100%;
+        width: 75%; }
+        #contact-page #contact-lockup .contact-item .contact-content a {
+          text-decoration: none; }
+          #contact-page #contact-lockup .contact-item .contact-content a h1 {
             padding: 0 10px 0;
             margin: 0;
             color: #003166; }
-            #contact-page #contact-lockup .contact-item a .contact-content h1:hover {
+            #contact-page #contact-lockup .contact-item .contact-content a h1:hover {
               color: #0057b2; }
 
 /* width media queries */
@@ -1157,9 +1159,9 @@ header {
       width: 50%;
       height: calc(100vh / 4 - 50px / 4);
       float: left; }
-      #contact-page #contact-lockup .contact-item a .contact-socialicon {
+      #contact-page #contact-lockup .contact-item .contact-socialicon {
         width: 100%; }
-      #contact-page #contact-lockup .contact-item a .contact-content {
+      #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 @media screen and (max-width: 480px) {
   #contact-page #contact-image {
@@ -1170,12 +1172,12 @@ header {
       width: 50%;
       height: calc(100vh / 4 - 50px / 4);
       float: left; }
-      #contact-page #contact-lockup .contact-item a .contact-socialicon {
+      #contact-page #contact-lockup .contact-item .contact-socialicon {
         width: 100%; }
-        #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+        #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
           height: 75px;
           width: 75px; }
-      #contact-page #contact-lockup .contact-item a .contact-content {
+      #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 /* height media queries */
 @media screen and (max-height: 780px) {
@@ -1187,9 +1189,9 @@ header {
       width: 50%;
       height: calc(100vh / 4 - 50px / 4);
       float: left; }
-      #contact-page #contact-lockup .contact-item a .contact-socialicon {
+      #contact-page #contact-lockup .contact-item .contact-socialicon {
         width: 100%; }
-      #contact-page #contact-lockup .contact-item a .contact-content {
+      #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 @media screen and (max-height: 480px) {
   #contact-page #contact-image {
@@ -1200,12 +1202,12 @@ header {
       width: 50%;
       height: calc(100vh / 4 - 50px / 4);
       float: left; }
-      #contact-page #contact-lockup .contact-item a .contact-socialicon {
+      #contact-page #contact-lockup .contact-item .contact-socialicon {
         width: 100%; }
-        #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+        #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
           height: 75px;
           width: 75px; }
-      #contact-page #contact-lockup .contact-item a .contact-content {
+      #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 @media screen and (max-height: 380px) {
   #contact-page #contact-image {
@@ -1216,12 +1218,12 @@ header {
       width: 50%;
       height: calc(100vh / 4 - 50px / 4);
       float: left; }
-      #contact-page #contact-lockup .contact-item a .contact-socialicon {
+      #contact-page #contact-lockup .contact-item .contact-socialicon {
         width: 100%; }
-        #contact-page #contact-lockup .contact-item a .contact-socialicon svg {
+        #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
           height: 50px;
           width: 50px; }
-      #contact-page #contact-lockup .contact-item a .contact-content {
+      #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 #dad-page {
   position: relative;
