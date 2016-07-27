@@ -90,14 +90,15 @@ interests:
 - {name: Space X, folder: 'coll-14', link: 'http://www.spacex.com/'}
 - {name: John Wooden, folder: 'coll-15', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
 - {name: Dream Car, folder: 'coll-16', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
-- {name: John Oliver, folder: 'coll-17', link: ''}
-- {name: , folder: 'coll-18', link: ''}
-- {name: , folder: 'coll-19', link: ''}
-- {name: , folder: 'coll-20', link: ''}
+- {name: John Oliver, folder: 'coll-17', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
+- {name: Reader's Digest, folder: 'coll-18', link: 'http://www.rd.com/'}
+- {name: Vsauce, folder: 'coll-19', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
+- {name: Khan Acadmey, folder: 'coll-20', link: 'https://www.khanacademy.org/'}
 
 # amazon reviews
 # scott sterling
 # history of japan
+# key and peele
 
 
 #-------------------------------
