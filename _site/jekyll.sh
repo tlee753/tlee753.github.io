@@ -2,4 +2,4 @@
 
 cd ~/Desktop/Github/tlee753.github.io;
 
-jekyll serve;
+jekyll serve --host 0.0.0.0;
