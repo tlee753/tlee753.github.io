@@ -1,5 +1,5 @@
 #contact-page
-  position: relative
+
   height: 100vh
   overflow: hidden
 
@@ -7,7 +7,7 @@
     display: block
     float: left
     width: 50%
-    height: 100%
+    height: 100vh
     background:
       image: url(/assets/img/profile.jpg)
       size: cover
@@ -16,33 +16,32 @@
   #contact-lockup
     display: block
     float: left
+    height: 100vh
     width: 50%
     padding-top: 50px
-    padding-bottom: 50px
+    padding-bottom: 0px
 
     .contact-item
       position: relative
-      width: 100%
-      height: calc(100vh / 8)
+      display: block
+      height: calc(100vh / 8 - 50px / 8)
       +clearfix()
-      +display(flex)
-      +align-items(center)
 
       a
         text-decoration: none
 
         .contact-socialicon
-          display: block
-          float: left
+          display: inline-flex
+          justify-content: center
           width: 25%
           height: 100%
-          +align-items(center)
+          align-self: center
 
           svg
             background-color: $theme-tertiary
             border-radius: 50%
-            display: block
             margin: 0 auto
+            align-self: center
 
             circle
               stroke: $theme-primary
@@ -60,141 +59,149 @@
                 fill: $theme-tertiary
 
         .contact-content
-          display: block
-          float: left
-          text-align: left
-          width: 75%
+          display: inline-flex
+          float: right
+          align-items: center
           height: 100%
+          width: 75%
 
           h1
             padding: 0 10px 0
             margin: 0
-            height: 100%
-            width: 100%
             color: $theme-primary
 
 
             &:hover
               color: lighten($theme-primary, 15%)
 
+/* width media queries */
 
-@media screen and (max-width: 780px)
+@media screen and (max-width: 1220px)
   #contact-page
 
+    #contact-image
+      width: 30%
+
     #contact-lockup
+      width: 70%
 
-      .contact-item
-
-        a
-
-          .contact-content
-
-            h1
-              font:
-                size: 54px
-
-@media screen and (max-width: 480px)
+@media screen and (max-width: 800px)
   #contact-page
 
+    #contact-image
+      width: 50%
+
     #contact-lockup
+      width: 50%
 
       .contact-item
+        width: 50%
+        height: calc(100vh / 4 - 50px / 4)
+        float: left
 
         a
 
           .contact-socialicon
             width: 100%
-            svg
-              +size(75px)
-
 
           .contact-content
             display: none
-            width: 0%
-            h1
-              font:
-                size: 36px
 
-@media screen and (max-height: 500px)
+@media screen and (max-width: 480px)
   #contact-page
 
+    #contact-image
+      width: 50%
+
     #contact-lockup
+      width: 50%
 
       .contact-item
         width: 50%
-        margin: 0
-        display: block
+        height: calc(100vh / 4 - 50px / 4)
         float: left
-        height: calc(100vh / 5)
-
 
         a
 
           .contact-socialicon
+            width: 100%
 
             svg
               +size(75px)
 
-
           .contact-content
+            display: none
 
+/* height media queries */
 
-            h1
-              font:
-                size: 36px
-
-@media screen and (max-height: 500px) and (max-width: 1200px)
+@media screen and (max-height: 780px)
   #contact-page
 
+    #contact-image
+      width: 50%
+
     #contact-lockup
+      width: 50%
 
       .contact-item
         width: 50%
-        margin: 0
-        display: block
+        height: calc(100vh / 4 - 50px / 4)
         float: left
-        height: calc(100vh / 5)
-
 
         a
 
           .contact-socialicon
+            width: 100%
+
+          .contact-content
+            display: none
+
+@media screen and (max-height: 480px)
+  #contact-page
+
+    #contact-image
+      width: 50%
+
+    #contact-lockup
+      width: 50%
+
+      .contact-item
+        width: 50%
+        height: calc(100vh / 4 - 50px / 4)
+        float: left
+
+        a
+
+          .contact-socialicon
+            width: 100%
 
             svg
               +size(75px)
 
-
           .contact-content
+            display: none
 
-
-            h1
-              font:
-                size: 36px
-
-@media screen and (max-height: 500px) and (max-width: 1000px)
+@media screen and (max-height: 380px)
   #contact-page
 
+    #contact-image
+      width: 50%
+
     #contact-lockup
+      width: 50%
 
       .contact-item
         width: 50%
-        margin: 0
-        display: block
+        height: calc(100vh / 4 - 50px / 4)
         float: left
-        height: calc(100vh / 5)
-
 
         a
 
           .contact-socialicon
+            width: 100%
 
             svg
               +size(50px)
 
-
           .contact-content
-
-
-            h1
-              font:
-                size: 24px
+            display: none
