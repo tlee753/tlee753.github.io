@@ -1079,7 +1079,6 @@ header {
         -ms-transform: matrix3d(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
         -o-transform: matrix3d(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
         transform: matrix3d(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
-        opacity: 0;
         -webkit-transition: opacity, 300ms, ease-in, 500ms;
         -moz-transition: opacity, 300ms, ease-in, 500ms;
         transition: opacity, 300ms, ease-in, 500ms; }
