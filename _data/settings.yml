@@ -105,10 +105,10 @@ interests:
 # Collection Section
 
 slider:
-- {name: Northern Tier, image: 'slider-1'}
-- {name: Atlantis, image: 'slider-2'}
-- {name: Georgia Tech, image: 'slider-3'}
 - {name: Atlanta, image: 'slider-4'}
+- {name: Atlantis, image: 'slider-2'}
+- {name: Northern Tier, image: 'slider-1'}
+- {name: Georgia Tech, image: 'slider-3'}
 - {name: Smokey Mountains, image: 'slider-5'}
 
 #cuenca
