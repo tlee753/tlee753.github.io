@@ -8,18 +8,21 @@
   #bucket
     background: radial-gradient(circle, $theme-tertiary,$theme-tertiary, $theme-secondary, $theme-primary)
     text-align: center
-
+    +display(flex)
+    +align-items(center)
+    +justify-content(center)
 
     h3
-      margin: 0 auto
+      display: none
+      margin: 0
       padding: 10px 0 10px
-      position: relative
       font:
         size: 36px
         weight: 700
       color: $theme-primary
 
     #bucket-lockup
+      display: inline
       padding-bottom: 10px
 
       .bucket-complete
@@ -41,21 +44,20 @@
 
   #favorites
     background: radial-gradient(circle, $theme-primary, $theme-primary, $theme-secondary, $theme-tertiary)
-    text-align: center
-    line-height: 300px
+    +display(flex)
+    +align-items(center)
+    +justify-content(space-around)
 
     a
-      width: 100%
-      height: 100%
+      text-decoration: none
 
       h1
-        display: inline-block
         color: white
         margin: 0 auto
-        line-height: normal
+        text-align: center
 
-      &:hover
-        color: $theme-secondary
+        &:hover
+          color: $theme-secondary
 
 @media screen and (max-width: 780px)
   #core
