@@ -999,6 +999,22 @@ header {
     width: 220px; }
     .skill-lockup .skill-unit {
       width: 220px; } }
+#slider {
+  height: 400px;
+  background-image: url(/assets/img/slider/slider-1.jpg);
+  background-position: center center;
+  background-size: cover;
+  display: block;
+  position: relative; }
+  #slider a #slider-title {
+    display: inline-flex;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    align-items: center; }
+    #slider a #slider-title:hover {
+      color: #d7d7d7; }
+
 #work {
   background-color: #003166; }
   #work .work-title {
@@ -1188,8 +1204,8 @@ header {
       #contact-page #contact-lockup .contact-item .contact-socialicon {
         width: 100%; }
         #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
-          height: 75px;
-          width: 75px; }
+          height: 50px;
+          width: 50px; }
       #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 /* height media queries */
