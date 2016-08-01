@@ -36,6 +36,7 @@
       &:hover
         background: fade-out($theme-primary, 0.2)
         color: $theme-tertiary
+        cursor: pointer
 
 
     .left
@@ -45,10 +46,16 @@
       right: 0%
 
     .slider-image
-      margin: auto
-
-      img
-        width: 100%
+      background:
+        size: cover
+        position: center center
+      height: 100%
+      width: 100%
 
       .slider-label
+        position: relative
         text-align: center
+        color: $theme-tertiary
+        background-color: $theme-primary
+        margin: 0
+        padding: 5px
