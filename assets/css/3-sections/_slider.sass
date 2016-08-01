@@ -4,17 +4,17 @@
     image: url(/assets/img/slider/slider-1.jpg)
     position: center center
     size: cover
-  display: block
-  position: relative
+  +display(flex)
+  +align-items(center)
+  +justify-content(space-around)
 
   a
+    text-decoration: none
 
     #slider-title
-      display: inline-flex
       text-align: center
       color: white
       margin: 0 auto
-      align-items: center
 
       &:hover
         color: lighten($theme-secondary, 15%)

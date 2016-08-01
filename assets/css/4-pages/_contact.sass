@@ -127,6 +127,31 @@
           a
 
             svg
+              +size(75px)
+
+        .contact-content
+          display: none
+
+@media screen and (max-width: 360px)
+  #contact-page
+
+    #contact-image
+      width: 50%
+
+    #contact-lockup
+      width: 50%
+
+      .contact-item
+        width: 50%
+        height: calc(100vh / 4 - 50px / 4)
+        float: left
+
+        .contact-socialicon
+          width: 100%
+
+          a
+
+            svg
               +size(50px)
 
         .contact-content
