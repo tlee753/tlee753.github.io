@@ -1,12 +1,6 @@
 #slider
-  height: 400px
-  background:
-    image: url(/assets/img/slider/slider-1.jpg)
-    position: center center
-    size: cover
-  +display(flex)
-  +align-items(center)
-  +justify-content(space-around)
+  background: $theme-secondary
+  padding-bottom: 30px
 
   a
     text-decoration: none
@@ -14,7 +8,23 @@
     #slider-title
       text-align: center
       color: white
-      margin: 0 auto
+      margin: 0
+      padding: 15px 0 15px
+
 
       &:hover
-        color: lighten($theme-secondary, 15%)
+        color: $theme-primary
+
+  #slider-lockup
+    height: 400px
+    background:
+      image: url(/assets/img/slider/slider-4.jpg)
+      position: center center
+      size: cover
+
+    a
+
+    .slider-image
+      +display(flex)
+      +align-items(center)
+      +justify-content(space-around)
