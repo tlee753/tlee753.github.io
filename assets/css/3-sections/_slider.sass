@@ -24,14 +24,19 @@
       position: absolute
       top: 50%
       +size(50px)
-      background-color: white
+      background: fade-out($theme-tertiary, 0.2)
       +display(flex)
       +align-items(center)
       +justify-content(space-around)
-      color: $theme-primary
       font:
         size: 24px
         weight: 700
+      color: $theme-primary
+
+      &:hover
+        background: fade-out($theme-primary, 0.2)
+        color: $theme-tertiary
+
 
     .left
       left: 0%
