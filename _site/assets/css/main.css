@@ -1063,6 +1063,7 @@ header {
     height: 400px;
     overflow: hidden; }
     #slider #slider-lockup .slider-button {
+      z-index: 1;
       position: absolute;
       top: 50%;
       height: 50px;
@@ -1106,18 +1107,24 @@ header {
     #slider #slider-lockup .right {
       right: 0%; }
     #slider #slider-lockup .slider-image {
+      position: relative;
       background-size: cover;
       background-position: center center;
       height: 100%;
       width: 100%; }
       #slider #slider-lockup .slider-image .slider-label {
-        position: relative;
+        position: absolute;
         text-align: center;
+        bottom: 0%;
+        left: 50%;
+        transform: translateX(-50%);
         color: #FFFFFF;
-        background-color: #003166;
+        background-color: rgba(0, 49, 102, 0.8);
         margin: 0;
         padding: 5px 5px 5px 5px;
-        width: 150px; }
+        width: 200px;
+        font-size: 16px;
+        font-weight: 400; }
 
 #work {
   background-color: #003166;
