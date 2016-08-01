@@ -1061,7 +1061,6 @@ header {
         color: #003166; }
   #slider #slider-lockup {
     height: 400px;
-    background: pink;
     overflow: hidden; }
     #slider #slider-lockup .slider-button {
       position: absolute;

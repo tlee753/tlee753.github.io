@@ -4,8 +4,8 @@
 
     <div id="slider-lockup">
 
-        <a class="slider-button left" href="/" onclick=""><</a>
-        <a class="slider-button right" href="/" onclick="">></a>
+        <a class="slider-button left" onclick="plusDivs(-1)"><</a>
+        <a class="slider-button right" onclick="plusDivs(1)">></a>
 
         {% for slide in site.data.settings.slider %}
 
