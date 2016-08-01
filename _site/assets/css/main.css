@@ -1068,7 +1068,7 @@ header {
       top: 50%;
       height: 50px;
       width: 50px;
-      background-color: white;
+      background: rgba(255, 255, 255, 0.8);
       display: -webkit-box;
       display: -moz-box;
       display: box;
@@ -1094,9 +1094,12 @@ header {
       -o-justify-content: space-around;
       justify-content: space-around;
       -ms-flex-pack: distribute;
-      color: #003166;
       font-size: 24px;
-      font-weight: 700; }
+      font-weight: 700;
+      color: #003166; }
+      #slider #slider-lockup .slider-button:hover {
+        background: rgba(0, 49, 102, 0.8);
+        color: #FFFFFF; }
     #slider #slider-lockup .left {
       left: 0%; }
     #slider #slider-lockup .right {
