@@ -20,6 +20,7 @@
     overflow: hidden
 
     .slider-button
+      z-index: 1
       position: absolute
       top: 50%
       +size(50px)
@@ -46,6 +47,7 @@
       right: 0%
 
     .slider-image
+      position: relative
       background:
         size: cover
         position: center center
@@ -53,10 +55,16 @@
       width: 100%
 
       .slider-label
-        position: relative
+        position: absolute
         text-align: center
+        bottom: 0%
+        left: 50%
+        transform: translateX(-50%)
         color: $theme-tertiary
-        background-color: $theme-primary
+        background-color: fade-out($theme-primary, 0.2)
         margin: 0
         padding: 5px 5px 5px 5px
-        width: 150px
+        width: 200px
+        font:
+          size: 16px
+          weight: 400
