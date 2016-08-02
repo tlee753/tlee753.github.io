@@ -106,10 +106,10 @@ interests:
 
 slider:
 - {name: 'Atlanta, Georgia', image: 'slider-1'}
-- {name: 'Cuenca, Ecuador', image: 'slider-2'}
+- {name: 'Galapagos, Ecuador', image: 'slider-2'}
 - {name: 'Santiago, Chile', image: 'slider-3'}
-- {name: 'Border Waters, Canada', image: 'slider-4'}
-- {name: 'Mexico City, Mexico', image: 'slider-5'}
+- {name: 'Cuenca, Ecuador', image: 'slider-4'}
+- {name: 'Border Waters, Canada', image: 'slider-5'}
 
 # france (marseille)
 # grand cayman
