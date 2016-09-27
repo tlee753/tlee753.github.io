@@ -1658,7 +1658,24 @@ header {
     background-size: cover; }
 
 #proj-2 {
-  text-align: center; }
+  height: 80vh; }
+  #proj-2 #proj-2-content {
+    display: block;
+    float: left;
+    text-align: center;
+    width: 50%;
+    height: 100%; }
+    #proj-2 #proj-2-content h3 {
+      color: #003166; }
+    #proj-2 #proj-2-content p {
+      padding: 0 10px; }
+  #proj-2 #proj-2-image {
+    display: block;
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-image: url(/assets/img/work/proj-2/display.jpg);
+    background-size: cover; }
 
 #proj-3 {
   text-align: center; }
