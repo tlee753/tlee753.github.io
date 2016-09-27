@@ -1642,16 +1642,40 @@ header {
       margin: 5px auto; }
 
 #proj-1 {
-  text-align: center; }
+  overflow: hidden;
+  height: 100vh; }
   #proj-1 #proj-1-content {
     display: block;
+    float: left;
     width: 50%;
     height: 100%; }
   #proj-1 #proj-1-image {
     display: block;
+    float: left;
     width: 50%;
     height: 100%;
     background-image: url(/assets/img/work/proj-1/display.jpg);
     background-size: cover; }
+
+#proj-2 {
+  text-align: center; }
+
+#proj-3 {
+  text-align: center; }
+
+#proj-4 {
+  text-align: center; }
+
+#proj-5 {
+  text-align: center; }
+
+#proj-6 {
+  text-align: center; }
+
+#proj-7 {
+  text-align: center; }
+
+#proj-8 {
+  text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
