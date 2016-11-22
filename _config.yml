@@ -12,7 +12,6 @@ url: "http://tlee753.com"
 markdown: kramdown
 
 
-
 # Specify the port jekyll uses to serve locally
 port: 4000
 
