@@ -5,7 +5,7 @@ var $stocks = $("#Stocks"),
 // Get stock data via YQL query
 var getStocks = function () {
 			
-	var wsql = "select * from yahoo.finance.quotes where symbol in ('PWR')",
+	var wsql = "select * from yahoo.finance.quotes where symbol in ('NVDA')",
 			stockYQL = 'http://query.yahooapis.com/v1/public/yql?q='+encodeURIComponent(wsql)+'&env=http%3A%2F%2Fdatatables.org%2Falltables.env&format=json&callback=?';
   
   return $.ajax({
