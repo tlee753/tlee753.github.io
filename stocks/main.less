@@ -1,6 +1,4 @@
-html {
-  height: 100%;
-}
+html { height: 100%; }
 
 body {
   min-height: 100%;
@@ -8,13 +6,13 @@ body {
   align-items: center;
   justify-content: center;
   padding: 1em;
-  background: #eeb057;
+  background: #eee;
 }
 
 #Stocks {
   display: block;
   min-height: 1em;
-  background: #171E2E;
+  background: #000000;
   color: #FFF;
   padding: 20px;
   vertical-align: middle;
@@ -24,25 +22,24 @@ body {
   cursor: pointer;
   font-size: 20px;
   font-family: "Roboto", Helvetica;
+  animation-play-state: paused;
 }
 
-#Stocks b {
-  font-weight: 300;
-}
-
-#Stocks i {
-  font-style: normal;
-}
+#Stocks b { font-weight: 300; }
+#Stocks i { font-style: normal; }
 
 #Stocks .Name,
 #Stocks .Label,
-#Stocks .LastUpdated {
-  font-size: 0.7em;
-  line-height: 1;
-}
+#Stocks .LastUpdated { font-size: 0.7em; line-height: 1; }
 
 #Stocks span {
   white-space: nowrap;
   display: inline-block;
   padding: 0 5px;
 }
+//#Stocks span { display: block; }
+
+#Stocks .Symbol,
+#Stocks .Stat { color: #88bd0a; }
+
+
