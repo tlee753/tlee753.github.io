@@ -9,8 +9,8 @@ layout: default
 
         {% for socialmedia in site.data.settings.socialpage %}
             <div class="contact-item">
-                <div class="contact-socialicon"><a href="{{ socialmedia.link }}">{% include social-icons/{{ socialmedia.icon }}.html %}</a></div>
-                <div class="contact-content"><a href="{{ socialmedia.link }}"><h1>{{ socialmedia.icon }}</h1></a></div>
+                <div class="contact-socialicon"><a href="{{ socialmedia.link }}" style="color:{{ socialmedia.color }};">{% include social-icons/{{ socialmedia.icon }}.html %}</a></div>
+                <div class="contact-content"><a href="{{ socialmedia.link }}" style="color:{{ socialmedia.color }};"><h1>{{ socialmedia.icon }}</h1></a></div>
             </div>
         {% endfor %}
 
