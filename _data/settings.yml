@@ -105,9 +105,9 @@ interests:
 # Collection Section
 
 slider:
-- {name: 'Atlanta, Georgia', image: 'slider-1'}
-- {name: 'Galapagos, Ecuador', image: 'slider-2'}
 - {name: 'Santiago, Chile', image: 'slider-3'}
+- {name: 'Galapagos, Ecuador', image: 'slider-2'}
+- {name: 'Atlanta, Georgia', image: 'slider-1'}
 - {name: 'Cuenca, Ecuador', image: 'slider-4'}
 - {name: 'Border Waters, Canada', image: 'slider-5'}
 
