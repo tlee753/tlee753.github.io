@@ -1109,7 +1109,6 @@ header {
   z-index: 2;
   width: 100vw;
   text-decoration: none;
-  border-bottom: #003166 solid 2px;
   margin-right: auto;
   margin-left: auto; }
   #navbar .navbar-logo {
@@ -1138,7 +1137,6 @@ header {
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
       color: #004a99; }
   #navbar .navbar-item {
-    border-left: #003166 solid 2px;
     display: flex;
     align-items: center;
     float: right;
