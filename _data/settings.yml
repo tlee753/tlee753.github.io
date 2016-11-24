@@ -107,13 +107,13 @@ interests:
 slider:
 - {name: 'Santiago, Chile', image: 'slider-3'}
 - {name: 'Galapagos, Ecuador', image: 'slider-2'}
-- {name: 'Cuenca, Ecuador', image: 'slider-4'}
+- {name: 'Cuenca, Ecuador', image: 'slider-12'}
 - {name: 'Border Waters, Canada', image: 'slider-5'}
-- {name: 'Atlanta, Georgia', image: 'slider-1'}
+- {name: 'Mexico City, Mexico', image: 'slider-13'}
 
+# - {name: 'Atlanta, Georgia', image: 'slider-1'}
 # france (marseille)
 # grand cayman
-
 # niagra falls
 
 
