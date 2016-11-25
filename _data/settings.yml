@@ -75,8 +75,8 @@ socialpage:
 
 interests:
 - {name: How to Win Friends and Influence People, folder: 'coll-1', link: 'https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People'}
-- {name: Wanderers, folder: 'coll-2', link: 'https://vimeo.com/108650530'}
-- {name: Start with Why, folder: 'coll-3', link: 'https://www.youtube.com/watch?v=sioZd3AxmnE'}
+- {name: Wanderers, folder: 'coll-2', link: '/about/wanderers/index.html'}
+- {name: Start with Why, folder: 'coll-3', link: '/about/why/index.html'}
 - {name: Euler Problems, folder: 'coll-4', link: 'https://projecteuler.net/'}
 - {name: My Favorite Movie, folder: 'coll-5', link: 'http://www.imdb.com/title/tt0118799/'}
 - {name: The Boy and the Starfish, folder: 'coll-6', link: 'http://dreamemporium.com/starfish.html'}
