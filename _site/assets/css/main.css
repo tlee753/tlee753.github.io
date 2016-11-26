@@ -1104,7 +1104,7 @@ header {
 #navbar {
   height: 50px;
   position: fixed;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.8);
   background-blend-mode: screen;
   z-index: 2;
   width: 100vw;
@@ -1782,142 +1782,174 @@ header {
       margin: 5px auto; }
 
 #proj-1 {
-  overflow: hidden;
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-1/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
   #proj-1 #proj-1-content {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%; }
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-1 #proj-1-content h3 {
-      padding-left: 10px; }
-  #proj-1 #proj-1-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-1/display.jpg);
-    background-size: cover; }
+      color: #003166;
+      margin: 0; }
+    #proj-1 #proj-1-content div {
+      margin: 0;
+      padding: 0; }
+    #proj-1 #proj-1-content p {
+      padding: 0 10px;
+      margin: 0; }
+    #proj-1 #proj-1-content ul {
+      text-align: left; }
+    #proj-1 #proj-1-content table {
+      margin: 0 auto; }
 
 #proj-2 {
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-2/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
   #proj-2 #proj-2-content {
-    display: block;
-    float: left;
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
-    width: 50%;
-    height: 100%; }
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-2 #proj-2-content h3 {
       color: #003166; }
     #proj-2 #proj-2-content p {
       padding: 0 10px; }
-  #proj-2 #proj-2-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-2/display.jpg);
-    background-size: cover; }
 
 #proj-3 {
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-3/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
   #proj-3 #proj-3-content {
-    display: block;
-    float: left;
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
-    width: 50%;
-    height: 100%; }
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-3 #proj-3-content h3 {
       color: #003166; }
     #proj-3 #proj-3-content p {
       padding: 0 10px; }
-  #proj-3 #proj-3-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-3/display.jpg);
-    background-size: cover; }
 
 #proj-4 {
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-4/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
   #proj-4 #proj-4-content {
-    display: block;
-    float: left;
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
-    width: 50%;
-    height: 100%; }
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-4 #proj-4-content h3 {
       color: #003166; }
     #proj-4 #proj-4-content p {
       padding: 0 10px; }
-  #proj-4 #proj-4-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-4/display.jpg);
-    background-size: cover; }
 
 #proj-5 {
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-5/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
   #proj-5 #proj-5-content {
-    display: block;
-    float: left;
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
-    width: 50%;
-    height: 100%; }
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-5 #proj-5-content h3 {
       color: #003166; }
     #proj-5 #proj-5-content p {
       padding: 0 10px; }
-  #proj-5 #proj-5-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-5/display.jpg);
-    background-size: cover; }
 
 #proj-6 {
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-6/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
   #proj-6 #proj-6-content {
-    display: block;
-    float: left;
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
-    width: 50%;
-    height: 100%; }
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-6 #proj-6-content h3 {
       color: #003166; }
     #proj-6 #proj-6-content p {
       padding: 0 10px; }
-  #proj-6 #proj-6-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-6/display.jpg);
-    background-size: cover; }
 
 #proj-7 {
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-7/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
   #proj-7 #proj-7-content {
-    display: block;
-    float: left;
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
-    width: 50%;
-    height: 100%; }
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-7 #proj-7-content h3 {
       color: #003166; }
     #proj-7 #proj-7-content p {
       padding: 0 10px; }
-  #proj-7 #proj-7-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-7/display.jpg);
-    background-size: cover; }
 
 #proj-8 {
   position: relative;
@@ -1928,7 +1960,7 @@ header {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  padding: 30px;
+  padding: 30px 5px;
   margin: 0; }
   #proj-8 #proj-8-content {
     position: relative;
