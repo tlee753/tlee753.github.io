@@ -1,9 +1,34 @@
 #why-content
   text-align: center
 
+  //-webkit-box-sizing: content-box
+  //-moz-box-sizing: content-box
+  //box-sizing: content-box
+  //width: 320px
+  //height: 320px
+  //border: none
+
+  background: -webkit-linear-gradient(90deg, rgba(255,0,102,0) 20%, rgba(255,0,102,0.0980392) 20%, rgba(255,0,102,0.0980392) 40%, rgba(255,0,102,0.2) 40%, rgba(255,0,102,0.2) 60%, rgba(255,0,102,0.4) 60%, rgba(255,0,102,0.4) 80%, rgba(255,0,102,0.6) 80%), -webkit-linear-gradient(180deg, rgba(255,0,102,0) 20%, rgba(255,0,102,0.0980392) 20%, rgba(255,0,102,0.0980392) 40%, rgba(255,0,102,0.2) 40%, rgba(255,0,102,0.2) 60%, rgba(255,0,102,0.4) 60%, rgba(255,0,102,0.4) 80%, rgba(255,0,102,0.6) 80%), rgb(255, 204, 0)
+  background: -moz-linear-gradient(0deg, rgba(255,0,102,0) 20%, rgba(255,0,102,0.0980392) 20%, rgba(255,0,102,0.0980392) 40%, rgba(255,0,102,0.2) 40%, rgba(255,0,102,0.2) 60%, rgba(255,0,102,0.4) 60%, rgba(255,0,102,0.4) 80%, rgba(255,0,102,0.6) 80%), -moz-linear-gradient(-90deg, rgba(255,0,102,0) 20%, rgba(255,0,102,0.0980392) 20%, rgba(255,0,102,0.0980392) 40%, rgba(255,0,102,0.2) 40%, rgba(255,0,102,0.2) 60%, rgba(255,0,102,0.4) 60%, rgba(255,0,102,0.4) 80%, rgba(255,0,102,0.6) 80%), rgb(255, 204, 0)
+  background: linear-gradient(0deg, rgba(255,0,102,0) 20%, rgba(255,0,102,0.0980392) 20%, rgba(255,0,102,0.0980392) 40%, rgba(255,0,102,0.2) 40%, rgba(255,0,102,0.2) 60%, rgba(255,0,102,0.4) 60%, rgba(255,0,102,0.4) 80%, rgba(255,0,102,0.6) 80%), linear-gradient(-90deg, rgba(255,0,102,0) 20%, rgba(255,0,102,0.0980392) 20%, rgba(255,0,102,0.0980392) 40%, rgba(255,0,102,0.2) 40%, rgba(255,0,102,0.2) 60%, rgba(255,0,102,0.4) 60%, rgba(255,0,102,0.4) 80%, rgba(255,0,102,0.6) 80%), rgb(255, 204, 0)
+  background-position: auto auto
+  -webkit-background-origin: padding-box
+  background-origin: padding-box
+  -webkit-background-clip: border-box
+  background-clip: border-box
+  -webkit-background-size: 100% 100%
+  background-size: 100% 100%
+
 #wanderers-content
-  text-align: center
+  height: 100vh
   background-color: black
   background-image: radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px), radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px), radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px), radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px)
   background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px
   background-position: 0 0, 40px 60px, 130px 270px, 70px 100px
+  display: flex
+  align-items: center
+
+  iframe
+    margin: 0 auto
+    width: 80%
+

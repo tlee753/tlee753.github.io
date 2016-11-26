@@ -380,7 +380,7 @@ input[type="button"] {
   padding: 0 30px;
   color: #555;
   text-align: center;
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 600;
   line-height: 38px;
   letter-spacing: 0.1rem;
@@ -992,7 +992,7 @@ footer {
   position: relative;
   background-image: url(/assets/img/footer.jpg);
   background-size: cover;
-  background-position: top;
+  background-position: 50% 75%;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1400,14 +1400,29 @@ header {
         opacity: 1; }
 
 #why-content {
-  text-align: center; }
+  text-align: center;
+  background: -webkit-linear-gradient(90deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), -webkit-linear-gradient(180deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), #ffcc00;
+  background: -moz-linear-gradient(0deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), -moz-linear-gradient(-90deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), #ffcc00;
+  background: linear-gradient(0deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), linear-gradient(-90deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), #ffcc00;
+  background-position: auto auto;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%; }
 
 #wanderers-content {
-  text-align: center;
+  height: 100vh;
   background-color: black;
   background-image: radial-gradient(white, rgba(255, 255, 255, 0.2) 2px, transparent 40px), radial-gradient(white, rgba(255, 255, 255, 0.15) 1px, transparent 30px), radial-gradient(white, rgba(255, 255, 255, 0.1) 2px, transparent 40px), radial-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.1) 2px, transparent 30px);
   background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
-  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; }
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  display: flex;
+  align-items: center; }
+  #wanderers-content iframe {
+    margin: 0 auto;
+    width: 80%; }
 
 #contact-page {
   height: 100vh;
@@ -1570,38 +1585,6 @@ header {
           width: 50px; }
       #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
-#dad-page {
-  position: relative;
-  background-image: url("/assets/img/dad/brown-plaid.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  width: 100vw;
-  height: 100vh; }
-  #dad-page #dad-title {
-    color: white;
-    text-align: center;
-    font-size: 100px;
-    font-weight: 700;
-    margin: 0;
-    padding-top: 80px; }
-  #dad-page #dad-blurb {
-    color: white;
-    background-color: saddlebrown;
-    text-align: center;
-    font-size: 24px;
-    font-weight: 700;
-    margin: 20px auto;
-    max-width: 600px; }
-  #dad-page #dad-joke {
-    width: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto; }
-
 #isabel-page {
   background: linear-gradient(to bottom right, #00CED1, #FFB6C1, #228B22);
   height: 100%; }
@@ -1751,38 +1734,6 @@ header {
     font-size: 22px; }
   .isabel-poetry .isabel-poem {
     font-size: 16px; } }
-#mom-page {
-  position: relative;
-  background-image: url("/assets/img/mom/ecuador-path.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  width: 100vw;
-  height: 100vh; }
-  #mom-page #mom-title {
-    color: #1ec71e;
-    text-align: center;
-    text-shadow: -2px -2px 0 #FFF, 2px 2px 0 #FFF;
-    font-size: 100px;
-    font-weight: 700;
-    margin: 0;
-    padding-top: 80px; }
-  #mom-page .mom-text {
-    color: lightgreen;
-    text-align: center;
-    font-size: 24px;
-    font-weight: 400;
-    margin: 40px auto;
-    max-width: 600px; }
-  #mom-page #mom-joke {
-    width: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto; }
-
 .movie-container {
   height: 300px;
   overflow: hidden;
@@ -1969,25 +1920,33 @@ header {
     background-size: cover; }
 
 #proj-8 {
-  height: 80vh; }
+  position: relative;
+  background-image: url(/assets/img/work/proj-8/display.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px;
+  margin: 0; }
   #proj-8 #proj-8-content {
-    display: block;
-    float: left;
+    position: relative;
+    background: rgba(255, 255, 255, 0.8);
     text-align: center;
-    width: 50%;
-    height: 100%; }
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
     #proj-8 #proj-8-content h3 {
-      color: #003166; }
+      color: #003166;
+      margin: 0; }
+    #proj-8 #proj-8-content div {
+      margin: 0;
+      padding: 0; }
     #proj-8 #proj-8-content p {
-      padding: 0 10px; }
+      padding: 0 10px;
+      margin: 0; }
     #proj-8 #proj-8-content ul {
       text-align: left; }
-  #proj-8 #proj-8-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100%;
-    background-image: url(/assets/img/work/proj-8/display.jpg);
-    background-size: cover; }
 
 /*# sourceMappingURL=main.css.map */

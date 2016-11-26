@@ -1,28 +1,13 @@
-=begin
-  Jekyll tag to include Markdown text from _includes directory preprocessing with Liquid.
-  Usage:
-    {% markdown <filename> %}
-  Dependency:
-    - kramdown
-=end
-
 module Jekyll
-  class MarkdownTag < Liquid::Tag
+  class MarkdownBlock < Liquid::Block
     def initialize(tag_name, text, tokens)
       super
-      @text = text.strip
     end
     require "kramdown"
     def render(context)
-      tmpl = File.read File.join Dir.pwd, "_includes", @text
-      site = context.registers[:site]
-      tmpl = (Liquid::Template.parse tmpl).render site.site_payload
-      html = Kramdown::Document.new(tmpl).to_html
+      content = super
+      "#{Kramdown::Document.new(content).to_html}"
     end
   end
 end
-Liquid::Template.register_tag('markdown', Jekyll::MarkdownTag)
-
-
-# can also do markdown='1' in div containing include markdown
-# syntax for this plugin is markdown "your file"
+Liquid::Template.register_tag('markdown', Jekyll::MarkdownBlock)
