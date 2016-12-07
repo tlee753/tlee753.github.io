@@ -27,4 +27,18 @@ window.onload = getStockData('twtr');
 
 window.onload = getStockData('rds-a');
 window.onload = getStockData('slb');
+window.onload = getStockData('psx');
 
+window.onload = getStockData('ba');
+
+window.onload = getStockData('cost');
+window.onload = getStockData('ge');
+window.onload = getStockData('t');
+window.onload = getStockData('wmt');
+window.onload = getStockData('vz');
+
+window.onload = getStockData('ma');
+window.onload = getStockData('v');
+
+window.onload = getStockData('f');
+window.onload = getStockData('gm');
