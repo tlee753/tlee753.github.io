@@ -12,6 +12,14 @@ function getStockData(ticker) {
         });
 }
 
+var symbols = ['aapl', 'amd', 'amzn', 'dis', 'ea', 'ibm', 'intc', 'fb', 'msft', 'nflx', 'nvda', 'twtr', 'yhoo', 'rds-a', 'slb', 'psx', 'ba', 'cost', 'ge', 'hon', 'shop', 't', 'wmt', 'vz', 'bac', 'ma', 'town', 'v', 'f', 'gm', 'tsla'];
+
+for (i = 0; i < symbols.length; i++) {
+    window.onload = getStockData(symbols[i]));
+}
+
+
+/*
 window.onload = getStockData('aapl');
 window.onload = getStockData('amd');
 window.onload = getStockData('amzn');
@@ -42,3 +50,4 @@ window.onload = getStockData('v');
 
 window.onload = getStockData('f');
 window.onload = getStockData('gm');
+*/
