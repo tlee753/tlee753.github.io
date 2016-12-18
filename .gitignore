@@ -1,6 +1,7 @@
 # InteliJ Files/Folder
 *.iml
 .idea
+.idea/
 
 # Bash Shell
 *.sh

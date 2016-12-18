@@ -2,4 +2,19 @@
 layout: page
 ---
 
-{% include work.html %}
+<div id="portfolio">
+
+    {% for project in site.data.settings.projects %}
+
+    <a href="/projects/{{ project.folder }}" class="portfolio-unit">
+        <div class="portfolio-background" style="background-image: url(/assets/img/work/{{ project.folder }}/display.jpg);">
+
+        </div>
+        <!--<div class="portfolio-overlay">-->
+            <!--<strong>{{ project.name }}</strong>-->
+        <!--</div>-->
+    </a>
+
+    {% endfor %}
+
+</div>

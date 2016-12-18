@@ -39,6 +39,12 @@ layout: page
             Donec efficitur, velit a pretium porta, eros magna ullamcorper nunc, ut aliquet est quam non ante. In vitae diam justo. Sed accumsan risus non lectus interdum, id commodo erat pellentesque. Mauris convallis maximus turpis, vel sodales ex bibendum in. Etiam in mi enim. Morbi dapibus risus justo, ac pretium quam aliquet id. Cras id accumsan nisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Proin consequat felis erat, nec facilisis mauris ornare id. Curabitur vestibulum non augue ut ornare. Cras congue, tortor eget dignissim feugiat, magna purus tempus lectus, ac placerat leo nisi a nulla. Curabitur sed ligula risus. Integer et arcu elementum, consectetur lectus eget, pulvinar augue.
         </p>
     </div>
-
+    <div style="background-color: #00A2E1">
+        {% for my_page in site.pages %}
+            {% if my_page.title %}
+                <h1><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></h1>
+            {% endif %}
+        {% endfor %}
+    </div>
 
 </section>

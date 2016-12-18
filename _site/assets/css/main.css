@@ -1174,16 +1174,19 @@ header {
   background-image: url(/assets/img/profile.jpg);
   background-size: cover;
   background-position: 30% center;
-  height: 550px; }
+  height: 550px;
+  padding: 180px 0 0; }
   #profile .profile-text {
     text-align: center;
-    max-width: 620px;
-    padding: 100px 20px;
+    max-width: 560px;
     margin: 0 auto;
     font-size: 24px;
     font-weight: 700;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #003166; }
+    #profile .profile-text i {
+      color: #c0b283;
+      text-shadow: 1px 1px 1px white; }
 
 #skills .skill-lockup {
   max-width: 700px;
@@ -1780,6 +1783,40 @@ header {
       text-align: center;
       padding: 0 5px;
       margin: 5px auto; }
+
+#portfolio {
+  margin: 0;
+  padding: 0; }
+  #portfolio .portfolio-unit {
+    margin: 0 auto;
+    display: block;
+    position: relative;
+    padding-top: 15%;
+    cursor: pointer; }
+    #portfolio .portfolio-unit::after {
+      clear: both;
+      content: "";
+      display: table; }
+    #portfolio .portfolio-unit .portfolio-overlay {
+      margin: 0 auto;
+      display: flex;
+      vertical-align: middle;
+      max-width: 360px;
+      background-color: rgba(255, 255, 255, 0.8);
+      color: #003166;
+      font-size: 24px;
+      text-align: center; }
+    #portfolio .portfolio-unit .portfolio-background {
+      position: relative;
+      height: 100%;
+      width: 100%;
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat; }
+      #portfolio .portfolio-unit .portfolio-background:hover {
+        transform: scale(1.2);
+        transition: 1s;
+        overflow: hidden; }
 
 #proj-1 {
   position: relative;
