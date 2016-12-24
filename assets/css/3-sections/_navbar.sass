@@ -2,7 +2,8 @@
   height: 50px
   position: fixed
   //background: linear-gradient(to top, rgba($theme-primary, 0.8) 5%, rgba(white, 0.8), rgba($theme-primary, 0.8))
-  background-color: rgba(white, 0.8)
+  background: linear-gradient(to left, #b9deed, #efefef) //rgba(white, 0.8)
+  opacity: 0.8
   //background: linear-gradient(limegreen, transparent), linear-gradient(90deg, skyblue, transparent), linear-gradient(-90deg, coral, transparent)
   background-blend-mode: screen
   z-index: 2
@@ -13,6 +14,7 @@
   margin-left: auto
 
   .navbar-logo
+    opacity: 1.0
     float: left
     position: relative
     height: 80%
@@ -20,10 +22,12 @@
     padding: 5px 0px 5px 15px
 
   .navbar-brand
+    opacity: 1.0
     text-decoration: none
     color: $theme-primary
 
   .navbar-link
+    opacity: 1.0
     padding: 100% 0px 100% 0px
     text-decoration: none
     color: $theme-primary
@@ -32,6 +36,7 @@
       color: white
 
   .navbar-title
+    opacity: 1.0
     float: left
     position: relative
     padding-left: 15px
@@ -45,6 +50,7 @@
       color: lighten($theme-primary, 10%)
 
   .navbar-item
+    opacity: 1.0
     //border-left: $theme-primary solid 2px
     display: flex
     align-items: center

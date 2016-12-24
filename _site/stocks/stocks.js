@@ -12,33 +12,8 @@ function getStockData(ticker) {
         });
 }
 
-window.onload = getStockData('aapl');
-window.onload = getStockData('amd');
-window.onload = getStockData('amzn');
-window.onload = getStockData('dis');
-window.onload = getStockData('ea');
-window.onload = getStockData('ibm');
-window.onload = getStockData('intc');
-window.onload = getStockData('fb');
-window.onload = getStockData('msft');
-window.onload = getStockData('nflx');
-window.onload = getStockData('nvda');
-window.onload = getStockData('twtr');
+var symbols = ['aapl', 'amd', 'amzn', 'dis', 'ea', 'fb', 'fit', 'goog', 'ibm', 'intc', 'msft', 'nflx', 'nvda', 'twtr', 'txn', 'yhoo', 'cvx', 'rds-a', 'slb', 'psx', 'ba', 'lmt', 'cost', 'ge', 'hon', 'shop', 't', 'wmt', 'vz', 'bac', 'fis', 'ma', 'town', 'v', 'f', 'gm', 'tsla', 'tm'];
 
-window.onload = getStockData('rds-a');
-window.onload = getStockData('slb');
-window.onload = getStockData('psx');
-
-window.onload = getStockData('ba');
-
-window.onload = getStockData('cost');
-window.onload = getStockData('ge');
-window.onload = getStockData('t');
-window.onload = getStockData('wmt');
-window.onload = getStockData('vz');
-
-window.onload = getStockData('ma');
-window.onload = getStockData('v');
-
-window.onload = getStockData('f');
-window.onload = getStockData('gm');
+for (i = 0; i < symbols.length; i++) {
+    window.onload = getStockData(symbols[i]);
+}

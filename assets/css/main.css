@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Century Gothic';
+  font-style: normal;
+  font-weight: 400; }
 /* latin-ext */
 @font-face {
   font-family: 'Lato';
@@ -345,7 +349,7 @@ pre {
     padding-left: 0; }
 
 html {
-  background-color: white;
+  background-color: ghostwhite;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Century Gothic", sans-serif;
@@ -358,7 +362,7 @@ html {
   padding: 0; }
 
 body {
-  background-color: white;
+  background-color: ghostwhite;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Century Gothic", sans-serif;
@@ -679,7 +683,7 @@ hr {
     background-image: url(/assets/img/headshot.jpg);
     background-size: cover; }
   #about .about-content [class^="about-item"] {
-    background: #b1b1b1;
+    background: linear-gradient(45deg, white, #cbcbcb, #b1b1b1);
     border-radius: 50%;
     height: 100px;
     width: 100px; }
@@ -797,7 +801,7 @@ hr {
         #collection .collection-container .collection-unit .collection-overlay strong {
           display: block;
           padding: 0px 20px;
-          color: #FFFFFF;
+          color: ghostwhite;
           font-weight: 400;
           font-size: 24px;
           text-transform: uppercase;
@@ -809,77 +813,75 @@ hr {
         bottom: 0px;
         left: 0px; }
 
-#contact {
-  background-color: #FFFFFF; }
-  #contact .contact-title {
-    margin: 0;
-    padding: 15px 0 15px;
-    color: #003166;
-    text-align: center; }
-    #contact .contact-title a {
-      text-decoration: none;
-      color: #003166; }
-      #contact .contact-title a:hover {
-        color: #0057b2; }
-  #contact .contact-line {
-    border: 2px solid #003166;
-    width: 40%;
-    margin: 15px auto; }
-  #contact .contact-email {
-    color: #003166;
-    text-align: center;
-    padding: 0 0 15px;
-    margin: 0;
-    font-size: 60px;
-    font-weight: 400; }
-    #contact .contact-email:hover {
+#contact .contact-title {
+  margin: 0;
+  padding: 15px 0 15px;
+  color: #003166;
+  text-align: center; }
+  #contact .contact-title a {
+    text-decoration: none;
+    color: #003166; }
+    #contact .contact-title a:hover {
       color: #0057b2; }
-  #contact .contact-lockup {
-    margin: 0 auto;
-    padding: 15px 0 15px;
-    display: -webkit-box;
-    display: -moz-box;
-    display: box;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -moz-box-align: center;
-    box-align: center;
-    -webkit-align-items: center;
-    -moz-align-items: center;
-    -ms-align-items: center;
-    -o-align-items: center;
-    align-items: center;
-    -ms-flex-align: center;
-    -webkit-box-pack: distribute;
-    -moz-box-pack: distribute;
-    box-pack: distribute;
-    -webkit-justify-content: space-around;
-    -moz-justify-content: space-around;
-    -ms-justify-content: space-around;
-    -o-justify-content: space-around;
-    justify-content: space-around;
-    -ms-flex-pack: distribute; }
-    #contact .contact-lockup a {
-      text-decoration: none;
-      line-height: 0; }
-      #contact .contact-lockup a .contact-item {
-        background: none; }
-        #contact .contact-lockup a .contact-item svg {
-          background-color: #FFFFFF;
-          border-radius: 50%; }
-          #contact .contact-lockup a .contact-item svg circle {
-            stroke: #003166;
-            fill: #FFFFFF; }
-          #contact .contact-lockup a .contact-item svg path {
-            fill: #003166; }
-          #contact .contact-lockup a .contact-item svg:hover circle {
-            stroke: #FFFFFF;
-            fill: #003166; }
-          #contact .contact-lockup a .contact-item svg:hover path {
-            fill: #FFFFFF; }
+#contact .contact-line {
+  border: 2px solid #003166;
+  width: 40%;
+  margin: 15px auto; }
+#contact .contact-email {
+  color: #003166;
+  text-align: center;
+  padding: 0 0 15px;
+  margin: 0;
+  font-size: 60px;
+  font-weight: 400; }
+  #contact .contact-email:hover {
+    color: #0057b2; }
+#contact .contact-lockup {
+  margin: 0 auto;
+  padding: 15px 0 15px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  box-align: center;
+  -webkit-align-items: center;
+  -moz-align-items: center;
+  -ms-align-items: center;
+  -o-align-items: center;
+  align-items: center;
+  -ms-flex-align: center;
+  -webkit-box-pack: distribute;
+  -moz-box-pack: distribute;
+  box-pack: distribute;
+  -webkit-justify-content: space-around;
+  -moz-justify-content: space-around;
+  -ms-justify-content: space-around;
+  -o-justify-content: space-around;
+  justify-content: space-around;
+  -ms-flex-pack: distribute; }
+  #contact .contact-lockup a {
+    text-decoration: none;
+    line-height: 0; }
+    #contact .contact-lockup a .contact-item {
+      background: none; }
+      #contact .contact-lockup a .contact-item svg {
+        background-color: ghostwhite;
+        border-radius: 50%; }
+        #contact .contact-lockup a .contact-item svg circle {
+          stroke: #003166;
+          fill: ghostwhite; }
+        #contact .contact-lockup a .contact-item svg path {
+          fill: #003166; }
+        #contact .contact-lockup a .contact-item svg:hover circle {
+          stroke: ghostwhite;
+          fill: #003166; }
+        #contact .contact-lockup a .contact-item svg:hover path {
+          fill: ghostwhite; }
 
 @media screen and (max-width: 650px) {
   #contact .contact-item svg {
@@ -1009,7 +1011,7 @@ footer {
     margin-left: 0px; }
     footer #footer-content nav .footer-link {
       margin-left: 20px;
-      color: #FFFFFF;
+      color: ghostwhite;
       font-size: 20px;
       font-weight: 500; }
       footer #footer-content nav .footer-link:hover, footer #footer-content nav .footer-link:focus {
@@ -1041,7 +1043,7 @@ header {
     padding-top: 300px;
     margin-top: 0px;
     margin-bottom: 10px;
-    color: #FFFFFF;
+    color: ghostwhite;
     text-shadow: 0 0 20px #003166;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -1050,10 +1052,10 @@ header {
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
-      border: #FFFFFF solid 10px;
+      border: ghostwhite solid 10px;
       box-shadow: 0 0 20px #003166; }
   header .kicker {
-    color: #FFFFFF;
+    color: ghostwhite;
     text-shadow: 0 0 20px #003166;
     text-align: center;
     font-size: 24px;
@@ -1064,7 +1066,7 @@ header {
     padding-top: 100px;
     font-size: 54px; }
     header h1 span {
-      border: #FFFFFF solid 8px;
+      border: ghostwhite solid 8px;
       padding: 0.1em 0.25em; }
   header .kicker {
     font-size: 18px; } }
@@ -1074,7 +1076,7 @@ header {
     font-size: 36px;
     letter-spacing: 0.01em; }
     header h1 span {
-      border: #FFFFFF solid 6px;
+      border: ghostwhite solid 6px;
       padding: 0.05em 0.125em; }
   header .kicker {
     font-size: 14px; } }
@@ -1083,7 +1085,7 @@ header {
     padding-top: 60px;
     font-size: 54px; }
     header h1 span {
-      border: #FFFFFF solid 8px;
+      border: ghostwhite solid 8px;
       padding: 0.1em 0.25em; }
   header .kicker {
     font-size: 18px; } }
@@ -1092,7 +1094,7 @@ header {
     padding-top: 60px;
     font-size: 36px; }
     header h1 span {
-      border: #FFFFFF solid 6px;
+      border: ghostwhite solid 6px;
       padding: 0.05em 0.125em; }
   header .kicker {
     font-size: 14px; } }
@@ -1104,7 +1106,8 @@ header {
 #navbar {
   height: 50px;
   position: fixed;
-  background-color: rgba(255, 255, 255, 0.8);
+  background: linear-gradient(to left, #b9deed, #efefef);
+  opacity: 0.8;
   background-blend-mode: screen;
   z-index: 2;
   width: 100vw;
@@ -1112,21 +1115,25 @@ header {
   margin-right: auto;
   margin-left: auto; }
   #navbar .navbar-logo {
+    opacity: 1;
     float: left;
     position: relative;
     height: 80%;
     vertical-align: center;
     padding: 5px 0px 5px 15px; }
   #navbar .navbar-brand {
+    opacity: 1;
     text-decoration: none;
     color: #003166; }
   #navbar .navbar-link {
+    opacity: 1;
     padding: 100% 0px 100% 0px;
     text-decoration: none;
     color: #003166; }
     #navbar .navbar-link:hover, #navbar .navbar-link:focus {
       color: white; }
   #navbar .navbar-title {
+    opacity: 1;
     float: left;
     position: relative;
     padding-left: 15px;
@@ -1137,6 +1144,7 @@ header {
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
       color: #004a99; }
   #navbar .navbar-item {
+    opacity: 1;
     display: flex;
     align-items: center;
     float: right;
@@ -1163,7 +1171,7 @@ header {
   background-repeat: repeat; }
   #objective #objective-text {
     text-align: center;
-    color: #FFFFFF;
+    color: ghostwhite;
     max-width: 620px;
     margin: 0px auto;
     font-size: 20px;
@@ -1182,7 +1190,7 @@ header {
     margin: 0 auto;
     font-size: 24px;
     font-weight: 700;
-    color: #FFFFFF;
+    color: ghostwhite;
     text-shadow: 1px 1px 1px #003166; }
     #profile .profile-text i {
       color: #c0b283;
@@ -1229,28 +1237,31 @@ header {
     .skill-lockup .skill-unit {
       width: 220px; } }
 #slider {
-  background: #b1b1b1;
-  padding-bottom: 30px;
+  background: linear-gradient(to left, ghostwhite, #b1b1b1);
   position: relative; }
-  #slider #slider-title {
-    text-align: center;
-    margin: 0 auto;
-    padding: 15px 0 15px; }
-    #slider #slider-title a {
-      text-decoration: none;
-      color: #FFFFFF; }
-      #slider #slider-title a:hover {
-        color: #003166; }
   #slider #slider-lockup {
     height: 400px;
     overflow: hidden; }
+    #slider #slider-lockup #slider-title {
+      z-index: 2;
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      margin: 0 auto;
+      padding: 15px;
+      background: rgba(0, 49, 102, 0.8); }
+      #slider #slider-lockup #slider-title a {
+        text-decoration: none;
+        color: ghostwhite; }
+        #slider #slider-lockup #slider-title a:hover {
+          color: #b1b1b1; }
     #slider #slider-lockup .slider-button {
       z-index: 1;
       position: absolute;
       top: 50%;
       height: 50px;
       width: 50px;
-      background: rgba(255, 255, 255, 0.8);
+      background: rgba(248, 248, 255, 0.8);
       display: -webkit-box;
       display: -moz-box;
       display: box;
@@ -1282,7 +1293,7 @@ header {
       transform: translateY(-50%); }
       #slider #slider-lockup .slider-button:hover {
         background: rgba(0, 49, 102, 0.8);
-        color: #FFFFFF;
+        color: ghostwhite;
         cursor: pointer; }
     #slider #slider-lockup .left {
       left: 0%; }
@@ -1300,7 +1311,7 @@ header {
         bottom: 0%;
         left: 50%;
         transform: translateX(-50%);
-        color: #FFFFFF;
+        color: ghostwhite;
         background-color: rgba(0, 49, 102, 0.8);
         margin: 0;
         padding: 5px 5px 5px 5px;
@@ -1309,20 +1320,20 @@ header {
         font-weight: 400; }
 
 #work {
-  background-color: #003166;
+  background: linear-gradient(to right, #cbcbcb, #b1b1b1);
   padding-bottom: 30px; }
   #work .work-title {
     margin: 0;
-    padding: 15px 0 15px;
-    text-align: center;
-    color: #FFFFFF; }
+    padding: 15px 0;
+    text-align: center; }
     #work .work-title a {
       text-decoration: none;
-      color: #FFFFFF; }
+      color: #003166; }
       #work .work-title a:hover {
-        color: #d7d7d7; }
+        color: #0057b2; }
   #work .work-container {
-    margin: 0 auto; }
+    margin: 0 auto;
+    padding: 0 10px; }
     #work .work-container::after {
       clear: both;
       content: "";
@@ -1394,7 +1405,7 @@ header {
         #work .work-container .work-unit .work-overlay strong {
           display: block;
           padding: 0 20px;
-          color: #FFFFFF;
+          color: ghostwhite;
           font-weight: 400;
           font-size: 24px;
           text-transform: uppercase;
@@ -1463,19 +1474,19 @@ header {
           text-decoration: none;
           align-self: center; }
           #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
-            background-color: #FFFFFF;
+            background-color: ghostwhite;
             border-radius: 50%;
             margin: 0 auto; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg circle {
               stroke: #003166;
-              fill: #FFFFFF; }
+              fill: ghostwhite; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg path {
               fill: #003166; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover circle {
-              stroke: #FFFFFF;
+              stroke: ghostwhite;
               fill: #003166; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover path {
-              fill: #FFFFFF; }
+              fill: ghostwhite; }
       #contact-page #contact-lockup .contact-item .contact-content {
         display: inline-flex;
         float: right;
@@ -1758,7 +1769,7 @@ header {
       margin: 0 auto;
       display: block; }
   .movie-container .movie-content {
-    background-color: #FFFFFF;
+    background-color: ghostwhite;
     height: 100%;
     widtH: 75%;
     display: block;

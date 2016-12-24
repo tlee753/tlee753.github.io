@@ -1,22 +1,23 @@
 #work
-  background-color: $theme-primary
+  background: linear-gradient(to right, lighten($theme-secondary, 10%), $theme-secondary)
   padding-bottom: 30px
 
   .work-title
     margin: 0
-    padding: 15px 0 15px
+    padding: 15px 0
     text-align: center
-    color: $theme-tertiary
 
     a
       text-decoration: none
-      color: $theme-tertiary
+      color: $theme-primary
 
       &:hover
-        color: lighten($theme-secondary, 15%)
+        color: lighten($theme-primary, 15%)
 
   .work-container
     margin: 0 auto
+    padding: 0 10px
+    //max-width: 1200px
     +clearfix()
 
     .work-unit
