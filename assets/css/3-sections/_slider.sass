@@ -1,23 +1,27 @@
 #slider
-  background: $theme-secondary
-  padding-bottom: 30px
+  background: linear-gradient(to left, ghostwhite, $theme-secondary)
+  //padding-bottom: 30px
   position: relative
-
-  #slider-title
-    text-align: center
-    margin: 0 auto
-    padding: 15px 0 15px
-
-    a
-      text-decoration: none
-      color: $theme-tertiary
-
-      &:hover
-        color: $theme-primary
 
   #slider-lockup
     height: 400px
     overflow: hidden
+
+    #slider-title
+      z-index: 2
+      position: absolute
+      left: 50%
+      transform: translateX(-50%)
+      margin: 0 auto
+      padding: 15px
+      background: fade-out($theme-primary, 0.2)
+
+      a
+        text-decoration: none
+        color: $theme-tertiary
+
+        &:hover
+          color: $theme-secondary
 
     .slider-button
       z-index: 1
