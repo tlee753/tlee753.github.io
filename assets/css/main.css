@@ -1113,8 +1113,7 @@ header {
   width: 100vw;
   text-decoration: none;
   margin-right: auto;
-  margin-left: auto;
-  text-transform: uppercase; }
+  margin-left: auto; }
   #navbar .navbar-logo {
     opacity: 1;
     float: left;
@@ -1127,6 +1126,7 @@ header {
     text-decoration: none;
     color: #193a5d; }
   #navbar .navbar-link {
+    text-transform: uppercase;
     opacity: 1;
     padding: 100% 0px 100% 0px;
     text-decoration: none;
