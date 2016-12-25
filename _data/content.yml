@@ -18,18 +18,6 @@ movies:
     description: 'A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.',
     review: ''
 }
-- { title: 'Sunshine', image: 'sunshine', year: '2007',
-    description: 'A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.',
-    review: 'Unbelievably underated, this sci-fi thriller gets more and more interesting as it goes on. The conflict and plot twists make this movie imortal for me.'
-}
-- { title: 'The Dark Knight', image: 'darkknight', year: '2008',
-    description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
-    review: ''
-}
-- { title: 'Gladiator', image: 'gladiator', year: '2000',
-    description: 'When a Roman general is betrayed and his family murdered by an emperors corrupt son, he comes to Rome as a gladiator to seek revenge.',
-    review: ''
-}
 - { title: 'Rush', image: 'rush', year: '2013',
     description: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
     review: ''
@@ -38,8 +26,20 @@ movies:
     description: 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empires world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.',
     review: ''
 }
+- { title: 'Sunshine', image: 'sunshine', year: '2007',
+    description: 'A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.',
+    review: 'Unbelievably underated, this sci-fi thriller gets more and more interesting as it goes on. The conflict and plot twists make this movie imortal for me.'
+}
+- { title: 'The Dark Knight', image: 'darkknight', year: '2008',
+    description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
+    review: ''
+}
 - { title: 'Indiana Jones: Raiders of the Lost Ark', image: 'raidersark', year: '1981',
     description: 'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.',
+    review: ''
+}
+- { title: 'Gladiator', image: 'gladiator', year: '2000',
+    description: 'When a Roman general is betrayed and his family murdered by an emperors corrupt son, he comes to Rome as a gladiator to seek revenge.',
     review: ''
 }
 - { title: 'City of God', image: 'cityofgod', year: '2002',
