@@ -22,4 +22,4 @@ sass:
   sass_dir: css
   style: :nested
 
-include: ['_pages']
+#include: ['_pages']
