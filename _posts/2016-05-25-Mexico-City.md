@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Mexico Day 1
-date: 2016-05-25 18:23:01
+title: Mexico City
+date: 2016-05-11 12:00:00
 category: Mexico
-permalink: /Mexico/Day-1/
 ---
 
 
