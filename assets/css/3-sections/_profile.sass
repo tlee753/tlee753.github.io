@@ -1,12 +1,22 @@
 #profile
-  background:
-    image: url(/assets/img/profile.jpg)
-    size: cover
-    position: 30% center
-  height: 550px
-  padding: 180px 0 0
+  height: 800px
+  width: 100%
+
+  #profile-background
+    position: fixed
+    background:
+      image: url(/assets/img/profile.jpg)
+      size: cover
+      position: 50% center
+    height: 100%
+    width: 100%
 
   .profile-text
+    z-index: 2
+    position: absolute
+    left: 50%
+    top: 12%
+    transform: translateX(-50%)
     text-align: center
     max-width: 560px
     margin: 0 auto

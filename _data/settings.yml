@@ -78,7 +78,7 @@ interests:
 - {name: Wanderers, folder: 'coll-2', link: '/about/wanderers/index.html'}
 - {name: Start with Why, folder: 'coll-3', link: '/about/why/index.html'}
 - {name: Euler Problems, folder: 'coll-4', link: 'https://projecteuler.net/'}
-- {name: My Favorite Movie, folder: 'coll-5', link: 'http://www.imdb.com/title/tt0118799/'}
+- {name: My Favorite Movies, folder: 'coll-5', link: '/core/movies/'}
 - {name: The Boy and the Starfish, folder: 'coll-6', link: 'http://dreamemporium.com/starfish.html'}
 - {name: UNICEF, folder: 'coll-7', link: 'http://www.unicef.org/'}
 - {name: Calvin and Hobbes, folder: 'coll-8', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
