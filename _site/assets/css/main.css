@@ -1439,6 +1439,14 @@ header {
     margin: 0 auto;
     width: 80%; }
 
+.post-list h2 {
+  margin-bottom: 5px; }
+  .post-list h2 a {
+    color: #003166;
+    text-decoration: none; }
+.post-list p {
+  margin: 5px auto; }
+
 #contact-page {
   height: 100vh;
   overflow: hidden; }
