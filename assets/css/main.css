@@ -1258,7 +1258,7 @@ header {
       left: 50%;
       transform: translateX(-50%);
       margin: 0 auto;
-      padding: 15px;
+      padding: 10px 20px;
       background: rgba(25, 58, 93, 0.8); }
       #slider #slider-lockup #slider-title a {
         text-decoration: none;
