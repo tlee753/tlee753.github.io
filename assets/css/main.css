@@ -1850,7 +1850,7 @@ header {
         overflow: hidden; }
     #portfolio .portfolio-unit .portfolio-overlay {
       position: absolute;
-      max-width: 360px;
+      max-width: 480px;
       background-color: rgba(255, 255, 255, 0.8);
       color: #193a5d;
       font-size: 24px;
