@@ -1856,7 +1856,8 @@ header {
       text-align: center;
       left: 50%;
       bottom: 0%;
-      transform: translateX(-50%); }
+      transform: translateX(-50%);
+      padding: 5px; }
 
 #proj-1 {
   position: relative;
