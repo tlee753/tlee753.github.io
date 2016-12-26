@@ -1203,7 +1203,7 @@ header {
     color: ghostwhite;
     text-shadow: 1px 1px 1px #193a5d; }
     #profile .profile-text i {
-      color: #c0b283;
+      color: #193a5d;
       text-shadow: 1px 1px 1px white; }
 
 #skills .skill-lockup {
@@ -1444,6 +1444,18 @@ header {
   #wanderers-content iframe {
     margin: 0 auto;
     width: 80%; }
+
+#starfish-content {
+  max-width: 1000px;
+  background: linear-gradient(45deg, #f75940, #9beaf5);
+  margin: 10px auto; }
+  #starfish-content h3 {
+    padding: 10px 0 10px 10px;
+    margin: 0; }
+  #starfish-content p {
+    padding: 0 10px 10px;
+    margin: 0;
+    text-align: center; }
 
 .post-list h2 {
   margin-bottom: 5px; }

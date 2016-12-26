@@ -79,8 +79,8 @@ interests:
 - {name: Start with Why, folder: 'coll-3', link: '/about/why/index.html'}
 - {name: Euler Problems, folder: 'coll-4', link: 'https://projecteuler.net/'}
 - {name: My Favorite Movies, folder: 'coll-5', link: '/core/movies/'}
-- {name: The Boy and the Starfish, folder: 'coll-6', link: 'http://dreamemporium.com/starfish.html'}
-- {name: UNICEF, folder: 'coll-7', link: 'http://www.unicef.org/'}
+- {name: The Boy and the Starfish, folder: 'coll-6', link: '/about/starfish/'}
+- {name: Georgia Tech UNICEF, folder: 'coll-7', link: 'http://www.unicef.gatech.edu/'}
 - {name: Calvin and Hobbes, folder: 'coll-8', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
 - {name: Stockfish vs Komodo Chess Engines, folder: 'coll-9', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
 - {name: Star Wars, folder: 'coll-10', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
