@@ -1832,7 +1832,8 @@ header {
     display: flex;
     position: relative;
     cursor: pointer;
-    overflow: hidden; }
+    overflow: hidden;
+    min-height: 200px; }
     #portfolio .portfolio-unit::after {
       clear: both;
       content: "";
