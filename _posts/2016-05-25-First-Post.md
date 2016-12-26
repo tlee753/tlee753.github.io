@@ -18,4 +18,4 @@ print_hi('Tyler')
 # prints 'Hi, Tyler' to STDOUT
 {% endhighlight %}
 
-> “It is not our abilities that show what we truly are. It is our choices.” - Albus Dumbledore
+> “Next Play" - Coach K
