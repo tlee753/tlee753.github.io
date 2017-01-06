@@ -19,3 +19,5 @@ print_hi('Tyler')
 {% endhighlight %}
 
 > “Next Play" - Coach K
+
+![favicon](/favicon.ico)
