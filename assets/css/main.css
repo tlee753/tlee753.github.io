@@ -1253,6 +1253,7 @@ header {
     height: 400px;
     overflow: hidden; }
     #slider #slider-lockup #slider-title {
+      text-align: center;
       z-index: 1;
       position: absolute;
       left: 50%;
@@ -1330,7 +1331,6 @@ header {
         font-weight: 400; }
 
 #work {
-  background: linear-gradient(to right, #cbcbcb, #b1b1b1);
   padding-bottom: 30px; }
   #work .work-title {
     margin: 0;
@@ -1465,7 +1465,8 @@ header {
     .post-list h2 a:hover {
       color: #296099; }
 .post-list p {
-  margin: 5px auto; }
+  margin: 5px auto;
+  padding: 0px 5px; }
 
 #contact-page {
   height: 100vh;
