@@ -34,3 +34,16 @@ pre {
     padding-left: 0;
   }
 }
+
+blockquote {
+  color: $theme-secondary;
+  border-left: 4px solid $theme-secondary;
+  padding-left: 5px;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
