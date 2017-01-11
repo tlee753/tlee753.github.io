@@ -1157,6 +1157,23 @@ header {
     font-weight: 700; }
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
       color: #245385; }
+  #navbar #navbar-menu {
+    float: right;
+    position: relative;
+    height: 100%;
+    display: none; }
+    #navbar #navbar-menu svg {
+      height: 100%;
+      border-radius: 50%; }
+      #navbar #navbar-menu svg path {
+        stroke-width: 1px;
+        stroke: #193a5d;
+        fill: #193a5d; }
+      #navbar #navbar-menu svg:hover {
+        background-color: #193a5d; }
+        #navbar #navbar-menu svg:hover path {
+          stroke: ghostwhite;
+          fill: ghostwhite; }
   #navbar .navbar-item {
     opacity: 1;
     display: flex;
@@ -1176,6 +1193,8 @@ header {
       display: inline-block; }
 
 @media screen and (max-width: 780px) {
+  #navbar #navbar-menu {
+    display: block; }
   #navbar .navbar-item {
     display: none;
     position: absolute; } }
