@@ -1119,7 +1119,7 @@ header {
 #navbar {
   height: 50px;
   position: fixed;
-  background: linear-gradient(to left, #b9deed, #efefef);
+  background: #efefef;
   opacity: 0.8;
   background-blend-mode: screen;
   z-index: 10;
