@@ -50,6 +50,27 @@
     &:focus
       color: lighten($theme-primary, 10%)
 
+  #navbar-menu
+    float: right
+    position: relative
+    height: 100%
+    display: none
+
+    svg
+      height: 100%
+      border-radius: 50%
+
+      path
+        stroke-width: 1px
+        stroke: $theme-primary
+        fill: $theme-primary
+
+      &:hover
+        path
+          stroke: $theme-tertiary
+          fill: $theme-tertiary
+        background-color: $theme-primary
+
   .navbar-item
     opacity: 1.0
     //border-left: $theme-primary solid 2px
@@ -75,6 +96,8 @@
 
 @media screen and (max-width: 780px)
   #navbar
+    #navbar-menu
+      display: block
 
     .navbar-item
       display: none
