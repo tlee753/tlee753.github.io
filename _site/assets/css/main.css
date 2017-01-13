@@ -1154,7 +1154,8 @@ header {
     height: 100%;
     color: #193a5d;
     font-size: 2em;
-    font-weight: 700; }
+    font-weight: 700;
+    line-height: 50px; }
     #navbar .navbar-title:hover, #navbar .navbar-title:focus {
       color: #245385; }
   #navbar #navbar-menu {
