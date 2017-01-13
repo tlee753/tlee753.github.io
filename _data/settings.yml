@@ -108,14 +108,14 @@ interests:
 
 
 #-------------------------------
-# Collection Section
+# Slider Section
 
 slider:
-- {name: 'Santiago, Chile', image: 'slider-3'}
-- {name: 'Galapagos, Ecuador', image: 'slider-2'}
-- {name: 'Cuenca, Ecuador', image: 'slider-12'}
-- {name: 'Border Waters, Canada', image: 'slider-5'}
-- {name: 'Mexico City, Mexico', image: 'slider-13'}
+- {name: 'Santiago, Chile', image: 'slider-3', link: 'http://tlee753.com/chile/2016/06/21/Santiago.html'}
+- {name: 'Galapagos, Ecuador', image: 'slider-2', link: 'http://tlee753.com/ecuador/2016/07/14/Galapagos.html'}
+- {name: 'Cuenca, Ecuador', image: 'slider-12', link: 'http://tlee753.com/ecuador/2016/06/30/Cuenca.html'}
+- {name: 'Border Waters, Canada', image: 'slider-5', link: 'http://tlee753.com/canada/2014/06/28/Northern-Tier.html'}
+- {name: 'Mexico City, Mexico', image: 'slider-13', link: 'http://tlee753.com/mexico/2016/05/11/Mexico-City.html'}
 
 # - {name: 'Atlanta, Georgia', image: 'slider-1'}
 # france (marseille)

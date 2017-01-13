@@ -1343,13 +1343,13 @@ header {
       left: 0%; }
     #slider #slider-lockup .right {
       right: 0%; }
-    #slider #slider-lockup .slider-image {
+    #slider #slider-lockup a .slider-image {
       position: relative;
       background-size: cover;
       background-position: center center;
       height: 100%;
       width: 100%; }
-      #slider #slider-lockup .slider-image .slider-label {
+      #slider #slider-lockup a .slider-image .slider-label {
         position: absolute;
         text-align: center;
         bottom: 0%;
@@ -1362,6 +1362,9 @@ header {
         width: 200px;
         font-size: 16px;
         font-weight: 400; }
+        #slider #slider-lockup a .slider-image .slider-label:hover {
+          color: #193a5d;
+          background: rgba(248, 248, 255, 0.8); }
 
 #work {
   padding-bottom: 10px; }
