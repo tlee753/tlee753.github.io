@@ -51,26 +51,33 @@
     .right
       right: 0%
 
-    .slider-image
-      position: relative
-      background:
-        size: cover
-        position: center center
-      height: 100%
-      width: 100%
+    a
+
+      .slider-image
+        position: relative
+        background:
+          size: cover
+          position: center center
+        height: 100%
+        width: 100%
 
 
-      .slider-label
-        position: absolute
-        text-align: center
-        bottom: 0%
-        left: 50%
-        transform: translateX(-50%)
-        color: $theme-tertiary
-        background-color: fade-out($theme-primary, 0.2)
-        margin: 0
-        padding: 5px 5px 5px 5px
-        width: 200px
-        font:
-          size: 16px
-          weight: 400
+        .slider-label
+          position: absolute
+          text-align: center
+          bottom: 0%
+          left: 50%
+          transform: translateX(-50%)
+          color: $theme-tertiary
+          background-color: fade-out($theme-primary, 0.2)
+          margin: 0
+          padding: 5px 5px 5px 5px
+          width: 200px
+          font:
+            size: 16px
+            weight: 400
+
+          &:hover
+            color: $theme-primary
+            background: fade-out($theme-tertiary, 0.2)
+
