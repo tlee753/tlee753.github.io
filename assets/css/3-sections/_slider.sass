@@ -7,22 +7,23 @@
     height: 400px
     overflow: hidden
 
-    #slider-title
-      text-align: center
-      z-index: 1
-      position: absolute
-      left: 50%
-      transform: translateX(-50%)
-      margin: 0 auto
-      padding: 10px
-      background: fade-out($theme-primary, 0.2)
+    a
+      text-decoration: none
 
-      a
-        text-decoration: none
+      #slider-title
+        text-align: center
+        z-index: 1
+        position: absolute
+        left: 50%
+        transform: translateX(-50%)
+        margin: 0 auto
+        padding: 10px
+        background: fade-out($theme-primary, 0.2)
         color: $theme-tertiary
 
         &:hover
-          color: $theme-secondary
+          color: $theme-primary
+          background: fade-out($theme-tertiary, 0.2)
 
     .slider-button
       z-index: 1
