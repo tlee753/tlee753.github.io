@@ -1062,7 +1062,7 @@ header {
     letter-spacing: 0.05em;
     font-size: 72px;
     font-weight: 700;
-    opacity: 0.8; }
+    opacity: 0.9; }
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
@@ -1074,7 +1074,7 @@ header {
     text-align: center;
     font-size: 24px;
     font-weight: 700;
-    opacity: 0.8; }
+    opacity: 0.9; }
 
 @media screen and (max-width: 540px) {
   header h1 {
