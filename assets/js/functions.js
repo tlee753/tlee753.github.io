@@ -6,6 +6,8 @@ $(document).ready(function(){
         $('#navbar ul').toggleClass('show');
         $('#navbar-menu svg').toggleClass('show');
     });
+
+    $("img").unveil(1000);
 });
 
 function smoothScroll (duration) {
