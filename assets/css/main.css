@@ -1133,7 +1133,6 @@ header {
     overflow: hidden; }
     #navbar .branding .navbar-logo {
       float: left;
-      padding-left: 10px;
       line-height: 0; }
       #navbar .branding .navbar-logo svg {
         height: 50px;
@@ -1201,6 +1200,11 @@ header {
 @media screen and (max-width: 780px) {
   #navbar .branding {
     float: none; }
+    #navbar .branding .navbar-title {
+      position: absolute;
+      padding: 0;
+      left: 50%;
+      transform: translateX(-50%); }
     #navbar .branding .handle {
       display: inline; }
       #navbar .branding .handle #navbar-menu svg.show {
