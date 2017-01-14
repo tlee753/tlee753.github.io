@@ -1061,7 +1061,8 @@ header {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-size: 72px;
-    font-weight: 700; }
+    font-weight: 700;
+    opacity: 0.8; }
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
@@ -1072,7 +1073,8 @@ header {
     text-shadow: 0 0 20px #193a5d;
     text-align: center;
     font-size: 24px;
-    font-weight: 700; }
+    font-weight: 700;
+    opacity: 0.8; }
 
 @media screen and (max-width: 540px) {
   header h1 {
