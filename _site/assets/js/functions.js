@@ -1,6 +1,11 @@
 $(document).ready(function(){
-    smoothScroll(1000);
-    
+    //smoothScroll(1000);
+
+    $('.handle').on('click', function(){
+        //document.body.style.backgroundColor = '#000000';
+        $('#navbar ul').toggleClass('show');
+        $('#navbar-menu svg').toggleClass('show');
+    });
 });
 
 function smoothScroll (duration) {
@@ -16,3 +21,5 @@ function smoothScroll (duration) {
         }
     });
 }
+
+

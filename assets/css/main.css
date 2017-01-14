@@ -1121,84 +1121,98 @@ header {
   position: fixed;
   background: #efefef;
   opacity: 0.8;
-  background-blend-mode: screen;
   z-index: 10;
-  width: 100vw;
   text-decoration: none;
-  margin-right: auto;
-  margin-left: auto; }
-  #navbar .navbar-logo {
-    opacity: 1;
+  margin: 0;
+  padding: 0;
+  width: 100%; }
+  #navbar .branding {
     float: left;
-    position: relative;
-    height: 80%;
-    vertical-align: center;
-    padding: 5px 0px 5px 15px; }
-  #navbar .navbar-brand {
-    opacity: 1;
-    text-decoration: none;
-    color: #193a5d; }
-  #navbar .navbar-link {
-    text-transform: uppercase;
-    opacity: 1;
-    padding: 100% 0px 100% 0px;
-    text-decoration: none;
-    color: #193a5d; }
-    #navbar .navbar-link:hover, #navbar .navbar-link:focus {
-      color: white; }
-  #navbar .navbar-title {
-    opacity: 1;
-    float: left;
-    position: relative;
-    padding-left: 15px;
-    height: 100%;
-    color: #193a5d;
-    font-size: 2em;
-    font-weight: 700;
-    line-height: 50px; }
-    #navbar .navbar-title:hover, #navbar .navbar-title:focus {
-      color: #245385; }
-  #navbar #navbar-menu {
-    float: right;
-    position: relative;
-    height: 100%;
-    display: none; }
-    #navbar #navbar-menu svg {
-      height: 100%;
-      border-radius: 50%; }
-      #navbar #navbar-menu svg path {
-        stroke-width: 1px;
-        stroke: #193a5d;
-        fill: #193a5d; }
-      #navbar #navbar-menu svg:hover {
-        background-color: #193a5d; }
-        #navbar #navbar-menu svg:hover path {
-          stroke: ghostwhite;
+    overflow: hidden; }
+    #navbar .branding .navbar-logo {
+      float: left;
+      padding-left: 10px;
+      line-height: 0; }
+      #navbar .branding .navbar-logo svg {
+        height: 50px;
+        width: 50px; }
+        #navbar .branding .navbar-logo svg .piece-0 {
           fill: ghostwhite; }
-  #navbar .navbar-item {
-    opacity: 1;
-    display: flex;
-    align-items: center;
-    float: right;
-    position: relative;
-    padding-left: 15px;
-    padding-right: 15px;
-    height: 100%;
-    font-size: 1.2em;
-    font-weight: 400; }
-    #navbar .navbar-item:hover, #navbar .navbar-item:focus {
-      color: white;
-      background-color: #193a5d; }
-    #navbar .navbar-item .navbar-center {
-      vertical-align: middle;
-      display: inline-block; }
+        #navbar .branding .navbar-logo svg .piece-1 {
+          fill: #1e73be; }
+        #navbar .branding .navbar-logo svg .piece-2 {
+          fill: black; }
+        #navbar .branding .navbar-logo svg .line {
+          fill: none;
+          stroke: black;
+          stroke-width: 3;
+          stroke-miterlimit: 10; }
+    #navbar .branding .navbar-title {
+      float: left;
+      margin: 0;
+      padding-left: 15px;
+      line-height: 50px;
+      color: #193a5d;
+      font-size: 2em;
+      font-weight: 700; }
+      #navbar .branding .navbar-title:hover, #navbar .branding .navbar-title:focus {
+        color: #245385; }
+    #navbar .branding .handle {
+      display: none;
+      float: right;
+      height: 50px;
+      width: 50px;
+      padding: 0;
+      text-align: left;
+      border: none; }
+      #navbar .branding .handle #navbar-menu svg {
+        height: 100%;
+        border-radius: 50%; }
+        #navbar .branding .handle #navbar-menu svg path {
+          stroke-width: 1px;
+          stroke: #193a5d;
+          fill: #193a5d; }
+  #navbar ul {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    transition: max-height 0.5s;
+    -webkit-transition: max-height 0.5s;
+    -ms-transition: max-height 0.5s;
+    -moz-transition: max-height 0.5s;
+    -o-transition: max-height 0.5s; }
+    #navbar ul .navbar-item {
+      display: inline-block;
+      float: right;
+      padding: 0 15px;
+      line-height: 50px;
+      font-size: 1.2em;
+      font-weight: 400;
+      text-transform: uppercase;
+      color: #193a5d; }
+      #navbar ul .navbar-item:hover, #navbar ul .navbar-item:focus {
+        color: white;
+        background-color: #193a5d; }
 
 @media screen and (max-width: 780px) {
-  #navbar #navbar-menu {
-    display: block; }
-  #navbar .navbar-item {
-    display: none;
-    position: absolute; } }
+  #navbar .branding {
+    float: none; }
+    #navbar .branding .handle {
+      display: inline; }
+      #navbar .branding .handle #navbar-menu svg.show {
+        background-color: #193a5d; }
+        #navbar .branding .handle #navbar-menu svg.show path {
+          stroke: ghostwhite;
+          fill: ghostwhite; }
+  #navbar ul {
+    max-height: 0;
+    width: 100%; }
+    #navbar ul .navbar-item {
+      box-sizing: border-box;
+      width: 100%; }
+  #navbar ul.show {
+    max-height: 200px; } }
 #objective {
   background-color: #193a5d;
   background-image: url("/assets/img/circuit-tile.png");

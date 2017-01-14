@@ -1,15 +1,16 @@
 <nav id="navbar">
-    <a href="/"><img class="navbar-logo" src="/assets/img/icon.png" alt="icon"/></a>
 
-    <a href="/" class="navbar-brand"><div class="navbar-title">Tyler Lee</div></a>
+    <div class="branding">
+        <a href="/" class="navbar-logo">{% include social-icons/logo.html %}</a>
+        <a href="/"><h3 class="navbar-title">Tyler Lee</h3></a>
+        <button class="handle"><span id="navbar-menu">{% include social-icons/menu.html %}</span></button>
+    </div>
 
-    {% for item in site.data.settings.menu reversed %}
-
-        <a href="{{ item.link }}" class="navbar-link"><div class="navbar-item"><div class="navbar-center"> {{ item.name }} </div></div></a>
-
-    {% endfor %}
-
-    <a href="/blog" id="navbar-menu">{% include social-icons/menu.html %}</a>
+    <ul>
+        {% for item in site.data.settings.menu reversed %}
+            <a href="{{ item.link }}"><li class="navbar-item">{{ item.name }}</li></a>
+        {% endfor %}
+    </ul>
 
 </nav>
 

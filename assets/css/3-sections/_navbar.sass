@@ -1,107 +1,133 @@
 #navbar
   height: 50px
   position: fixed
-  //background: linear-gradient(to top, rgba($theme-primary, 0.8) 5%, rgba(white, 0.8), rgba($theme-primary, 0.8))
-  background: #efefef //linear-gradient(to left, #b9deed, #efefef) //rgba(white, 0.8)
+  background: #efefef
   opacity: 0.8
-  //background: linear-gradient(limegreen, transparent), linear-gradient(90deg, skyblue, transparent), linear-gradient(-90deg, coral, transparent)
-  background-blend-mode: screen
   z-index: 10
-  width: 100vw
   text-decoration: none
-  //border-bottom: $theme-primary solid 2px
-  margin-right: auto
-  margin-left: auto
+  margin: 0
+  padding: 0
+  width: 100%
 
-  .navbar-logo
-    opacity: 1.0
+  .branding
     float: left
-    position: relative
-    height: 80%
-    vertical-align: center
-    padding: 5px 0px 5px 15px
+    overflow: hidden
 
-  .navbar-brand
-    opacity: 1.0
-    text-decoration: none
-    color: $theme-primary
+    .navbar-logo
+      float: left
+      padding-left: 10px
+      line-height: 0
 
-  .navbar-link
-    text-transform: uppercase
-    opacity: 1.0
-    padding: 100% 0px 100% 0px
-    text-decoration: none
-    color: $theme-primary
-    &:hover,
-    &:focus
-      color: white
+      svg
+        height: 50px
+        width: 50px
 
-  .navbar-title
-    opacity: 1.0
-    float: left
-    position: relative
-    padding-left: 15px
-    height: 100%
-    color: $theme-primary
-    font:
-      size: 2.0em
-      weight: 700
-    line-height: 50px
-    &:hover,
-    &:focus
-      color: lighten($theme-primary, 10%)
-
-  #navbar-menu
-    float: right
-    position: relative
-    height: 100%
-    display: none
-
-    svg
-      height: 100%
-      border-radius: 50%
-
-      path
-        stroke-width: 1px
-        stroke: $theme-primary
-        fill: $theme-primary
-
-      &:hover
-        path
-          stroke: $theme-tertiary
+        .piece-0
           fill: $theme-tertiary
-        background-color: $theme-primary
 
-  .navbar-item
-    opacity: 1.0
-    //border-left: $theme-primary solid 2px
-    display: flex
-    align-items: center
-    float: right
-    position: relative
-    padding-left: 15px
-    padding-right: 15px
-    height: 100%
-    font:
-      size: 1.2em
-      weight: 400
-    &:hover,
-    &:focus
-      color: white
-      background-color: $theme-primary
+        .piece-1
+          fill: $wordpress-blue
 
-    .navbar-center
-      vertical-align: middle
+        .piece-2
+          fill: black
+
+        .line
+          fill: none
+          stroke: black
+          stroke-width: 3
+          stroke-miterlimit: 10
+
+    .navbar-title
+      float: left
+      margin: 0
+      padding-left: 15px
+      line-height: 50px
+      color: $theme-primary
+      font:
+        size: 2.0em
+        weight: 700
+      &:hover,
+      &:focus
+        color: lighten($theme-primary, 10%)
+
+    .handle
+      display: none
+      float: right
+      height: 50px
+      width: 50px
+      padding: 0
+      text-align: left
+      border: none
+
+      #navbar-menu
+
+        svg
+          height: 100%
+          border-radius: 50%
+
+          path
+            stroke-width: 1px
+            stroke: $theme-primary
+            fill: $theme-primary
+
+
+  ul
+    overflow: hidden
+    margin: 0
+    padding: 0
+    text-align: center
+    transition: max-height 0.5s
+    -webkit-transition: max-height 0.5s
+    -ms-transition: max-height 0.5s
+    -moz-transition: max-height 0.5s
+    -o-transition: max-height 0.5s
+
+    .navbar-item
       display: inline-block
+      float: right
+      padding: 0 15px
+      line-height: 50px
+      font:
+        size: 1.2em
+        weight: 400
+      text-transform: uppercase
+      color: $theme-primary
+
+      &:hover,
+      &:focus
+        color: white
+        background-color: $theme-primary
 
 
 @media screen and (max-width: 780px)
   #navbar
-    #navbar-menu
-      display: block
 
-    .navbar-item
-      display: none
-      position: absolute
+    .branding
+      float: none
+
+      .handle
+        display: inline
+
+        #navbar-menu
+
+          svg.show
+            background-color: $theme-primary
+
+            path
+              stroke: $theme-tertiary
+              fill: $theme-tertiary
+
+    ul
+      max-height: 0
+      width: 100%
+
+      .navbar-item
+        box-sizing: border-box
+        width: 100%
+
+    ul.show
+      max-height: 200px
+
+
 
 
