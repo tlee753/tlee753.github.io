@@ -749,7 +749,8 @@ hr {
   background: #b1b1b1; }
   #collection .collection-container {
     margin: 0 auto;
-    padding-bottom: 0; }
+    padding-bottom: 0;
+    padding: 15px; }
     #collection .collection-container::after {
       clear: both;
       content: "";
