@@ -8,7 +8,7 @@ category: Uncategorized
 
 # First Post
 
-I am gearing up to add all of my travels to my website, **get ready** because there is plenty to discuss!
+I am ~~gearing up to~~ adding all of my travels to my website, looking forward to detailing my _**adventures**_!
 
 {% highlight ruby linenos %}
 def print_hi(name)
