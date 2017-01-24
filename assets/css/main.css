@@ -1,7 +1,8 @@
 @font-face {
   font-family: 'Century Gothic';
   font-style: normal;
-  font-weight: 400; }
+  font-weight: 400;
+  src: url("/assets/fonts/century-gothic.ttf") format("ttf"); }
 /* latin-ext */
 @font-face {
   font-family: 'Lato';
