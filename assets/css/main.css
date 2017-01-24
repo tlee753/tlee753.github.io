@@ -1097,7 +1097,8 @@ footer {
     width: 100px;
     height: 100px;
     margin-left: 50px;
-    margin-top: 50px; }
+    margin-top: 50px;
+    opacity: 0.9; }
     footer .footer-image svg .piece-0 {
       fill: ghostwhite; }
     footer .footer-image svg .piece-1 {
