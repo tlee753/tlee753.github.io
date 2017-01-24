@@ -111,18 +111,17 @@ interests:
 # Slider Section
 
 slider:
-- {name: 'Munich, Germany', image: 'slider-21', link: 'http://tlee753.com/germany/2017/01/21/Munich.html'}
-- {name: 'Luxembourg City, Luxembourg', image: 'slider-14', link: 'http://tlee753.com/luxembourg/2017/01/14/Luxembourg-City.html'}
-- {name: 'Santiago, Chile', image: 'slider-3', link: 'http://tlee753.com/chile/2016/06/21/Santiago.html'}
-- {name: 'Galapagos, Ecuador', image: 'slider-2', link: 'http://tlee753.com/ecuador/2016/07/14/Galapagos.html'}
-- {name: 'Cuenca, Ecuador', image: 'slider-10', link: 'http://tlee753.com/ecuador/2016/06/30/Cuenca.html'}
+- {name: 'Munich, Germany', image: 'slider-munich', link: 'http://tlee753.com/germany/2017/01/21/Munich.html'}
+- {name: 'Fussen, Germany', image: 'slider-fussen', link: 'http://localhost:4000/germany/2017/01/22/Fussen.html'}
+- {name: 'Santiago, Chile', image: 'slider-santiago', link: 'http://tlee753.com/chile/2016/06/21/Santiago.html'}
+- {name: 'Galapagos, Ecuador', image: 'slider-galapagos', link: 'http://tlee753.com/ecuador/2016/07/14/Galapagos.html'}
+- {name: 'Cuenca, Ecuador', image: 'slider-cuenca', link: 'http://tlee753.com/ecuador/2016/06/30/Cuenca.html'}
 
-
-# - {name: 'Border Waters, Canada', image: 'slider-5', link: 'http://tlee753.com/canada/2014/06/28/Northern-Tier.html'}
+# - {name: 'Atlanta, Georgia', image: 'slider-atlanta', link: ''}
+# - {name: 'Border Waters, Canada', image: 'slider-border-waters', link: 'http://tlee753.com/canada/2014/06/28/Northern-Tier.html'}
 # - {name: 'Mexico City, Mexico', image: 'slider-13', link: 'http://tlee753.com/mexico/2016/05/11/Mexico-City.html'}
+# - {name: 'Luxembourg City, Luxembourg', image: 'slider-luxembourg', link: 'http://tlee753.com/luxembourg/2017/01/14/Luxembourg-City.html'}
 
-
-# - {name: 'Atlanta, Georgia', image: 'slider-1'}
 # france (marseille)
 # grand cayman
 # niagra falls
