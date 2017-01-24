@@ -1079,9 +1079,9 @@ hr {
   #core .core-unit {
     width: 100%; } }
 footer {
-  background: #193a5d;
   height: 200px;
   position: relative;
+  background-color: #193a5d;
   background-image: url(/assets/img/footer.jpg);
   background-size: cover;
   background-position: 50% 75%;
@@ -1093,8 +1093,20 @@ footer {
     position: relative;
     float: left;
     width: 100px;
+    height: 100px;
     margin-left: 50px;
     margin-top: 50px; }
+    footer .footer-image svg .piece-0 {
+      fill: ghostwhite; }
+    footer .footer-image svg .piece-1 {
+      fill: #4385cc; }
+    footer .footer-image svg .piece-2 {
+      fill: #193a5d; }
+    footer .footer-image svg .line {
+      fill: none;
+      stroke: black;
+      stroke-width: 3;
+      stroke-miterlimit: 10; }
   footer #footer-content {
     display: inline-block;
     margin-top: 40px;
@@ -1221,9 +1233,9 @@ header {
         #navbar .branding .navbar-logo svg .piece-0 {
           fill: ghostwhite; }
         #navbar .branding .navbar-logo svg .piece-1 {
-          fill: #1e73be; }
+          fill: #4385cc; }
         #navbar .branding .navbar-logo svg .piece-2 {
-          fill: black; }
+          fill: #193a5d; }
         #navbar .branding .navbar-logo svg .line {
           fill: none;
           stroke: black;

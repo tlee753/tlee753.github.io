@@ -1,8 +1,8 @@
 footer
-  background: $theme-primary
   height: 200px
   position: relative
   background:
+    color: $theme-primary
     image: url(/assets/img/footer.jpg)
     size: cover
     position: 50% 75%
@@ -15,8 +15,26 @@ footer
     position: relative
     float: left
     width: 100px
+    height: 100px
     margin-left: 50px
     margin-top: 50px
+
+    svg
+
+      .piece-0
+        fill: $theme-tertiary
+
+      .piece-1
+        fill: lighten($theme-primary, 30%)
+
+      .piece-2
+        fill: $theme-primary
+
+      .line
+        fill: none
+        stroke: black
+        stroke-width: 3
+        stroke-miterlimit: 10
 
   #footer-content
     display: inline-block
