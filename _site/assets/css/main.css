@@ -1482,7 +1482,7 @@ header {
           background: rgba(248, 248, 255, 0.8); }
 
 #work {
-  padding-bottom: 10px; }
+  padding-bottom: 15px; }
   #work .work-title {
     margin: 0;
     padding: 15px 0;
@@ -1494,7 +1494,7 @@ header {
         color: #296099; }
   #work .work-container {
     margin: 0 auto;
-    padding: 0 10px; }
+    padding: 0 15px; }
     #work .work-container::after {
       clear: both;
       content: "";
