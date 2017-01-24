@@ -12,7 +12,6 @@
       &:hover
         color: lighten($theme-primary, 15%)
 
-
   .about-me
     text-align: center
     max-width: 620px
@@ -32,21 +31,21 @@
     +align-items(center)
     +justify-content(space-between)
 
-
-    .about-face
-      border-radius: 50%
-      width: 200px
-      height: 200px
+    a
       +order(3)
-      background:
-        image: url(/assets/img/headshot.jpg)
-        size: cover
+
+      .about-face
+        border-radius: 50%
+        width: 200px
+        height: 200px
+        background:
+          image: url(/assets/img/headshot.jpg)
+          size: cover
 
     [class^="about-item"]
       background: linear-gradient(45deg, white, lighten($theme-secondary, 10%), $theme-secondary)
       border-radius: 50%
       +size(100px)
-
 
       path
         fill: $theme-primary
@@ -62,6 +61,7 @@
 
       &.about-item4
         +order(5)
+
 
 @media screen and (max-width: 780px)
   #about

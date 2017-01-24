@@ -758,19 +758,20 @@ hr {
   -o-justify-content: space-between;
   justify-content: space-between;
   -ms-flex-pack: justify; }
-  #about .about-content .about-face {
-    border-radius: 50%;
-    width: 200px;
-    height: 200px;
+  #about .about-content a {
     -webkit-box-ordinal-group: 3;
     -moz-box-ordinal-group: 3;
     box-ordinal-group: 3;
     -webkit-order: 3;
     -moz-order: 3;
     order: 3;
-    -ms-flex-order: 3;
-    background-image: url(/assets/img/headshot.jpg);
-    background-size: cover; }
+    -ms-flex-order: 3; }
+    #about .about-content a .about-face {
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+      background-image: url(/assets/img/headshot.jpg);
+      background-size: cover; }
   #about .about-content [class^="about-item"] {
     background: linear-gradient(45deg, white, #cbcbcb, #b1b1b1);
     border-radius: 50%;
