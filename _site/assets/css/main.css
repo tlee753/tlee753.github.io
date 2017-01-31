@@ -1626,6 +1626,11 @@ header {
   .post-list p {
     margin: 5px auto; }
 
+#world-map {
+  max-width: 1200px;
+  padding: 10px;
+  margin: 0 auto; }
+
 #contact-page {
   height: 100vh;
   overflow: hidden; }
