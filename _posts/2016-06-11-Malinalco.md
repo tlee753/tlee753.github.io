@@ -7,9 +7,9 @@ category: Mexico
 
 # Malinalco
 
-![Image](/blog/images/Mexico/Malinalco/Malinalco-1.JPG)
-![Image](/blog/images/Mexico/Malinalco/Malinalco-2.JPG)
-![Image](/blog/images/Mexico/Malinalco/Malinalco-3.JPG)
-![Image](/blog/images/Mexico/Malinalco/Malinalco-4.JPG)
-<!--![Image](/blog/images/Mexico/Malinalco/Malinalco-5.JPG)-->
-![Image](/blog/images/Mexico/Malinalco/Malinalco-6.JPG)
+![Malinalco](/blog/images/Mexico/Malinalco/Malinalco-1.JPG)
+![Malinalco](/blog/images/Mexico/Malinalco/Malinalco-2.JPG)
+![Malinalco](/blog/images/Mexico/Malinalco/Malinalco-3.JPG)
+![Malinalco](/blog/images/Mexico/Malinalco/Malinalco-4.JPG)
+<!--![Malinalco](/blog/images/Mexico/Malinalco/Malinalco-5.JPG)-->
+![Malinalco](/blog/images/Mexico/Malinalco/Malinalco-6.JPG)
