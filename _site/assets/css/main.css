@@ -1872,18 +1872,19 @@ header {
   #countdown hr {
     width: 40%;
     border: 1px solid #FFB6C1;
-    margin: 0 auto 20px; }
+    margin: 0 auto 5px; }
   #countdown #clock {
     display: inline-block;
     text-align: center;
     font-size: 30px;
     font-weight: 400;
-    padding-bottom: 10px; }
+    padding-bottom: 5px; }
     #countdown #clock div {
       display: inline-block;
       padding: 10px;
       border-radius: 3px;
-      background: #00BF96; }
+      background: #00BF96;
+      margin: 5px; }
       #countdown #clock div span {
         display: inline-block;
         padding: 15px;
@@ -1894,6 +1895,42 @@ header {
         color: white;
         font-size: 16px;
         font-weight: 400; }
+
+#postcard {
+  margin: 0;
+  padding: 25px;
+  height: calc(100vh - 100px);
+  background-color: #FFB6C1;
+  background-image: url(/blog/images/Switzerland/Interlaken/Interlaken-11.JPG);
+  background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; }
+  #postcard #postcard-stamp {
+    position: relative;
+    display: block;
+    float: right;
+    max-width: 25%; }
+  #postcard #postcard-letter {
+    position: relative;
+    display: block;
+    float: left;
+    height: 100%;
+    width: 50%;
+    background-color: ghostwhite; }
+    #postcard #postcard-letter h4 {
+      margin: 0;
+      padding: 10px; }
+    #postcard #postcard-letter p {
+      padding-left: 10px;
+      margin: 0; }
+    #postcard #postcard-letter .postcard-centered {
+      text-align: center; }
+    #postcard #postcard-letter hr {
+      width: 90%;
+      margin: 0 auto;
+      padding: 5px; }
 
 .isabel-poetry {
   background: linear-gradient(to right, whitesmoke, gold, whitesmoke);
