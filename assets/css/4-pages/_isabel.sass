@@ -66,7 +66,7 @@
   hr
     width: 40%
     border: 1px solid $isabel-primary
-    margin: 0 auto 20px
+    margin: 0 auto 5px
 
   #clock
     display: inline-block
@@ -74,13 +74,14 @@
     font:
       size: 30px
       weight: 400
-    padding-bottom: 10px
+    padding-bottom: 5px
 
     div
       display: inline-block
       padding: 10px
       border-radius: 3px
       background: #00BF96
+      margin: 5px
 
       span
         display: inline-block
@@ -94,6 +95,49 @@
         font:
           size: 16px
           weight: 400
+
+#postcard
+  margin: 0
+  padding: 25px
+  height: calc(100vh - 100px)
+  background:
+    color: $isabel-primary
+    image: url(/blog/images/Switzerland/Interlaken/Interlaken-11.JPG)
+    size: cover
+    position: center
+  -webkit-background-size: cover
+  -moz-background-size: cover
+  -o-background-size: cover
+
+  #postcard-stamp
+    position: relative
+    display: block
+    float: right
+    max-width: 25%
+
+  #postcard-letter
+    position: relative
+    display: block
+    float: left
+    height: 100%
+    width: 50%
+    background-color: ghostwhite
+
+    h4
+      margin: 0
+      padding: 10px
+
+    p
+      padding-left: 10px
+      margin: 0
+
+    .postcard-centered
+      text-align: center
+
+    hr
+      width: 90%
+      margin: 0 auto
+      padding: 5px
 
 
 .isabel-poetry
