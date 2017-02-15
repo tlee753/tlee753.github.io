@@ -1084,7 +1084,7 @@ footer {
   height: 200px;
   position: relative;
   background-color: #193a5d;
-  background-image: url(/assets/img/footer.jpg);
+  background-image: url(/assets/img/footer/footer.jpg);
   background-size: cover;
   background-position: 50% 75%;
   background-repeat: no-repeat;
@@ -1138,7 +1138,7 @@ footer {
 header {
   position: relative;
   background-color: #193a5d;
-  background-image: url(/assets/img/header.jpg);
+  background-image: url(/assets/img/header/header.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1335,7 +1335,7 @@ header {
   width: 100%; }
   #profile #profile-background {
     position: fixed;
-    background-image: url(/assets/img/profile.jpg);
+    background-image: url(/assets/img/profile/profile.jpg);
     background-size: cover;
     background-position: 50% center;
     height: 100%;
@@ -1639,7 +1639,7 @@ header {
     float: left;
     width: 50%;
     height: 100vh;
-    background-image: url(/assets/img/contact.jpg);
+    background-image: url(/assets/img/contact/contact.jpg);
     background-size: cover;
     background-position: 30% center; }
   #contact-page #contact-lockup {
