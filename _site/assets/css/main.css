@@ -1622,7 +1622,9 @@ header {
     margin: 0; }
   #gtadvice-content [class^="advice"] {
     padding: 10px;
-    margin: 0 0 10px 0; }
+    margin: 0 0 10px 0;
+    overflow: hidden;
+    height: 100%; }
     #gtadvice-content [class^="advice"] ul {
       list-style-type: disc; }
       #gtadvice-content [class^="advice"] ul ul {

@@ -8,6 +8,16 @@ $(document).ready(function() {
     });
 
     $("img").unveil(1000);
+
+    $('[class^="advice"]').click(function(el){
+        if ($(el).css("height") == '100%') {
+            shrinkDiv($(el));
+        } else if ($(el).css("height") < '100%') {
+            expandDiv($(el));
+        }
+    });
+
+
 });
 
 function smoothScroll (duration) {
@@ -25,3 +35,13 @@ function smoothScroll (duration) {
 }
 
 
+function shrinkDiv (divElement) {
+    divElement.animate({height: '35px'});
+    divToggle = true;
+}
+
+function expandDiv (divElement) {
+    divElement.animate({height: '100%'});
+    divElement.style.backgroundColor = 'blue';
+    divToggle = false;
+}
