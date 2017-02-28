@@ -11,7 +11,6 @@ $(document).ready(function() {
 
     $('[class^="advice"]').on('click', function(){
         var divHeight = $(this).height();
-        console.log(divHeight);
         if (divHeight > 35) {
             shrinkDiv($(this));
         } else {
