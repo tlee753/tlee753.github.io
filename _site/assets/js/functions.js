@@ -9,6 +9,8 @@ $(document).ready(function() {
 
     //$("img").unveil(1000);
 
+    $('[class^="advice"]')
+
     $('[class^="advice"]').on('click', function(){
         var divHeight = $(this).height();
         if (divHeight > 35) {
