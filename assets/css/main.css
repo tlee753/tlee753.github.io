@@ -1632,7 +1632,10 @@ header {
       #gtadvice-content [class^="advice"] ul .pro-tip {
         color: red; }
     #gtadvice-content [class^="advice"] h3 {
-      margin: 0 0 10px 0; }
+      margin: 0 0 10px 0;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none; }
     #gtadvice-content [class^="advice"] h5 {
       margin: 0 0 10px 0; }
   #gtadvice-content [class^="advice"]:last-child {
