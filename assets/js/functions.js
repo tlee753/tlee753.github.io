@@ -7,13 +7,15 @@ $(document).ready(function() {
         $('#navbar-menu svg').toggleClass('show');
     });
 
-    $("img").unveil(1000);
+    //$("img").unveil(1000);
 
-    $('[class^="advice"]').click(function(el){
-        if ($(el).css("height") == '100%') {
-            shrinkDiv($(el));
-        } else if ($(el).css("height") < '100%') {
-            expandDiv($(el));
+    $('[class^="advice"]').on('click', function(){
+        var divHeight = $(this).height();
+        console.log(divHeight);
+        if (divHeight > 35) {
+            shrinkDiv($(this));
+        } else {
+            expandDiv($(this));
         }
     });
 
@@ -37,11 +39,8 @@ function smoothScroll (duration) {
 
 function shrinkDiv (divElement) {
     divElement.animate({height: '35px'});
-    divToggle = true;
 }
 
 function expandDiv (divElement) {
     divElement.animate({height: '100%'});
-    divElement.style.backgroundColor = 'blue';
-    divToggle = false;
 }
