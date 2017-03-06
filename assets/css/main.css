@@ -2142,21 +2142,24 @@ header {
     width: 100%;
     padding: 10px;
     background-color: #b8b8b8;
-    border: 1px #193a5d solid; }
+    border: 1px #193a5d solid;
+    text-align: center;
+    margin: 0 auto; }
     .presentation-contents #presentation-table tr th {
       font-size: 24px;
       font-weight: 700; }
     .presentation-contents #presentation-table tr td {
       text-align: center;
       padding: 10px;
-      font-size: 16px; }
+      font-size: 16px;
+      margin: 0 auto; }
       .presentation-contents #presentation-table tr td a {
         text-decoration: none;
-        color: #193a5d;
+        color: ghostwhite;
+        background-color: #193a5d;
         padding: 10px; }
         .presentation-contents #presentation-table tr td a:hover {
-          background-color: #193a5d;
-          color: ghostwhite; }
+          background-color: #296099; }
 
 #proj-1 {
   position: relative;
