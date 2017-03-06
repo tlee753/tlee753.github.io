@@ -668,7 +668,7 @@ body {
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #222;
+  color: #193a5d;
   font-weight: bold; }
 
 .gigantic {
@@ -2132,9 +2132,19 @@ header {
     margin: 10px 10px;
     color: #b1b1b1; }
 
+#presentation-title {
+  padding-left: 10px;
+  margin: 10px; }
+
 #presentation-table {
   width: 100%;
-  clear: both; }
+  padding: 10px;
+  background-color: #b8b8b8;
+  border: 1px #193a5d solid;
+  padding: 10px; }
+  #presentation-table tr th {
+    font-size: 24px;
+    font-weight: 700; }
 
 #proj-1 {
   position: relative;
