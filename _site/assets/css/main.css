@@ -2132,6 +2132,10 @@ header {
     margin: 10px 10px;
     color: #b1b1b1; }
 
+#presentation-table {
+  width: 100%;
+  clear: both; }
+
 #proj-1 {
   position: relative;
   background-image: url(/assets/img/work/proj-1/display.jpg);
