@@ -37,3 +37,19 @@ category: Switzerland
 ![Interlaken](/blog/images/Switzerland/Interlaken/Interlaken-22.JPG)
 ![Interlaken](/blog/images/Switzerland/Interlaken/Interlaken-23.JPG)
 ![Interlaken](/blog/images/Switzerland/Interlaken/Interlaken-24.JPG)
+
+
+<!--
+- undisputably beautiful city sitting between two diamond green lakes, surronded my mountain ranges
+- 
+- hiked harder kulm, absolute blast through three feet of snow toward the top
+- nutella from hostel and bread from Bern supermarket :)
+- quaint city, seperated into two parts
+- ice skating rink, people playing in the grassy main area
+- paragliding was extremely common although costly
+- hiked thorugh woods taking wrong path after bench to get to cable car
+- extreme climb through snow to get to cable car, quick walk to over hang
+- hostel was awesome, backpaackers hostel, free tokens for hot choclate which was delicious
+- 
+
+-->
