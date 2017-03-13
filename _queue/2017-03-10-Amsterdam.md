@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Amsterdam
-date: 2017-01-14 12:00
+date: 2017-03-10 12:00
 category: Netherlands
 ---
 
