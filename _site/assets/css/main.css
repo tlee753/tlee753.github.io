@@ -2110,6 +2110,37 @@ header {
       transform: translateX(-50%);
       padding: 5px; }
 
+.portfolio-page {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding: 30px 5px;
+  margin: 0; }
+  .portfolio-page .portfolio-content {
+    position: relative;
+    background: rgba(255, 255, 255, 0.9);
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0; }
+    .portfolio-page .portfolio-content h3 {
+      text-align: center;
+      color: #193a5d;
+      margin: 0; }
+    .portfolio-page .portfolio-content div {
+      margin: 0;
+      padding: 0; }
+    .portfolio-page .portfolio-content p {
+      padding: 0 10px;
+      margin: 0; }
+    .portfolio-page .portfolio-content ul {
+      text-align: left; }
+    .portfolio-page .portfolio-content table {
+      margin: 0 auto; }
+
 .post-content {
   max-width: 1000px;
   margin: 0 auto;
@@ -2169,204 +2200,5 @@ header {
     font-size: 20px; }
   .presentation-contents #presentation-table tr td {
     font-size: 12px; } }
-#proj-1 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-1/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-1 #proj-1-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-1 #proj-1-content h3 {
-      color: #193a5d;
-      margin: 0; }
-    #proj-1 #proj-1-content div {
-      margin: 0;
-      padding: 0; }
-    #proj-1 #proj-1-content p {
-      padding: 0 10px;
-      margin: 0; }
-    #proj-1 #proj-1-content ul {
-      text-align: left; }
-    #proj-1 #proj-1-content table {
-      margin: 0 auto; }
-
-#proj-2 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-2/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-2 #proj-2-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-2 #proj-2-content h3 {
-      color: #193a5d; }
-    #proj-2 #proj-2-content p {
-      padding: 0 10px; }
-
-#proj-3 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-3/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-3 #proj-3-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-3 #proj-3-content h3 {
-      color: #193a5d; }
-    #proj-3 #proj-3-content p {
-      padding: 0 10px; }
-
-#proj-4 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-4/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-4 #proj-4-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-4 #proj-4-content h3 {
-      color: #193a5d; }
-    #proj-4 #proj-4-content p {
-      padding: 0 10px; }
-
-#proj-5 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-5/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-5 #proj-5-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-5 #proj-5-content h3 {
-      color: #193a5d; }
-    #proj-5 #proj-5-content p {
-      padding: 0 10px; }
-
-#proj-6 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-6/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-6 #proj-6-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-6 #proj-6-content h3 {
-      color: #193a5d; }
-    #proj-6 #proj-6-content p {
-      padding: 0 10px; }
-
-#proj-7 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-7/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-7 #proj-7-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-7 #proj-7-content h3 {
-      color: #193a5d; }
-    #proj-7 #proj-7-content p {
-      padding: 0 10px; }
-
-#proj-8 {
-  position: relative;
-  background-image: url(/assets/img/work/proj-8/display.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  padding: 30px 5px;
-  margin: 0; }
-  #proj-8 #proj-8-content {
-    position: relative;
-    background: rgba(255, 255, 255, 0.8);
-    text-align: center;
-    max-width: 1024px;
-    margin: 0 auto;
-    padding: 0; }
-    #proj-8 #proj-8-content h3 {
-      color: #193a5d;
-      margin: 0; }
-    #proj-8 #proj-8-content div {
-      margin: 0;
-      padding: 0; }
-    #proj-8 #proj-8-content p {
-      padding: 0 10px;
-      margin: 0; }
-    #proj-8 #proj-8-content ul {
-      text-align: left; }
 
 /*# sourceMappingURL=main.css.map */
