@@ -23,17 +23,17 @@ skills:
 
 
 #-------------------------------
-# Work Section
+# Portfolio Section
 
-projects:
-- {name: Ascension Computer Build, folder: 'proj-1'}
-- {name: Autonomous Cargo Robot, folder: 'proj-2'}
-- {name: Eagle Scout Project, folder: 'proj-3'}
-- {name: Stock Monitoring App, folder: 'proj-7'}
-- {name: Electrathon Vehicle, folder: 'proj-4'}
-- {name: Windows Server Technical Preview, folder: 'proj-6'}
-- {name: Automated Can Crusher, folder: 'proj-5'}
-- {name: Keys to Happiness, folder: 'proj-8'}
+portfolio:
+- {name: Performance Computer Build, folder: 'performance-computer-build'}
+- {name: Autonomous Cargo Robot, folder: 'autonomous-cargo-robot'}
+- {name: Eagle Scout Project, folder: 'eagle-scout-project'}
+- {name: Stock Monitoring App, folder: 'stock-monitoring-app'}
+- {name: Electrathon Vehicle, folder: 'electrathon-vehicle'}
+- {name: Windows Server Technical Preview, folder: 'windows-server-technical-preview'}
+- {name: Automated Can Crusher, folder: 'automated-can-crusher'}
+- {name: Keys to Happiness, folder: 'keys-to-happiness'}
 
 
 #-------------------------------

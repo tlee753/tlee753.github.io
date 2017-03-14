@@ -4,12 +4,13 @@ layout: page
 
 <div id="portfolio">
 
-    {% for project in site.data.settings.projects %}
+    {% for item in site.data.settings.portfolio %}
 
-    <a href="/projects/{{ project.folder }}" class="portfolio-unit">
-        <div class="portfolio-background" style="background-image: url(/assets/img/work/{{ project.folder }}/display.jpg);"></div>
+    <a href="/portfolio/{{ item.folder }}" class="portfolio-unit">
+        <div class="portfolio-background"
+             style="background-image: url(/portfolio/{{ item.folder }}/display.jpg);"></div>
         <div class="portfolio-overlay">
-            <strong>{{ project.name }}</strong>
+            <strong>{{ item.name }}</strong>
         </div>
     </a>
 

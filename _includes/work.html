@@ -4,11 +4,11 @@
 
     <div class="work-container">
 
-        {% for project in site.data.settings.projects %}
+        {% for item in site.data.settings.portfolio %}
 
-        <a href="/projects/{{ project.folder }}" class="work-unit" style="background-image: url(/assets/img/work/{{ project.folder }}/display.jpg);">
+        <a href="/portfolio/{{ item.folder }}" class="work-unit" style="background-image: url(/portfolio/{{ item.folder }}/display.jpg);">
             <div class="work-overlay">
-                <strong> {{ project.name }} </strong>
+                <strong> {{ item.name }} </strong>
             </div>
         </a>
 
