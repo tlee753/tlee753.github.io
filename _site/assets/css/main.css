@@ -1666,7 +1666,7 @@ header {
   padding: 10px;
   margin: 0 auto; }
   #world-map svg .map-country:hover {
-    fill: blue; }
+    fill: orange; }
 
 #contact-page {
   height: 100vh;
