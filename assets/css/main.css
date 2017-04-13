@@ -1665,6 +1665,8 @@ header {
   max-width: 1200px;
   padding: 10px;
   margin: 0 auto; }
+  #world-map svg .map-country:hover {
+    fill: blue; }
 
 #contact-page {
   height: 100vh;
