@@ -11,6 +11,12 @@
     overflow: hidden
     min-height: 200px
 
+    &:hover
+      .portfolio-background
+        transform: scale(1.05)
+        transition: transform 2s ease-in-out
+        overflow: hidden
+
     .portfolio-background
       width: 100%
       padding-top: 15%
@@ -19,23 +25,24 @@
         size: cover
         repeat: no-repeat
 
-      &:hover
-        transform: scale(1.05)
-        transition: 2s
-        overflow: hidden
-
 
     .portfolio-overlay
+      opacity: .8
       position: absolute
       max-width: 480px
-      background-color: rgba(white, 0.8)
+      background-color: $theme-tertiary
       color: $theme-primary
       font-size: 24px
       text-align: center
       left: 50%
-      bottom: 0%
-      transform: translateX(-50%)
-      padding: 5px
+      bottom: 50%
+      transform: translate(-50%, 50%)
+      padding: 10px
+
+      &:hover
+        color: $theme-tertiary
+        background-color: $theme-primary
+        transition: color, background-color 1s ease-in-out
 
 
 .portfolio-page
