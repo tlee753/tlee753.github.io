@@ -5,12 +5,14 @@ description: Leader // Explorer // Engineer
 
 
 # Site Location
-baseurl: ""
+baseurl: "" # default base url of /
 url: "http://tlee753.com"
 
 
 # Build settings
 markdown: kramdown
+include: ['_pages']
+permalink: /:title/
 
 
 # Specify the port jekyll uses to serve locally
@@ -22,4 +24,3 @@ sass:
   sass_dir: css
   style: :nested
 
-#include: ['_pages']
