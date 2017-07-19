@@ -12,7 +12,7 @@ url: "http://tlee753.com"
 # Build settings
 markdown: kramdown
 include: ['_pages']
-permalink: /:title/
+#permalink: /:title/
 
 
 # Specify the port jekyll uses to serve locally
