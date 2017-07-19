@@ -381,28 +381,6 @@
     </div>
 
     <div class="advice-secondary">
-        <h3>Useful Links</h3>
-        <ul>
-            <li><a href="">Buzzport</a>: portal to all things Georgia Tech</li>
-            <li><a href="">T-Square</a>: location for all your class resources, announcements, grades, and basically all things academic</li>
-            <li><a href="">DegreeWorks</a>: </li>
-            <li><a href="">Courseoff</a>: </li>
-            <li><a href="">Courseoff Buddy</a>: </li>
-            <li><a href="">OrgSync</a>: </li>
-            <li><a href="">Software</a>: </li>
-            <li><a href="">Passport</a>: Change your GT password</li>
-
-            <li><a href="">Wifi Authorization</a>: </li>
-            <li><a href="">Wired Internet Registration</a>: </li>
-            <li><a href="">Buzzcard Utility</a>: </li>
-
-            <li><a href=""></a>: </li>
-            <li><a href=""></a>: </li>
-            <li><a href=""></a>: </li>
-        </ul>
-    </div>
-
-    <div class="advice-primary">
         <h3>Glossary</h3>
         <ul>
             <li>Buzzcard: Your student ID card which you will repeatedly swipe and tap throughout your Georgia Tech years</li>
@@ -427,6 +405,7 @@
             <li>Connector: small building between Glenn and Towers residence halls which has study space, and treadmills</li>
         </ul>
     </div>
+
 
 </div>
 
