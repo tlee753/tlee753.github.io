@@ -1159,10 +1159,10 @@ header {
     font-weight: 700;
     opacity: 0.9; }
   header a {
-    text-align: center;
-    text-shadow: 0 0 20px #193a5d; }
+    text-align: center; }
     header a .button {
       opacity: 0.9;
+      box-shadow: 0 0 20px #193a5d;
       text-shadow: 0 0 20px #193a5d;
       font-size: 14px;
       line-height: 30px;
