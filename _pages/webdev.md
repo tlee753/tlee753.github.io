@@ -8,8 +8,6 @@ permalink: "/webdev/"
 # Web Design
 
 ### Short Term
-- better animation for about page
-
 
 ### Long Term
 - map inclusion for blog page
@@ -26,16 +24,16 @@ permalink: "/webdev/"
 - ocean footer
 - space before the contact section or white space with circles that fill in followed by email
 - grey for footer links instead of turning blue
-- test layout hypothesis with {{content tag }}
+- test layout hypothesis with { { content tag } }
 - clean up bucket list -> actual theme instead of beach
   - complete/incomplete which scales on mobile
 - main page header links
 - fix skills section left alignment
-
-
+- better animation for about page
 
 
 -----------------------------
+
 # New Website
 - navbar
 	- implement three slash Design
