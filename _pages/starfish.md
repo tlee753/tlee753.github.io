@@ -14,6 +14,6 @@ Off in the distance, the old man noticed a small boy approaching.  As the boy wa
 The young boy paused, looked up, and replied “Throwing starfish into the ocean. The tide has washed them up onto the beach and they can’t return to the sea by themselves,” the youth replied. “When the sun gets high, they will die, unless I throw them back into the water.”
 The old man replied, “But there must be tens of thousands of starfish on this beach. I’m afraid you won’t really be able to make much of a difference.”
 
-The boy bent down, picked up yet another starfish and threw it as far as he could into the ocean. Then he turned, smiled and said, <strong>“It made a difference to that one!”</strong>
+The boy bent down, picked up yet another starfish and threw it as far as he could into the ocean. Then he turned, smiled and said, **“It made a difference to that one!”**
 
 </div>
