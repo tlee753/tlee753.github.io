@@ -7,16 +7,16 @@ permalink: "/gtadvice/"
 
 <div id="gtadvice-content" markdown="1">
 
-# TLee's <span style="color: gold;">GT</span> Advice
+# TLee's <a href="https://www.gatech.edu" style="color: gold;">GT</a> Advice
 
-### Updating as I have time. Anyways here is a [course planning sheet](College-Planner.docx). Fairly intuitive but I'll post an example soon anyway. I am working as fast as I can, check back soon!
+### Updating as I have time. Anyways here is a [course planning sheet](/College-Planner.docx). Fairly intuitive but I'll post an example soon anyway. I am working as fast as I can, check back soon!
 
 
 <div class="advice-primary" markdown="1">
 
 ### Introduction
 
-##### Version 3.1 (Last Revision April 2017)
+##### Version 3.1 (Last Revision September 2017)
 
 - First off, congrats on getting into Georgia Tech! It may not mean much know but you have no idea what an accomplishment that is. Clap for yourself.
 - This is by no means a comprehensive guide; I only hope it takes some fog of the glasses
