@@ -23,5 +23,14 @@ print_hi('Tyler')
 
 ![favicon](/assets/img/favicons/favicon.ico)
 
+|Table Header|
+|------------|
+|Style Visualization|
 
-|---|
+``` java
+public class Greeting {
+    public static void main(String[] args) {
+        System.out.println("Welcome!");
+    }
+}
+```

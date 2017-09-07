@@ -9,7 +9,7 @@ permalink: "/gtadvice/"
 
 # TLee's <a href="https://www.gatech.edu" style="color: gold;">GT</a> Advice
 
-### Updating as I have time. Anyways here is a [course planning sheet](/College-Planner.docx). Fairly intuitive but I'll post an example soon anyway. I am working as fast as I can, check back soon!
+### Updating as I have time. Anyways here is a [course planning sheet](/assets/docs/College-Planner.docx). Fairly intuitive but I'll post an example soon anyway. I am working as fast as I can, check back soon!
 
 
 <div class="advice-primary" markdown="1">
