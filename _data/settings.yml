@@ -79,7 +79,7 @@ interests:
 - {name: Start with Why, folder: 'coll-3', link: '/about/why/index.html'}
 - {name: Euler Problems, folder: 'coll-4', link: 'https://projecteuler.net/'}
 - {name: My Favorite Movies, folder: 'coll-5', link: '/about/movies/'}
-- {name: The Boy and the Starfish, folder: 'coll-6', link: '/about/starfish/'}
+- {name: The Boy and the Starfish, folder: 'coll-6', link: '/starfish/'}
 - {name: Georgia Tech UNICEF, folder: 'coll-7', link: 'http://www.unicef.gatech.edu/'}
 - {name: Calvin and Hobbes, folder: 'coll-8', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
 - {name: Stockfish vs Komodo Chess Engines, folder: 'coll-9', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
@@ -93,7 +93,7 @@ interests:
 - {name: John Oliver, folder: 'coll-17', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
 - {name: Reader's Digest, folder: 'coll-18', link: 'http://www.rd.com/'}
 - {name: Vsauce, folder: 'coll-19', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
-- {name: GT Advice, folder: 'coll-20', link: '/about/gtadvice/'}
+- {name: GT Advice, folder: 'coll-20', link: '/gtadvice/'}
 
 # amazon reviews
 # scott sterling

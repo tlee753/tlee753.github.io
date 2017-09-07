@@ -1,23 +1,57 @@
 ---
-layout: page
+layout: post
 title: Web Development
 date: 2017-08-27 8:00:00
+category: Uncategorized
 permalink: "/webdev/"
 ---
 
 # Web Design
 
 ### Short Term
+- fix navbar order inversion
+- massive overhaul on the work pages
+
+### Work Pages
+    - reconso?
+    - **husky robotics**
+        - resource link
+    - **chess visualizer**
+        - github link
+    - **eagle scout project**
+        - document link?
+    - **backend server texter**
+        - stock texter functionality
+        - github link
+    - **electrathon vehicle**
+        - pdf
+    - musings of a 20 year old?
+    
+##### Other Ideas
+    - performance computer build
+        - what did you do with it?
+    - crypto mining
+    - sharing sequence chess processing
+    - python back end to local apartment control (SSH?)
+    - autonomous robotics (pid controller, kicad motorcontroller)
+    - star wars m-bed program
+    - arch linux
+    - markdown visualizer
+    - projects app
 
 ### Long Term
-- map inclusion for blog page
+- blog map to site pages per country (click Germany go to Germany page)
+    - incorporate with blog post link
+- 4k support
+- tutorials page
+- about page improvements
+    - quotes page
+
+### Complete
 - link pull down in navbar for mobile page
 	- navbar up arrow
 	- navbar three lines to x change
-- 4k support
-
-
-### Complete
+- map inclusion for blog page
 - two by two scale about for mobile
 - update objective section
 - update contact section
@@ -31,8 +65,7 @@ permalink: "/webdev/"
 - fix skills section left alignment
 - better animation for about page
 
-
------------------------------
+---
 
 # New Website
 - navbar
