@@ -13,6 +13,18 @@
   font-style: italic;
   font-weight: 700;
   src: local("Century Gothic"), url(/assets/fonts/century-gothic-italic.ttf) format("ttf"); }
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Raleway"), local("Raleway-Regular"), url(/assets/fonts/raleway.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Raleway Bold"), local("Raleway-Bold"), url(/assets/fonts/raleway-bold.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
 /*
 
 // Unused Fonts
@@ -455,7 +467,7 @@ body {
   background-color: ghostwhite;
   font-size: 14px;
   line-height: 1.6;
-  font-family: "Century Gothic", "AppleSDGothicNeo-Light", sans-serif;
+  font-family: "Raleway", "Century Gothic", "AppleSDGothicNeo-Light", sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -817,12 +829,14 @@ ul.breadcrumb li a:hover {
   background: #b1b1b1; }
   #collection .collection-container {
     margin: 0 auto;
-    padding-bottom: 0;
-    padding: 15px; }
+    padding: 30px; }
     #collection .collection-container::after {
       clear: both;
       content: "";
       display: table; }
+    @media screen and (max-width: 800px) {
+      #collection .collection-container {
+        padding: 10px; } }
     #collection .collection-container .collection-unit {
       display: block;
       position: relative;
