@@ -11,19 +11,21 @@
     overflow: hidden
     min-height: 200px
 
-    &:hover
-      .portfolio-background
-        transform: scale(1.05)
-        transition: transform 2s ease-in-out
-        overflow: hidden
-
     .portfolio-background
+      transform: scale(1)
+      transition: transform 2s ease-in-out
+      -moz-transition: transform 2s ease-in-out
+      -web-kit-transition: transform 2s ease-in-out
+      overflow: hidden
       width: 100%
       padding-top: 15%
       background:
         position: center center
         size: cover
         repeat: no-repeat
+
+      &:hover
+        transform: scale(1.05)
 
 
     .portfolio-overlay
