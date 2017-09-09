@@ -8,9 +8,29 @@ permalink: "/webdev/"
 
 # Web Design
 
+### Workspace
+- [Bootstrap](/workspace/bootstrap/index.html)
+- [Galleria](/workspace/galleria/themes/classic/classic-demo-cdn.html)
+- [Party](/workspace/party/index.html)
+- [Slides](/slides/)
+- [Stock Ticker](/workspace/stock-ticker/index.html)
+- [Stocks](/workspace/stocks/index.html)
+
 ### Short Term
 - fix navbar order inversion
 - massive overhaul on the work pages
+  - next/previous pages for work
+  - images
+    - slider to go through images
+- about page remodel
+  - separate boxes
+  - tutorials
+- blog
+  - slide show for images
+    - not render all at once
+  - country pages links in breadcrumbs
+  - images on blog pages (thumbnails)
+  
 
 ### Work Pages
     - reconso?
