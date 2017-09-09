@@ -1670,12 +1670,13 @@ header {
   #gtadvice-content [class^="advice"]:last-child {
     margin: 0; }
   #gtadvice-content .advice-primary {
-    background-color: #FFED9C; }
-  #gtadvice-content .advice-secondary {
-    background-color: #AAAAAA;
+    background-color: #193a5d;
     color: ghostwhite; }
-    #gtadvice-content .advice-secondary h3 {
+    #gtadvice-content .advice-primary h3, #gtadvice-content .advice-primary h5 {
       color: ghostwhite; }
+  #gtadvice-content .advice-secondary {
+    background-color: #b1b1b1;
+    color: #193a5d; }
 
 .post-list {
   margin: 0 auto;
