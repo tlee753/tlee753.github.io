@@ -89,3 +89,14 @@ Integer vitae euismod neque. Maecenas hendrerit quis enim id blandit. Duis facil
 </section>
 
 </section>
+
+
+<section markdown="1">
+
+# Slide 7
+
+#### just for good measure
+
+![Favicon](/assets/img/favicons/favicon.ico)
+
+</section>
