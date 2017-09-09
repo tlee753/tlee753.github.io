@@ -18,8 +18,10 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
 	margin: 0;
 	padding: 0;
 	border: 0;
+	/*
 	font-size: 100%;
 	font: inherit;
+	*/
 	vertical-align: baseline;
 }
 
@@ -265,7 +267,7 @@ body {
 		top: 42px;
 
 		border-right-width: 22px;
-		border-right-color: #000;
+		border-right-color: #193a5d;
 	}
 		.reveal .controls .navigate-left.fragmented {
 			opacity: 0.3;
@@ -276,7 +278,7 @@ body {
 		top: 42px;
 
 		border-left-width: 22px;
-		border-left-color: #000;
+		border-left-color: #193a5d;
 	}
 		.reveal .controls .navigate-right.fragmented {
 			opacity: 0.3;
@@ -286,7 +288,7 @@ body {
 		left: 42px;
 
 		border-bottom-width: 22px;
-		border-bottom-color: #000;
+		border-bottom-color: #193a5d;
 	}
 		.reveal .controls .navigate-up.fragmented {
 			opacity: 0.3;
@@ -297,7 +299,7 @@ body {
 		top: 74px;
 
 		border-top-width: 22px;
-		border-top-color: #000;
+		border-top-color: #193a5d;
 	}
 		.reveal .controls .navigate-down.fragmented {
 			opacity: 0.3;
@@ -332,7 +334,7 @@ body {
 		height: 100%;
 		width: 0px;
 
-		background-color: #000;
+		background-color: #193a5d;
 		transition: width 800ms cubic-bezier(0.260, 0.860, 0.440, 0.985);
 	}
 
@@ -383,7 +385,7 @@ body {
 
 	overflow: visible;
 	z-index: 1;
-	text-align: center;
+	text-align: left; /* changed ^^ */
 	perspective: 600px;
 	perspective-origin: 50% 40%;
 }

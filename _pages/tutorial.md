@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: slides
 title: Tutorial
 date: 2017-09-07 8:00:00
 permalink: "/tutorial/"
