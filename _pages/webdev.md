@@ -34,10 +34,13 @@ permalink: "/webdev/"
 
 ### Work Pages
     - reconso?
+    - **pru realtime beaglebone quadrature encoder reading**
+      - github
     - **husky robotics**
         - resource link
     - **chess visualizer**
         - github link
+        - demo pictures for now
     - **eagle scout project**
         - document link?
     - **backend server texter**
@@ -45,6 +48,7 @@ permalink: "/webdev/"
         - github link
     - **electrathon vehicle**
         - pdf
+    - **desalinization project**
     - musings of a 20 year old?
     
 ##### Other Ideas
@@ -58,6 +62,7 @@ permalink: "/webdev/"
     - arch linux
     - markdown visualizer
     - projects app
+    - desalinization project
 
 ### Long Term
 - blog map to site pages per country (click Germany go to Germany page)
