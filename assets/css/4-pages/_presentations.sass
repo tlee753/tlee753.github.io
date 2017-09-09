@@ -1,6 +1,8 @@
 #presentation-title
-  padding-left: 10px
-  margin: 10px 0
+  padding: 20px 20px 0 20px
+
+  h1
+    margin: 0
 
 .presentation-contents
   padding: 10px
@@ -9,33 +11,40 @@
 
     table
       width: 100%
-      padding: 10px
-      background-color: #b8b8b8
-      border: 1px $theme-primary solid
       text-align: center
       margin: 0 auto
+      border-collapse: separate
+      border-spacing: 0px 10px
 
       tr
 
         th
+          padding: 10px
           font:
             size: 24px
             weight: 700
+          background-color: $theme-primary
+          color: $theme-tertiary
 
         td
           text-align: center
-          padding: 10px
           font-size: 16px
-          margin: 0 auto
+          margin: 0px auto
+          background-color: $theme-secondary
+          color: $theme-primary
 
           a
             text-decoration: none
             color: ghostwhite
             background-color: $theme-primary
-            padding: 10px
+            padding: 10px 0px
+            display: inline-block
+            height: 100%
+            width: 100%
 
             &:hover
-              background-color: lighten($theme-primary, 15%)
+              background-color: $theme-tertiary
+              color: $theme-primary
 
 
 @media screen and (max-width: 500px)
