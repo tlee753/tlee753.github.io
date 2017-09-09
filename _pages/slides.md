@@ -79,12 +79,12 @@ Integer vitae euismod neque. Maecenas hendrerit quis enim id blandit. Duis facil
 
 <section markdown="1">
 
-# Test 1
+# Slide 6.1
 
 </section>
 <section markdown="1">
 
-# Test 2
+# Slide 6.2
 
 </section>
 
