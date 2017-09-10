@@ -56,8 +56,6 @@ permalink: "/multi-boot-linux/"
 
 <section markdown="1">
 
-<section markdown="1">
-
 # Required Materials
 ---
 
@@ -77,7 +75,11 @@ permalink: "/multi-boot-linux/"
 
 </section>
 
+
 <section markdown="1">
+
+# Software Suggestions
+---
 
 ### GT Software Mirror
 - Just in case you happen to be near Atlanta :)
@@ -88,8 +90,6 @@ permalink: "/multi-boot-linux/"
 - [Etcher](https://etcher.io)
 - You will need to either have an operating system installed already (probably Windows) or use another computer to burn an ISO to the flashdrive
 - For each Linux OS you will have to burn the corresponding ISO to the flashdrive
-
-</section>
 
 </section>
 
