@@ -83,13 +83,13 @@ interests:
 - {name: Georgia Tech UNICEF, folder: 'coll-7', link: 'http://www.unicef.gatech.edu/'}
 - {name: Calvin and Hobbes, folder: 'coll-8', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
 - {name: Stockfish vs Komodo Chess Engines, folder: 'coll-9', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
-- {name: Star Wars, folder: 'coll-10', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
+- {name: Intelligence Squared, folder: 'coll-21', link: 'https://www.intelligencesquaredus.org/'}
 - {name: My Favorite Quotes, folder: 'coll-11', link: 'https://www.youtube.com/watch?v=GC7Aqc-h9no'}
-- {name: Coding Jokes, folder: 'coll-12', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
+- {name: TED Talks, folder: 'coll-23', link: 'https://www.ted.com'}
 - {name: Albert Einstein, folder: 'coll-13', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
 - {name: Space X, folder: 'coll-14', link: 'http://www.spacex.com/'}
 - {name: John Wooden, folder: 'coll-15', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
-- {name: Dream Car, folder: 'coll-16', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
+- {name: RECONSO, folder: 'coll-22', link: 'https://reconso.gatech.edu'}
 - {name: John Oliver, folder: 'coll-17', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
 - {name: Reader's Digest, folder: 'coll-18', link: 'http://www.rd.com/'}
 - {name: Vsauce, folder: 'coll-19', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
@@ -105,6 +105,10 @@ interests:
 # world war 2
 
 # HUMOR
+
+# - {name: Star Wars, folder: 'coll-10', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
+# - {name: Dream Car, folder: 'coll-16', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
+# - {name: Coding Jokes, folder: 'coll-12', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
 
 
 #-------------------------------
