@@ -406,14 +406,18 @@ textarea {
 optgroup {
   font-weight: bold; }
 
+/* changed ^^ */
+/*
 table {
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0;
+}
 
 td,
 th {
-  padding: 0; }
-
+  padding: 0;
+}
+*/
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -638,6 +642,22 @@ body {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+table {
+  border-collapse: separate;
+  border-spacing: 2px; }
+
+td, th {
+  padding: 10px; }
+
+th {
+  text-align: center;
+  background-color: #193a5d;
+  color: ghostwhite; }
+
+td {
+  background-color: #b1b1b1;
+  color: #193a5d; }
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
@@ -2230,7 +2250,8 @@ header {
       font-size: 16px;
       margin: 0px auto;
       background-color: #b1b1b1;
-      color: #193a5d; }
+      color: #193a5d;
+      padding: 0; }
       .presentation-contents #presentation-table table tr td a {
         text-decoration: none;
         color: ghostwhite;
