@@ -15,5 +15,5 @@ One of the four Boy Scout High Adventure Bases, Northern Tier is a canoeing expe
 ---
 
 I will upload photos shortly :)
-![Border Waterss](/blog/images/Canada)
+![Border Waterss](/assets/img/travel/Canada)
 
