@@ -1150,9 +1150,8 @@ header {
   height: 100vh; }
   header h1 {
     text-align: center;
-    padding-top: 300px;
-    margin-top: 0px;
-    margin-bottom: 10px;
+    padding-top: 40vh;
+    margin: 0px auto 10px;
     color: ghostwhite;
     text-shadow: 0 0 20px #193a5d;
     text-transform: uppercase;
@@ -1171,28 +1170,32 @@ header {
     text-align: center;
     font-size: 24px;
     font-weight: 700;
-    opacity: 0.9; }
-  header a {
-    text-align: center; }
-    header a .button {
-      opacity: 0.9;
-      box-shadow: 0 0 20px #193a5d;
-      text-shadow: 0 0 20px #193a5d;
-      font-size: 14px;
-      line-height: 30px;
-      color: #193a5d;
-      height: 30px;
-      width: 160px;
-      padding: 0 5px;
-      background-color: ghostwhite;
-      text-decoration: none;
-      vertical-align: middle;
-      border: 0px solid transparent;
-      border-radius: 15px;
-      margin: 0 auto; }
-      header a .button:hover {
-        color: ghostwhite;
-        background-color: #193a5d; }
+    opacity: 0.9;
+    margin: 0 0 10px; }
+  header .button-box {
+    text-align: center;
+    padding: 0 20px; }
+    header .button-box a {
+      text-align: center; }
+      header .button-box a .button {
+        display: inline-block;
+        opacity: 0.9;
+        box-shadow: 0 0 20px #193a5d;
+        text-shadow: 0 0 20px #193a5d;
+        font-size: 14px;
+        line-height: 30px;
+        color: #193a5d;
+        height: 30px;
+        width: 160px;
+        padding: 5px;
+        background-color: ghostwhite;
+        text-decoration: none;
+        border: 0px solid transparent;
+        border-radius: 15px;
+        margin: 5px; }
+        header .button-box a .button:hover {
+          color: ghostwhite;
+          background-color: #193a5d; }
 
 @media screen and (max-width: 540px) {
   header h1 {

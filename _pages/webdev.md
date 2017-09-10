@@ -31,6 +31,16 @@ permalink: "/webdev/"
   - country pages links in breadcrumbs
   - images on blog pages (thumbnails)
   
+### Ordered Work
+1. PRU Realtime BeagleBone
+2. Husky Robotics
+3. Electrathon Vehicle
+4. Image Manipulation Script
+5. Backend Server Texter
+6. Desalinization Project
+7. Chess Visualizer
+8. Eagle Scout Project
+
 ### Work Pages
     - reconso?
     - **pru realtime beaglebone quadrature encoder reading**
@@ -48,6 +58,7 @@ permalink: "/webdev/"
     - **electrathon vehicle**
         - pdf
     - **desalinization project**
+    - **image maniputlation script**
     - musings of a 20 year old?
     
 ##### Other Ideas
@@ -62,6 +73,7 @@ permalink: "/webdev/"
     - markdown visualizer
     - projects app
     - desalinization project
+    - websites i've made
 
 ### Long Term
 - blog map to site pages per country (click Germany go to Germany page)
