@@ -82,6 +82,8 @@ permalink: "/webdev/"
 - tutorials page
 - about page improvements
     - quotes page
+- resume page
+    - that would be so dope
 
 ### Complete
 - link pull down in navbar for mobile page

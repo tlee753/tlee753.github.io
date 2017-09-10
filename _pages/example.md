@@ -16,3 +16,7 @@ public class Java {
     }
 }
 ```
+
+|Table|Header|
+|-----|------|
+|Example|Data|

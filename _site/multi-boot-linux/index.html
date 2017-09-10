@@ -105,17 +105,20 @@
   <ul>
     <li>Distribution (distro): a flavor of linux, a particular linux operating system</li>
     <li>ISO File: disk image file, in our case it will contain an operating system and will be “burned” to a flashdrive</li>
+    <li>Etcher: utility for burning ISO files to flash drives</li>
+    <li>Live CD: Bootable linux operating system on the flashdrive once it has been burnt</li>
     <li>Drive: a physical piece of equipment that has memory and can store files (hard drive, solid state drive, flash drive, sd card…)</li>
     <li>Partition: a virtual block of memory on a drive, there are several types of partitions</li>
     <li>GParted: common linux program used to manage partitions</li>
     <li>Disk Management: Windows utility used to manage partitions</li>
+    <li>Grub (v2): The common linux boot manager (code that selects which OS to boot)</li>
   </ul>
 
   <h3 id="partition-types">Partition types</h3>
   <ul>
     <li>Primary: You can only have 4 of these on a drive</li>
     <li>Logical: A primary partition that allows you to divide it into as many new partitions as space allows</li>
-    <li>Extended:</li>
+    <li>Extended: ^^</li>
   </ul>
 
 </section>
@@ -155,6 +158,7 @@
     <li>Etcher is a cross platform (Windows, MAC, Linux) software utility to write ISO files (operating system images) to external media (flashdrives)</li>
     <li><a href="https://etcher.io">Etcher</a></li>
     <li>You will need to either have an operating system installed already (probably Windows) or use another computer to burn an ISO to the flashdrive</li>
+    <li>For each Linux OS you will have to burn the corresponding ISO to the flashdrive</li>
   </ul>
 
 </section>
@@ -175,43 +179,131 @@
   <h3 id="without-windows">Without Windows</h3>
   <ul>
     <li>Boot a flashdrive containing one of the easier to use distributions (Ubuntu/Mint)</li>
-    <li>Open GParted (partitioning software program)</li>
+    <li>I personally recommend running the default installation (erase all and install) as a sort of base OS in case something goes wrong with the logical partition but you don’t need to</li>
+    <li>If you choose to install a base linux OS, its home partition will be separate from the rest if you choose to create a separate home partition (again, good in the event something goes wrong)</li>
+    <li>Open GParted either from the Live CD or your recently installed OS (partitioning software program)</li>
   </ul>
 
 </section>
 
 <section>
 
-  <h1 id="partitioning">Partitioning</h1>
-  <hr />
+  <section>
+    <h1 id="partitioning">Partitioning</h1>
+    <hr />
 
-  <h3 id="with-windows-1">With Windows</h3>
-  <ul>
-    <li>Windows will initially come with 2-3 partitions (recovery partition isn’t always there)</li>
-    <li>Each of these partitions are primary partitions so you will want to create a logical partition for you linux OS’s</li>
-    <li>Start by shrinking your main Windows partition (C:// drive, largest partition) to create space for linux</li>
-    <li>Go ahead and write this change (makes debugging errors easier if any arise)</li>
-  </ul>
+    <h3 id="with-windows-1">With Windows</h3>
+    <ul>
+      <li>Windows will initially come with 2-3 partitions (recovery partition isn’t always there)</li>
+      <li>Each of these partitions are primary partitions so you will want to create a logical partition for you linux OS’s</li>
+      <li>Start by shrinking your main Windows partition (C:// drive, largest partition) to create space for linux</li>
+      <li>Go ahead and write this change (makes debugging errors easier if any arise)</li>
+    </ul>
 
-  <p>|EFI (FAT32) (~100MB)|Windows Recovery (NTFS) (~500MB)|Windows (NTFS) (~60+GB)|Logical Partition (~60+GB)|
-|——————–|——————————–|———————–|————————–|</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Drive Overview</th>
+          <th> </th>
+          <th> </th>
+          <th> </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>EFI (FAT32) (~100MB)</td>
+          <td>Windows Recovery (NTFS) (~500MB)</td>
+          <td>Windows (NTFS) (~60+GB)</td>
+          <td>Logical Partition (~60+GB)</td>
+        </tr>
+      </tbody>
+    </table>
 
-  <ul>
-    <li>Within the logical partition, create a swap space the size of your RAM</li>
-    <li>Next, create <code class="highlighter-rouge">Ext4</code> drives in the logical partition for each of the linux operating systems you want to install</li>
-    <li>If you want to create a shared home partition (read more on the next slide) create another <code class="highlighter-rouge">Ext4</code> partition and set the mount point to <code class="highlighter-rouge">/home</code></li>
-  </ul>
+    <ul>
+      <li>Within the logical partition, create a <code class="highlighter-rouge">Swap Space</code> the size of your RAM</li>
+      <li>Next, create <code class="highlighter-rouge">Ext4</code> drives in the logical partition for each of the linux operating systems you want to install</li>
+      <li>If you want to create a shared home partition (read more on the next slide) create another <code class="highlighter-rouge">Ext4</code> partition and set the mount point to <code class="highlighter-rouge">/home</code></li>
+    </ul>
 
-  <p>|Swap Space (~8-16GB)|Linux OS 1 (~20+GB)|Linux OS 2 (~20+GB)|Linux OS 3… (~20+GB)|Home Partition (~20+GB)|
-|——————–|——————-|——————-|———————-|———————–|</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Logical Partition View</th>
+          <th> </th>
+          <th> </th>
+          <th> </th>
+          <th> </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Swap Space (~8-16GB)</td>
+          <td>Linux OS 1 (Ext4) (~20+GB)</td>
+          <td>Linux OS 2 (Ext4) (~20+GB)</td>
+          <td>Linux OS 3… (Ext4) (~20+GB)</td>
+          <td>Home Partition (Ext4) (~20+GB)</td>
+        </tr>
+      </tbody>
+    </table>
 
-  <h3 id="without-windows-1">Without Windows</h3>
-  <ul>
-    <li></li>
-  </ul>
+  </section>
 
-  <p>|EFI(FAT32)(~100MB)|Windows Recovery(NTFS)(~500MB)|Windows(NTFS)(~60+GB)|Logical Partition(~60+GB)|
-|——————|——————————|———————|————————-|</p>
+  <section>
+
+    <h3 id="without-windows-1">Without Windows</h3>
+    <ul>
+      <li>If you didn’t install a base linux operating system you won’t have the two primary partitions Swap Space and Linux OS 1</li>
+      <li>The steps are basically the same as with Windows at this point, you simply are creating a logical partition and allocating space for each additional linux OS</li>
+      <li>Shrink your main OS partition to make space for more distros</li>
+      <li>Create a logical partition in the newly created space</li>
+      <li>Go ahead and write this change (makes debugging errors easier if any arise)</li>
+    </ul>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Drive Overview</th>
+          <th> </th>
+          <th> </th>
+          <th> </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>EFI (FAT32) (~100MB)</td>
+          <td>Swap Space (~8-16GB)</td>
+          <td>Linux OS 1 (Ext4) (~20+GB)</td>
+          <td>Logical Partition (~60+GB)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <ul>
+      <li>You don’t need to create additional <code class="highlighter-rouge">Swap Space</code> as you already have a partition made</li>
+      <li>Create <code class="highlighter-rouge">Ext4</code> drives in the logical partition for each of the linux operating systems you want to install</li>
+      <li>If you want to create a shared home partition (read more on the next slide) create another <code class="highlighter-rouge">Ext4</code> partition and set the mount point to <code class="highlighter-rouge">/home</code></li>
+    </ul>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Logical Partition View</th>
+          <th> </th>
+          <th> </th>
+          <th> </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Linux OS 2 (Ext4) (~20+GB)</td>
+          <td>Linux OS 3 (Ext4) (~20+GB)</td>
+          <td>Linux OS 4… (Ext4) (~20+GB)</td>
+          <td>Optional Home Partition (Ext4) (~20+GB)</td>
+        </tr>
+      </tbody>
+    </table>
+
+  </section>
 
 </section>
 
@@ -225,9 +317,32 @@
     <li>This tends to work best with similar operating systems (Ubuntu and Mint)</li>
     <li>This won’t work with Windows although you can still access your Windows data from any linux distribution</li>
     <li>I very much enjoy using a shared home partiton as I don’t have to think about where my data is when I load a different operating system</li>
-    <li>To do so, simply create another <code class="highlighter-rouge">Ext4</code> partition and set mount point to <code class="highlighter-rouge">/home</code></li>
-    <li>With each subsequent distribution, be select the home partition you made and set mount point to <code class="highlighter-rouge">/home</code></li>
+    <li>To do so, simply create another <code class="highlighter-rouge">Ext4</code> partition and remember to set the mount point to <code class="highlighter-rouge">/home</code> during installation</li>
+    <li>I tend to put this partition at the end so I can use the rest of the available space on my drive for home (personal data being the biggest variable in terms of storage on a PC)</li>
+    <li>With each subsequent distribution installation, select the home partition you made and set mount point to <code class="highlighter-rouge">/home</code></li>
   </ul>
+
+</section>
+
+<section>
+
+  <h1 id="installation">Installation</h1>
+  <hr />
+
+  <ul>
+    <li>First, write the ISO file to the flashdrive using Etcher and then boot the Live CD</li>
+    <li>Upon installation of a linux distribution, you will arrive at a menu where you can select how/where you want to install the distro</li>
+    <li>After the initial linux install (only if you followed the “without Windows” tutorial), select the <code class="highlighter-rouge">Advanced Options</code> option</li>
+    <li>Your partitions have already been made at this point, you just have to select the proper partitions and install (it helps to write down what is going where)</li>
+  </ul>
+
+  <h3 id="partition-selection">Partition Selection</h3>
+  <ol>
+    <li>Select the <code class="highlighter-rouge">EFI</code> partition and use as <code class="highlighter-rouge">EFI Boot</code>, this will override the initial Windows boot manager with grub if you had Windows to start</li>
+    <li>Select the <code class="highlighter-rouge">Swap Space</code> partition and choose to use it as <code class="highlighter-rouge">Swap Space</code> if the distro hasn’t already figured it out2</li>
+    <li>Next, select the <code class="highlighter-rouge">Ext4</code> partition you want to install your OS on and set mount point as <code class="highlighter-rouge">/</code></li>
+    <li>Finally, if you opted to create a shared home partition select the partition and set the mount point as <code class="highlighter-rouge">/home</code></li>
+  </ol>
 
 </section>
 
@@ -237,6 +352,8 @@
   <hr />
   <ul>
     <li>You can use Yumi-boot or another equivalent to install several distros to one flashdrive (you’ll need more than 4GB)</li>
+    <li>Arch (and some other distro’s like Gentoo) is bit more difficult to install correctly, you need to follow an Arch Installation tutorial and think carefully at each step</li>
+    <li>run <code class="highlighter-rouge">sudo update-grub</code> in a linux terminal to detect new operating systems if it doesn’t do so for you (typical for Arch)</li>
     <li>Enjoy your new multi-boot system</li>
   </ul>
 
