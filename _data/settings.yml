@@ -78,13 +78,13 @@ interests:
 - {name: Wanderers, folder: 'coll-2', link: '/about/wanderers/index.html'}
 - {name: Start with Why, folder: 'coll-3', link: '/about/why/index.html'}
 - {name: Euler Problems, folder: 'coll-4', link: 'https://projecteuler.net/'}
+- {name: My Favorite Quotes, folder: 'coll-11', link: 'https://www.youtube.com/watch?v=GC7Aqc-h9no'}
+- {name: Intelligence Squared, folder: 'coll-21', link: 'https://www.intelligencesquaredus.org/'}
 - {name: My Favorite Movies, folder: 'coll-5', link: '/about/movies/'}
-- {name: The Boy and the Starfish, folder: 'coll-6', link: '/starfish/'}
 - {name: Georgia Tech UNICEF, folder: 'coll-7', link: 'http://www.unicef.gatech.edu/'}
 - {name: Calvin and Hobbes, folder: 'coll-8', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
 - {name: Stockfish vs Komodo Chess Engines, folder: 'coll-9', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
-- {name: Intelligence Squared, folder: 'coll-21', link: 'https://www.intelligencesquaredus.org/'}
-- {name: My Favorite Quotes, folder: 'coll-11', link: 'https://www.youtube.com/watch?v=GC7Aqc-h9no'}
+- {name: The Boy and the Starfish, folder: 'coll-6', link: '/starfish/'}
 - {name: TED Talks, folder: 'coll-23', link: 'https://www.ted.com'}
 - {name: Albert Einstein, folder: 'coll-13', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
 - {name: Space X, folder: 'coll-14', link: 'http://www.spacex.com/'}
