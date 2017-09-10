@@ -15,11 +15,11 @@ From tropical penguins to the center of volcanoes, our group adventured across t
 
 ---
 
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-1.JPG)
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-2.JPG)
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-3.JPG)
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-4.JPG)
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-5.JPG)
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-6.JPG)
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-7.JPG)
-![Galapagos](/blog/images/Ecuador/Galapagos/Galapagos-8.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-1.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-2.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-3.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-4.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-5.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-6.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-7.JPG)
+![Galapagos](/assets/img/travel/Ecuador/Galapagos/Galapagos-8.JPG)

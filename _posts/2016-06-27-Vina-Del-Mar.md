@@ -7,12 +7,12 @@ category: Chile
 
 
 # Vina Del Mar
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-1.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-2.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-3.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-4.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-5.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-6.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-7.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-8.JPG)
-![Vina Del Mar](/blog/images/Chile/Vina Del Mar/Vina-Del-Mar-9.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-1.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-2.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-3.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-4.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-5.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-6.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-7.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-8.JPG)
+![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-9.JPG)
