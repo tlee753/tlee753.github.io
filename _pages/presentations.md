@@ -18,10 +18,12 @@ permalink: "/presentations/"
 
 |Title|Link|
 |-----|----|
-|Resume                     |[Resume](/assets/docs/Tyler-Lee-Resume.pdf)|
-|Electrathon Vehicle Project|[Project Report](/assets/docs/Electrathon-Vehicle-v6.1.pdf)|
-|Eagle Scout Project        |[Overview](/portfolio/eagle-scout-project)|
-|ROS Robotics Research      |[Project Report](/assets/docs/ROS-Report.pdf)|
+|Resume                         |[Resume](/assets/docs/Tyler-Lee-Resume.pdf)|
+|Electrathon Vehicle Project    |[Project Report](/assets/docs/Electrathon-Vehicle-v6.1.pdf)|
+|Eagle Scout Project            |[Overview](/portfolio/eagle-scout-project)|
+|ROS Robotics Research          |[Project Report](/assets/docs/ROS-Report.pdf)|
+|Automated Can Crusher Project  |[Project Report](/assets/docs/Can-Crusher-Report.pdf)|
+|Composting Project             |[Project Report](/assets/docs/Composting-Project.pdf)|
 
 </div>
 

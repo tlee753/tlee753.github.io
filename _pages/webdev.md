@@ -31,7 +31,6 @@ permalink: "/webdev/"
   - country pages links in breadcrumbs
   - images on blog pages (thumbnails)
   
-
 ### Work Pages
     - reconso?
     - **pru realtime beaglebone quadrature encoder reading**
