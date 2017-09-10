@@ -74,26 +74,26 @@ socialpage:
 # Collection Section
 
 interests:
-- {name: How to Win Friends and Influence People, folder: 'coll-1', link: 'https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People'}
-- {name: Wanderers, folder: 'coll-2', link: '/about/wanderers/index.html'}
-- {name: Start with Why, folder: 'coll-3', link: '/about/why/index.html'}
-- {name: Euler Problems, folder: 'coll-4', link: 'https://projecteuler.net/'}
-- {name: My Favorite Quotes, folder: 'coll-11', link: 'https://www.youtube.com/watch?v=GC7Aqc-h9no'}
-- {name: Intelligence Squared, folder: 'coll-21', link: 'https://www.intelligencesquaredus.org/'}
-- {name: My Favorite Movies, folder: 'coll-5', link: '/about/movies/'}
-- {name: Georgia Tech UNICEF, folder: 'coll-7', link: 'http://www.unicef.gatech.edu/'}
-- {name: Calvin and Hobbes, folder: 'coll-8', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
-- {name: Stockfish vs Komodo Chess Engines, folder: 'coll-9', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
-- {name: The Boy and the Starfish, folder: 'coll-6', link: '/starfish/'}
-- {name: TED Talks, folder: 'coll-23', link: 'https://www.ted.com'}
-- {name: Albert Einstein, folder: 'coll-13', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
-- {name: Space X, folder: 'coll-14', link: 'http://www.spacex.com/'}
-- {name: John Wooden, folder: 'coll-15', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
-- {name: RECONSO, folder: 'coll-22', link: 'https://reconso.gatech.edu'}
-- {name: John Oliver, folder: 'coll-17', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
-- {name: Reader's Digest, folder: 'coll-18', link: 'http://www.rd.com/'}
-- {name: Vsauce, folder: 'coll-19', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
-- {name: GT Advice, folder: 'coll-20', link: '/gtadvice/'}
+- {name: How to Win Friends and Influence People, folder: 'htwfaip', link: 'https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People'}
+- {name: Wanderers, folder: 'wanderers', link: '/wanderers/'}
+- {name: Start with Why, folder: 'why', link: '/why/'}
+- {name: Euler Problems, folder: 'euler', link: 'https://projecteuler.net/'}
+- {name: My Favorite Quotes, folder: 'quotes', link: 'https://www.youtube.com/watch?v=GC7Aqc-h9no'}
+- {name: Intelligence Squared, folder: 'intelligence-squared', link: 'https://www.intelligencesquaredus.org/'}
+- {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
+- {name: Georgia Tech UNICEF, folder: 'unicef', link: 'http://www.unicef.gatech.edu/'}
+- {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
+- {name: Stockfish vs Komodo Chess Engines, folder: 'chess', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
+- {name: The Boy and the Starfish, folder: 'starfish', link: '/starfish/'}
+- {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
+- {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
+- {name: Space X, folder: 'spacex', link: 'http://www.spacex.com/'}
+- {name: John Wooden, folder: 'wooden', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
+- {name: RECONSO, folder: 'reconso', link: 'https://reconso.gatech.edu'}
+- {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
+- {name: Reader's Digest, folder: 'readers-digest', link: 'http://www.rd.com/'}
+- {name: Vsauce, folder: 'vsauce', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
+- {name: GT Advice, folder: 'gt-advice', link: '/gtadvice/'}
 
 # amazon reviews
 # scott sterling
@@ -106,9 +106,9 @@ interests:
 
 # HUMOR
 
-# - {name: Star Wars, folder: 'coll-10', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
-# - {name: Dream Car, folder: 'coll-16', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
-# - {name: Coding Jokes, folder: 'coll-12', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
+# - {name: Star Wars, folder: 'star-wars', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
+# - {name: Dream Car, folder: 'dream-car', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
+# - {name: Coding Jokes, folder: 'coding-jokes', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
 
 
 #-------------------------------
