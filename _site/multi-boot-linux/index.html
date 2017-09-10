@@ -71,7 +71,6 @@
   <h1 id="creating-a-multi-boot">Creating a Multi-boot</h1>
 
   <h3 id="linux-system-with-or-without-windows">Linux system with or without Windows</h3>
-
   <hr />
 
   <h3 id="what">What?</h3>
@@ -84,9 +83,10 @@
   <ul>
     <li>Dual-booting (Windows and Linux) is great for maximizing the capabilities of a personal computer as you can run programs built for each operating system without the overhead of a virtual machine</li>
     <li>But sometimes the linux distro you choose isn’t always ideal for the diverse range of linux applications</li>
+    <li>Why not?</li>
   </ul>
 
-  <h3 id="use-case">Use Case</h3>
+  <h3 id="example-use-case">Example Use Case</h3>
   <ol>
     <li>I like to run Windows for all the applications that basically require it (CAD, Steam)</li>
     <li>Ubuntu has been the easiest to use for crypto-mining with wide spread support (drivers) in most linux applications</li>
@@ -98,19 +98,147 @@
 
 <section>
 
+  <h1 id="glossary">Glossary</h1>
+  <hr />
+
+  <h3 id="general">General</h3>
+  <ul>
+    <li>Distribution (distro): a flavor of linux, a particular linux operating system</li>
+    <li>ISO File: disk image file, in our case it will contain an operating system and will be “burned” to a flashdrive</li>
+    <li>Drive: a physical piece of equipment that has memory and can store files (hard drive, solid state drive, flash drive, sd card…)</li>
+    <li>Partition: a virtual block of memory on a drive, there are several types of partitions</li>
+    <li>GParted: common linux program used to manage partitions</li>
+    <li>Disk Management: Windows utility used to manage partitions</li>
+  </ul>
+
+  <h3 id="partition-types">Partition types</h3>
+  <ul>
+    <li>Primary: You can only have 4 of these on a drive</li>
+    <li>Logical: A primary partition that allows you to divide it into as many new partitions as space allows</li>
+    <li>Extended:</li>
+  </ul>
+
+</section>
+
+<section>
+
+  <h1 id="required-materials">Required Materials</h1>
+  <hr />
+
+  <h3 id="hardware">Hardware</h3>
+  <ul>
+    <li>A USB flashdrive of 4+ GB’s is required</li>
+  </ul>
+
+  <h3 id="software">Software</h3>
+  <ul>
+    <li>
+      <p>Distributions (Linux operating systems to download)</p>
+    </li>
+    <li><a href="https://www.debian.org/CD/http-ftp/">Debian</a></li>
+    <li><a href="https://www.ubuntu.com/download/desktop">Ubuntu</a></li>
+    <li><a href="https://www.linuxmint.com/download.php">Mint</a></li>
+    <li><a href="https://www.archlinux.org/download/">Arch</a></li>
+    <li><a href="https://manjaro.org/get-manjaro/">Manjaro</a></li>
+    <li><a href="https://getfedora.org/">Fedora</a></li>
+    <li><a href="https://www.centos.org/download/">CentOS</a></li>
+  </ul>
+
+  <h3 id="gt-software-mirror">GT Software Mirror</h3>
+  <ul>
+    <li>Just in case you happen to be near Atlanta :)</li>
+    <li><a href="http://www.gtlib.gatech.edu/">Mirror</a></li>
+  </ul>
+
+  <h3 id="iso-writing-software">ISO Writing Software</h3>
+  <ul>
+    <li>Etcher is a cross platform (Windows, MAC, Linux) software utility to write ISO files (operating system images) to external media (flashdrives)</li>
+    <li><a href="https://etcher.io">Etcher</a></li>
+    <li>You will need to either have an operating system installed already (probably Windows) or use another computer to burn an ISO to the flashdrive</li>
+  </ul>
+
+</section>
+
+<section>
+
+  <h1 id="initial-setup">Initial Setup</h1>
+  <hr />
+
+  <h3 id="with-windows">With Windows</h3>
+  <ul>
+    <li>Install Windows (if you haven’t already) before you install any linux operating systems as it is easiest to do in this order</li>
+    <li>Next, boot a flashdrive containing one of the easier to use distributions (Ubuntu/Mint)</li>
+    <li>Open GParted (partitioning software program)</li>
+    <li>If you prefer Windows programs, you can also use Windows Disk Managament (default Windows program)</li>
+  </ul>
+
+  <h3 id="without-windows">Without Windows</h3>
+  <ul>
+    <li>Boot a flashdrive containing one of the easier to use distributions (Ubuntu/Mint)</li>
+    <li>Open GParted (partitioning software program)</li>
+  </ul>
+
+</section>
+
+<section>
+
   <h1 id="partitioning">Partitioning</h1>
+  <hr />
+
+  <h3 id="with-windows-1">With Windows</h3>
+  <ul>
+    <li>Windows will initially come with 2-3 partitions (recovery partition isn’t always there)</li>
+    <li>Each of these partitions are primary partitions so you will want to create a logical partition for you linux OS’s</li>
+    <li>Start by shrinking your main Windows partition (C:// drive, largest partition) to create space for linux</li>
+    <li>Go ahead and write this change (makes debugging errors easier if any arise)</li>
+  </ul>
+
+  <p>|EFI (FAT32) (~100MB)|Windows Recovery (NTFS) (~500MB)|Windows (NTFS) (~60+GB)|Logical Partition (~60+GB)|
+|——————–|——————————–|———————–|————————–|</p>
+
+  <ul>
+    <li>Within the logical partition, create a swap space the size of your RAM</li>
+    <li>Next, create <code class="highlighter-rouge">Ext4</code> drives in the logical partition for each of the linux operating systems you want to install</li>
+    <li>If you want to create a shared home partition (read more on the next slide) create another <code class="highlighter-rouge">Ext4</code> partition and set the mount point to <code class="highlighter-rouge">/home</code></li>
+  </ul>
+
+  <p>|Swap Space (~8-16GB)|Linux OS 1 (~20+GB)|Linux OS 2 (~20+GB)|Linux OS 3… (~20+GB)|Home Partition (~20+GB)|
+|——————–|——————-|——————-|———————-|———————–|</p>
+
+  <h3 id="without-windows-1">Without Windows</h3>
+  <ul>
+    <li></li>
+  </ul>
+
+  <p>|EFI(FAT32)(~100MB)|Windows Recovery(NTFS)(~500MB)|Windows(NTFS)(~60+GB)|Logical Partition(~60+GB)|
+|——————|——————————|———————|————————-|</p>
 
 </section>
 
 <section>
 
-  <h1 id="slide-3">Slide 3</h1>
+  <h1 id="shared-home-partition">Shared Home Partition</h1>
+  <hr />
+
+  <ul>
+    <li>Linux operating systems can share the same home partition (usually wrapped up in the operating system partition)</li>
+    <li>This tends to work best with similar operating systems (Ubuntu and Mint)</li>
+    <li>This won’t work with Windows although you can still access your Windows data from any linux distribution</li>
+    <li>I very much enjoy using a shared home partiton as I don’t have to think about where my data is when I load a different operating system</li>
+    <li>To do so, simply create another <code class="highlighter-rouge">Ext4</code> partition and set mount point to <code class="highlighter-rouge">/home</code></li>
+    <li>With each subsequent distribution, be select the home partition you made and set mount point to <code class="highlighter-rouge">/home</code></li>
+  </ul>
 
 </section>
 
 <section>
 
-  <h1 id="slide-4">Slide 4</h1>
+  <h1 id="ending-notes">Ending Notes</h1>
+  <hr />
+  <ul>
+    <li>You can use Yumi-boot or another equivalent to install several distros to one flashdrive (you’ll need more than 4GB)</li>
+    <li>Enjoy your new multi-boot system</li>
+  </ul>
 
 </section>
 
