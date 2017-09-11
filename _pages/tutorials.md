@@ -18,7 +18,8 @@ permalink: "/tutorials/"
 
 |Tutorial|Link|
 |--------|----|
-|Multi-Boot-Linux        |[Link](/multi-boot-linux)|
+|Multi-Boot-Linux        |[Guide](/multi-boot-linux)|
+|Doxygen Linux/MacOS     |[Coming Soon](#)|
 
 </div>
 
