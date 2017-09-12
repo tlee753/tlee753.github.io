@@ -2203,6 +2203,11 @@ header {
       text-align: left; }
     .portfolio-page .portfolio-content table {
       margin: 0 auto; }
+    .portfolio-page .portfolio-content img {
+      display: block;
+      margin: 0 auto;
+      padding: 10px;
+      max-width: 100%; }
 
 .post-content {
   max-width: 1000px;
