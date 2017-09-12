@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Electrathon Vehicle
 date: 2017-09-06 8:00:00
 permalink: "/electrathon-vehicle/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/electrathon-vehicle/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/electrathon-vehicle/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 
@@ -21,6 +21,10 @@ on the system along with donating the chassis to kick start the next wave of bri
 
 I would also like to thank my engineering teacher who modified the scheduling system to allow me to continue
 beyond the Fulton County three year engineering pathway.
+
+<br>
+
+[Project Report](/assets/docs/Electrathon-Vehicle.pdf)
 
 </div>
 

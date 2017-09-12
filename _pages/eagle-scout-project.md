@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Eagle Scout Project
 date: 2017-09-06 8:00:00
 permalink: "/eagle-scout-project/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/eagle-scout-project/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/eagle-scout-project/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 
@@ -69,6 +69,10 @@ before I was sowing the Eagle badge on my uniform.
 As any Eagle Scout will tell you, its an honor that comes from hard work and the relentless support of
 amazing people along the way. I would personally like to recognize the wonderful scoutmasters, my Eagle
 Scout coach, the selfless volunteers, and above all my father for the lessons taught and guidance given.
+
+<br>
+
+[Eagle Scout Project Appendicies](/assets/docs/Eagle-Appendicies.pdf)
 
 </div>
 

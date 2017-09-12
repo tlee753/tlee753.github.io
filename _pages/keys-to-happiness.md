@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Keys to Happiness
 date: 2017-09-06 8:00:00
 permalink: "/keys-to-happiness/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/keys-to-happiness/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/keys-to-happiness/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 

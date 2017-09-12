@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Windows Server Technical Preview
 date: 2017-09-06 8:00:00
 permalink: "/windows-server-technical-preview/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/windows-server-technical-preview/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/windows-server-technical-preview/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 

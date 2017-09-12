@@ -11,7 +11,7 @@ permalink: "/portfolio/"
 
     <a href="/{{ item.folder }}" class="portfolio-unit">
         <div class="portfolio-background"
-             style="background-image: url(/assets/img/portfolio/{{ item.folder }}/display.jpg);"></div>
+             style="background-image: url(/assets/img/portfolio/{{ item.folder }}/slider.jpg);"></div>
         <div class="portfolio-overlay">
             <strong>{{ item.name }}</strong>
         </div>

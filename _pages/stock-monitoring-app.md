@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Stock Monitoring App
 date: 2017-09-06 8:00:00
 permalink: "/stock-monitoring-app/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/stock-monitoring-app/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/stock-monitoring-app/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 

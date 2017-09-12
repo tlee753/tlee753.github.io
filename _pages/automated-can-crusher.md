@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Automated Can Crusher
 date: 2017-09-06 8:00:00
 permalink: "/automated-can-crusher/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/automated-can-crusher/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/automated-can-crusher/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 
@@ -22,6 +22,10 @@ finally dropping the can onto the diligently placed conveyor belt for removal.
 
 To follow up, I wrote a design brief, helped develop the alternative designs of other groups, and wrote
 a tutorial on operating the PLC for future generations.
+
+<br>
+
+[Project Brief](/assets/docs/Can-Crusher-Report.pdf)
 
 </div>
 
