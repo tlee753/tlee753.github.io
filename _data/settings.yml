@@ -26,14 +26,21 @@ skills:
 # Portfolio Section
 
 portfolio:
-- {name: Performance Computer Build, folder: 'performance-computer-build'}
-- {name: Autonomous Cargo Robot, folder: 'autonomous-cargo-robot'}
-- {name: Eagle Scout Project, folder: 'eagle-scout-project'}
-- {name: Stock Monitoring App, folder: 'stock-monitoring-app'}
-- {name: Electrathon Vehicle, folder: 'electrathon-vehicle'}
-- {name: Windows Server Technical Preview, folder: 'windows-server-technical-preview'}
-- {name: Automated Can Crusher, folder: 'automated-can-crusher'}
-- {name: Keys to Happiness, folder: 'keys-to-happiness'}
+- {name: Performance Computer Build, folder: 'performance-computer-build', next: '', previous: ''}
+- {name: Autonomous Cargo Robot, folder: 'autonomous-cargo-robot', next: '', previous: ''}
+- {name: Eagle Scout Project, folder: 'eagle-scout-project', next: '', previous: ''}
+- {name: Stock Monitoring App, folder: 'stock-monitoring-app', next: '', previous: ''}
+- {name: Electrathon Vehicle, folder: 'electrathon-vehicle', next: '', previous: ''}
+# - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
+- {name: Interactive Robotics, folder: 'interactive-robotics', next: '', previous: ''}
+- {name: Chess Visualizer, folder: 'chess-visualizer', next: '', previous: ''}
+# - {name: Passive Desalinator, folder: 'passive-desalinator', next: '', previous: ''}
+# - {name: Image Manipulation Script, folder: 'image-manipulation-script', next: '', previous: ''}
+# - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
+# - {name: Keys to Happiness, folder: 'keys-to-happiness', next: '', previous: ''}
+# - {name: Windows Server Technical Preview, folder: 'windows-server-technical-preview', next: '', previous: ''}
+- {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
+# - {name: Text Server, folder: 'text-server', next: '', previous: ''}
 
 
 #-------------------------------

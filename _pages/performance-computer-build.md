@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Performance Computer Build
 date: 2017-09-06 8:00:00
 permalink: "/performance-computer-build/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/performance-computer-build/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/performance-computer-build/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 
@@ -20,7 +20,7 @@ permalink: "/performance-computer-build/"
 - Power Supply: Evga Supernova G2 850W
 - Case: NZXT H440 Red/Black
 
-### [PC Part Picker](http://pcpartpicker.com/list/V2kZf8)
+### [PC Part Picker List](http://pcpartpicker.com/list/V2kZf8)
 
 |Type|Item|Price|
 |----|----|-----|
@@ -43,7 +43,38 @@ permalink: "/performance-computer-build/"
     
 <br>
 
-*Prices include shipping, taxes, rebates, and discounts</p>
+*Prices include shipping, taxes, rebates, and discounts
+
+<!--
+<br>
+
+<style>
+.carousel {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+</style>
+
+### Slideshow Indicators
+
+<div style="max-width:800px">
+
+<img class="carousel" src="/assets/img/travel/Greece/Santorini/Santorini-1.JPG" style="width:100%">
+
+<img class="carousel" src="/assets/img/travel/Greece/Santorini/Santorini-2.JPG" style="width:100%">
+
+<img class="carousel" src="/assets/img/travel/Greece/Santorini/Santorini-3.JPG" style="width:100%">
+
+<div onclick="plusDivs(-1)">&#10094;</div>
+
+<div onclick="plusDivs(1)">&#10095;</div>
+
+<span onclick="currentDiv(1)">1</span>
+
+<span onclick="currentDiv(2)">2</span>
+
+<span onclick="currentDiv(3)">3</span>
+  
+</div>
+-->
     
 </div>
 

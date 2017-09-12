@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: Autonomous Cargo Robot
 date: 2017-09-06 8:00:00
 permalink: "/autonomous-cargo-robot/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/autonomous-cargo-robot/display.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/autonomous-cargo-robot/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 
