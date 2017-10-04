@@ -27,7 +27,7 @@ skills:
 
 portfolio:
 - {name: Performance Computer Build, folder: 'performance-computer-build', next: '', previous: ''}
-- {name: Autonomous Cargo Robot, folder: 'autonomous-cargo-robot', next: '', previous: ''}
+- {name: Autonomous Robotics, folder: 'autonomous-robotics', next: '', previous: ''}
 - {name: Eagle Scout Project, folder: 'eagle-scout-project', next: '', previous: ''}
 - {name: Stock Monitoring App, folder: 'stock-monitoring-app', next: '', previous: ''}
 - {name: Electrathon Vehicle, folder: 'electrathon-vehicle', next: '', previous: ''}

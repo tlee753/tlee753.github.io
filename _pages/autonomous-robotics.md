@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Autonomous Cargo Robot
+title: Autonomous Robotics
 date: 2017-09-06 8:00:00
-permalink: "/autonomous-cargo-robot/"
+permalink: "/autonomous-robotics/"
 ---
 
 <section class="portfolio-page" style="background-image: url(/assets/img/portfolio/autonomous-cargo-robot/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 
-### Autonomous Cargo Robot
+### Autonomous Robotics
 
 The Institute of Electric and Electrical Engineers helps professional engineers further their careers and
 for the next generation, well, begin theirs. Each year the Southeastern conference releases a robotics hardware
@@ -21,7 +21,11 @@ hotel room in Norfolk, Virginia).
 <br>
 
 After serving as Mechanical Lead during my 1st year at Tech, I am now serving as president of the hardware team
-and serving on the IEEE executive board at Georgia Tech.
+and consequently on the IEEE executive board at Georgia Tech. This years [competition](http://ewh.ieee.org/reg/3/southeastcon2018/index.html)
+features a pirate theme expedition in which the best navigation [software](https://github.com/GaTech-IEEE-Hardware/2018)
+will almost certainly win the competition. Therefore, the major focus is on writing precise [PID controllers](https://en.wikipedia.org/wiki/PID_controller), 
+implementing a two methods of localization (quadrature encoders and i2c distance sensor array), and possibly some 
+embedded linux PRU communication...
     
 </div>
 
