@@ -11,6 +11,9 @@ url: "http://tlee753.com"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 include: ['_pages']
 #permalink: /:title/
 
