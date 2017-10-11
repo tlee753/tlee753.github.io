@@ -85,7 +85,7 @@ interests:
 - {name: Wanderers, folder: 'wanderers', link: '/wanderers/'}
 - {name: Start with Why, folder: 'why', link: '/why/'}
 - {name: Euler Problems, folder: 'euler', link: 'https://projecteuler.net/'}
-- {name: My Favorite Quotes, folder: 'quotes', link: 'https://www.youtube.com/watch?v=GC7Aqc-h9no'}
+- {name: My Favorite Quotes, folder: 'quotes', link: '/quotes/'}
 - {name: Intelligence Squared, folder: 'intelligence-squared', link: 'https://www.intelligencesquaredus.org/'}
 - {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
 - {name: Georgia Tech UNICEF, folder: 'unicef', link: 'http://www.unicef.gatech.edu/'}
@@ -152,5 +152,4 @@ seo:
 # Learn more at: http://support.google.com/analytics/answer/1008065
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-#google-analytics-ua: UA-XXXXXX-X
+google-analytics-ua: UA-107927214-1
