@@ -69,6 +69,10 @@ I have a decent knowledge of Java FX, my favorite GUI development program and am
 increasing my knowledge daily so as to fully implement the program. I will 
 definitely be posting my progress to Github so check back soon!
 
+<br>
+
+[Full Program Alpha Build](/assets/docs/Chess-1.1-1.8.jar)
+
 </div>
 
 </section>
