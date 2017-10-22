@@ -90,8 +90,8 @@ interests:
 - {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
 - {name: Georgia Tech UNICEF, folder: 'unicef', link: 'http://www.unicef.gatech.edu/'}
 - {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
-- {name: Stockfish vs Komodo Chess Engines, folder: 'chess', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
 - {name: The Boy and the Starfish, folder: 'starfish', link: '/starfish/'}
+- {name: Bucket List, folder: 'bucket', link: '/bucket/'}
 - {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
 - {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
 - {name: Space X, folder: 'spacex', link: 'http://www.spacex.com/'}
@@ -110,12 +110,14 @@ interests:
 # jack johnson
 # formula one racing
 # world war 2
+# humor section?
 
-# HUMOR
+# OTHER
 
 # - {name: Star Wars, folder: 'star-wars', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
 # - {name: Dream Car, folder: 'dream-car', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
 # - {name: Coding Jokes, folder: 'coding-jokes', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
+# - {name: Stockfish vs Komodo Chess Engines, folder: 'chess', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
 
 
 #-------------------------------
