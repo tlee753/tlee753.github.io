@@ -71,7 +71,11 @@ definitely be posting my progress to Github so check back soon!
 
 <br>
 
-[Full Program Alpha Build](/assets/docs/Chess-1.1-1.8.jar)
+[Full Program Alpha Build](/assets/docs/Chess-1.2-1.8.jar)
+
+<br>
+
+![Working Program](/assets/img/portfolio/chess-visualizer/frontend-1.2.jpg)
 
 </div>
 

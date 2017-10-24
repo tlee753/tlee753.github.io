@@ -20,7 +20,7 @@ permalink: "/bucket/"
 - [ ] Speak at a TED event
 - [ ] Start a business
 - [ ] Publish an app
-- [ ] Write a software program (GUI based, complexity and originality required)
+- [x] Write a software program (GUI based, complexity and originality required)
 - [ ] Fly in a hot air balloon
 - [ ] Scuba certification
 - [ ] Pilot's license
@@ -38,14 +38,14 @@ permalink: "/bucket/"
 - [ ] Meet a role model
 - [ ] Land a front flip (on land)
 - [ ] Swim in bioluminescent water
-- [ ] Race down the Autobahn
+- [ ] Race down the Autobahn (sports car required)
 - [ ] FCC Certification
 - [ ] List top 100 books
 - [ ] Make a quote book (Iannarino-esque)
 - [ ] See the milky way galaxy (naked eye)
 - [ ] Motorcycle license
 - [x] Eagle Scout
-- [ ] 
+- [ ] Climb an exceptionally tall mountain
 
 ### Travel
 
