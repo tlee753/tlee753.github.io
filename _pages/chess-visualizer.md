@@ -19,7 +19,11 @@ the validity of the program. I did so using a key position in Fischer's immortal
 versus Bryne played in 1956. The position represents a potential queen sacrifice 
 by Fischer and the net results of doing so.
 
+<br>
+
 ![Midgame](/assets/img/portfolio/chess-visualizer/midgame.jpg)
+
+<br>
 
 The program would essentially works as follows:
 
@@ -63,15 +67,21 @@ and the resulting fen will be sent to the backend for deciphering and illustrati
 
 <br>
 
-### Program Frontend
-
-I have a decent knowledge of Java FX, my favorite GUI development program and am 
-increasing my knowledge daily so as to fully implement the program. I will 
-definitely be posting my progress to Github so check back soon!
+![Backend View](/assets/img/portfolio/chess-visualizer/backend-1.2.jpg)
 
 <br>
 
-[Full Program Alpha Build](/assets/docs/Chess-1.2-1.8.jar)
+### Program Frontend
+
+It is here!!! After quite a bit of planning the entire program is ready for the
+world. It is currently in its Alpha stage, although all known bugs have been 
+squashed for the time being. If you are careful to follow the integrated 
+instructions you should have no problem on Windows, Mac, or Linux (assuming you 
+have java installed...). Post feedback on Github, I'm working as I have time. ;)
+
+<br>
+
+[Full Program Alpha Build](/assets/docs/Chess-1.3-1.8.jar)
 
 <br>
 
