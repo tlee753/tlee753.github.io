@@ -26,17 +26,18 @@ permalink: "/bucket/"
 - [ ] Pilot's license
 - [x] Solve a rubik's cube
 - [ ] See the northern lights
-- [ ] Make a meaningful anonymous donation
-- [ ] Go skiing
-- [ ] Go hang gliding
+- [ ] Make a meaningful anonymous donation (Widow's Offering...)
+- [ ] Go skiing (black diamond)
+- [ ] Go hang gliding (rain forest?)
 - [ ] Kill it at a karaoke night
 - [x] Witness a solar eclipse
 - [ ] Plant an orchard
-- [ ] Play an instrument
-- [ ] Play another instrument
-- [ ] Visit an active volcano
-- [ ] Meet a role model
+- [ ] Play an instrument (electric guitar?)
+- [ ] Play another instrument (piano?)
+- [ ] Visit an active volcano (see lava required)
+- [ ] Meet one of my role models
 - [ ] Land a front flip (on land)
+- [x] Full backflip (water permitted)
 - [ ] Swim in bioluminescent water
 - [ ] Race down the Autobahn (sports car required)
 - [ ] FCC Certification
@@ -45,7 +46,12 @@ permalink: "/bucket/"
 - [ ] See the milky way galaxy (naked eye)
 - [ ] Motorcycle license
 - [x] Eagle Scout
-- [ ] Climb an exceptionally tall mountain
+- [ ] Climb an exceptionally tall mountain (TBD...)
+- [x] Build a computer from scratch
+- [ ] Get a black belt
+- [x] Juggle a soccer ball
+- [ ] Juggle
+- [ ] 
 
 ### Travel
 
