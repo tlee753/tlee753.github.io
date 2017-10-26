@@ -81,7 +81,7 @@ have java installed...). Post feedback on Github, I'm working as I have time. ;)
 
 <br>
 
-[Full Program Alpha Build](/assets/docs/Chess-1.3-1.8.jar)
+[Full Program Alpha Build](/assets/docs/Chess-1.4-1.8.jar)
 
 <br>
 
