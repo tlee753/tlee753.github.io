@@ -9,7 +9,7 @@ permalink: "/bucket/"
 # Bucket List
 - [x] Go skydiving
 - [ ] Visit every inhabited continent (3/6)
-- [ ] Read Harry Potter series
+- [x] Read Harry Potter series
 - [ ] Read Lord of the Rings
 - [x] Learn a new language
 - [ ] Learn another new language
