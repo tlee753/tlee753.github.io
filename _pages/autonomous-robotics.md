@@ -5,7 +5,7 @@ date: 2017-09-06 8:00:00
 permalink: "/autonomous-robotics/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/autonomous-cargo-robot/background.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/autonomous-robotics/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 

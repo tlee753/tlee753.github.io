@@ -81,9 +81,9 @@ permalink: "/webdev/"
 - 4k support
 - tutorials page
 - about page improvements
-    - quotes page
 - resume page
     - that would be so dope
+- search page
 
 ### Complete
 - link pull down in navbar for mobile page
@@ -102,6 +102,7 @@ permalink: "/webdev/"
 - main page header links
 - fix skills section left alignment
 - better animation for about page
+- quotes page
 
 ---
 

@@ -2,7 +2,7 @@
 layout: default
 title: Isabel
 date: 2017-09-06 8:00:00
-permalink: "/isabel/"
+permalink: "/workspace/isabel/"
 ---
 
 <section id="isabel-page">
