@@ -18,6 +18,10 @@ involving a camera and robotic arm on a Husky robot.
 
 <br>
 
+![ROS Tutorial](/assets/img/portfolio/interactive-robotics/tutorial.png)
+
+<br>
+
 [Research Findings](/assets/docs/ROS-Report.pdf)
 
 </div>
