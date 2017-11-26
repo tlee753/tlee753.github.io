@@ -20,6 +20,8 @@ permalink: "/tutorials/"
 |--------|----|
 |Multi-Boot-Linux        |[Guide](/multi-boot-linux)|
 |Doxygen Linux/MacOS     |[Coming Soon](#)|
+|Clang Linux/MacOS       |[Coming Soon](#)|
+|Tkinter GUI Development |[Coming Soon](#)|
 
 </div>
 
