@@ -15,6 +15,10 @@ permalink: "/blog/"
     {% endfor %}
 </ul>
 
-<div id="world-map">
+<div class="world-map">
     {% include world-map.html %}
+</div>
+
+<div class="world-map">
+    {% include us-map.html %}
 </div>

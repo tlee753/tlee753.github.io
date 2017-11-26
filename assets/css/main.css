@@ -1714,11 +1714,13 @@ header {
   .post-list p {
     margin: 5px auto; }
 
-#world-map {
+.world-map {
   max-width: 1200px;
   padding: 10px;
   margin: 0 auto; }
-  #world-map svg .map-country:hover {
+  .world-map svg .map-country:hover {
+    fill: #193a5d; }
+  .world-map svg .map-state:hover {
     fill: #193a5d; }
 
 #contact-page {
