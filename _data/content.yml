@@ -1,4 +1,514 @@
 #-------------------------------
+# Book Section
+
+books:
+- { title: 'The Book Thief', author: '', image: 'bookthief', year: '',
+    description: 'A story about, among other things: A girl, some words, an accordionist, some fanatical Germans, a Jewish fist-fighter, and quite a lot of thievery. . . .an unforgettable story about the ability of books to feed the soul. Winner of the 2007 BookBrowse Ruby Award.',
+    review: ''
+}
+
+- { title: 'In Cold Blood', author: 'Truman Capote', image: 'incoldblood', year: '',
+    description: 'On November 15, 1959, in the small town of Holcomb, Kansas, four members of the Clutter family were savagely murdered by blasts from a shotgun held a few inches from their faces. There was no apparent motive for the crime, and there were almost no clues.',
+    review: ''
+}
+
+- { title: 'Harry Potter and the Deathly Hallows', author: 'J. K. Rowling', image: 'deathlyhallows', year: '',
+    description: 'Its no longer safe for Harry at Hogwarts, so he and his best friends, Ron and Hermione, are on the run. Professor Dumbledore has given them clues about what they need to do to defeat the dark wizard, Lord Voldemort, once and for all, but its up to them to figure out what these hints and suggestions really mean.',
+    review: ''
+}
+
+- { title: 'Surely Youre Joking, Mr. Feynman!', author: 'Richard Feynman', image: 'surelyyourejoking', year: '',
+    description: 'Richard Feynman (1918-1988), winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; painting a naked female toreador - and much else of an eyebrow-raising nature.',
+    review: ''
+}
+
+- { title: 'How to Win Friends and Influence People', author: 'Dale Carnegie', image: 'htwfaip', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Start with Why', author: 'Simon Senek', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Martian', author: 'Andy Weir', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Start with Why', author: 'Simon Sinek', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Number the Stars', author: 'Lois Lowry', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Fahrenheit 451', author: 'Ray Bradbury', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Great Gatsby', author: 'F. Scott Fitzgerald', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'To Kill a Mockingbird', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'A Dogs Purpose', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'All the Light We Cannot See', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Kringle', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Before I Fall', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Giver', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Chicken Soup for the Soul', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Far Side Gallery', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '1984', author: 'George Orwell', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Hunger Games', author: 'Suzanne Collins', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Lion, the Witch, and the Wardrobe', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Night', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'A Wrinkle in Time', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Hitchhikers Guide to the Galaxy', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Frankenstein', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'The Diary of a Young Girl', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Slaughterhouse Five', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Holes', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: 'Into the Wild', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+- { title: '', author: '', image: '', year: '',
+    description: '',
+    review: ''
+}
+
+
+#- { title: '', author: '', image: '', year: '',
+#    description: '',
+#    review: ''
+#}
+
+#-------------------------------
 # Movie Section
 
 movies:
