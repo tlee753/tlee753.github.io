@@ -90,17 +90,18 @@ interests:
 - {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
 - {name: Georgia Tech UNICEF, folder: 'unicef', link: 'http://www.unicef.gatech.edu/'}
 - {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
+- {name: My Favorite Books, folder: 'books', link: '/books/'}
 - {name: The Boy and the Starfish, folder: 'starfish', link: '/starfish/'}
-- {name: Bucket List, folder: 'bucket', link: '/bucket/'}
+- {name: My Bucket List, folder: 'bucket', link: '/bucket/'}
 - {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
 - {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
 - {name: Space X, folder: 'spacex', link: 'http://www.spacex.com/'}
 - {name: John Wooden, folder: 'wooden', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
 - {name: RECONSO, folder: 'reconso', link: 'https://reconso.gatech.edu'}
-- {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
-- {name: Reader's Digest, folder: 'readers-digest', link: 'http://www.rd.com/'}
 - {name: Vsauce, folder: 'vsauce', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
-- {name: GT Advice, folder: 'gt-advice', link: '/gtadvice/'}
+- {name: Reader's Digest, folder: 'readers-digest', link: 'http://www.rd.com/'}
+- {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
+
 
 # amazon reviews
 # scott sterling

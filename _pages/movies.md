@@ -25,7 +25,7 @@ permalink: "/movies/"
     
         <p class="movie-description"> {{ movie.description }} </p>
     
-        <p class="movie-review"> {{movie.review }} </p>
+        <p class="movie-review"> {{ movie.review }} </p>
     
     </div>
 
