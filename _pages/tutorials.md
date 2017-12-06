@@ -22,6 +22,7 @@ permalink: "/tutorials/"
 |Doxygen Linux/MacOS     |[Coming Soon](#)|
 |Clang Linux/MacOS       |[Coming Soon](#)|
 |Tkinter GUI Development |[Coming Soon](#)|
+|Wine Windows Emulator   |[Coming Soon](#)|
 
 </div>
 
