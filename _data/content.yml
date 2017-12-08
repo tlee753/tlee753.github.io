@@ -23,132 +23,132 @@ books:
 }
 
 - { title: 'How to Win Friends and Influence People', author: 'Dale Carnegie', image: 'htwfaip', year: '',
-    description: '',
+    description: 'You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you are in...and make it work for you!',
     review: ''
 }
 
-- { title: 'Start with Why', author: 'Simon Senek', image: '', year: '',
-    description: '',
+- { title: 'Start with Why', author: 'Simon Senek', image: 'startwithwhy', year: '',
+    description: 'Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over?',
     review: ''
 }
 
-- { title: 'The Martian', author: 'Andy Weir', image: '', year: '',
-    description: '',
+- { title: 'The Martian', author: 'Andy Weir', image: 'martian', year: '2014',
+    description: 'Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there.',
     review: ''
 }
 
-- { title: 'Start with Why', author: 'Simon Sinek', image: '', year: '',
-    description: '',
+- { title: 'Tuck Everlasting', author: 'Natalie Babbitt', image: 'tuckeverlasting', year: '',
+    description: 'Doomed to - or blessed with - eternal life after drinking from a magic spring, the Tuck family wanders about trying to live as inconspicuously and comfortably as they can. When ten-year-old Winnie Foster stumbles on their secret, the Tucks take her home and explain why living forever at one age is less a blessing that it might seem.',
     review: ''
 }
 
-- { title: 'Number the Stars', author: 'Lois Lowry', image: '', year: '',
-    description: '',
+- { title: 'Number the Stars', author: 'Lois Lowry', image: 'numberthestars', year: '',
+    description: 'Ten-year-old Annemarie Johansen and her best friend Ellen Rosen often think of life before the war. Its now 1943 and their life in Copenhagen is filled with school, food shortages, and the Nazi soldiers marching through town. When the Jews of Denmark are "relocated," Ellen moves in with the Johansens and pretends to be one of the family.',
     review: ''
 }
 
-- { title: 'Fahrenheit 451', author: 'Ray Bradbury', image: '', year: '',
-    description: '',
+- { title: 'Fahrenheit 451', author: 'Ray Bradbury', image: 'fahrenheit451', year: '',
+    description: 'The Bradbury classic about a future crisis in intellectual freedom and book burning. Fahrenheit 451 is the temperature at which book paper catches fire and burns.',
     review: ''
 }
 
-- { title: 'The Great Gatsby', author: 'F. Scott Fitzgerald', image: '', year: '',
-    description: '',
+- { title: 'The Great Gatsby', author: 'F. Scott Fitzgerald', image: 'greatgatsby', year: '',
+    description: 'THE GREAT GATSBY, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” is an exquisitely crafted tale of America in the 1920s.',
     review: ''
 }
 
-- { title: 'To Kill a Mockingbird', author: '', image: '', year: '',
-    description: '',
+- { title: 'To Kill a Mockingbird', author: 'Harper Lee', image: 'tokillamockingbird', year: '',
+    description: 'The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.',
     review: ''
 }
 
-- { title: 'A Dogs Purpose', author: '', image: '', year: '',
-    description: '',
+- { title: 'A Dogs Purpose', author: 'W. Bruce Cameron', image: 'adogspurpose', year: '',
+    description: 'This is the remarkable story of one endearing dogs search for his purpose over the course of several lives. More than just another charming dog story, this touches on the universal quest for an answer to lifes most basic question: Why are we here?',
     review: ''
 }
 
-- { title: 'All the Light We Cannot See', author: '', image: '', year: '',
-    description: '',
+- { title: 'All the Light We Cannot See', author: 'Anthony Doerr', image: 'allthelightwecannotsee', year: '',
+    description: 'A stunningly ambitious and beautiful novel about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II. ',
     review: ''
 }
 
-- { title: 'Kringle', author: '', image: '', year: '',
-    description: '',
+- { title: 'Kringle', author: 'Tony Abbott', image: 'kringle', year: '',
+    description: 'Just in time for Christmas comes a fantasy epic from one of todays most popular writers for children. It is the story of a young orphan realizing his destiny -- to become the legendary Kris Kringle.',
     review: ''
 }
 
-- { title: 'Before I Fall', author: '', image: '', year: '',
-    description: '',
+- { title: 'Before I Fall', author: 'Lauren Oliver', image: 'beforeifall', year: '',
+    description: 'With this stunning debut novel, New York Times bestselling author Lauren Oliver emerged as one of todays foremost authors of young adult fiction. Like Jay Ashers Thirteen Reasons Why and Gayle Formans If I Stay, Before I Fall raises thought-provoking questions about love, death, and how one persons life can affect so many others.',
     review: ''
 }
 
-- { title: 'The Giver', author: '', image: '', year: '',
-    description: '',
+- { title: 'The Giver', author: 'Lois Lowry', image: 'giver', year: '',
+    description: 'Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.',
     review: ''
 }
 
-- { title: 'Chicken Soup for the Soul', author: '', image: '', year: '',
-    description: '',
+- { title: 'Endurance', author: 'Alfred Lansing', image: 'endurance', year: '',
+    description: 'The astonishing saga of polar explorer Ernest Shackletons survival for over a year on the ice-bound Antarctic seas, as Time magazine put it, "defined heroism." Alfred Lansings scrupulously researched and brilliantly narrated book -- with over 200,000 copies sold -- has long been acknowledged as the definitive account of the Endurances fateful trip.',
     review: ''
 }
 
-- { title: 'The Far Side Gallery', author: '', image: '', year: '',
-    description: '',
+- { title: 'The Far Side Gallery', author: 'Gary Larson', image: 'farsidegallery', year: '',
+    description: 'The Far Side Gallery is an anthology of Gary Larsons The Far Side comic strips, which were printed from 1982–1984.',
     review: ''
 }
 
-- { title: '1984', author: 'George Orwell', image: '', year: '',
-    description: '',
+- { title: '1984', author: 'George Orwell', image: '1984', year: '',
+    description: 'The year 1984 has come and gone, but George Orwells prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. 1984 is still the great modern classic of "negative utopia" -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words.',
     review: ''
 }
 
-- { title: 'The Hunger Games', author: 'Suzanne Collins', image: '', year: '',
-    description: '',
+- { title: 'The Hunger Games', author: 'Suzanne Collins', image: 'hungergames', year: '',
+    description: 'The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games.',
     review: ''
 }
 
-- { title: 'The Lion, the Witch, and the Wardrobe', author: '', image: '', year: '',
-    description: '',
+- { title: 'The Lion, the Witch, and the Wardrobe', author: 'C. S. Lewis', image: 'lionwitchwardrobe', year: '',
+    description: 'NARNIA...the land beyond the wardrobe, the secret country known only to Peter, Susan, Edmund, and Lucy...the place where the adventure begins.',
     review: ''
 }
 
-- { title: 'Night', author: '', image: '', year: '',
-    description: '',
+- { title: 'Night', author: 'Elie Wiesel', image: 'night', year: '',
+    description: 'An autobiographical narrative in which the author describes his experiences in Nazi concentration camps, watching family and friends die, and how they led him to believe that God is dead.',
     review: ''
 }
 
-- { title: 'A Wrinkle in Time', author: '', image: '', year: '',
-    description: '',
+- { title: 'A Wrinkle in Time', author: 'Madeleine LEngle', image: 'awrinkleintime', year: '',
+    description: 'It was a dark and stormy night; Meg Murry, her small brother Charles Wallace, and her mother had come down to the kitchen for a midnight snack when they were upset by the arrival of a most disturbing stranger.',
     review: ''
 }
 
-- { title: 'The Hitchhikers Guide to the Galaxy', author: '', image: '', year: '',
-    description: '',
+- { title: 'The Hitchhikers Guide to the Galaxy', author: 'Douglas Adams', image: 'hitchhikers', year: '',
+    description: 'Seconds before Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker’s Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.',
     review: ''
 }
 
-- { title: 'Frankenstein', author: '', image: '', year: '',
-    description: '',
+- { title: 'Frankenstein', author: 'Mary Shelley', image: 'frankenstein', year: '',
+    description: 'Frankenstein, a story about a student of natural philosophy who learns the secret of imparting life to a creature constructed from bones he has collected in charnel-houses. The story is not a study of the macabre, as such, but rather a study of how man uses his power, through science, to manipulate and pervert his own destiny, and this makes it a profoundly disturbing book.',
     review: ''
 }
 
-- { title: 'The Diary of a Young Girl', author: '', image: '', year: '',
-    description: '',
+- { title: 'The Diary of a Young Girl', author: 'Anne Frank', image: 'diaryofayounggirl', year: '',
+    description: 'Discovered in the attic in which she spent the last years of her life, Anne Franks remarkable diary has since become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit.',
     review: ''
 }
 
-- { title: 'Slaughterhouse Five', author: '', image: '', year: '',
-    description: '',
+- { title: 'Slaughterhouse Five', author: 'Kurt Vonnegut', image: 'slaughterhousefive', year: '',
+    description: 'Kurt Vonneguts absurdist classic Slaughterhouse-Five introduces us to Billy Pilgrim, a man who becomes unstuck in time after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonneguts) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.',
     review: ''
 }
 
-- { title: 'Holes', author: '', image: '', year: '',
-    description: '',
+- { title: 'Holes', author: 'Louis Sachar', image: 'holes', year: '',
+    description: 'Stanley Yelnats is under a curse. A curse that began with his no-good-dirty-rotten- pig-stealing-great-great-grandfather and has since followed generations of Yelnats. Now Stanley has been unjustly sent to a boys detention center, Camp Green Lake, where the warden makes the boys "build character" by spending all day, every day, digging holes: five feet wide and five feet deep. It doesnt take long for Stanley to realize theres more than character improvement going on at Camp Green Lake. The boys are digging holes because the warden is looking for something. Stanley tries to dig up the truth in this inventive and darkly humorous tale of crime and punishment—and redemption.',
     review: ''
 }
 
-- { title: 'Into the Wild', author: '', image: '', year: '',
-    description: '',
+- { title: 'Into the Wild', author: 'Jon Krakauer', image: 'intothewild', year: '',
+    description: 'In April 1992 a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, a party of moose hunters found his decomposed body. How McCandless came to die is the unforgettable story of Into the Wild.',
     review: ''
 }
 
