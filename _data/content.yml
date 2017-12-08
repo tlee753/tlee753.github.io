@@ -27,18 +27,8 @@ books:
     review: ''
 }
 
-- { title: 'Start with Why', author: 'Simon Senek', image: 'startwithwhy', year: '',
-    description: 'Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over?',
-    review: ''
-}
-
-- { title: 'The Martian', author: 'Andy Weir', image: 'martian', year: '2014',
-    description: 'Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there.',
-    review: ''
-}
-
-- { title: 'Tuck Everlasting', author: 'Natalie Babbitt', image: 'tuckeverlasting', year: '',
-    description: 'Doomed to - or blessed with - eternal life after drinking from a magic spring, the Tuck family wanders about trying to live as inconspicuously and comfortably as they can. When ten-year-old Winnie Foster stumbles on their secret, the Tucks take her home and explain why living forever at one age is less a blessing that it might seem.',
+- { title: 'A Wrinkle in Time', author: 'Madeleine LEngle', image: 'awrinkleintime', year: '',
+    description: 'It was a dark and stormy night; Meg Murry, her small brother Charles Wallace, and her mother had come down to the kitchen for a midnight snack when they were upset by the arrival of a most disturbing stranger.',
     review: ''
 }
 
@@ -47,8 +37,33 @@ books:
     review: ''
 }
 
-- { title: 'Fahrenheit 451', author: 'Ray Bradbury', image: 'fahrenheit451', year: '',
-    description: 'The Bradbury classic about a future crisis in intellectual freedom and book burning. Fahrenheit 451 is the temperature at which book paper catches fire and burns.',
+- { title: 'The Giver', author: 'Lois Lowry', image: 'giver', year: '',
+    description: 'Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.',
+    review: ''
+}
+
+- { title: 'Night', author: 'Elie Wiesel', image: 'night', year: '',
+    description: 'An autobiographical narrative in which the author describes his experiences in Nazi concentration camps, watching family and friends die, and how they led him to believe that God is dead.',
+    review: ''
+}
+
+- { title: 'Endurance', author: 'Alfred Lansing', image: 'endurance', year: '',
+    description: 'The astonishing saga of polar explorer Ernest Shackletons survival for over a year on the ice-bound Antarctic seas, as Time magazine put it, "defined heroism." Alfred Lansings scrupulously researched and brilliantly narrated book -- with over 200,000 copies sold -- has long been acknowledged as the definitive account of the Endurances fateful trip.',
+    review: ''
+}
+
+- { title: '1984', author: 'George Orwell', image: '1984', year: '',
+    description: 'The year 1984 has come and gone, but George Orwells prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. 1984 is still the great modern classic of "negative utopia" -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words.',
+    review: ''
+}
+
+- { title: 'Start with Why', author: 'Simon Senek', image: 'startwithwhy', year: '',
+    description: 'Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over?',
+    review: ''
+}
+
+- { title: 'The Martian', author: 'Andy Weir', image: 'martian', year: '2014',
+    description: 'Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there.',
     review: ''
 }
 
@@ -62,8 +77,8 @@ books:
     review: ''
 }
 
-- { title: 'A Dogs Purpose', author: 'W. Bruce Cameron', image: 'adogspurpose', year: '',
-    description: 'This is the remarkable story of one endearing dogs search for his purpose over the course of several lives. More than just another charming dog story, this touches on the universal quest for an answer to lifes most basic question: Why are we here?',
+- { title: 'Tuck Everlasting', author: 'Natalie Babbitt', image: 'tuckeverlasting', year: '',
+    description: 'Doomed to - or blessed with - eternal life after drinking from a magic spring, the Tuck family wanders about trying to live as inconspicuously and comfortably as they can. When ten-year-old Winnie Foster stumbles on their secret, the Tucks take her home and explain why living forever at one age is less a blessing that it might seem.',
     review: ''
 }
 
@@ -72,38 +87,8 @@ books:
     review: ''
 }
 
-- { title: 'Kringle', author: 'Tony Abbott', image: 'kringle', year: '',
-    description: 'Just in time for Christmas comes a fantasy epic from one of todays most popular writers for children. It is the story of a young orphan realizing his destiny -- to become the legendary Kris Kringle.',
-    review: ''
-}
-
 - { title: 'Before I Fall', author: 'Lauren Oliver', image: 'beforeifall', year: '',
     description: 'With this stunning debut novel, New York Times bestselling author Lauren Oliver emerged as one of todays foremost authors of young adult fiction. Like Jay Ashers Thirteen Reasons Why and Gayle Formans If I Stay, Before I Fall raises thought-provoking questions about love, death, and how one persons life can affect so many others.',
-    review: ''
-}
-
-- { title: 'The Giver', author: 'Lois Lowry', image: 'giver', year: '',
-    description: 'Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.',
-    review: ''
-}
-
-- { title: 'Endurance', author: 'Alfred Lansing', image: 'endurance', year: '',
-    description: 'The astonishing saga of polar explorer Ernest Shackletons survival for over a year on the ice-bound Antarctic seas, as Time magazine put it, "defined heroism." Alfred Lansings scrupulously researched and brilliantly narrated book -- with over 200,000 copies sold -- has long been acknowledged as the definitive account of the Endurances fateful trip.',
-    review: ''
-}
-
-- { title: 'The Far Side Gallery', author: 'Gary Larson', image: 'farsidegallery', year: '',
-    description: 'The Far Side Gallery is an anthology of Gary Larsons The Far Side comic strips, which were printed from 1982–1984.',
-    review: ''
-}
-
-- { title: '1984', author: 'George Orwell', image: '1984', year: '',
-    description: 'The year 1984 has come and gone, but George Orwells prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. 1984 is still the great modern classic of "negative utopia" -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words.',
-    review: ''
-}
-
-- { title: 'The Hunger Games', author: 'Suzanne Collins', image: 'hungergames', year: '',
-    description: 'The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games.',
     review: ''
 }
 
@@ -112,13 +97,8 @@ books:
     review: ''
 }
 
-- { title: 'Night', author: 'Elie Wiesel', image: 'night', year: '',
-    description: 'An autobiographical narrative in which the author describes his experiences in Nazi concentration camps, watching family and friends die, and how they led him to believe that God is dead.',
-    review: ''
-}
-
-- { title: 'A Wrinkle in Time', author: 'Madeleine LEngle', image: 'awrinkleintime', year: '',
-    description: 'It was a dark and stormy night; Meg Murry, her small brother Charles Wallace, and her mother had come down to the kitchen for a midnight snack when they were upset by the arrival of a most disturbing stranger.',
+- { title: 'Fahrenheit 451', author: 'Ray Bradbury', image: 'fahrenheit451', year: '',
+    description: 'The Bradbury classic about a future crisis in intellectual freedom and book burning. Fahrenheit 451 is the temperature at which book paper catches fire and burns.',
     review: ''
 }
 
@@ -149,6 +129,26 @@ books:
 
 - { title: 'Into the Wild', author: 'Jon Krakauer', image: 'intothewild', year: '',
     description: 'In April 1992 a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, a party of moose hunters found his decomposed body. How McCandless came to die is the unforgettable story of Into the Wild.',
+    review: ''
+}
+
+- { title: 'A Dogs Purpose', author: 'W. Bruce Cameron', image: 'adogspurpose', year: '',
+    description: 'This is the remarkable story of one endearing dogs search for his purpose over the course of several lives. More than just another charming dog story, this touches on the universal quest for an answer to lifes most basic question: Why are we here?',
+    review: ''
+}
+
+- { title: 'The Far Side Gallery', author: 'Gary Larson', image: 'farsidegallery', year: '',
+    description: 'The Far Side Gallery is an anthology of Gary Larsons The Far Side comic strips, which were printed from 1982–1984.',
+    review: ''
+}
+
+- { title: 'The Hunger Games', author: 'Suzanne Collins', image: 'hungergames', year: '',
+    description: 'The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games.',
+    review: ''
+}
+
+- { title: 'Kringle', author: 'Tony Abbott', image: 'kringle', year: '',
+    description: 'Just in time for Christmas comes a fantasy epic from one of todays most popular writers for children. It is the story of a young orphan realizing his destiny -- to become the legendary Kris Kringle.',
     review: ''
 }
 
