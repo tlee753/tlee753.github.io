@@ -98,20 +98,8 @@ Nothing says European like the sun rising over a glimmering field.
 ![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-50.JPG)
 ![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-51.JPG)
 The infamous Patton wished to be buried with his men.
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-53.JPG)
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-52.JPG)
-
-### Football Hallelujah Exhibit
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-54.JPG)
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-55.JPG)
-
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-56.JPG)
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-57.JPG)
-
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-58.JPG)
 Luxembourgers cherish public places such as this creatively themed playground.
 
-![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-59.JPG)
 
 
 

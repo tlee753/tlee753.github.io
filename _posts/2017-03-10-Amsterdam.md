@@ -43,7 +43,3 @@ category: Netherlands
 ![Amsterdam](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-28.JPG)
 ![Amsterdam](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-29.JPG)
 ![Amsterdam](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-30.JPG)
-![Amsterdam](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-31.JPG)
-![Amsterdam](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-32.JPG)
-![Amsterdam](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-33.JPG)
-![Amsterdam](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-34.JPG)
