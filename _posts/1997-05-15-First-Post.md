@@ -21,7 +21,7 @@ print_hi('Tyler')
 
 > “Next Play" - Coach K
 
-![favicon](/assets/img/favicons/favicon.ico)
+![favicon](/favicon.ico)
 
 |Table Header|
 |------------|

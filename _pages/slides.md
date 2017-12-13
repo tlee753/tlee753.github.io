@@ -97,6 +97,6 @@ Integer vitae euismod neque. Maecenas hendrerit quis enim id blandit. Duis facil
 
 #### just for good measure
 
-![Favicon](/assets/img/favicons/favicon.ico)
+![Favicon](/favicon.ico)
 
 </section>
