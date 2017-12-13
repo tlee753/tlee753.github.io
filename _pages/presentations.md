@@ -24,6 +24,7 @@ permalink: "/presentations/"
 |ROS Robotics Research                      |[Research Findings](/assets/docs/ROS-Report.pdf)|
 |Electrathon Vehicle Project                |[Project Report](/assets/docs/Electrathon-Vehicle.pdf)|
 |Eagle Scout Project                        |[Appendicies](/assets/docs/Eagle-Appendicies.pdf)|
+|Salvation Army Improvement  Project        |[Analysis Report](/assets/docs/Salvation-Army-Analysis.pdf)|
 |Automated Can Crusher Project              |[Project Report](/assets/docs/Can-Crusher-Report.pdf)|
 |Composting Project                         |[Project Report](/assets/docs/Composting-Project.pdf)|
 
