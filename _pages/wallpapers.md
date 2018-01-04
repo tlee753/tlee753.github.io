@@ -22,14 +22,22 @@ img {
 
 |Title|Preview|
 |-----|-------|
-|[Movies](/assets/img/wallpapers/movies.jpg)                |![Movies](/assets/img/wallpapers/movies.jpg)|
-|[Stormtrooper](/assets/img/wallpapers/stormtrooper.jpg)    |![Stormtrooper](/assets/img/wallpapers/stormtrooper.jpg)|
-|[Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)  |![Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)|
-|[Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)  |![Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)|
-|[Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)  |![Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)|
-|[Calvin Space](/assets/img/wallpapers/calvin-space.jpg)    |![Calvin Space](/assets/img/wallpapers/calvin-space.jpg)|
-
-
+|[Movies](/assets/img/wallpapers/movies.jpg)                    |![Movies](/assets/img/wallpapers/movies.jpg)|
+|[Stormtrooper](/assets/img/wallpapers/stormtrooper.jpg)        |![Stormtrooper](/assets/img/wallpapers/stormtrooper.jpg)|
+|[Horseshoe](/assets/img/wallpapers/horseshoe.jpg)              |![Horseshoe](/assets/img/wallpapers/horseshoe.jpg)|
+|[Clouds](/assets/img/wallpapers/clouds.jpg)                    |![Clouds](/assets/img/wallpapers/clouds.jpg)|
+|[NASA](/assets/img/wallpapers/nasa.jpg)                        |![NASA](/assets/img/wallpapers/nasa.jpg)|
+|[Discovery](/assets/img/wallpapers/discovery.jpg)              |![Discovery](/assets/img/wallpapers/discovery.jpg)|
+|[Contact Beach](/assets/img/wallpapers/contact-beach.jpg)      |![Contact Beach](/assets/img/wallpapers/contact-beach.jpg)|
+|[Black Hole](/assets/img/wallpapers/black-hole.jpg)            |![Black Hole](/assets/img/wallpapers/black-hole.jpg)|
+|[Space](/assets/img/wallpapers/space.jpg)                      |![Space](/assets/img/wallpapers/space.jpg)|
+|[Joker](/assets/img/wallpapers/joker.jpg)                      |![Joker](/assets/img/wallpapers/joker.jpg)|
+|[Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)      |![Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)|
+|[Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)      |![Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)|
+|[Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)      |![Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)|
+|[Calvin Space](/assets/img/wallpapers/calvin-space.jpg)        |![Calvin Space](/assets/img/wallpapers/calvin-space.jpg)|
+|[Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)  |![Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)|
+|[Calvin Resting](/assets/img/wallpapers/calvin-resting.jpg)    |![Calvin Resting](/assets/img/wallpapers/calvin-resting.jpg)|
 
 <!--
 |[](/assets/img/wallpapers/.jpg)      |![](/assets/img/wallpapers/.jpg)|
