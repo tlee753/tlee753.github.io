@@ -7,9 +7,9 @@ $(document).ready(function() {
         $('#navbar-menu svg').toggleClass('show');
     });
 
-    //$("img").unveil(1000);
+    // $("img").unveil(1000);
 
-    $('[class^="advice"]')
+    // $('[class^="advice"]')
 
     $('[class^="advice"]').on('click', function(){
         var divHeight = $(this).height();
@@ -23,6 +23,7 @@ $(document).ready(function() {
 
 });
 
+// smooth scrolling
 function smoothScroll (duration) {
     $('a[href^="#"]').on('click', function(event) {
 
@@ -37,7 +38,7 @@ function smoothScroll (duration) {
     });
 }
 
-
+// GT advice/explore pages
 function shrinkDiv (divElement) {
     divElement.animate({height: '35px'});
 }
@@ -51,25 +52,32 @@ var slideIndex = 1;
 showDivs(slideIndex);
 
 function plusDivs(n) {
-  showDivs(slideIndex += n);
+    showDivs(slideIndex += n);
 }
 
 function currentDiv(n) {
-  showDivs(slideIndex = n);
+    showDivs(slideIndex = n);
 }
 
 function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("carousel");
-  var dots = document.getElementsByClassName("demo");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";
-  }
-  for (i = 0; i < dots.length; i++) {
-     dots[i].className = dots[i].className.replace(" w3-white", "");
-  }
-  x[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " w3-white";
+    var i;
+
+    // get slide array
+    var x = document.getElementsByClassName("carousel");
+
+    // wrap back around
+    if (n > x.length) {
+        slideIndex = 1;
+    }
+
+    if (n < 1) {
+        slideIndex = x.length;
+    }
+
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+    }
+
+    // this line errors
+    // x[slideIndex-1].style.display = "block";
 }
