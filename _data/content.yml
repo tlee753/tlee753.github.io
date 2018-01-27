@@ -134,7 +134,7 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'The Happiness Hypothesis', author: '', image: '', year: '',
     description: '',
     review: ''
 }

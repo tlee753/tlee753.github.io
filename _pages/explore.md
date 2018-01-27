@@ -134,7 +134,7 @@ permalink: "/explore/"
 
 <div class="advice-secondary" markdown="1">
 
-### Chesss
+### Chess
 
 - [Stockfish](https://stockfishchess.org/)
 
