@@ -81,20 +81,21 @@ socialpage:
 # Collection Section
 
 interests:
+- {name: My Favorite Quotes, folder: 'quotes', link: '/quotes/'}
+- {name: My Bucket List, folder: 'bucket', link: '/bucket/'}
+- {name: My Favorite Books, folder: 'books', link: '/books/'}
+- {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
+
 - {name: How to Win Friends and Influence People, folder: 'htwfaip', link: 'https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People'}
 - {name: Wanderers, folder: 'wanderers', link: '/wanderers/'}
 - {name: Start with Why, folder: 'why', link: '/why/'}
 - {name: Euler Problems, folder: 'euler', link: 'https://projecteuler.net/'}
-- {name: My Favorite Quotes, folder: 'quotes', link: '/quotes/'}
 - {name: Intelligence Squared, folder: 'intelligence-squared', link: 'https://www.intelligencesquaredus.org/'}
-- {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
 - {name: Georgia Tech UNICEF, folder: 'unicef', link: 'http://www.unicef.gatech.edu/'}
-- {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
-- {name: My Favorite Books, folder: 'books', link: '/books/'}
 - {name: The Boy and the Starfish, folder: 'starfish', link: '/starfish/'}
-- {name: My Bucket List, folder: 'bucket', link: '/bucket/'}
-- {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
+- {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
 - {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
+- {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
 - {name: Space X, folder: 'spacex', link: 'http://www.spacex.com/'}
 - {name: John Wooden, folder: 'wooden', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
 - {name: RECONSO, folder: 'reconso', link: 'https://reconso.gatech.edu'}
@@ -102,19 +103,18 @@ interests:
 - {name: Reader's Digest, folder: 'readers-digest', link: 'http://www.rd.com/'}
 - {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
 
-
+# HUMOR SECTION
 # amazon reviews
 # scott sterling
 # history of japan
 # key and peele
 
+# IDEAS
 # jack johnson
 # formula one racing
 # world war 2
-# humor section?
 
 # OTHER
-
 # - {name: Star Wars, folder: 'star-wars', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
 # - {name: Dream Car, folder: 'dream-car', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
 # - {name: Coding Jokes, folder: 'coding-jokes', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
