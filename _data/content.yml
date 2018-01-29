@@ -138,7 +138,7 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'The Boy Who Dared', author: '', image: '', year: '',
     description: '',
     review: ''
 }
@@ -431,20 +431,8 @@ movies:
     description: 'A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.',
     review: ''
 }
-- { title: 'Rush', image: 'rush', year: '2013',
-    description: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
-    review: ''
-}
 - { title: 'Star Wars: A New Hope', image: 'newhope', year: '1977',
     description: 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empires world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.',
-    review: ''
-}
-- { title: 'Sunshine', image: 'sunshine', year: '2007',
-    description: 'A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.',
-    review: 'Unbelievably underated, this sci-fi thriller gets more and more interesting as it goes on. The conflict and plot twists make this movie imortal for me.'
-}
-- { title: 'The Dark Knight', image: 'darkknight', year: '2008',
-    description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
     review: ''
 }
 - { title: 'Indiana Jones: Raiders of the Lost Ark', image: 'raidersark', year: '1981',
@@ -453,6 +441,18 @@ movies:
 }
 - { title: 'Gladiator', image: 'gladiator', year: '2000',
     description: 'When a Roman general is betrayed and his family murdered by an emperors corrupt son, he comes to Rome as a gladiator to seek revenge.',
+    review: ''
+}
+- { title: 'Rush', image: 'rush', year: '2013',
+    description: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
+    review: ''
+}
+- { title: 'Sunshine', image: 'sunshine', year: '2007',
+    description: 'A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.',
+    review: 'Unbelievably underated, this sci-fi thriller gets more and more interesting as it goes on. The conflict and plot twists make this movie imortal for me.'
+}
+- { title: 'The Dark Knight', image: 'darkknight', year: '2008',
+    description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
     review: ''
 }
 - { title: 'City of God', image: 'cityofgod', year: '2002',
@@ -519,14 +519,6 @@ movies:
     description: 'In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.',
     review: ''
 }
-- { title: 'Iron Man', image: 'ironman', year: '2008',
-    description: 'After being held captive in an Afghan cave, a billionaire engineer creates a unique weaponized suit of armor to fight evil.',
-    review: ''
-}
-- { title: 'Interstellar', image: 'interstellar', year: '2014',
-    description: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.',
-    review: ''
-}
 - { title: 'Gran Torino', image: 'grantorino', year: '2008',
     description: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.',
     review: ''
@@ -537,6 +529,14 @@ movies:
 }
 - { title: 'Die Hard', image: 'diehard', year: '1988',
     description: 'John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.',
+    review: ''
+}
+- { title: 'Iron Man', image: 'ironman', year: '2008',
+    description: 'After being held captive in an Afghan cave, a billionaire engineer creates a unique weaponized suit of armor to fight evil.',
+    review: ''
+}
+- { title: 'Interstellar', image: 'interstellar', year: '2014',
+    description: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.',
     review: ''
 }
 - { title: 'The Departed', image: 'departed', year: '2006',
@@ -615,6 +615,10 @@ movies:
     description: 'While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.',
     review: ''
 }
+- { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
+    description: 'A weatherman finds himself living the same day over and over again.',
+    review: ''
+}
 - { title: 'American Gangster', image: 'americangangster', year: '2007',
     description: 'In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.',
     review: ''
@@ -629,10 +633,6 @@ movies:
 }
 - { title: 'Fury', image: 'fury', year: '2014',
     description: '1945, in the World War II Germany, the tough Sergeant Don "Wardaddy" Collier commands a tank and survives a German attack with his veteran crew.',
-    review: ''
-}
-- { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
-    description: 'A weatherman finds himself living the same day over and over again.',
     review: ''
 }
 - { title: 'Spiderman 2', image: 'spiderman2', year: '2004',
@@ -653,10 +653,6 @@ movies:
 }
 - { title: 'Rocky', image: 'rocky', year: '1976',
     description: 'Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.',
-    review: ''
-}
-- { title: 'Guardians of the Galaxy', image: 'guardiansgalaxy', year: '2014',
-    description: 'A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.',
     review: ''
 }
 - { title: 'Boyhood', image: 'boyhood', year: '2014',
@@ -685,6 +681,10 @@ movies:
 }
 - { title: 'Pirates of the Carribbean: At Worlds End', image: 'atworldsend', year: '2007',
     description: 'Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.',
+    review: ''
+}
+- { title: 'Guardians of the Galaxy', image: 'guardiansgalaxy', year: '2014',
+    description: 'A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.',
     review: ''
 }
 - { title: 'Deadpool', image: 'deadpool', year: '2016',
