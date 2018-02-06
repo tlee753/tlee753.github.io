@@ -42,6 +42,9 @@ portfolio:
 # - {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
 # - {name: Text Server, folder: 'text-server', next: '', previous: ''}
 
+# Web/GUI Development
+# NASA Orion space capsule (open source)
+
 
 #-------------------------------
 # Contact Section
@@ -96,12 +99,13 @@ interests:
 - {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
 - {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
 - {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
-- {name: Space X, folder: 'spacex', link: 'http://www.spacex.com/'}
 - {name: John Wooden, folder: 'wooden', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
-- {name: RECONSO, folder: 'reconso', link: 'https://reconso.gatech.edu'}
-- {name: Vsauce, folder: 'vsauce', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
 - {name: Reader's Digest, folder: 'readers-digest', link: 'http://www.rd.com/'}
-- {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
+
+# - {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
+# - {name: Space X, folder: 'spacex', link: 'http://www.spacex.com/'}
+# - {name: RECONSO, folder: 'reconso', link: 'https://reconso.gatech.edu'}
+# - {name: Vsauce, folder: 'vsauce', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
 
 # HUMOR SECTION
 # amazon reviews
