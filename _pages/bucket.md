@@ -7,58 +7,61 @@ permalink: "/bucket/"
 ---
 
 # Bucket List
+
+### Experiences
 - [x] Go skydiving
-- [ ] Visit every inhabited continent (3/6)
-- [x] Read Harry Potter series
-- [ ] Read Lord of the Rings
-- [x] Learn a new language
-- [ ] Learn another new language
-- [ ] Visit all 50 states
-- [ ] Explore outer space
-- [ ] Run a marathon
-- [ ] Write a book
-- [ ] Speak at a TED event
-- [ ] Start a business
-- [ ] Publish an app
-- [x] Write a software program (GUI based, complexity and originality required)
 - [ ] Fly in a hot air balloon
-- [ ] Scuba certification
-- [ ] Pilot's license
-- [x] Solve a rubik's cube
 - [ ] See the northern lights
-- [ ] Make a meaningful anonymous donation (Widow's Offering...)
 - [ ] Go skiing (black diamond)
 - [ ] Go hang gliding (rain forest?)
 - [ ] Kill it at a karaoke night
 - [x] Witness a solar eclipse
-- [ ] Plant an orchard
-- [ ] Play an instrument (electric guitar?)
-- [ ] Play another instrument (piano?)
-- [ ] Visit an active volcano (see lava required)
-- [ ] Meet one of my role models
-- [ ] Land a front flip (on land)
-- [x] Full backflip (water permitted)
 - [ ] Swim in bioluminescent water
+- [ ] Meet one of my role models
 - [ ] Race down the Autobahn (sports car required)
-- [ ] FCC Certification
-- [ ] List top 100 books
-- [ ] Make a quote book (Iannarino-esque)
+- [ ] Visit an active volcano (seeing lava required)
 - [ ] See the milky way galaxy (naked eye)
-- [ ] Motorcycle license
-- [x] Eagle Scout
 - [ ] Climb an exceptionally tall mountain (TBD...)
+
+### Accomplishments
+- [x] Read Harry Potter series
+- [ ] Read Lord of the Rings
+- [ ] Run a marathon
+- [ ] Speak at a TED event
+- [ ] Start a business
+- [ ] Publish an app
+- [x] Write a software program (GUI based, complexity and originality required)
+- [ ] List top 100 books (quality reads)
+- [x] Eagle Scout
 - [x] Build a computer from scratch
 - [ ] Get a black belt
-- [x] Juggle a soccer ball
-- [ ] Juggle
-- [ ] 
+
+### Certifications
+- [ ] Pilot's license
+- [ ] Scuba certification
+- [ ] Motorcycle license
+- [ ] FCC Certification
 
 ### Travel
-
-##### Cities
+- [ ] Visit every inhabited continent (3/6)
+- [ ] Visit all 50 states
+- [ ] Explore outer space
 - [ ] Jerusalem
-- [ ] 
-
-##### Countries
 - [ ] Australia
 
+### Skills
+- [x] Learn a new language
+- [ ] Learn another new language
+- [x] Solve a rubik's cube in under 2 minutes
+- [x] Land a front flip (on land)
+- [x] Full backflip (water permitted)
+- [ ] Play an instrument (electric guitar?)
+- [ ] Play another instrument (piano?)
+- [x] Juggle a soccer ball (30 touches mixed min)
+- [ ] Juggle
+
+### Contributions
+- [ ] Make a meaningful anonymous donation (Widow's Offering...)
+- [ ] Write a book (open source publication)
+- [ ] Plant an orchard
+- [ ] Make a quote book (Iannarino-esque)
