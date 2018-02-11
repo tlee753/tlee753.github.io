@@ -10,16 +10,20 @@ books:
     description: 'On November 15, 1959, in the small town of Holcomb, Kansas, four members of the Clutter family were savagely murdered by blasts from a shotgun held a few inches from their faces. There was no apparent motive for the crime, and there were almost no clues.',
     review: ''
 }
+- { title: 'The Boy Who Dared', author: 'Susan Campbell Bartoletti', image: 'boywhodared', year: '',
+    description: 'A Newbery Honor Book author has written a powerful and gripping novel about a youth in Nazi Germany who tells the truth about Hitler.',
+    review: ''
+}
 - { title: 'Harry Potter and the Deathly Hallows', author: 'J. K. Rowling', image: 'deathlyhallows', year: '',
     description: 'Its no longer safe for Harry at Hogwarts, so he and his best friends, Ron and Hermione, are on the run. Professor Dumbledore has given them clues about what they need to do to defeat the dark wizard, Lord Voldemort, once and for all, but its up to them to figure out what these hints and suggestions really mean.',
     review: ''
 }
-- { title: 'Surely Youre Joking, Mr. Feynman!', author: 'Richard Feynman', image: 'surelyyourejoking', year: '',
-    description: 'Richard Feynman (1918-1988), winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; painting a naked female toreador - and much else of an eyebrow-raising nature.',
-    review: ''
-}
 - { title: 'How to Win Friends and Influence People', author: 'Dale Carnegie', image: 'htwfaip', year: '',
     description: 'You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you are in...and make it work for you!',
+    review: ''
+}
+- { title: 'Surely Youre Joking, Mr. Feynman!', author: 'Richard Feynman', image: 'surelyyourejoking', year: '',
+    description: 'Richard Feynman (1918-1988), winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; painting a naked female toreador - and much else of an eyebrow-raising nature.',
     review: ''
 }
 - { title: 'A Wrinkle in Time', author: 'Madeleine LEngle', image: 'awrinkleintime', year: '',
@@ -28,10 +32,6 @@ books:
 }
 - { title: 'Number the Stars', author: 'Lois Lowry', image: 'numberthestars', year: '',
     description: 'Ten-year-old Annemarie Johansen and her best friend Ellen Rosen often think of life before the war. Its now 1943 and their life in Copenhagen is filled with school, food shortages, and the Nazi soldiers marching through town. When the Jews of Denmark are "relocated," Ellen moves in with the Johansens and pretends to be one of the family.',
-    review: ''
-}
-- { title: 'The Giver', author: 'Lois Lowry', image: 'giver', year: '',
-    description: 'Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.',
     review: ''
 }
 - { title: 'Night', author: 'Elie Wiesel', image: 'night', year: '',
@@ -46,12 +46,20 @@ books:
     description: 'The year 1984 has come and gone, but George Orwells prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. 1984 is still the great modern classic of "negative utopia" -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words.',
     review: ''
 }
-- { title: 'Start with Why', author: 'Simon Senek', image: 'startwithwhy', year: '',
-    description: 'Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over?',
+- { title: 'The Giver', author: 'Lois Lowry', image: 'giver', year: '',
+    description: 'Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.',
     review: ''
 }
 - { title: 'The Martian', author: 'Andy Weir', image: 'martian', year: '2014',
     description: 'Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there.',
+    review: ''
+}
+- { title: 'Devil in the White City', author: 'Erik Larson', image: 'devilinwhite', year: '',
+    description: 'Erik Larsons gifts as a storyteller are magnificently displayed in this rich narrative of the master builder, the killer, and the great fair that obsessed them both.',
+    review: ''
+}
+- { title: 'Start with Why', author: 'Simon Senek', image: 'startwithwhy', year: '',
+    description: 'Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over?',
     review: ''
 }
 - { title: 'The Great Gatsby', author: 'F. Scott Fitzgerald', image: 'greatgatsby', year: '',
@@ -70,12 +78,12 @@ books:
     description: 'A stunningly ambitious and beautiful novel about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II. ',
     review: ''
 }
-- { title: 'Before I Fall', author: 'Lauren Oliver', image: 'beforeifall', year: '',
-    description: 'With this stunning debut novel, New York Times bestselling author Lauren Oliver emerged as one of todays foremost authors of young adult fiction. Like Jay Ashers Thirteen Reasons Why and Gayle Formans If I Stay, Before I Fall raises thought-provoking questions about love, death, and how one persons life can affect so many others.',
-    review: ''
-}
 - { title: 'The Lion, the Witch, and the Wardrobe', author: 'C. S. Lewis', image: 'lionwitchwardrobe', year: '',
     description: 'NARNIA...the land beyond the wardrobe, the secret country known only to Peter, Susan, Edmund, and Lucy...the place where the adventure begins.',
+    review: ''
+}
+- { title: 'Before I Fall', author: 'Lauren Oliver', image: 'beforeifall', year: '',
+    description: 'With this stunning debut novel, New York Times bestselling author Lauren Oliver emerged as one of todays foremost authors of young adult fiction. Like Jay Ashers Thirteen Reasons Why and Gayle Formans If I Stay, Before I Fall raises thought-provoking questions about love, death, and how one persons life can affect so many others.',
     review: ''
 }
 - { title: 'Fahrenheit 451', author: 'Ray Bradbury', image: 'fahrenheit451', year: '',
@@ -94,16 +102,32 @@ books:
     description: 'Discovered in the attic in which she spent the last years of her life, Anne Franks remarkable diary has since become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit.',
     review: ''
 }
+- { title: 'Harry Potter and the Chamber of Secrets', author: 'J. K. Rowling', image: 'chamberofsecrets', year: '',
+    description: 'The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he is packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike.',
+    review: ''
+}
 - { title: 'Slaughterhouse Five', author: 'Kurt Vonnegut', image: 'slaughterhousefive', year: '',
     description: 'Kurt Vonneguts absurdist classic Slaughterhouse-Five introduces us to Billy Pilgrim, a man who becomes unstuck in time after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonneguts) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.',
     review: ''
 }
 - { title: 'Holes', author: 'Louis Sachar', image: 'holes', year: '',
-    description: 'Stanley Yelnats is under a curse. A curse that began with his no-good-dirty-rotten- pig-stealing-great-great-grandfather and has since followed generations of Yelnats. Now Stanley has been unjustly sent to a boys detention center, Camp Green Lake, where the warden makes the boys "build character" by spending all day, every day, digging holes: five feet wide and five feet deep. It doesnt take long for Stanley to realize theres more than character improvement going on at Camp Green Lake. The boys are digging holes because the warden is looking for something. Stanley tries to dig up the truth in this inventive and darkly humorous tale of crime and punishment—and redemption.',
+    description: 'Stanley Yelnats is under a curse. A curse that began with his no-good-dirty-rotten-pig-stealing-great-great-grandfather and has since followed generations of Yelnats. Now Stanley has been unjustly sent to a boys detention center, Camp Green Lake, where the warden makes the boys "build character" by spending all day, every day, digging holes: five feet wide and five feet deep. It doesnt take long for Stanley to realize theres more than character improvement going on at Camp Green Lake. The boys are digging holes because the warden is looking for something. Stanley tries to dig up the truth in this inventive and darkly humorous tale of crime and punishment—and redemption.',
     review: ''
 }
 - { title: 'Into the Wild', author: 'Jon Krakauer', image: 'intothewild', year: '',
     description: 'In April 1992 a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, a party of moose hunters found his decomposed body. How McCandless came to die is the unforgettable story of Into the Wild.',
+    review: ''
+}
+- { title: 'The Maze Runner', author: 'James Dashner', image: 'mazerunner', year: '',
+    description: 'When Thomas wakes up in the lift, the only thing he can remember is his name. He’s surrounded by strangers—boys whose memories are also gone.',
+    review: ''
+}
+- { title: 'Hatchet', author: 'Gary Paulsen', image: 'hatchet', year: '',
+    description: 'Brian is on his way to Canada to visit his estranged father when the pilot of his small prop plane suffers a heart attack. Brian is forced to crash-land the plane in a lake--and finds himself stranded in the remote Canadian wilderness with only his clothing and the hatchet his mother gave him as a present before his departure. ',
+    review: ''
+}
+- { title: 'The Happiness Hypothesis', author: 'Jonathan Haidt', image: 'hapinesshypothesis', year: '',
+    description: 'In his widely praised book, award-winning psychologist Jonathan Haidt examines the world’s philosophical wisdom through the lens of psychological science, showing how a deeper understanding of enduring maxims-like Do unto others as you would have others do unto you, or What doesn’t kill you makes you stronger-can enrich and even transform our lives.',
     review: ''
 }
 - { title: 'A Dogs Purpose', author: 'W. Bruce Cameron', image: 'adogspurpose', year: '',
@@ -122,30 +146,7 @@ books:
     description: 'Just in time for Christmas comes a fantasy epic from one of todays most popular writers for children. It is the story of a young orphan realizing his destiny -- to become the legendary Kris Kringle.',
     review: ''
 }
-- { title: 'Devil in the White City', author: '', image: '', year: '',
-    description: '',
-    review: ''
-}
-- { title: 'Harry Potter and the Chamber of Secrets', author: '', image: '', year: '',
-    description: '',
-    review: ''
-}
-- { title: 'Hatchet', author: '', image: '', year: '',
-    description: '',
-    review: ''
-}
-- { title: 'The Happiness Hypothesis', author: '', image: '', year: '',
-    description: '',
-    review: ''
-}
-- { title: 'The Boy Who Dared', author: '', image: '', year: '',
-    description: '',
-    review: ''
-}
-- { title: '', author: '', image: '', year: '',
-    description: '',
-    review: ''
-}
+
 - { title: '', author: '', image: '', year: '',
     description: '',
     review: ''

@@ -1,6 +1,5 @@
 #-------------------------------
 # Menu Section
-
 menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: '/portfolio'}
@@ -10,21 +9,19 @@ menu:
 
 #-------------------------------
 # Skill Section
-
 skills:
 - {name: Communication, value: '8'}
 - {name: Organization, value: '8'}
 - {name: Learning, value: '9'}
-- {name: Teaching, value: '7'}
+- {name: Teaching, value: '8'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '6'}
-- {name: UX Design, value: '5'}
-- {name: Programming, value: '6'}
+- {name: UX Design, value: '6'}
+- {name: Programming, value: '7'}
 
 
 #-------------------------------
 # Portfolio Section
-
 portfolio:
 - {name: Performance Computer Build, folder: 'performance-computer-build', next: '', previous: ''}
 - {name: Autonomous Robotics, folder: 'autonomous-robotics', next: '', previous: ''}
@@ -48,7 +45,6 @@ portfolio:
 
 #-------------------------------
 # Contact Section
-
 social:
 - {icon: 'github', link: 'http://www.github.com/tlee753', color: "#000000"}
 - {icon: 'skype', link: 'skype:tlee753?chat', color: "#00AFF0"}
@@ -65,7 +61,6 @@ social:
 
 #-------------------------------
 # Contact Page
-
 socialpage:
 - {icon: 'mail', link: 'mailto:tlee753@gatech.edu', color: "#008BCF"}
 - {icon: 'skype', link: 'skype:tlee753?chat', color: "#00AFF0"}
@@ -82,7 +77,6 @@ socialpage:
 
 #-------------------------------
 # Collection Section
-
 interests:
 - {name: My Favorite Quotes, folder: 'quotes', link: '/quotes/'}
 - {name: My Bucket List, folder: 'bucket', link: '/bucket/'}
@@ -127,7 +121,6 @@ interests:
 
 #-------------------------------
 # Slider Section
-
 slider:
 - {name: 'Interlaken, Switzerland', image: 'slider-interlaken', link: 'http://tlee753.com/switzerland/2017/02/11/Interlaken.html'}
 - {name: 'Bruges, Belgium', image: 'slider-bruges', link: 'http://tlee753.com/belgium/2017/01/28/Bruges.html'}
@@ -145,7 +138,6 @@ slider:
 
 #-------------------------------
 # Search Engine Optimization
-
 seo:
   description: 'Tyler Lee''s Personal Website'
   rel-author: 'http://www.linkedin/in/tlee753'
@@ -154,9 +146,7 @@ seo:
 
 #-------------------------------
 # Google Analytics Section
-
 # Analytics helps you understand who visits your website.
 # Learn more at: http://support.google.com/analytics/answer/1008065
-
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 google-analytics-ua: UA-107927214-1

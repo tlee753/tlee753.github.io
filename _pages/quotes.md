@@ -16,14 +16,16 @@ permalink: "/quotes/"
 > "It is our choices, Harry, that show what we truly are, far more than our abilities."
 - Dumbledore
 
-> "If you don't have time to do it right the first time, when will you have time to do it again?"
-- John Wooden
-
 > "You are destined to become what history thinks you were."
 - VSauce
 
 > "Never above you, never below you, always beside you."
 - Unknown
+
+
+### Sports
+> "If you don't have time to do it right the first time, when will you have time to do it again?"
+- John Wooden
 
 > "Next play."
 - Coach K
@@ -45,4 +47,3 @@ permalink: "/quotes/"
 > "All I can do is everything I can."
 
 > "The opportunity to help others is a reward in itself."
-
