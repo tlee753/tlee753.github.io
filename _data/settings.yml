@@ -93,7 +93,7 @@ interests:
 - {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
 - {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
 - {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
-- {name: John Wooden, folder: 'wooden', link: 'http://espn.go.com/mens-college-basketball/news/story?id=5249709'}
+- {name: John Wooden, folder: 'wooden', link: 'http://coachwooden.com'}
 - {name: Reader's Digest, folder: 'readers-digest', link: 'http://www.rd.com/'}
 
 # - {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}

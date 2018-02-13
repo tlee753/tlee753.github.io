@@ -147,7 +147,7 @@ books:
     review: ''
 }
 
-- { title: '', author: '', image: '', year: '',
+- { title: 'Journey to the Center of the Earth', author: '', image: '', year: '',
     description: '',
     review: ''
 }
