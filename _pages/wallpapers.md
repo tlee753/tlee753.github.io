@@ -27,6 +27,7 @@ img {
 |[Horseshoe](/assets/img/wallpapers/horseshoe.jpg)              |![Horseshoe](/assets/img/wallpapers/horseshoe.jpg)|
 |[Clouds](/assets/img/wallpapers/clouds.jpg)                    |![Clouds](/assets/img/wallpapers/clouds.jpg)|
 |[NASA](/assets/img/wallpapers/nasa.jpg)                        |![NASA](/assets/img/wallpapers/nasa.jpg)|
+|[Deep Space NASA](/assets/img/wallpapers/deep-space-nasa.jpg)  |![NASA](/assets/img/wallpapers/deep-space-nasa.jpg)|
 |[Discovery](/assets/img/wallpapers/discovery.jpg)              |![Discovery](/assets/img/wallpapers/discovery.jpg)|
 |[Contact Beach](/assets/img/wallpapers/contact-beach.jpg)      |![Contact Beach](/assets/img/wallpapers/contact-beach.jpg)|
 |[Black Hole](/assets/img/wallpapers/black-hole.jpg)            |![Black Hole](/assets/img/wallpapers/black-hole.jpg)|
