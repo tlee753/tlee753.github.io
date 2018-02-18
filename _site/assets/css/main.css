@@ -458,6 +458,9 @@ blockquote {
   blockquote > :last-child {
     margin-bottom: 0; }
 
+.task-list-item-checkbox {
+  padding-right: 5px; }
+
 html {
   background-color: ghostwhite;
   -webkit-font-smoothing: antialiased;
