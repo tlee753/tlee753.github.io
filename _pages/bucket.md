@@ -26,7 +26,6 @@ permalink: "/bucket/"
 ### Accomplishments
 - [x] Read Harry Potter series
 - [ ] Read Lord of the Rings
-- [ ] Run a marathon
 - [ ] Speak at a TED event
 - [ ] Start a business
 - [ ] Publish an app
@@ -38,7 +37,7 @@ permalink: "/bucket/"
 
 ### Certifications
 - [ ] Pilot's license
-- [ ] Scuba certification
+- [x] Scuba certification
 - [ ] Motorcycle license
 - [ ] FCC Certification
 
@@ -53,15 +52,21 @@ permalink: "/bucket/"
 - [x] Learn a new language
 - [ ] Learn another new language
 - [x] Solve a rubik's cube in under 2 minutes
-- [x] Land a front flip (on land)
-- [x] Full backflip (water permitted)
 - [ ] Play an instrument (electric guitar?)
 - [ ] Play another instrument (piano?)
-- [x] Juggle a soccer ball (30 touches mixed min)
-- [ ] Juggle
 
 ### Contributions
 - [ ] Make a meaningful anonymous donation (Widow's Offering...)
 - [ ] Write a book (open source publication)
 - [ ] Plant an orchard
 - [ ] Make a quote book (Iannarino-esque)
+
+### Athletics
+- [x] Land a front flip (on land)
+- [x] Full backflip (water permitted)
+- [ ] Run a marathon
+- [ ] Finish an Iron Man
+- [x] Juggle a soccer ball (30 touches mixed min)
+- [ ] Juggle
+- [x] Hold a handstand for 30 seconds
+- [ ] Do a one handed handstand
