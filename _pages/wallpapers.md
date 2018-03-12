@@ -30,8 +30,6 @@ img {
 |[Deep Space NASA](/assets/img/wallpapers/deep-space-nasa.jpg)  |![NASA](/assets/img/wallpapers/deep-space-nasa.jpg)|
 |[Discovery](/assets/img/wallpapers/discovery.jpg)              |![Discovery](/assets/img/wallpapers/discovery.jpg)|
 |[Contact Beach](/assets/img/wallpapers/contact-beach.jpg)      |![Contact Beach](/assets/img/wallpapers/contact-beach.jpg)|
-|[Black Hole](/assets/img/wallpapers/black-hole.jpg)            |![Black Hole](/assets/img/wallpapers/black-hole.jpg)|
-|[Space](/assets/img/wallpapers/space.jpg)                      |![Space](/assets/img/wallpapers/space.jpg)|
 |[Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)      |![Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)|
 |[Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)      |![Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)|
 |[Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)      |![Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)|
@@ -45,6 +43,8 @@ img {
 
 |[Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)  |![Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)|
 |[Joker](/assets/img/wallpapers/joker.jpg)                      |![Joker](/assets/img/wallpapers/joker.jpg)|
+|[Black Hole](/assets/img/wallpapers/black-hole.jpg)            |![Black Hole](/assets/img/wallpapers/black-hole.jpg)|
+|[Space](/assets/img/wallpapers/space.jpg)                      |![Space](/assets/img/wallpapers/space.jpg)|
 
 -->
 
