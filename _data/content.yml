@@ -413,7 +413,7 @@ books:
 #-------------------------------
 # Movie Section
 
-# senna
+# senna, stand by me, blade runner, blade runner 2049
 
 movies:
 - { title: 'La Vita e Bella', image: 'lavitaebella', year: '1997',

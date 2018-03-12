@@ -19,6 +19,11 @@ permalink: "/quotes/"
 > "You are destined to become what history thinks you were."
 - VSauce
 
+> "Some people want it to happen, some wish it would happen, others make it happen."
+- Michael Jordan
+
+
+### Unknown
 > "Never above you, never below you, always beside you."
 - Unknown
 
