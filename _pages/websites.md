@@ -18,3 +18,7 @@ permalink: "/websites/"
 - [solarracing.gatech.edu](https://solarracing.gatech.edu)
 - [teagueseventcatering.com](https://teagueseventcatering.com)
 
+### Deprecated Sites
+- Trineo Group
+- BDE GTL Site
+

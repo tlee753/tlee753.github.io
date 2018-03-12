@@ -22,6 +22,7 @@ permalink: "/bucket/"
 - [ ] Visit an active volcano (seeing lava required)
 - [ ] See the milky way galaxy (naked eye)
 - [ ] Climb an exceptionally tall mountain (TBD...)
+- [ ] Scuba dive in the Great Barrier Reef
 
 ### Accomplishments
 - [x] Read Harry Potter series
@@ -40,6 +41,7 @@ permalink: "/bucket/"
 - [x] Scuba certification
 - [ ] Motorcycle license
 - [ ] FCC Certification
+- [ ] HAM Radio Certification
 
 ### Travel
 - [ ] Visit every inhabited continent (3/6)

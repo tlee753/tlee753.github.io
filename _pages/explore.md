@@ -9,7 +9,7 @@ permalink: "/explore/"
 
 # Explore
 
-### Learn something new everyday! This is a list of free resources **anyone** can use to learn something new every day. *Never* stop learning :)
+### Learn something new everyday! This is a list of free resources **anyone** can use to learn something new every day. *Be Curious, the world is yours to explore* :)
 
 
 <div class="advice-primary" markdown="1">
@@ -31,6 +31,7 @@ permalink: "/explore/"
 - [Onshape](https://www.onshape.com/)
 - [Autodesk](https://www.autodesk.com/education/home)
 - [Solidworks](http://www.solidworks.com/sw/industries/education/engineering-education-software.htm)
+- Openscad
 
 </div>
 
@@ -55,6 +56,8 @@ permalink: "/explore/"
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Visual Studio](https://www.visualstudio.com/vs/community/)
 - [Intellij Idea](https://www.jetbrains.com/idea/download/)
+- PyCharm
+- Spyder
 - [Geany](https://www.geany.org/Download/Releases)
 
 </div>
@@ -65,6 +68,7 @@ permalink: "/explore/"
 ### Electronics
 
 - [KiCAD PCB Design](http://kicad-pcb.org/)
+- Circuits.io (Arduino Simulator)
 
 </div>
 
@@ -137,6 +141,8 @@ permalink: "/explore/"
 ### Chess
 
 - [Stockfish](https://stockfishchess.org/)
+- Scid
+- ChessX
 
 </div>
 
@@ -157,6 +163,7 @@ permalink: "/explore/"
 
 - [Android Studio](https://developer.android.com/studio/index.html?gclid=Cj0KCQiAl8rQBRDrARIsAEW_To_usYrGAyCBmc9-NgQv-lfpJ3NgvftF7r9SZ4WVAmINoUU85w5jp0AaAmAyEALw_wcB)
 - [XCode (Mac Only)](https://developer.apple.com/xcode/downloads/)
+- Anbox
 
 </div>
 
@@ -169,6 +176,7 @@ permalink: "/explore/"
     - [Gluon Scenebuilder](http://gluonhq.com/products/scene-builder/)
 - [Tkinter](https://wiki.python.org/moin/TkInter)
 - [Python QT](https://sourceforge.net/projects/pyqt/)
+- Glade
 
 </div>
 
@@ -178,6 +186,65 @@ permalink: "/explore/"
 ### Mathematics
 
 - [Mathmatica](http://www.wolfram.com/solutions/education/students/)
+
+</div>
+
+
+<div class="advice-primary" markdown="1">
+
+### Video Editing
+
+- Openshot
+- Lightworks
+- OBS Studio
+
+</div>
+
+
+<div class="advice-secondary" markdown="1">
+
+### 3D Graphics and Visual Effects
+
+- Blender
+- Inkscape
+
+</div>
+
+
+<div class="advice-primary" markdown="1">
+
+### Reading
+
+- Calibre
+
+</div>
+
+
+<div class="advice-secondary" markdown="1">
+
+### Game Emulation
+
+- Dolphin
+- Wine (Old Windows Games)
+
+</div>
+
+
+<div class="advice-primary" markdown="1">
+
+### Travel
+
+- Hit list
+- Google Earth
+
+</div>
+
+
+<div class="advice-secondary" markdown="1">
+
+### Budgeting
+
+- Gnu Cash
 
 </div>
 

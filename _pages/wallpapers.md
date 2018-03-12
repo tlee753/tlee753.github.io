@@ -32,16 +32,20 @@ img {
 |[Contact Beach](/assets/img/wallpapers/contact-beach.jpg)      |![Contact Beach](/assets/img/wallpapers/contact-beach.jpg)|
 |[Black Hole](/assets/img/wallpapers/black-hole.jpg)            |![Black Hole](/assets/img/wallpapers/black-hole.jpg)|
 |[Space](/assets/img/wallpapers/space.jpg)                      |![Space](/assets/img/wallpapers/space.jpg)|
-|[Joker](/assets/img/wallpapers/joker.jpg)                      |![Joker](/assets/img/wallpapers/joker.jpg)|
 |[Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)      |![Calvin Forest](/assets/img/wallpapers/calvin-forest.jpg)|
 |[Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)      |![Calvin Autumn](/assets/img/wallpapers/calvin-autumn.jpg)|
 |[Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)      |![Calvin Winter](/assets/img/wallpapers/calvin-winter.jpg)|
 |[Calvin Space](/assets/img/wallpapers/calvin-space.jpg)        |![Calvin Space](/assets/img/wallpapers/calvin-space.jpg)|
-|[Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)  |![Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)|
 |[Calvin Resting](/assets/img/wallpapers/calvin-resting.jpg)    |![Calvin Resting](/assets/img/wallpapers/calvin-resting.jpg)|
+|[Formula 1](/assets/img/wallpapers/formula-1.jpg)              |![Formula 1](/assets/img/wallpapers/formula-1.jpg)|
+
 
 <!--
 |[](/assets/img/wallpapers/.jpg)      |![](/assets/img/wallpapers/.jpg)|
+
+|[Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)  |![Calvin Sleeping](/assets/img/wallpapers/calvin-sleeping.jpg)|
+|[Joker](/assets/img/wallpapers/joker.jpg)                      |![Joker](/assets/img/wallpapers/joker.jpg)|
+
 -->
 
 </div>
