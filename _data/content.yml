@@ -1,6 +1,8 @@
 #-------------------------------
 # Book Section
 
+# dunk/pink, old baseball book about guy from the tigers
+
 books:
 - { title: 'The Book Thief', author: '', image: 'bookthief', year: '',
     description: 'A story about, among other things: A girl, some words, an accordionist, some fanatical Germans, a Jewish fist-fighter, and quite a lot of thievery. . . .an unforgettable story about the ability of books to feed the soul. Winner of the 2007 BookBrowse Ruby Award.',
@@ -146,7 +148,6 @@ books:
     description: 'Just in time for Christmas comes a fantasy epic from one of todays most popular writers for children. It is the story of a young orphan realizing his destiny -- to become the legendary Kris Kringle.',
     review: ''
 }
-
 - { title: 'Journey to the Center of the Earth', author: '', image: '', year: '',
     description: '',
     review: ''

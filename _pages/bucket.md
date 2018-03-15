@@ -29,7 +29,7 @@ permalink: "/bucket/"
 - [ ] Read Lord of the Rings
 - [ ] Speak at a TED event
 - [ ] Start a business
-- [ ] Publish an app
+- [ ] Publish an app (web dev assistant?)
 - [x] Write a software program (GUI based, complexity and originality required)
 - [ ] List top 100 books (quality reads)
 - [x] Eagle Scout
@@ -51,8 +51,9 @@ permalink: "/bucket/"
 - [ ] Australia
 
 ### Skills
-- [x] Learn a new language
-- [ ] Learn another new language
+- [x] Learn a new language (spanish)
+- [ ] Learn another new language (italian)
+- [ ] Learn basic sign language
 - [x] Solve a rubik's cube in under 2 minutes
 - [ ] Play an instrument (electric guitar?)
 - [ ] Play another instrument (piano?)
@@ -71,4 +72,4 @@ permalink: "/bucket/"
 - [x] Juggle a soccer ball (30 touches mixed min)
 - [ ] Juggle
 - [x] Hold a handstand for 30 seconds
-- [ ] Do a one handed handstand
+- [ ] Do a one handed handstand (10 seconds?)

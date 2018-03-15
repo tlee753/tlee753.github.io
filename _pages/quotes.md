@@ -6,26 +6,25 @@ category: Life
 permalink: "/quotes/"
 ---
 
-### People
+### Philisophers
 > "You are what you do repeatedly."
 - Aristotle
 
+> "Most people would rather be certain they're miserable than risk being happy."
+- Robert Anthony
+
+
+### Entreprenuers
 > "If you think you can or can't, you're right."
 - Henry Ford
 
-> "It is our choices, Harry, that show what we truly are, far more than our abilities."
+> "To invent your own life's meaning is not easy, but it's still allowed, and I think you'll be happier for the trouble."
+- Bill Watterson
+
+
+### Fictional
+> "It is our choices that show what we truly are, far more than our abilities."
 - Dumbledore
-
-> "You are destined to become what history thinks you were."
-- VSauce
-
-> "Some people want it to happen, some wish it would happen, others make it happen."
-- Michael Jordan
-
-
-### Unknown
-> "Never above you, never below you, always beside you."
-- Unknown
 
 
 ### Sports
@@ -34,6 +33,18 @@ permalink: "/quotes/"
 
 > "Next play."
 - Coach K
+
+> "Some people want it to happen, some wish it would happen, others make it happen."
+- Michael Jordan
+
+> "There's no such thing as bad weather, just soft people."
+- Bill Bowerman
+
+
+### Unknown
+> "Never above you, never below you, always beside you."
+
+> "You can be sore today or sorry tomorrow, you choose."
 
 
 ### Family/Friends
@@ -52,3 +63,9 @@ permalink: "/quotes/"
 > "All I can do is everything I can."
 
 > "The opportunity to help others is a reward in itself."
+
+
+<!--
+> "You are destined to become what history thinks you were."
+- VSauce
+-->
