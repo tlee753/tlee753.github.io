@@ -13,6 +13,7 @@ permalink: "/websites/"
 - [brandonlee24.github.io](https://brandonlee24.github.io)
 - [unicef.gatech.edu](https://unicef.gatech.edu)
 - [mirabuildingsolutions.com](https://mirabuildingsolutions.com)
+- Cambridge Water Polo
 
 ### Websites I've Assisted On
 - [solarracing.gatech.edu](https://solarracing.gatech.edu)
@@ -21,4 +22,5 @@ permalink: "/websites/"
 ### Deprecated Sites
 - Trineo Group
 - BDE GTL Site
+- Docbook to PDF Conversion Web App
 
