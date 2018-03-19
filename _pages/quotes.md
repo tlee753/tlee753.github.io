@@ -13,6 +13,9 @@ permalink: "/quotes/"
 > "Most people would rather be certain they're miserable than risk being happy."
 - Robert Anthony
 
+> “The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.”
+- Bob Marley
+
 
 ### Entreprenuers
 > "If you think you can or can't, you're right."

@@ -251,6 +251,24 @@ permalink: "/explore/"
 
 <div class="advice-primary" markdown="1">
 
+### Rocketry
+
+- openrocket
+
+</div>
+
+
+<div class="advice-secondary" markdown="1">
+
+### Category 2
+
+- 
+
+</div>
+
+
+<div class="advice-primary" markdown="1">
+
 ### Category 1
 
 - 
