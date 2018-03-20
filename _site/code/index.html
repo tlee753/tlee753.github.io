@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Quotes</title>
+    <title>Code</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/favicon.ico">
@@ -70,129 +70,26 @@
     <ul class="breadcrumb">
     <li><a href="/">Home</a></li>
     <li><a href="/blog">Blog</a></li>
-    <li>Life</li>
-    <li>Quotes</li>
+    <li>Utility</li>
+    <li>Code</li>
 </ul>
 
-    <h3 id="philisophers">Philisophers</h3>
-<blockquote>
-  <p>“You are what you do repeatedly.”</p>
-  <ul>
-    <li>Aristotle</li>
-  </ul>
-</blockquote>
+    <h3 id="slack-dark-theme">Slack Dark Theme</h3>
+<ul>
+  <li>Append the following code to this file in Slack App on your system</li>
+</ul>
 
-<blockquote>
-  <p>“Most people would rather be certain they’re miserable than risk being happy.”</p>
-  <ul>
-    <li>Robert Anthony</li>
-  </ul>
-</blockquote>
+<p><code class="highlighter-rouge">app.asar.unpacked/src/static/ssb-interop.js</code></p>
 
-<blockquote>
-  <p>“The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.”</p>
-  <ul>
-    <li>Bob Marley</li>
-  </ul>
-</blockquote>
-
-<h3 id="entreprenuers">Entreprenuers</h3>
-<blockquote>
-  <p>“If you think you can or can’t, you’re right.”</p>
-  <ul>
-    <li>Henry Ford</li>
-  </ul>
-</blockquote>
-
-<blockquote>
-  <p>“To invent your own life’s meaning is not easy, but it’s still allowed, and I think you’ll be happier for the trouble.”</p>
-  <ul>
-    <li>Bill Watterson</li>
-  </ul>
-</blockquote>
-
-<h3 id="fictional">Fictional</h3>
-<blockquote>
-  <p>“It is our choices that show what we truly are, far more than our abilities.”</p>
-  <ul>
-    <li>Dumbledore</li>
-  </ul>
-</blockquote>
-
-<h3 id="sports">Sports</h3>
-<blockquote>
-  <p>“If you don’t have time to do it right the first time, when will you have time to do it again?”</p>
-  <ul>
-    <li>John Wooden</li>
-  </ul>
-</blockquote>
-
-<blockquote>
-  <p>“Next play.”</p>
-  <ul>
-    <li>Coach K</li>
-  </ul>
-</blockquote>
-
-<blockquote>
-  <p>“Some people want it to happen, some wish it would happen, others make it happen.”</p>
-  <ul>
-    <li>Michael Jordan</li>
-  </ul>
-</blockquote>
-
-<blockquote>
-  <p>“There’s no such thing as bad weather, just soft people.”</p>
-  <ul>
-    <li>Bill Bowerman</li>
-  </ul>
-</blockquote>
-
-<h3 id="unknown">Unknown</h3>
-<blockquote>
-  <p>“Never above you, never below you, always beside you.”</p>
-</blockquote>
-
-<blockquote>
-  <p>“You can be sore today or sorry tomorrow, you choose.”</p>
-</blockquote>
-
-<h3 id="familyfriends">Family/Friends</h3>
-<blockquote>
-  <p>“Do the right thing and you won’t go wrong.”</p>
-  <ul>
-    <li>Great Grandpa Iannarino</li>
-  </ul>
-</blockquote>
-
-<blockquote>
-  <p>“In the end, only kindness matters.”</p>
-  <ul>
-    <li>Mom</li>
-  </ul>
-</blockquote>
-
-<h3 id="me">Me</h3>
-<blockquote>
-  <p>“My only regret is the kindness I did not show.”</p>
-</blockquote>
-
-<blockquote>
-  <p>“Doing the right thing justifies itself.”</p>
-</blockquote>
-
-<blockquote>
-  <p>“All I can do is everything I can.”</p>
-</blockquote>
-
-<blockquote>
-  <p>“The opportunity to help others is a reward in itself.”</p>
-</blockquote>
-
-<!--
-> "You are destined to become what history thinks you were."
-- VSauce
--->
+<div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">document</span><span class="p">.</span><span class="nx">addEventListener</span><span class="p">(</span><span class="s1">'DOMContentLoaded'</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+ <span class="nx">$</span><span class="p">.</span><span class="nx">ajax</span><span class="p">({</span>
+   <span class="na">url</span><span class="p">:</span> <span class="s1">'https://cdn.rawgit.com/laCour/slack-night-mode/master/css/raw/black.css'</span><span class="p">,</span>
+   <span class="na">success</span><span class="p">:</span> <span class="kd">function</span><span class="p">(</span><span class="nx">css</span><span class="p">)</span> <span class="p">{</span>
+     <span class="nx">$</span><span class="p">(</span><span class="s2">"&lt;style&gt;&lt;/style&gt;"</span><span class="p">).</span><span class="nx">appendTo</span><span class="p">(</span><span class="s1">'head'</span><span class="p">).</span><span class="nx">html</span><span class="p">(</span><span class="nx">css</span><span class="p">);</span>
+   <span class="p">}</span>
+ <span class="p">});</span>
+<span class="p">});</span>
+</code></pre></div></div>
 
 
 </div>
