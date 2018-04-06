@@ -37,11 +37,11 @@ external mirrors for maximum heat absorption.
 
 <br>
 
-![Model](/assets/img/portfolio/passive-desalinator/model.jpg)
+[OnShape CAD Model](https://cad.onshape.com/documents/3e6c5b9ca36020cec9ba2b16/w/1b8e064f76882421a1d7f45e/e/b758c1f920d969a825c9ae32)
 
 <br>
 
-[OnShape CAD Model](https://cad.onshape.com/documents/3e6c5b9ca36020cec9ba2b16/w/1b8e064f76882421a1d7f45e/e/b758c1f920d969a825c9ae32)
+![Model](/assets/img/portfolio/passive-desalinator/model.jpg)
 
 </div>
 

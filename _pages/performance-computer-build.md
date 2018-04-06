@@ -45,6 +45,16 @@ permalink: "/performance-computer-build/"
 
 *Prices include shipping, taxes, rebates, and discounts
 
+<br>
+
+![Ascension 3](/assets/img/portfolio/performance-computer-build/ascension-3.jpg)
+<br>
+![Ascension 2](/assets/img/portfolio/performance-computer-build/ascension-2.jpg)
+<br>
+![Ascension 4](/assets/img/portfolio/performance-computer-build/ascension-4.jpg)
+<br>
+![Ascension 5](/assets/img/portfolio/performance-computer-build/ascension-5.jpg)
+
 <!--
 <br>
 

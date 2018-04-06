@@ -74,6 +74,21 @@ Scout coach, the selfless volunteers, and above all my father for the lessons ta
 
 [Eagle Scout Project Appendicies](/assets/docs/Eagle-Appendicies.pdf)
 
+<br>
+![Eagle 1](/assets/img/portfolio/eagle-scout-project/eagle-1.png)
+<br>
+![Eagle 2](/assets/img/portfolio/eagle-scout-project/eagle-2.png)
+<br>
+![Eagle 3](/assets/img/portfolio/eagle-scout-project/eagle-3.png)
+<br>
+![Eagle 4](/assets/img/portfolio/eagle-scout-project/eagle-4.png)
+<br>
+![Eagle 5](/assets/img/portfolio/eagle-scout-project/eagle-5.jpg)
+<br>
+![Eagle 6](/assets/img/portfolio/eagle-scout-project/eagle-6.jpg)
+<br>
+![Eagle 7](/assets/img/portfolio/eagle-scout-project/eagle-7.jpg)
+
 </div>
 
 </section>

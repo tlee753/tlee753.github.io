@@ -23,6 +23,8 @@ involving a camera and robotic arm on a Husky robot.
 <br>
 
 ![ROS Tutorial](/assets/img/portfolio/interactive-robotics/tutorial.png)
+<br>
+![Gazebo](/assets/img/portfolio/interactive-robotics/gazebo.png)
 
 </div>
 
