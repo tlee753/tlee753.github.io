@@ -74,18 +74,18 @@ and the resulting fen will be sent to the backend for deciphering and illustrati
 ### Program Frontend
 
 It is here!!! After quite a bit of planning the entire program is ready for the
-world. It is currently in its Alpha stage, although all known bugs have been 
+world. It is currently in its beta stage, although all known bugs have been 
 squashed for the time being. If you are careful to follow the integrated 
 instructions you should have no problem on Windows, Mac, or Linux (assuming you 
 have java installed...). Post feedback on Github, I'm working as I have time. ;)
 
 <br>
 
-[Full Program Alpha Build](/assets/docs/Chess-1.4-1.8.jar)
+[Full Program Beta Build](/assets/docs/Chess-1.4-1.8.jar)
 
 <br>
 
-![Working Program](/assets/img/portfolio/chess-visualizer/frontend-1.2.jpg)
+![Working Program](/assets/img/portfolio/chess-visualizer/frontend-1.4.jpg)
 
 </div>
 

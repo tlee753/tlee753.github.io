@@ -7,7 +7,7 @@ permalink: "/portfolio/"
 
 <div id="portfolio">
 
-    {% for item in site.data.settings.portfolio %}
+    {% for item in site.data.settings.portfoliopage %}
 
     <a href="/{{ item.folder }}" class="portfolio-unit">
         <div class="portfolio-background"

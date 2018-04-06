@@ -23,6 +23,19 @@ skills:
 #-------------------------------
 # Portfolio Section
 portfolio:
+- {name: Performance Computer Build, folder: 'performance-computer-build'}
+- {name: Autonomous Robotics, folder: 'autonomous-robotics'}
+- {name: Eagle Scout Project, folder: 'eagle-scout-project'}
+- {name: Image Manipulation, folder: 'image-manipulation'}
+- {name: Electrathon Vehicle, folder: 'electrathon-vehicle'}
+- {name: Interactive Robotics, folder: 'interactive-robotics'}
+- {name: Stock Monitoring App, folder: 'stock-monitoring-app'}
+- {name: Passive Desalinator, folder: 'passive-desalinator'}
+
+
+#-------------------------------
+# Portfolio Page
+portfoliopage:
 - {name: Performance Computer Build, folder: 'performance-computer-build', next: '', previous: ''}
 - {name: Autonomous Robotics, folder: 'autonomous-robotics', next: '', previous: ''}
 - {name: Eagle Scout Project, folder: 'eagle-scout-project', next: '', previous: ''}
@@ -31,12 +44,14 @@ portfolio:
 - {name: Interactive Robotics, folder: 'interactive-robotics', next: '', previous: ''}
 - {name: Chess Visualizer, folder: 'chess-visualizer', next: '', previous: ''}
 - {name: Passive Desalinator, folder: 'passive-desalinator', next: '', previous: ''}
+- {name: Image Manipulation, folder: 'image-manipulation', next: '', previous: ''}
+- {name: Ricing, folder: 'ricing', next: '', previous: ''}
+- {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
+
 # - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
-# - {name: Image Manipulation Script, folder: 'image-manipulation-script', next: '', previous: ''}
 # - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
 # - {name: Keys to Happiness, folder: 'keys-to-happiness', next: '', previous: ''}
 # - {name: Windows Server Technical Preview, folder: 'windows-server-technical-preview', next: '', previous: ''}
-# - {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
 # - {name: Text Server, folder: 'text-server', next: '', previous: ''}
 
 # Web/GUI Development
