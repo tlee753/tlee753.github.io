@@ -11,6 +11,14 @@ permalink: "/text-server/"
 
 ### Text Server
 
+The idea behind this project is to create a modular, text message based information retrieval system for various applications. In areas where cellular data is lacking, having this functionality could be instrumental in offloading network bandwith to servers. The server can be also be set up to run periodically (current functionality). Ideas for modules include the following:
+
+- stock market information
+- map location and directions
+- sports scores
+- health data
+- checking email
+
 [Github](https://github.com/tlee753/text-server)
 
 </div>

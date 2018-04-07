@@ -49,12 +49,15 @@ portfoliopage:
 - {name: Image Manipulation, folder: 'image-manipulation', next: '', previous: ''}
 - {name: Ricing, folder: 'ricing', next: '', previous: ''}
 - {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
+- {name: Text Server, folder: 'text-server', next: '', previous: ''}
+- {name: Web Development, folder: 'web-development', next: '', previous: ''}
 
 # - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
 # - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
 # - {name: Keys to Happiness, folder: 'keys-to-happiness', next: '', previous: ''}
 # - {name: Windows Server Technical Preview, folder: 'windows-server-technical-preview', next: '', previous: ''}
 # - {name: Text Server, folder: 'text-server', next: '', previous: ''}
+
 
 # Web/GUI Development
 # NASA Orion space capsule (open source)
