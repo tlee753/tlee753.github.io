@@ -19,7 +19,7 @@ permalink: "/tutorials/"
 |Tutorial|Link|
 |--------|----|
 |Multi-Boot-Linux        |[Guide](/multi-boot-linux)|
-|Doxygen Linux/MacOS     |[Coming Soon](#)|
+|Doxygen Linux/MacOS     |[Github](https://github.com/tlee753/doxygen-demo)|
 |Clang Linux/MacOS       |[Coming Soon](#)|
 |Tkinter GUI Development |[Coming Soon](#)|
 |Wine Windows Emulator   |[Coming Soon](#)|

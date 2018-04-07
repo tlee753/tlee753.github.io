@@ -1633,7 +1633,7 @@ header {
   height: 100vh;
   align-items: center;
   display: flex;
-  background: -webkit-linear-gradient(90deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), -webkit-linear-gradient(180deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.09804) 20%, rgba(255, 0, 102, 0.09804) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), #ffcc00;
+  background: -webkit-linear-gradient(90deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.0980392) 20%, rgba(255, 0, 102, 0.0980392) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), -webkit-linear-gradient(180deg, rgba(255, 0, 102, 0) 20%, rgba(255, 0, 102, 0.0980392) 20%, rgba(255, 0, 102, 0.0980392) 40%, rgba(255, 0, 102, 0.2) 40%, rgba(255, 0, 102, 0.2) 60%, rgba(255, 0, 102, 0.4) 60%, rgba(255, 0, 102, 0.4) 80%, rgba(255, 0, 102, 0.6) 80%), #ffcc00;
   -webkit-background-origin: padding-box;
   background-origin: padding-box;
   -webkit-background-clip: border-box;
