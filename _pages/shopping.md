@@ -18,7 +18,7 @@ permalink: "/shopping/"
 - Oranges (juice)
 - Grapes
 - Bananas
-- Strawberries
+- Strawberries (smoothie)
 - Blueberries
 
 ### Vegetables
@@ -48,6 +48,7 @@ permalink: "/shopping/"
 - Soups
 - Pretzels
 - DIY Pizza
+- Trail mix
 
 ### Fats
 - Ice cream
