@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Image Manipulation Script
+title: Ricing
 date: 2017-04-06
 permalink: "/ricing/"
 ---
