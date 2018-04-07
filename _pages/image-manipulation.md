@@ -22,11 +22,11 @@ I did the development in python (v3.5) for cross platform functionality combined
 [Github](https://github.com/tlee753/image-manipulation)
 
 <br>
-![Linux](/assets/img/portfolio/image-manipulation/linux.jpg)
+![Linux](/assets/img/portfolio/image-manipulation/Linux.jpg)
 Linux, before background removal. 
 <br>
 <br>
-![Mac](/assets/img/portfolio/image-manipulation/mac.jpg)
+![Mac](/assets/img/portfolio/image-manipulation/Mac.jpg)
 Mac, after background removal.
 
 </div>
