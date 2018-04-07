@@ -16,6 +16,9 @@ permalink: "/quotes/"
 > “The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.”
 - Bob Marley
 
+> “The two most important days in your life are the day you are born and the day you find out why.”
+- Mark Twain
+
 
 ### Entreprenuers
 > "If you think you can or can't, you're right."
