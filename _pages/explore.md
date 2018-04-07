@@ -260,9 +260,11 @@ permalink: "/explore/"
 
 <div class="advice-secondary" markdown="1">
 
-### Category 2
+### Amateur Radio
 
-- 
+- gprx
+- sdr#
+- cubicsdr
 
 </div>
 
