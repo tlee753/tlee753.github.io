@@ -18,11 +18,13 @@ permalink: "/tutorials/"
 
 |Tutorial|Link|
 |--------|----|
-|Multi-Boot-Linux        |[Guide](/multi-boot-linux)|
-|Doxygen Linux/MacOS     |[Github](https://github.com/tlee753/doxygen-demo)|
-|Clang Linux/MacOS       |[Coming Soon](#)|
-|Tkinter GUI Development |[Coming Soon](#)|
-|Wine Windows Emulator   |[Coming Soon](#)|
+|Multi-Boot-Linux          |[Guide](/multi-boot-linux)|
+|Doxygen Linux/MacOS       |[Github](https://github.com/tlee753/doxygen-demo)|
+|Clang Linux/MacOS         |[Coming Soon](#)|
+|Tkinter GUI Development   |[Coming Soon](#)|
+|Wine Windows Emulator     |[Coming Soon](#)|
+|Simple Website (HTML/CSS) |[Github](https://github.com/tlee753/simple-website)|
+|Simple Jekyll Website     |[Github](https://github.com/tlee753/simple-jekyll)|
 
 </div>
 
