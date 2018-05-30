@@ -15,11 +15,11 @@ As an after work project at NASA JSC, the interns are developing a model rocket 
 
 <br>
 
-The Tiny Flying Rocket (TFR) was modeled after the Saturn 5 and initially intended to be a multi stage, but later reverted to a single stage. It was powered by two F type Estes engines, a 9v battery and custom designed/hand soldered power distribution board, and was run by a raspberry pi zero wireless with accompaniny camera. This is where I spent the majority of my time on the project, the flight avionics and power board, although I thoroughly enjoyed pitching in everywhere.
+The Tiny Flying Rocket (TFR) was modeled after the Saturn 5 and initially intended to be a multi stage, but later reverted to a single stage. It was powered by two F type Estes engines, a 9v battery and custom designed/hand soldered power distribution board, and was run by a raspberry pi zero wireless with accompanying camera. This is where I spent the majority of my time on the project - payload. I led the flight avionics team which involved environment capture modules, the power distribution board, and radio transmission; although I thoroughly enjoyed pitching in everywhere.
 
 <br>
 
-The payload didn't end up with design I iterated to nor the functionality I had desired, but I did start the camera over a bluetooth ssh shell to our onboard flight computer and it did capture some interesting footage. Almost immediately after launch our rocket went into a heavy spin as the launch force snapped one of the fins halway off.
+The payload didn't end up with design I iterated to nor the functionality I had desired, but I did start the camera over a bluetooth ssh shell to our onboard flight computer and it did capture some interesting footage. Almost immediately after launch our rocket went into a heavy spin as the launch force snapped one of the fins halway off. Despite this, we still managed to gain an awesome amount of altitude, well over Johnson Space Center and easily enough to see Earth's curvature.
 
 <br>
 

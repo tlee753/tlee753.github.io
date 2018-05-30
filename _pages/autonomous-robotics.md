@@ -26,6 +26,11 @@ features a pirate theme expedition in which the best navigation [software](https
 will almost certainly win the competition. Therefore, the major focus is on writing precise [PID controllers](https://en.wikipedia.org/wiki/PID_controller), 
 implementing a two methods of localization (quadrature encoders and i2c distance sensor array), and possibly some 
 embedded linux PRU communication...
+
+<br>
+
+### 2018 Southeastcon Robot CAD model
+![Autonomous Robotics 1](/assets/img/portfolio/autonomous-robotics/autonomous-robotics-1.png)
     
 </div>
 
