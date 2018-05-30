@@ -34,4 +34,6 @@ Icon
 # Old example files
 .old
 
+# Site Folder
+_site
 

@@ -18,17 +18,22 @@ permalink: "/bucket/"
 - [x] Witness a solar eclipse
 - [ ] Swim in bioluminescent water
 - [ ] Meet one of my role models
+    - Barack Obama
+    - Lebron James
+    - John Cleese
+    - JK Rowling
 - [ ] Race down the Autobahn (sports car required)
 - [ ] Visit an active volcano (seeing lava required)
 - [ ] See the milky way galaxy (naked eye)
 - [ ] Climb an exceptionally tall mountain (TBD...)
 - [ ] Scuba dive in the Great Barrier Reef
+- [ ] Monaco Gran Prix
 
 ### Accomplishments
 - [x] Read Harry Potter series
 - [ ] Read Lord of the Rings
 - [ ] Speak at a TED event
-- [ ] Start a business
+- [ ] Start a business/non-profit
 - [ ] Publish an app (web dev assistant?)
 - [x] Write a software program (GUI based, complexity and originality required)
 - [ ] List top 100 books (quality reads)
