@@ -19,5 +19,5 @@ For those interested, it is a static website that utilizes preprocessing to mini
 - Web Framework: Jekyll
 - Style Pre-processor: Sass
 - Analytics: Google Analytics
-- Javascript Utilitis: JQuery, Reveal.js
+- Javascript Utilities: JQuery, Reveal.js
 - Image Reducer: Image Optim (Mac)
