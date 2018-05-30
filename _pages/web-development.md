@@ -17,15 +17,15 @@ Websites I've made
 - [unicef.gatech.edu](http://unicef.gatech.edu)
 - [mirabuildingsolutions.com](http://mirabuildingsolutions.com)
 - [cambridgewaterpolo.com](http://cambridgewaterpolo.com)
-- [Docbook to PDF Conversion Web App](http://docbook.tlee753.com)
 
 Websites I've assisted on
 - [solarracing.gatech.edu](https://solarracing.gatech.edu)
 - [teagueseventcatering.com](http://teagueseventcatering.com)
 
-Depricated sites
+Depricated Site I've Made
 - Trineo Group
 - BDE GTL Site
+- Docbook to PDF Conversion Web App
 
 </div>
 
