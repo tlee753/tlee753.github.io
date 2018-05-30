@@ -25,6 +25,10 @@ permalink: "/tutorials/"
 |Wine Windows Emulator     |[Coming Soon](#)|
 |Simple Website (HTML/CSS) |[Github](https://github.com/tlee753/simple-website)|
 |Simple Jekyll Website     |[Github](https://github.com/tlee753/simple-jekyll)|
+|Selenium Web Tests        |[Coming Soon](#)|
+|Jenkins Automation        |[Coming Soon](#)|
+
+
 
 </div>
 
