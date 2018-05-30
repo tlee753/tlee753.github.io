@@ -31,7 +31,10 @@ Here is the link to my CAD files for the whole project:<br>
 
 <br>
 ### Flight Video
-![Rocketry Video](/assets/img/portfolio/rocketry/rocketry-video.mp4)
+<video width="100%" controls>
+    <source src="/assets/img/portfolio/rocketry/rocketry-video.mp4" type="video/mp4">
+    Your broswer does not support the video tag.
+</video>
 <br>
 
 ### Open Rocket Simulations
