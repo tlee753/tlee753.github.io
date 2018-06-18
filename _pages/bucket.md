@@ -40,7 +40,6 @@ permalink: "/bucket/"
 - [x] Eagle Scout
 - [x] Build a computer from scratch
 - [ ] Get a black belt
-- [ ] Giving blood 20 times (2/20)
 
 ### Certifications
 - [ ] Pilot's license
@@ -69,6 +68,7 @@ permalink: "/bucket/"
 - [ ] Write a book (open source publication)
 - [ ] Plant an orchard
 - [ ] Make a quote book (Iannarino-esque)
+- [ ] Giving blood 20 times (2/20)
 
 ### Athletics
 - [x] Land a front flip (on land)
