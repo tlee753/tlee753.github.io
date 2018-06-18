@@ -40,6 +40,7 @@ permalink: "/bucket/"
 - [x] Eagle Scout
 - [x] Build a computer from scratch
 - [ ] Get a black belt
+- [ ] Giving blood 20 times (2/20)
 
 ### Certifications
 - [ ] Pilot's license
