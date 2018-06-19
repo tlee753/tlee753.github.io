@@ -152,19 +152,19 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Murder on the Orient Express', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Stormbreaker', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Scorpia', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'The Grim Grotto', author: '', image: '', year: '',
     description: '',
     review: ''
 }
