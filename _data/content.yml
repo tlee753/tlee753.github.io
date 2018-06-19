@@ -172,7 +172,7 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'October Sky', author: '', image: '', year: '',
     description: '',
     review: ''
 }
