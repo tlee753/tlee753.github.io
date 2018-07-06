@@ -70,6 +70,7 @@ permalink: "/bucket/"
 - [ ] Write a book (open source publication)
 - [ ] Plant an orchard
 - [ ] Make a quote book (Iannarino-esque)
+- [ ] Giving blood 20 times (2/20)
 
 ### Athletics
 - [x] Land a front flip (on land)
@@ -77,6 +78,6 @@ permalink: "/bucket/"
 - [ ] Run a marathon
 - [ ] Finish an Iron Man
 - [x] Juggle a soccer ball (30 touches mixed min)
-- [ ] Juggle
+- [x] Juggle
 - [x] Hold a handstand for 30 seconds
 - [ ] Do a one handed handstand (10 seconds?)

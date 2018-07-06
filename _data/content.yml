@@ -1,7 +1,7 @@
 #-------------------------------
 # Book Section
 
-# dunk/pink, old baseball book about guy from the tigers
+# old baseball book about guy from the tigers
 
 books:
 - { title: 'The Book Thief', author: '', image: 'bookthief', year: '',
@@ -152,27 +152,27 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Murder on the Orient Express', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Stormbreaker', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Scorpia', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'The Grim Grotto', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Dunk', author: 'David Lubar', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'October Sky', author: '', image: '', year: '',
     description: '',
     review: ''
 }
