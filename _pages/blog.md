@@ -11,7 +11,7 @@ permalink: "/blog/"
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
     <p>{{ post.category }}</p>
-    <p>{{ post.date }}</p>
+    <p>{{ post.date | date: "%-d %B %Y" }}</p>
     {% endfor %}
 </ul>
 

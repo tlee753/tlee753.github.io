@@ -18,6 +18,7 @@ permalink: "/presentations/"
 
 |Title|Link|
 |-----|----|
+|GT Advice                                  |[GT Advice](/gtadvice/)|
 |Resume                                     |[Resume](/assets/docs/Tyler-Lee-Resume.pdf)|
 |Overview of Mainstream Serial Protocols    |[Final Report](/assets/docs/Overview-of-Mainstream-Serial-Protocols-v1.4.pdf)|
 |DE2Bot Occupancy Grid Mapping              |[Project Report](/assets/docs/DE2Bot-Report.pdf)|

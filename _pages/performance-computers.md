@@ -2,10 +2,10 @@
 layout: default
 title: Performance Computer Build
 date: 2017-09-06 8:00:00
-permalink: "/performance-computer-build/"
+permalink: "/performance-computers/"
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/performance-computer-build/background.jpg);">
+<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/performance-computers/background.jpg);">
 
 <div class="portfolio-content" markdown="1">
 
@@ -22,8 +22,8 @@ permalink: "/performance-computer-build/"
 
 ### [PC Part Picker List](http://pcpartpicker.com/list/V2kZf8)
 
-|Type|Item|Price|
-|----|----|-----|
+| Type | Item | Price |
+| ---- | ---- | ----- |
 |CPU            |[Intel Core i7-4790K 4.0GHz Quad-Core Processor](http://pcpartpicker.com/product/6vzv6h/intel-cpu-bx80646i74790k)|Purchased For $276.99|
 |CPU Cooler     |[Corsair H110i GT 113.0 CFM Liquid CPU Cooler](http://pcpartpicker.com/product/ZVnG3C/corsair-cpu-cooler-cw9060019ww)|Purchased For $123.99|
 |Motherboard    |[Asus MAXIMUS VII HERO ATX LGA1150 Motherboard](http://pcpartpicker.com/product/pYyFf7/asus-motherboard-maximusviihero)|Purchased For $188.95|
@@ -47,13 +47,13 @@ permalink: "/performance-computer-build/"
 
 <br>
 
-![Ascension 3](/assets/img/portfolio/performance-computer-build/ascension-3.jpg)
+![Ascension 3](/assets/img/portfolio/performance-computers/ascension-3.jpg)
 <br>
-![Ascension 2](/assets/img/portfolio/performance-computer-build/ascension-2.jpg)
+![Ascension 2](/assets/img/portfolio/performance-computers/ascension-2.jpg)
 <br>
-![Ascension 4](/assets/img/portfolio/performance-computer-build/ascension-4.jpg)
+![Ascension 4](/assets/img/portfolio/performance-computers/ascension-4.jpg)
 <br>
-![Ascension 5](/assets/img/portfolio/performance-computer-build/ascension-5.jpg)
+![Ascension 5](/assets/img/portfolio/performance-computers/ascension-5.jpg)
 
 <!--
 <br>
