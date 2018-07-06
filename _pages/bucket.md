@@ -16,18 +16,20 @@ permalink: "/bucket/"
 - [ ] Go hang gliding (rain forest?)
 - [ ] Kill it at a karaoke night
 - [x] Witness a solar eclipse
-- [ ] Swim in bioluminescent water
+- [x] Swim in bioluminescent water
 - [ ] Meet one of my role models
     - Barack Obama
     - Lebron James
     - John Cleese
     - JK Rowling
+    - Bill Watterson
 - [ ] Race down the Autobahn (sports car required)
 - [ ] Visit an active volcano (seeing lava required)
 - [ ] See the milky way galaxy (naked eye)
 - [ ] Climb an exceptionally tall mountain (TBD...)
 - [ ] Scuba dive in the Great Barrier Reef
 - [ ] Monaco Gran Prix
+- [ ] Surf inside a wave
 
 ### Accomplishments
 - [x] Read Harry Potter series
