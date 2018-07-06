@@ -58,8 +58,8 @@ permalink: "/bucket/"
 - [ ] Australia
 
 ### Skills
-- [x] Learn a new language (spanish)
-- [ ] Learn another new language (italian)
+- [x] Learn a new language (Spanish)
+- [ ] Learn another new language (Italian)
 - [ ] Learn basic sign language
 - [x] Solve a rubik's cube in under 2 minutes
 - [ ] Play an instrument (electric guitar?)
