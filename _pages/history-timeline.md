@@ -7,4 +7,4 @@ progress: 10
 ---
 
 
-Coming soon to a website near you...
+![Mockup](/assets/img/portfolio/history-timeline/background.jpg)
