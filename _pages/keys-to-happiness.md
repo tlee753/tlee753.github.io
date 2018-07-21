@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: portfolio
 title: Keys to Happiness
 date: 2017-09-06 8:00:00
 permalink: "/keys-to-happiness/"
+progress: 100
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/keys-to-happiness/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Keys to Happiness
 
 Life is beautiful. I enjoy philosophy and have filled several notebooks and pages upon pages in OneNote with my
 thoughts on, well, everything. Its quite amazing how complex yet harmonious life is, and the joy of it all boils
@@ -21,7 +17,3 @@ started writing a book just to see if I can influence other lives for the better
 - Organization
 - Kindness
 - Being Yourself
-
-</div>
-
-</section>

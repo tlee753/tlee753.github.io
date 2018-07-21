@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: portfolio
 title: Electrathon Vehicle
 date: 2017-09-06 8:00:00
 permalink: "/electrathon-vehicle/"
+progress: 100
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/electrathon-vehicle/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Electrathon Vehicle
 
 The Electrathon Vehicle Competition was the culmination of three years of engineering classes. The project
 is simply to build an electrically powered, single man vehicle which competes against other racers for over an on a
@@ -29,7 +25,3 @@ beyond the Fulton County three year engineering pathway.
 <br>
 
 ![3-D printed model](/assets/img/portfolio/electrathon-vehicle/electrathon-vehicle-1.jpg)
-
-</div>
-
-</section>

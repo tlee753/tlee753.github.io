@@ -1,15 +1,10 @@
 ---
-layout: default
+layout: portfolio
 title: Interactive Robotics
 date: 2017-09-06 8:00:00
 permalink: "/interactive-robotics/"
+progress: 100
 ---
-
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/interactive-robotics/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Interactive Robotics
 
 ROS is a open source framework for all types of robotics projects created by Standford and utilized by
 people across the globe. I found out about its particularly useful node based interface via a CS research
@@ -25,7 +20,3 @@ involving a camera and robotic arm on a Husky robot.
 ![ROS Tutorial](/assets/img/portfolio/interactive-robotics/tutorial.png)
 <br>
 ![Gazebo](/assets/img/portfolio/interactive-robotics/gazebo.png)
-
-</div>
-
-</section>

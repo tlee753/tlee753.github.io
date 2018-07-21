@@ -1,13 +1,11 @@
 ---
-layout: default
+layout: portfolio
 title: Performance Computer Build
 date: 2017-09-06 8:00:00
 permalink: "/performance-computers/"
+progress: 100
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/performance-computers/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
 
 ### Specs
 
@@ -85,7 +83,3 @@ permalink: "/performance-computers/"
   
 </div>
 -->
-    
-</div>
-
-</section>

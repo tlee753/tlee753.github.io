@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: portfolio
 title: Chess Visualizer
 date: 2017-09-06 8:00:00
 permalink: "/chess-visualizer/"
+progress: 70
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/chess-visualizer/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Chess Visualizer
 
 I have been fairly interested in studying alternative methods for deciphering 
 the complexities of chess, and one of my more interesting ideas was to develop 
@@ -86,7 +82,3 @@ have java installed...). Post feedback on Github, I'm working as I have time. ;)
 <br>
 
 ![Working Program](/assets/img/portfolio/chess-visualizer/frontend-1.4.jpg)
-
-</div>
-
-</section>

@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: portfolio
 title: Autonomous Robotics
 date: 2017-09-06 8:00:00
 permalink: "/autonomous-robotics/"
+progress: 90
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/autonomous-robotics/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Autonomous Robotics
 
 The Institute of Electric and Electrical Engineers helps professional engineers further their careers and
 for the next generation, well, begin theirs. Each year the Southeastern conference releases a robotics hardware
@@ -31,7 +27,3 @@ embedded linux PRU communication...
 
 ### 2018 Southeastcon Robot CAD model
 ![Autonomous Robotics 1](/assets/img/portfolio/autonomous-robotics/autonomous-robotics-1.png)
-    
-</div>
-
-</section>

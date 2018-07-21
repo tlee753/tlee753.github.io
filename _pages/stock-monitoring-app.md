@@ -1,15 +1,12 @@
 ---
-layout: default
+layout: portfolio
 title: Stock Monitoring App
 date: 2017-09-06 8:00:00
 permalink: "/stock-monitoring-app/"
+progress: 20
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/stock-monitoring-app/background.jpg);">
 
-<div class="portfolio-content" markdown="1">
-
-### Cross Platform Stock Monitoring App
 I have a strong passion for investing and love viewing the rise and falls of the market, however, the
 pre-existing app solutions just weren't cutting it for me so I decided to build my own. Using the Yahoo
 finance API, I am able to store the most recent stock data on my personal server in a predefined format
@@ -26,7 +23,3 @@ a database on my server for future testing (an eventual algorithm building).
 This basic test queries the yahoo finance rest api using an encoded url. Each stock is individually requested
 via java script on the clientside, although I have my own rest api running on my server containing an up to
 date json of all the most important data for all the major stocks. Currently I am taking a look at the bloomberg api.
-
-</div>
-
-</section>
