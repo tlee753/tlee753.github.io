@@ -6,5 +6,4 @@ permalink: "/drone-killer/"
 progress: 20
 ---
 
-
-Coming soon to a website near you...
+![Packet](/assets/img/portfolio/drone-killer/background.jpg)
