@@ -1,15 +1,10 @@
 ---
-layout: default
-title: Image Manipulation Script
+layout: portfolio
+title: Image Manipulation
 date: 2017-09-06 8:00:00
 permalink: "/image-manipulation/"
+progress: 80
 ---
-
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/image-manipulation/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Image Manipulation
 
 Since getting into web developement, I've constantly found myself looking for a quick way to remove backgrounds from images as well as occasionally converting a range of colors to another color (creating all white pictures from sponsor logos for example). While there are plenty of high level programs that achieve this functionality (photoshop, gimp, powerpoint) this is such a common design challenge that I decided to create my own quick and dirty program to do so.
 
@@ -28,7 +23,3 @@ Linux, before background removal.
 <br>
 ![Mac](/assets/img/portfolio/image-manipulation/Mac.jpg)
 Mac, after background removal.
-
-</div>
-
-</section>

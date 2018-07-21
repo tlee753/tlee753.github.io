@@ -1,20 +1,15 @@
 ---
-layout: default
+layout: portfolio
 title: Passive Desalinator
 date: 2017-09-06 8:00:00
 permalink: "/passive-desalinator/"
+progress: 50
 ---
+
 
 <style>
 img {max-height: 400px;}
 </style>
-
-
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/passive-desalinator/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Passive Desalinator
 
 Just an idea I had while pondering the biggest problems of the world today.
 Clean water is hard to come by but vital to our existence, yet we still depend
@@ -42,7 +37,3 @@ external mirrors for maximum heat absorption.
 <br>
 
 ![Model](/assets/img/portfolio/passive-desalinator/model.jpg)
-
-</div>
-
-</section>

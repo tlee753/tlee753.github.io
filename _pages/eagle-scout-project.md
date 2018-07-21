@@ -1,15 +1,10 @@
 ---
-layout: default
+layout: portfolio
 title: Eagle Scout Project
 date: 2017-09-06 8:00:00
 permalink: "/eagle-scout-project/"
+progress: 100
 ---
-
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/eagle-scout-project/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Eagle Scout Project
 
 Achieving Eagle has been undoubtedly the greatest single learning experience I have had in my entire life.
 From making a pinewood derby as a Tiger Cub, to climbing through caves on campouts, to looking over the
@@ -88,7 +83,3 @@ Scout coach, the selfless volunteers, and above all my father for the lessons ta
 ![Eagle 6](/assets/img/portfolio/eagle-scout-project/eagle-6.jpg)
 <br>
 ![Eagle 7](/assets/img/portfolio/eagle-scout-project/eagle-7.jpg)
-
-</div>
-
-</section>

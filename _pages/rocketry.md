@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: portfolio
 title: Rocketry
 date: 2017-04-06
 permalink: "/rocketry/"
+progress: 90
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/rocketry/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Rocketry
 
 As an after work project at NASA JSC, the interns are developing a model rocket with an advanced avionics payload. While we didn't quite suceed in all regards, we did have an awesome launch, a successful parachute deployment, and a hell of time making the damn thing.
 
@@ -70,7 +66,3 @@ Here is the link to my CAD files for the whole project:<br>
 ![Rocketry 10](/assets/img/portfolio/rocketry/rocketry-10.png)
 <br>
 ![Rocketry 11](/assets/img/portfolio/rocketry/rocketry-11.png)
-
-</div>
-
-</section>

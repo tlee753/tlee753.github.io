@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: portfolio
 title: Web Development
 date: 2017-04-06
 permalink: "/web-development/"
+progress: 90
 ---
 
-<section class="portfolio-page" style="background-image: url(/assets/img/portfolio/web-development/background.jpg);">
-
-<div class="portfolio-content" markdown="1">
-
-### Web Development
 
 Websites I've made
 - [tlee753.com](http://tlee753.com)
@@ -26,7 +22,3 @@ Depricated Site I've Made
 - Trineo Group
 - BDE GTL Site
 - Docbook to PDF Conversion Web App
-
-</div>
-
-</section>
