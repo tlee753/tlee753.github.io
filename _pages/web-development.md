@@ -27,7 +27,7 @@ Depricated Site I've Made
 <br>
 ![Browns Fan](/assets/img/portfolio/web-development/site-1.png)
 <br>
-![CWP](/assets/img/portfolio/web-development/site-2.png)
+![CWP](/assets/img/portfolio/web-development/site-2.jpg)
 <br>
 ![UNICEF](/assets/img/portfolio/web-development/site-3.png)
 <br>
