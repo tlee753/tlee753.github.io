@@ -32,6 +32,9 @@ permalink: "/quotes/"
 > "It is our choices that show what we truly are, far more than our abilities."
 - Dumbledore
 
+> "What we do in life echoes in Eternity."
+- Maximus Decimus Meridius
+
 
 ### Sports
 > "If you don't have time to do it right the first time, when will you have time to do it again?"
@@ -61,7 +64,7 @@ permalink: "/quotes/"
 - Mom
 
 
-### Me
+### Personal
 > "My only regret is the kindness I did not show."
 
 > "Doing the right thing justifies itself."

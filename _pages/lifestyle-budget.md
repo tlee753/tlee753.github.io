@@ -7,4 +7,4 @@ progress: 10
 ---
 
 
-Coming soon to a website near you...
+![Mock Up](/assets/img/portfolio/lifestyle-budget/background.jpg)

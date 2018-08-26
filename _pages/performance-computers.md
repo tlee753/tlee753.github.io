@@ -1,20 +1,34 @@
 ---
 layout: portfolio
-title: Performance Computer Build
+title: Performance Computers
 date: 2017-09-06 8:00:00
 permalink: "/performance-computers/"
 progress: 100
 ---
 
 
-### Specs
+I thoroughly enjoy building my own systems as I find I can better allocate funding towards fullfiling my needs (as well as being a fun hobby...). Here are two of the personal systems I've made in recent years.
 
+### Portable Build
+- Operating System: Triple Boot Windows 10 Pro, Linux, Hackintosh + Virtual Machines
+- Processor: Intel 8600K (6 core, 3.6 GHz, 4.3 Turbo)
+- Graphics Card: EVGA 1060
+- Motherboard: AsRock 
+- Memory: Corsair (3000 MHz)
+- Storage: Samsung 850 Evo
+- Power Supply: Corsair SFW 450W
+- Case: Silverstone Milo HTPC
+
+Pictures coming soon... ;)
+<br><br>
+
+### Ascension Build
 - Operating System: Windows 10 Pro and Linux Virtual Machines for Testing
-- Processor: Intel 4790K (4.0 GHz, 4.4 Turbo)
+- Processor: Intel 4790K (4 core, 4.0 GHz, 4.4 Turbo)
 - Graphics Card: Asus Strix 970
 - Motherboard: Asus Hero VII
 - Memory: G.Skill Trident X (2400 MHz)
-- Storage: Sandisk Ultra Plus/Samsung 850 Evo
+- Storage: Sandisk Ultra Plus
 - Power Supply: Evga Supernova G2 850W
 - Case: NZXT H440 Red/Black
 
@@ -37,11 +51,7 @@ progress: 100
 |Mouse          |[Logitech G700s Wireless Laser Mouse](http://pcpartpicker.com/product/29V48d/logitech-mouse-910003584)|Purchased For $49.99|
 |Speakers       |[Logitech Z506 155W 5.1ch Speakers](http://pcpartpicker.com/product/YwLypg/logitech-speakers-980000430)|Purchased For $74.99|
 |Other          |Qck Mousepad|Purchased For $8.99|
-||Total|$1953.81|
-    
-<br>
-
-*Prices include shipping, taxes, rebates, and discounts
+||Total (*Prices include shipping, taxes, rebates, and discounts*)|$1953.81|
 
 <br>
 
