@@ -25,3 +25,5 @@ beyond the Fulton County three year engineering pathway.
 <br>
 
 ![3-D printed model](/assets/img/portfolio/electrathon-vehicle/electrathon-vehicle-1.jpg)
+<br>
+![Welding](/assets/img/portfolio/electrathon-vehicle/background.jpg)
