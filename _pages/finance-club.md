@@ -8,6 +8,10 @@ progress: 20
 
 Personal Finance Club to teach the fundamentals of money management for college students.
 
-[Site](/pfc/)
+<br>
+
+[Site In Progress](/pfc/)
+
+<br><br>
 
 ![Home Page](/assets/img/portfolio/finance-club/background.jpg)
