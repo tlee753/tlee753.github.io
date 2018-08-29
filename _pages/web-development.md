@@ -9,7 +9,7 @@ progress: 90
 
 Websites I've made
 - [tlee753.com](http://tlee753.com)
-- [brownsfan.org](https://brownsfan.org)
+- [brownsfan.org](http://brownsfan.org)
 - [unicef.gatech.edu](http://unicef.gatech.edu)
 - [mirabuildingsolutions.com](http://mirabuildingsolutions.com)
 - [cambridgewaterpolo.com](http://cambridgewaterpolo.com)
