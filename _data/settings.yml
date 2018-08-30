@@ -56,6 +56,7 @@ portfoliopage:
 - {name: History Timeline, folder: 'history-timeline', next: '', previous: ''}
 - {name: Lifestyle Budget, folder: 'lifestyle-budget', next: '', previous: ''}
 - {name: Personal Finance Club, folder: 'finance-club', next: '', previous: ''}
+- {name: Web Automation Framework, folder: 'web-automation-framework', next: '', previous: ''}
 
 # - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
 # - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
