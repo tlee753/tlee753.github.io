@@ -239,9 +239,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
-body {
-  margin: 0; }
-
 article,
 aside,
 details,
@@ -406,18 +403,6 @@ textarea {
 optgroup {
   font-weight: bold; }
 
-/* changed ^^ */
-/*
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-td,
-th {
-  padding: 0;
-}
-*/
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -1724,16 +1709,28 @@ header {
 
 .post-list {
   margin: 0 auto;
-  max-width: 600px; }
-  .post-list h2 {
-    margin-bottom: 5px; }
-    .post-list h2 a {
+  max-width: 800px;
+  padding-left: 10px;
+  padding-right: 10px; }
+  .post-list .post-block {
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    margin: 10px 0; }
+    .post-list .post-block:hover h2 {
       color: #193a5d;
-      text-decoration: none; }
-      .post-list h2 a:hover {
-        color: #296099; }
-  .post-list p {
-    margin: 5px auto; }
+      text-shadow: 0 0 20px ghostwhite; }
+    .post-list .post-block:hover p {
+      color: #193a5d;
+      text-shadow: 0 0 20px ghostwhite; }
+    .post-list .post-block h2 {
+      margin: 0;
+      color: ghostwhite;
+      text-shadow: 0 0 20px #193a5d; }
+    .post-list .post-block p {
+      margin: 0;
+      color: ghostwhite;
+      text-shadow: 0 0 20px #193a5d; }
 
 .world-map {
   max-width: 1200px;

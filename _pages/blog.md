@@ -7,11 +7,13 @@ permalink: "/blog/"
 
 <ul class="post-list">
     {% for post in site.posts %}
-    <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <p>{{ post.category }}</p>
-    <p>{{ post.date | date: "%-d %B %Y" }}</p>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-block" style="background-image: url(/assets/img/travel/{{ post.thumbnail }})">
+            <h2>{{ post.title }}</h2>
+            <p>{{ post.category }}</p>
+            <p>{{ post.date | date: "%-d %B %Y" }}</p>
+        </div>
+    </a>
     {% endfor %}
 </ul>
 
