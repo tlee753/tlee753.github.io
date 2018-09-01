@@ -1709,13 +1709,13 @@ header {
 
 .post-list {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 1000px;
   padding-left: 10px;
   padding-right: 10px; }
   .post-list .post-block {
     background-size: cover;
     background-position: center;
-    padding: 20px;
+    padding: 30px;
     margin: 10px 0; }
     .post-list .post-block:hover h2 {
       color: #193a5d;
