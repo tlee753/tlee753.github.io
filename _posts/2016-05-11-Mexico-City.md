@@ -3,6 +3,7 @@ layout: post
 title: Mexico City
 date: 2016-05-11 12:00:00
 category: Mexico
+thumbnail: Mexico/Mexico%20City/Mexico-City-1.JPG
 ---
 
 

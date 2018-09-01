@@ -3,6 +3,7 @@ layout: post
 title: Cinque Terre
 date: 2017-02-17 12:00
 category: Italy
+thumbnail: Italy/Cinque%20Terre/Cinque-Terre-1.JPG
 ---
 
 # Cinque Terre
