@@ -1726,7 +1726,8 @@ header {
     .post-list .post-block h2 {
       margin: 0;
       color: ghostwhite;
-      text-shadow: 0 0 20px #193a5d; }
+      text-shadow: 0 0 20px #193a5d;
+      opacity: 0.9; }
     .post-list .post-block p {
       margin: 0;
       color: ghostwhite;
