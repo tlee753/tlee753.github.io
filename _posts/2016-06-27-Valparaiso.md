@@ -3,7 +3,7 @@ layout: post
 title: Valparaiso
 date: 2016-06-27 16:00:00
 category: Chile
-thumbnail: Chile/Valparaiso/Valparaiso-1.JPG
+thumbnail: Chile/Valparaiso/slider.jpg
 ---
 
 

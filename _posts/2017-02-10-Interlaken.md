@@ -3,7 +3,7 @@ layout: post
 title: Interlaken
 date: 2017-02-11 12:00
 category: Switzerland
-thumbnail: Switzerland/Interlaken/Interlaken-22.JPG
+thumbnail: Switzerland/Interlaken/slider.jpg
 ---
 
 # Interlaken
