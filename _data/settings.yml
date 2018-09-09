@@ -141,6 +141,7 @@ interests:
 # jack johnson
 # formula one racing
 # world war 2
+# Dr. Suess
 
 # OTHER
 # - {name: Star Wars, folder: 'star-wars', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
@@ -152,11 +153,11 @@ interests:
 #-------------------------------
 # Slider Section
 slider:
-- {name: 'Interlaken, Switzerland', image: 'slider-interlaken', link: 'http://tlee753.com/switzerland/2017/02/11/Interlaken.html'}
-- {name: 'Bruges, Belgium', image: 'slider-bruges', link: 'http://tlee753.com/belgium/2017/01/28/Bruges.html'}
-- {name: 'Fussen, Germany', image: 'slider-fussen', link: 'http://tlee753.com/germany/2017/01/22/Fussen.html'}
-- {name: 'Santiago, Chile', image: 'slider-santiago', link: 'http://tlee753.com/chile/2016/06/21/Santiago.html'}
-- {name: 'Galapagos, Ecuador', image: 'slider-galapagos', link: 'http://tlee753.com/ecuador/2016/07/14/Galapagos.html'}
+- {name: 'Interlaken, Switzerland', image: 'slider-interlaken', link: '/switzerland/2017/02/11/Interlaken.html'}
+- {name: 'Bruges, Belgium', image: 'slider-bruges', link: '/belgium/2017/01/28/Bruges.html'}
+- {name: 'Fussen, Germany', image: 'slider-fussen', link: '/germany/2017/01/22/Fussen.html'}
+- {name: 'Santiago, Chile', image: 'slider-santiago', link: '/chile/2016/06/21/Santiago.html'}
+- {name: 'Galapagos, Ecuador', image: 'slider-galapagos', link: '/ecuador/2016/07/14/Galapagos.html'}
 
 # - {name: 'Cuenca, Ecuador', image: 'slider-cuenca', link: 'http://tlee753.com/ecuador/2016/06/30/Cuenca.html'}
 # - {name: 'Munich, Germany', image: 'slider-munich', link: 'http://tlee753.com/germany/2017/01/21/Munich.html'}
