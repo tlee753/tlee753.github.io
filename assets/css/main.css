@@ -1386,7 +1386,7 @@ header {
   width: 100%; }
   #profile #profile-background {
     position: fixed;
-    background-image: url(/assets/img/profile/profile.jpg);
+    background-image: url(/assets/img/travel/Switzerland/Geneva/Geneva-43.jpg);
     background-position: 30% center;
     background-size: cover;
     height: 100vh;
@@ -1719,7 +1719,8 @@ header {
     margin: 10px 0; }
     .post-list .post-block:hover h2 {
       color: #193a5d;
-      text-shadow: 0 0 20px ghostwhite; }
+      text-shadow: 0 0 20px ghostwhite;
+      opacity: 1; }
     .post-list .post-block:hover p {
       color: #193a5d;
       text-shadow: 0 0 20px ghostwhite; }
