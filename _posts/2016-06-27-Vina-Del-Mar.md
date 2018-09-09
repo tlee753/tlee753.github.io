@@ -3,7 +3,7 @@ layout: post
 title: Vina Del Mar
 date: 2016-06-27 8:00:00
 category: Chile
-thumbnail: Chile/Vina%20Del%20Mar/Vina-Del-Mar-1.JPG
+thumbnail: Chile/Vina%20Del%20Mar/slider.jpg
 ---
 
 

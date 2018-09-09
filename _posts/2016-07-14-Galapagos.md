@@ -3,7 +3,7 @@ layout: post
 title: Galapagos Islands
 date: 2016-07-14 12:00:00
 category: Ecuador
-thumbnail: Ecuador/Galapagos/Galapagos-7.JPG
+thumbnail: Ecuador/Galapagos/slider.jpg
 ---
 
 

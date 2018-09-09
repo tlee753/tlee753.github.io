@@ -3,7 +3,7 @@ layout: post
 title: Border Waters
 date: 2014-06-28 12:00:00
 category: Canada
-thumbnail: Canada/Border%20Waters/Border-Waters-29.JPG
+thumbnail: Canada/Border%20Waters/slider.jpg
 ---
 
 
