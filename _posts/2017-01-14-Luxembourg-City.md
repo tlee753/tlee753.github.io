@@ -3,7 +3,7 @@ layout: post
 title: Luxembourg City
 date: 2017-01-14 12:00:00
 category: Luxembourg
-thumbnail: Luxembourg/Luxembourg%20City/Luxembourg-City-4.JPG
+thumbnail: Luxembourg/Luxembourg%20City/slider.jpg
 ---
 
 # Luxembourg City
