@@ -82,3 +82,12 @@ have java installed...). Post feedback on Github, I'm working as I have time. ;)
 <br>
 
 ![Working Program](/assets/img/portfolio/chess-visualizer/frontend-1.4.jpg)
+
+<br>
+
+### Demo Video
+<video width="100%" controls>
+    <source src="/assets/img/portfolio/chess-visualizer/chess-visualizer-demo.mp4" type="video/mp4">
+    Your broswer does not support the video tag.
+</video>
+<br>
