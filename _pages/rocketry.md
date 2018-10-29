@@ -69,6 +69,12 @@ Onshape CAD Model
 ![Rocketry 9](/assets/img/portfolio/rocketry/rocketry-9.png)
 <br>
 
+### Launch Day
+![Rocketry 7](/assets/img/portfolio/rocketry/rocketry-7.jpg)
+<br>
+![Rocketry 8](/assets/img/portfolio/rocketry/rocketry-8.jpg)
+<br>
+
 ### Flight Pictures
 ![Rocketry 10](/assets/img/portfolio/rocketry/rocketry-10.png)
 <br>

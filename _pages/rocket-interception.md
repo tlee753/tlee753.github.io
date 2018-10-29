@@ -7,7 +7,7 @@ progress: 30
 ---
 
 
-With space fairing payloads being more commonplace then ever before, continuing to diminish the cost per launch is more crtical then ever. In order to prevent loss of valuable rocket components and increase reusability, I've decided to research the idea of intercepting parts before hitting the bottom of the ocean.
+With space fairing payloads being more commonplace then ever before, continuing to diminish the cost per launch is critical. In order to prevent loss of valuable rocket components and increase reusability, I've decided to research the idea of intercepting parts before hitting the bottom of the ocean.
 
 <br>
 
@@ -17,6 +17,13 @@ This is a fairly involved project as it requires the building of model rockets, 
 
 ### Rocket Core
 The rocket core is the brain of the rocket, specially designed to be as light as possible and separate from  the main rocket body upon charge detonation
+
+<br>
+
+### Rocket Modeling
+![Openrocket View](/assets/img/portfolio/rocket-interception/openrocket-1.png)
+<br>
+![Simulation](/assets/img/portfolio/rocket-interception/openrocket-2.png)
 
 <br>
 
@@ -34,3 +41,8 @@ Bottom Layer
 <br>
 Silk Screen
 ![Silk Screen](/assets/img/portfolio/rocket-interception/pcb-2.jpg)
+
+### Rapid Prototype
+
+To get a true understanding of my dimensioning, I (extremely) quickly fabricated a prototype,  
+![](/assets/img/portfolio/rocket-interception/prototype.jpg)
