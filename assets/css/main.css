@@ -2210,7 +2210,8 @@ header {
       bottom: 50%;
       transform: translate(-50%, 50%);
       padding: 10px;
-      transition: color, background-color 0.5s ease-in-out; }
+      transition: color, background-color 0.5s ease-in-out;
+      border-radius: 5px; }
       #portfolio .portfolio-unit .portfolio-overlay:hover {
         color: ghostwhite;
         background-color: #193a5d; }
@@ -2230,7 +2231,8 @@ header {
     background: rgba(255, 255, 255, 0.9);
     max-width: 1024px;
     margin: 0 auto;
-    padding: 10px 0px; }
+    padding: 10px 0px;
+    border-radius: 5px; }
     .portfolio-page .portfolio-content h3 {
       text-align: center;
       color: #193a5d;
