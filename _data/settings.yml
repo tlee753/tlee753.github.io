@@ -57,18 +57,15 @@ portfoliopage:
 - {name: Lifestyle Budget, folder: 'lifestyle-budget', next: '', previous: ''}
 - {name: Personal Finance Club, folder: 'finance-club', next: '', previous: ''}
 - {name: Web Automation Framework, folder: 'web-automation-framework', next: '', previous: ''}
+- {name: Rocket Interception, folder: 'rocket-interception', next: '', previous: ''}
 
 # - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
 # - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
 # - {name: Keys to Happiness, folder: 'keys-to-happiness', next: '', previous: ''}
 # - {name: Windows Server Technical Preview, folder: 'windows-server-technical-preview', next: '', previous: ''}
-# Drone Killer
-# History Timeline
-# Lifestyle Budget
+
 # Quadcopter build
 # cheap astro mount
-
-# status bar with each portfolio
 
 # NASA Orion space capsule (open source)
 
