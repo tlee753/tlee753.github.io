@@ -11,8 +11,8 @@ Due to the dangers posed to aircraft by the swarms of drones in the wild today, 
 
 <br>
 
-So far I've only developed the radio packet transmission aspect as demonstrated by RF "kill packet" transmission, but given more time a PCB with an embedded microcontroller, relay, serial connection, and RF module is in order.
+So far I've only developed the radio packet transmission aspect as demonstrated by the following RF "kill packet" transmission, but given more time a PCB with an embedded microcontroller, relay, serial connection, and RF module is in order.
 
 <br>
 
-![Packet](/assets/img/portfolio/drone-killer/background.jpg)
+![Packet](/assets/img/portfolio/drone-killer/packet.png)

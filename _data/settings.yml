@@ -58,6 +58,7 @@ portfoliopage:
 - {name: Personal Finance Club, folder: 'finance-club', next: '', previous: ''}
 - {name: Web Automation Framework, folder: 'web-automation-framework', next: '', previous: ''}
 - {name: Rocket Interception, folder: 'rocket-interception', next: '', previous: ''}
+- {name: Homelab, folder: 'homelab', next: '', previous: ''}
 
 # - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
 # - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
