@@ -28,11 +28,13 @@ I have a mildly strong obsession with efficieny and at some point my love for li
 - mail client: mailspring
 - irc: weechat
 
-<br>
+<a class="button" href="https://github.com/tlee753/configure">
+Dotfiles
+</a>
 
-[Dotfiles](https://github.com/tlee753/configure)
-<br>
-[Wallpapers](/wallpapers/)
+<a class="button" href="/wallpapers/">
+Wallpapers
+</a>
 
 <br>
 

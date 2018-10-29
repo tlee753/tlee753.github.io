@@ -1,0 +1,27 @@
+{
+    "Africa": {
+        "Ming": {
+            "Begin": 1970,
+            "End": 1989,
+            "Events": {
+                "Fall of Berlin Wall": {
+                    "Begin": "8/5/1989"
+
+                },
+                "Crown of Prince Harry": {
+                    "Begin": "8/5/1989",
+                    "End": "1/6/2938"
+                }
+            }
+        },
+        "Song": {
+            "Begin": 2014,
+            "End": "Current"
+        }
+    },
+    "Europe": "",
+    "Asia": "",
+    "North America": {
+        "Civil War": ""
+    }
+}

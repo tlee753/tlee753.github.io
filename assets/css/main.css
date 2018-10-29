@@ -493,13 +493,12 @@ progress[value]::-webkit-progress-value {
   line-height: 30px;
   color: ghostwhite;
   height: 30px;
-  width: 160px;
-  padding: 5px;
+  padding: 5px 10px;
   background-color: #193a5d;
   text-decoration: none;
   border: 0px solid transparent;
   border-radius: 15px;
-  margin: auto; }
+  margin: 5px; }
   .button:hover {
     color: ghostwhite;
     background-color: #193a5d;

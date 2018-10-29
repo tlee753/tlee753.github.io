@@ -14,7 +14,9 @@ I did the development in python (v3.5) for cross platform functionality combined
 
 <br>
 
-[Github](https://github.com/tlee753/image-manipulation)
+<a class="button" href="https://github.com/tlee753/image-manipulation">
+Github
+</a>
 
 <br>
 ![Linux](/assets/img/portfolio/image-manipulation/Linux.jpg)

@@ -59,7 +59,9 @@ and the resulting fen will be sent to the backend for deciphering and illustrati
 
 <br>
 
-[Chess Visualizer Github](https://github.com/tlee753/chess-visualizer)
+<a class="button" href="https://github.com/tlee753/chess-visualizer">
+Chess Visualizer Github
+</a>
 
 <br>
 
@@ -77,7 +79,9 @@ have java installed...). Post feedback on Github, I'm working as I have time. ;)
 
 <br>
 
-[Full Program Beta Build](https://github.com/tlee753/chess-visualizer/releases/download/v1.5/Chess-1.5-1.8.jar)
+<a class="button" href="https://github.com/tlee753/chess-visualizer/releases/download/v1.5/Chess-1.5-1.8.jar">
+Full Program Beta Build
+</a>
 
 <br>
 
