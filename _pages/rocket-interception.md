@@ -17,3 +17,20 @@ This is a fairly involved project as it requires the building of model rockets, 
 
 ### Rocket Core
 The rocket core is the brain of the rocket, specially designed to be as light as possible and separate from  the main rocket body upon charge detonation
+
+<br>
+
+### Schematic
+![Schematic](/assets/img/portfolio/rocket-interception/schematic.jpg)
+
+<br>
+
+### PCB Design
+Top Layer
+![Top Layer](/assets/img/portfolio/rocket-interception/pcb-0.jpg)
+<br>
+Bottom Layer
+![Bottom Layer](/assets/img/portfolio/rocket-interception/pcb-1.jpg)
+<br>
+Silk Screen
+![Silk Screen](/assets/img/portfolio/rocket-interception/pcb-2.jpg)
