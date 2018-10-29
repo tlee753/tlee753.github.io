@@ -20,7 +20,9 @@ a tutorial on operating the PLC for future generations.
 
 <br>
 
-[Project Brief](/assets/docs/Can-Crusher-Report.pdf)
+<a class="button" href="/assets/docs/Can-Crusher-Report.pdf">
+Project Brief
+</a>
 
 <br>
 ![Can Crusher 1](/assets/img/portfolio/automated-can-crusher/can-crusher-1.png)

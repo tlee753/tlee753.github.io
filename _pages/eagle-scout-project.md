@@ -67,7 +67,9 @@ Scout coach, the selfless volunteers, and above all my father for the lessons ta
 
 <br>
 
-[Eagle Scout Project Appendicies](/assets/docs/Eagle-Appendicies.pdf)
+<a class="button" href="/assets/docs/Eagle-Appendicies.pdf">
+Eagle Scout Project Appendicies
+</a>
 
 <br>
 ![Eagle 1](/assets/img/portfolio/eagle-scout-project/eagle-1.png)

@@ -11,4 +11,6 @@ Just a simple to use, extremely portable, cross-platform, command line operable,
 
 <br>
 
-[Github](https://github.com/tlee753/web-automation-framework)
+<a class="button" href="https://github.com/tlee753/web-automation-framework">
+Github
+</a>

@@ -15,4 +15,6 @@ The idea behind this project is to create a modular, text message based informat
 - health data
 - checking email
 
-[Github](https://github.com/tlee753/text-server)
+<a class="button" href="https://github.com/tlee753/text-server">
+Github
+</a>

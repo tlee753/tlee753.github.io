@@ -13,7 +13,9 @@ involving a camera and robotic arm on a Husky robot.
 
 <br>
 
-[Research Findings](/assets/docs/ROS-Report.pdf)
+<a class="button" href="/assets/docs/ROS-Report.pdf">
+Research Findings
+</a>
 
 <br>
 

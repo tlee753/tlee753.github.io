@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css?family=Nunito:700");
+body {
+  background-color: black;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  color: white;
+  margin: 0; }
+
+.title-container {
+  text-align: center;
+  border-radius: 10px;
+  margin: 5px; }
+  .title-container h1 {
+    margin: 0;
+    padding: 5px;
+    color: ghostwhite; }
+  .title-container p {
+    margin: 0;
+    padding: 5px;
+    color: ghostwhite;
+    font-family: "Nunito";
+    font-weight: 400; }
+
+.region-container {
+  overflow: hidden; }
+  .region-container .region-box {
+    float: left;
+    color: black;
+    display: flex;
+    width: 12.5%;
+    height: 100vh; }
+    .region-container .region-box .region {
+      border-radius: 5px;
+      background-color: teal;
+      margin: 5px;
+      width: 100%; }
+      .region-container .region-box .region h3 {
+        margin: 0;
+        padding: 5px;
+        text-align: center;
+        background-color: ghostwhite;
+        border-radius: 5px;
+        opacity: 0.9; }
+      .region-container .region-box .region .dynasty {
+        background-color: ghostwhite;
+        border-radius: 5px;
+        padding: 5px;
+        margin: 5px;
+        opacity: 0.9;
+        font-family: "Nunito";
+        font-weight: 400; }
+
+#africa {
+  background-color: red; }
+
+#asia {
+  background-color: orange; }
+
+#europe {
+  background-color: yellow; }
+
+#middle-east {
+  background-color: lightgreen; }
+
+#southeastern-asia {
+  background-color: green; }
+
+#north-america {
+  background-color: lightblue; }
+
+#south-america {
+  background-color: blue; }
+
+#oceania {
+  background-color: purple; }
+
+/*# sourceMappingURL=main.css.map */

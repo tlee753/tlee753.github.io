@@ -10,8 +10,10 @@ Personal Finance Club to teach the fundamentals of money management for college 
 
 <br>
 
-[Site In Progress](/pfc/)
+<a class="button" href="/pfc/">
+Site in Progress
+</a>
 
-<br><br>
+<br>
 
 ![Home Page](/assets/img/portfolio/finance-club/background.jpg)
