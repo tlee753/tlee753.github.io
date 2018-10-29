@@ -36,3 +36,25 @@ progress[value]::-webkit-progress-bar
 progress[value]::-webkit-progress-value
   background-image: -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, .1) 33%, rgba(0,0, 0, .1) 66%, transparent 66%), -webkit-linear-gradient(top, rgba(255, 255, 255, .25), rgba(0, 0, 0, .25)), -webkit-linear-gradient(left, $theme-primary, $theme-secondary)
   background-size: 35px 20px, 100% 100%, 100% 100%
+
+.button
+  text-align: center
+  display: inline-block
+  opacity: 0.9
+  font-size: 14px
+  line-height: 30px
+  color: $theme-tertiary
+  height: 30px
+  width: 160px
+  padding: 5px
+  background-color: $theme-primary
+  text-decoration: none
+  border: 0px solid transparent
+  border-radius: 15px
+  margin: auto
+
+  &:hover
+    color: $theme-tertiary
+    background-color: $theme-primary
+    box-shadow: 0 0 20px $theme-primary
+    text-shadow: 0 0 20px $theme-primary

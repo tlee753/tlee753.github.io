@@ -485,6 +485,27 @@ progress[value]::-webkit-progress-value {
   background-image: -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, 0.1) 33%, rgba(0, 0, 0, 0.1) 66%, transparent 66%), -webkit-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.25)), -webkit-linear-gradient(left, #193a5d, #b1b1b1);
   background-size: 35px 20px, 100% 100%, 100% 100%; }
 
+.button {
+  text-align: center;
+  display: inline-block;
+  opacity: 0.9;
+  font-size: 14px;
+  line-height: 30px;
+  color: ghostwhite;
+  height: 30px;
+  width: 160px;
+  padding: 5px;
+  background-color: #193a5d;
+  text-decoration: none;
+  border: 0px solid transparent;
+  border-radius: 15px;
+  margin: auto; }
+  .button:hover {
+    color: ghostwhite;
+    background-color: #193a5d;
+    box-shadow: 0 0 20px #193a5d;
+    text-shadow: 0 0 20px #193a5d; }
+
 a {
   color: #0074D9;
   text-decoration: none;
