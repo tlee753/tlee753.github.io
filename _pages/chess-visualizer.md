@@ -7,6 +7,12 @@ progress: 90
 ---
 
 
+<a class="button" href="https://github.com/tlee753/chess-visualizer/releases/download/v1.6/Chess-1.6-1.8.jar">
+Full Program Beta Build
+</a>
+
+<br>
+
 I have been fairly interested in studying alternative methods for deciphering 
 the complexities of chess, and one of my more interesting ideas was to develop 
 a visual assistant to portray the engagement of each individual piece. I have 
@@ -79,7 +85,7 @@ have java installed...). Post feedback on Github, I'm working as I have time. ;)
 
 <br>
 
-<a class="button" href="https://github.com/tlee753/chess-visualizer/releases/download/v1.5/Chess-1.5-1.8.jar">
+<a class="button" href="https://github.com/tlee753/chess-visualizer/releases/download/v1.6/Chess-1.6-1.8.jar">
 Full Program Beta Build
 </a>
 
