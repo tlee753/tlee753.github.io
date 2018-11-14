@@ -3,7 +3,7 @@ layout: portfolio
 title: Text Server
 date: 2017-09-06 8:00:00
 permalink: "/text-server/"
-progress: 40
+progress: 60
 ---
 
 
@@ -14,6 +14,8 @@ The idea behind this project is to create a modular, text message based informat
 - sports scores
 - health data
 - checking email
+
+![Demo](/assets/img/portfolio/text-server/demo.png)
 
 <a class="button" href="https://github.com/tlee753/text-server">
 Github
