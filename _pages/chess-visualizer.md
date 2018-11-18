@@ -3,11 +3,11 @@ layout: portfolio
 title: Chess Visualizer
 date: 2017-09-06 8:00:00
 permalink: "/chess-visualizer/"
-progress: 90
+progress: 100
 ---
 
 
-<a class="button" href="https://github.com/tlee753/chess-visualizer/releases/download/v1.6/Chess-1.6-1.8.jar">
+<a class="button" href="https://github.com/tlee753/chess-visualizer/raw/master/release/Chess-latest-1.8.jar">
 Full Program Beta Build
 </a>
 
@@ -85,7 +85,7 @@ have java installed...). Post feedback on Github, I'm working as I have time. ;)
 
 <br>
 
-<a class="button" href="https://github.com/tlee753/chess-visualizer/releases/download/v1.6/Chess-1.6-1.8.jar">
+<a class="button" href="https://github.com/tlee753/chess-visualizer/raw/master/release/Chess-latest-1.8.jar">
 Full Program Beta Build
 </a>
 
