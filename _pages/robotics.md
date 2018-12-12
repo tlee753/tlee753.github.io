@@ -8,7 +8,7 @@ progress: 100
 
 ### ECE 4180 Final Project
 
-The goal of this project was to create
+The goal of this project was to create a single board robot capable of interfacing with four motors including encoder feedback.
 
 <br>
 
@@ -38,6 +38,7 @@ The goal of this project was to create
 <br>
 
 ### Demo
-<video width="100%" controls="controls" src="/assets/img/portfolio/robotics/video.mov">
+<video width="100%" controls="controls">
+    <source src="/assets/img/portfolio/robotics/video.mov">
     Your broswer does not support the video tag.
 </video>
