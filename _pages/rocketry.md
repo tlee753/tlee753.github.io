@@ -70,8 +70,8 @@ Onshape CAD Model
 <br>
 
 ### Launch Day
-![Rocketry 7](/assets/img/portfolio/rocketry/rocketry-7.jpg)
-<br>
+<!-- ![Rocketry 7](/assets/img/portfolio/rocketry/rocketry-7.jpg)
+<br> -->
 ![Rocketry 8](/assets/img/portfolio/rocketry/rocketry-8.jpg)
 <br>
 
