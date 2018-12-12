@@ -91,7 +91,7 @@ Full Program Beta Build
 
 <br>
 
-![Working Program](/assets/img/portfolio/chess-visualizer/frontend-1.4.jpg)
+![Working Program](/assets/img/portfolio/chess-visualizer/frontend-1.9.png)
 
 <br>
 
