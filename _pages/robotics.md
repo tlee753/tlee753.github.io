@@ -43,7 +43,7 @@ The software to control the robot is written using Electron which is a javascrip
 <br>
 
 ### Demo
-<video width="100%" controls="controls">
+<video width="100%" controls>
     <source src="/assets/img/portfolio/robotics/video.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
