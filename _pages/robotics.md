@@ -8,7 +8,9 @@ progress: 100
 
 ### ECE 4180 Final Project
 
-The goal of this project was to create a single board robot capable of interfacing with four motors including encoder feedback.
+The goal of this project was to create a single board robot capable of interfacing with four motors including encoder feedback. A single board allows for a clean setup, reducing probability of errors during competition. The issue is the neccesity for a high level linux machine to make decision needing to be paried with a low level real time controller, in our case, the Beagle Bone Blue Programmable Real Time Units.
+
+This project is interfaced with a software gui over the internet or via adhoc wifi.
 
 <br>
 
