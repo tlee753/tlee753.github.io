@@ -6,8 +6,11 @@ permalink: "/robotics/"
 progress: 100
 ---
 
-ECE 4180 Project
+### ECE 4180 Final Project
 
+The goal of this project was to create
+
+<br>
 
 ![robotics-1](/assets/img/portfolio/robotics/robotics-1.jpg)
 
@@ -31,3 +34,10 @@ ECE 4180 Project
 
 ### Software
 ![robotics-10](/assets/img/portfolio/robotics/robotics-10.png)
+
+<br>
+
+### Demo
+<video width="100%" controls="controls" src="/assets/img/portfolio/robotics/video.mov">
+    Your broswer does not support the video tag.
+</video>
