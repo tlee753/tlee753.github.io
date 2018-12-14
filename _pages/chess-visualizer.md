@@ -11,6 +11,8 @@ progress: 100
 Full Program Beta Build
 </a>
 
+<br>
+
 ![Dark Mode](/assets/img/portfolio/chess-visualizer/frontend-2.0.png)
 
 <br>

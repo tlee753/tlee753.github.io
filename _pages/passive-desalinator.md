@@ -8,7 +8,7 @@ progress: 50
 
 
 <style>
-img {max-height: 400px;}
+    img { max-height: 400px; }
 </style>
 
 Just an idea I had while pondering the biggest problems of the world today.
