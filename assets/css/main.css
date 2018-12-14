@@ -1408,7 +1408,7 @@ header {
   #profile #profile-background {
     position: fixed;
     background-image: url(/assets/img/travel/Switzerland/Geneva/Geneva-43.JPG);
-    background-position: 30% center;
+    background-position: 70% center;
     background-size: cover;
     height: 100vh;
     width: 100%; }
@@ -2230,7 +2230,7 @@ header {
   margin: 0; }
   .portfolio-page .portfolio-content {
     position: relative;
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(255, 255, 255, 0.9);
     max-width: 1024px;
     margin: 0 auto;
     padding: 10px 0px;
