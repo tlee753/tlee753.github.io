@@ -2222,6 +2222,7 @@ header {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2229,7 +2230,7 @@ header {
   margin: 0; }
   .portfolio-page .portfolio-content {
     position: relative;
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.95);
     max-width: 1024px;
     margin: 0 auto;
     padding: 10px 0px;

@@ -11,8 +11,11 @@ progress: 100
 Full Program Beta Build
 </a>
 
+![Dark Mode](/assets/img/portfolio/chess-visualizer/frontend-2.0.png)
+
 <br>
 
+### Ideation
 I have been fairly interested in studying alternative methods for deciphering 
 the complexities of chess, and one of my more interesting ideas was to develop 
 a visual assistant to portray the engagement of each individual piece. I have 
@@ -56,7 +59,6 @@ the heat map indicates how desolate and useless it is in its current position.
 <br>
 
 ### Program Backend
-
 I have written the backend code for such a program in Java, which is currently 
 in terminal visualization mode. The script accepts a Forsyth-Edwards Notation 
 (FEN) string which is then mapped and square values are calculated. For the 
@@ -76,7 +78,6 @@ Chess Visualizer Github
 <br>
 
 ### Program Frontend
-
 It is here!!! After quite a bit of planning the entire program is ready for the
 world. It is currently in its beta stage, although all known bugs have been 
 squashed for the time being. If you are careful to follow the integrated 
