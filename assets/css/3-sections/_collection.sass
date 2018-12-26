@@ -2,19 +2,27 @@
   background: $theme-secondary
 
   .collection-container
-    margin: 0 auto
-    padding: 30px
-    opacity: 0.9
-    +clearfix
+    opacity: 0.8
+    display: grid
+    grid-template-columns: 1fr 1fr 1fr 1fr
+    grid-gap: 20px
+    padding: 20px
+    align-content: space-around
 
     @media screen and (max-width: 800px)
       padding: 10px
+      grid-gap: 10px
+      grid-template-columns: 1fr 1fr
+
+    @media screen and (max-width: 390px)
+      grid-template-columns: 1fr
 
     .collection-unit
       display: block
       position: relative
-      width: 25%
-      padding-top: 15%
+      height: 25vh
+      border-radius: 5px
+      // padding-top: 15%
       float: left
       background:
         position: center center
@@ -23,12 +31,12 @@
       overflow: hidden
 
       @media screen and (max-width: 780px)
-        width: 50%
-        padding-top: 25%
+        // width: 50%
+        // padding-top: 25%
 
       @media screen and (max-width: 390px)
-        width: 100%
-        padding-top: 50%
+        // width: 100%
+        // padding-top: 50%
 
       .collection-overlay
         +position(absolute, 100% 0px null 0px)
