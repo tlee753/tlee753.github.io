@@ -1,24 +1,21 @@
 #contact-page
   height: 100vh
   overflow: hidden
-
-  #contact-image
-    display: block
-    float: left
-    width: 50%
-    height: 100vh
-    background:
-      image: url(/assets/img/contact/contact.jpg)
-      size: cover
-      position: 30% center
+  height: 100vh
+  background:
+    image: url(/assets/img/contact/contact.jpg)
+    size: cover
+    position: 30% center
 
   #contact-lockup
     display: block
-    float: left
+    float: right
     height: 100vh
     width: 50%
     padding-top: 50px
     padding-bottom: 0px
+    background: $theme-tertiary
+    opacity: 0.8
 
     .contact-item
       position: relative
@@ -80,20 +77,14 @@
 @media screen and (max-width: 1220px)
   #contact-page
 
-    #contact-image
-      width: 30%
-
     #contact-lockup
       width: 70%
 
 @media screen and (max-width: 800px)
   #contact-page
 
-    #contact-image
-      width: 50%
-
     #contact-lockup
-      width: 50%
+      width: 100%
 
       .contact-item
         width: 50%
@@ -109,11 +100,8 @@
 @media screen and (max-width: 480px)
   #contact-page
 
-    #contact-image
-      width: 50%
-
     #contact-lockup
-      width: 50%
+      width: 100%
 
       .contact-item
         width: 50%
@@ -127,31 +115,6 @@
 
             svg
               +size(75px)
-
-        .contact-content
-          display: none
-
-@media screen and (max-width: 360px)
-  #contact-page
-
-    #contact-image
-      width: 50%
-
-    #contact-lockup
-      width: 50%
-
-      .contact-item
-        width: 50%
-        height: calc(100vh / 4 - 50px / 4)
-        float: left
-
-        .contact-socialicon
-          width: 100%
-
-          a
-
-            svg
-              +size(50px)
 
         .contact-content
           display: none

@@ -1418,7 +1418,7 @@ header {
     font-size: 20px;
     font-weight: 400;
     background-color: #193a5d;
-    opacity: 0.95; }
+    opacity: 0.9; }
 
 #profile {
   height: 800px;
@@ -1785,22 +1785,20 @@ header {
 
 #contact-page {
   height: 100vh;
-  overflow: hidden; }
-  #contact-page #contact-image {
-    display: block;
-    float: left;
-    width: 50%;
-    height: 100vh;
-    background-image: url(/assets/img/contact/contact.jpg);
-    background-size: cover;
-    background-position: 30% center; }
+  overflow: hidden;
+  height: 100vh;
+  background-image: url(/assets/img/contact/contact.jpg);
+  background-size: cover;
+  background-position: 30% center; }
   #contact-page #contact-lockup {
     display: block;
-    float: left;
+    float: right;
     height: 100vh;
     width: 50%;
     padding-top: 50px;
-    padding-bottom: 0px; }
+    padding-bottom: 0px;
+    background: ghostwhite;
+    opacity: 0.8; }
     #contact-page #contact-lockup .contact-item {
       position: relative;
       display: block;
@@ -1849,15 +1847,11 @@ header {
 
 /* width media queries */
 @media screen and (max-width: 1220px) {
-  #contact-page #contact-image {
-    width: 30%; }
   #contact-page #contact-lockup {
     width: 70%; } }
 @media screen and (max-width: 800px) {
-  #contact-page #contact-image {
-    width: 50%; }
   #contact-page #contact-lockup {
-    width: 50%; }
+    width: 100%; }
     #contact-page #contact-lockup .contact-item {
       width: 50%;
       height: calc(100vh / 4 - 50px / 4);
@@ -1867,10 +1861,8 @@ header {
       #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 @media screen and (max-width: 480px) {
-  #contact-page #contact-image {
-    width: 50%; }
   #contact-page #contact-lockup {
-    width: 50%; }
+    width: 100%; }
     #contact-page #contact-lockup .contact-item {
       width: 50%;
       height: calc(100vh / 4 - 50px / 4);
@@ -1880,22 +1872,6 @@ header {
         #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
           height: 75px;
           width: 75px; }
-      #contact-page #contact-lockup .contact-item .contact-content {
-        display: none; } }
-@media screen and (max-width: 360px) {
-  #contact-page #contact-image {
-    width: 50%; }
-  #contact-page #contact-lockup {
-    width: 50%; }
-    #contact-page #contact-lockup .contact-item {
-      width: 50%;
-      height: calc(100vh / 4 - 50px / 4);
-      float: left; }
-      #contact-page #contact-lockup .contact-item .contact-socialicon {
-        width: 100%; }
-        #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
-          height: 50px;
-          width: 50px; }
       #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
 /* height media queries */
@@ -2301,13 +2277,13 @@ header {
     margin: 0; }
 
 .presentation-contents {
-  padding: 10px; }
+  padding: 0 10px; }
   .presentation-contents #presentation-table table {
     width: 100%;
     text-align: center;
     margin: 0 auto;
     border-collapse: separate;
-    border-spacing: 0px 10px; }
+    border-spacing: 0 10px; }
     .presentation-contents #presentation-table table tr th {
       padding: 10px;
       font-size: 24px;
