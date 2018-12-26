@@ -4,11 +4,16 @@
 
         {% for interest in site.data.settings.interests %}
 
-        <a href="{{ interest.link }}" class="collection-unit" style="background-image: url(/assets/img/collection/{{ interest.folder }}/display.jpg);">
-            <div class="collection-overlay">
-                <strong> {{ interest.name }} </strong>
-            </div>
-        </a>
+            {% if interest.name != '' %}
+                <a href="{{ interest.link }}" class="collection-unit" style="background-image: url(/assets/img/collection/{{ interest.folder }}/display.jpg);">
+                    <div class="collection-overlay">
+                        <strong> {{ interest.name }} </strong>
+                    </div>
+                </a>
+            {% else %}
+                <span class="blank-space">
+                </span>
+            {% endif %}
 
         {% endfor %}
 
