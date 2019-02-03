@@ -1238,7 +1238,8 @@ header {
     margin: 0 0 10px; }
   header .button-box {
     text-align: center;
-    padding: 0 20px; }
+    padding: 0 20px;
+    display: none; }
     header .button-box a {
       text-align: center; }
       header .button-box a .button {
@@ -1414,11 +1415,11 @@ header {
     color: ghostwhite;
     max-width: 620px;
     margin: 0px auto;
-    padding: 10px;
+    padding: 10px 20px;
     font-size: 20px;
     font-weight: 400;
-    background-color: #193a5d;
-    opacity: 0.9; }
+    background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #193a5d 5%, #193a5d, #193a5d 95%, rgba(0, 0, 0, 0) 100%);
+    opacity: 0.95; }
 
 #profile {
   height: 800px;
