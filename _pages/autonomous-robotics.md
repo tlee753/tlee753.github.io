@@ -44,8 +44,8 @@ The structure of this robot is based around the Southeastcon 2019 design paraete
 ![robotics-2](/assets/img/portfolio/robotics/robotics-2.png)
 ![robotics-3](/assets/img/portfolio/robotics/robotics-3.png)
 ![robotics-4](/assets/img/portfolio/robotics/robotics-4.jpg)
-![robotics-5](/assets/img/portfolio/robotics/robotics-5.jpg)
 ![robotics-6](/assets/img/portfolio/robotics/robotics-6.jpg)
+![robotics-5](/assets/img/portfolio/robotics/robotics-5.jpg)
 
 <br>
 
