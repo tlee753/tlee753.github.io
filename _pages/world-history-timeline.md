@@ -2,8 +2,8 @@
 layout: portfolio
 title: History Timeline
 date: 2017-09-06 8:00:00
-permalink: "/history-timeline/"
-progress: 10
+permalink: "/world-history-timeline/"
+progress: 70
 ---
 
 
@@ -11,10 +11,16 @@ This is just a working model of an idea for a easy-to-use timeline of all of his
 
 <br>
 
-<a class="button" href="/workspace/history-timeline/index.html">
+<a class="button" href="http://tlee753.com/history-timeline/index.html">
 Web Mockup
 </a>
 
 <br>
 
-![Mockup](/assets/img/portfolio/history-timeline/background.jpg)
+### Initial Prototyping
+![Mockup](/assets/img/portfolio/world-history-timeline/initial-proto.jpg)
+
+<br>
+
+### JSON Generated Version 2
+![JSON Generated](/assets/img/portfolio/world-history-timeline/background.jpg)
