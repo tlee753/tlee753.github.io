@@ -1,11 +1,20 @@
 function getStockData(ticker) {
     var url = "https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=" + ticker + "&apikey=FEOJOHR7D6JZW8HL";
+    // console.log(url);
     var date = new Date();
-    var dateText = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate();
+    var month = date.getMonth() + 1;
+    var day = date.getDate();
+    if (month < 10) { month = '0' + month; }
+    if (day < 10) { day = '0' + day; }
+    var dateText = date.getFullYear() + "-" + month + "-" + day;
+    console.log(dateText);
 
     $.getJSON(url, function(data) {
-        var text = "Open: " + data["Time Series (Daily)"][dateText]["1. open"];
-        $("#" + ticker).html(text);
+        console.log(data);
+        var price = data["Time Series (Daily)"][dateText]["1. open"];
+        // var text = "Open: " + data["Time Series (Daily)"][dateText]["1. open"];
+        console.log(price);
+        $("#" + ticker).html(ticker.toUpperCase() + ": " + price);
     });
 }
 
