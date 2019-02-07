@@ -27,3 +27,13 @@ a database on my server for future testing (an eventual algorithm building).
 This basic test queries the yahoo finance rest api using an encoded url. Each stock is individually requested
 via java script on the clientside, although I have my own rest api running on my server containing an up to
 date json of all the most important data for all the major stocks. Currently I am taking a look at the bloomberg api.
+
+<br>
+
+<h3>Version 1 (Yahoo Finance)</h3>
+![Version 1](/assets/img/portfolio/stock-dashboard/version-1.jpg)
+
+<br>
+
+<h3>Version 2 (IEX Trader)</h3>
+![Version 2](/assets/img/portfolio/stock-dashboard/version-2.jpg)
