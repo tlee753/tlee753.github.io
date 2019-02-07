@@ -44,7 +44,7 @@ portfoliopage:
 - {name: Rocketry, folder: 'rocketry', next: '', previous: ''}
 - {name: Chess Visualizer, folder: 'chess-visualizer', next: '', previous: ''}
 - {name: Image Manipulation, folder: 'image-manipulation', next: '', previous: ''}
-- {name: Stock Monitoring App, folder: 'stock-monitoring-app', next: '', previous: ''}
+- {name: Stock Dashboard, folder: 'stock-dashboard', next: '', previous: ''}
 - {name: Electrathon Vehicle, folder: 'electrathon-vehicle', next: '', previous: ''}
 - {name: Interactive Robotics, folder: 'interactive-robotics', next: '', previous: ''}
 - {name: Passive Desalinator, folder: 'passive-desalinator', next: '', previous: ''}
