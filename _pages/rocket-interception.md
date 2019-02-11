@@ -32,13 +32,13 @@ The rocket core is the brain of the rocket, specially designed to be as light as
 
 ### PCB Design
 Top Layer
-![Top Layer](/assets/img/portfolio/rocket-interception/pcb-0.jpg)
+![Top Layer](/assets/img/portfolio/rocket-interception/pcb-0.png)
 <br>
 Bottom Layer
-![Bottom Layer](/assets/img/portfolio/rocket-interception/pcb-1.jpg)
+![Bottom Layer](/assets/img/portfolio/rocket-interception/pcb-1.png)
 <br>
 Silk Screen
-![Silk Screen](/assets/img/portfolio/rocket-interception/pcb-2.jpg)
+![Silk Screen](/assets/img/portfolio/rocket-interception/pcb-2.png)
 <br>
 
 ### Rapid Prototype
@@ -52,7 +52,7 @@ Radio transmission testing using software defined radio (SDR) to ensure packets 
 ![Radio 1](/assets/img/portfolio/rocket-interception/radio-1.jpg)
 <br>
 Transmit/Receive test between ground station and rocket core
-![Radio 2](/assets/img/portfolio/rocket-interception/radio-2.png)
+![Radio 2](/assets/img/portfolio/rocket-interception/radio-2.jpg)
 <br>
 
 
