@@ -3,7 +3,7 @@ layout: portfolio
 title: Lifestyle Budget
 date: 2017-09-06 8:00:00
 permalink: "/lifestyle-budget/"
-progress: 10
+progress: 20
 ---
 
 
@@ -20,6 +20,12 @@ The whole thing runs entirely locally so if you wanted to enter real income leve
 <br>
 
 The following is my mental mockup of how it would functionally (for someone like me, highly adjustable). This is the monthly view, but a yearly and possibly weekly view will also be available.
+
+<br>
+
+<a class="button" href="https://github.com/tlee753/lifestyle-budget">
+Github
+</a>
 
 <br>
 
