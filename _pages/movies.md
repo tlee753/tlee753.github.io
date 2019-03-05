@@ -32,3 +32,6 @@ permalink: "/movies/"
 </div>
 
 {% endfor %}
+
+<br>
+<p style="text-align: center">Content is derived from IMDB database, all copyrights reserved.</p>

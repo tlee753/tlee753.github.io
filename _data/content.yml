@@ -414,7 +414,7 @@ books:
 #-------------------------------
 # Movie Section
 
-# senna, stand by me, blade runner, blade runner 2049
+#  
 
 movies:
 - { title: 'La Vita e Bella', image: 'lavitaebella', year: '1997',
@@ -429,10 +429,6 @@ movies:
     description: 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.',
     review: ''
 }
-- { title: 'The Usual Suspects', image: 'usualsuspects', year: '1995',
-    description: 'A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.',
-    review: ''
-}
 - { title: 'Star Wars: A New Hope', image: 'newhope', year: '1977',
     description: 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empires world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.',
     review: ''
@@ -445,6 +441,18 @@ movies:
     description: 'When a Roman general is betrayed and his family murdered by an emperors corrupt son, he comes to Rome as a gladiator to seek revenge.',
     review: ''
 }
+- { title: 'Its A Wonderful Life', image: 'wonderfullife', year: '1946',
+    description: 'An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.',
+    review: ''
+}
+- { title: 'The Usual Suspects', image: 'usualsuspects', year: '1995',
+    description: 'A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.',
+    review: ''
+}
+- { title: 'The Dark Knight', image: 'darkknight', year: '2008',
+    description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
+    review: ''
+}
 - { title: 'Rush', image: 'rush', year: '2013',
     description: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
     review: ''
@@ -452,10 +460,6 @@ movies:
 - { title: 'Sunshine', image: 'sunshine', year: '2007',
     description: 'A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.',
     review: 'Unbelievably underated, this sci-fi thriller gets more and more interesting as it goes on. The conflict and plot twists make this movie imortal for me.'
-}
-- { title: 'The Dark Knight', image: 'darkknight', year: '2008',
-    description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
-    review: ''
 }
 - { title: 'City of God', image: 'cityofgod', year: '2002',
     description: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.',
@@ -541,12 +545,12 @@ movies:
     description: 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.',
     review: ''
 }
-- { title: 'Oceans Eleven', image: 'oceanseleven', year: '2001',
-    description: 'Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.',
-    review: ''
-}
 - { title: 'Back to the Future', image: 'backtothefuture', year: '1985',
     description: 'A young man is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.',
+    review: ''
+}
+- { title: 'Oceans Eleven', image: 'oceanseleven', year: '2001',
+    description: 'Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.',
     review: ''
 }
 - { title: 'Die Hard', image: 'diehard', year: '1988',
@@ -556,6 +560,10 @@ movies:
 - { title: 'Aliens', image: 'aliens', year: '1986',
    description: '57 years later, Ellen Ripley is rescued by a deep salvage team during her hypersleep. The moon from the original movie has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?',
    review: ''
+}
+- { title: 'Blade Runner', image: 'bladerunner', year: '1982',
+    description: 'A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.',
+    review: ''
 }
 - { title: 'Iron Man', image: 'ironman', year: '2008',
     description: 'After being held captive in an Afghan cave, a billionaire engineer creates a unique weaponized suit of armor to fight evil.',
@@ -577,16 +585,20 @@ movies:
     description: 'Sherlock Holmes and his sidekick Dr. Watson join forces to outwit and bring down their fiercest adversary, Professor Moriarty.',
     review: ''
 }
-- { title: 'Inglourious Basterds', image: 'inglouriousbasterds', year: '2009',
-    description: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.',
-    review: ''
-}
 - { title: 'Ex Machina', image: 'exmachina', year: '2014',
    description: 'A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.',
    review: ''
 }
 - { title: 'Black Swan', image: 'blackswan', year: '2010',
     description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
+    review: ''
+}
+- { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
+    description: 'A weatherman finds himself living the same day over and over again.',
+    review: ''
+}
+- { title: 'Inglourious Basterds', image: 'inglouriousbasterds', year: '2009',
+    description: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.',
     review: ''
 }
 - { title: 'Mission: Impossible II', image: 'missionimpossible2', year: '2000',
@@ -611,10 +623,6 @@ movies:
 }
 - { title: 'The Book Thief', image: 'booktheif', year: '2013',
     description: 'While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.',
-    review: ''
-}
-- { title: 'Groundhog Day', image: 'groundhogday', year: '1993',
-    description: 'A weatherman finds himself living the same day over and over again.',
     review: ''
 }
 - { title: 'The Martian', image: 'martian', year: '2015',
@@ -669,12 +677,20 @@ movies:
     description: 'Henry Hill and his friends work their way up through the mob hierarchy.',
     review: ''
 }
+- { title: 'Boyhood', image: 'boyhood', year: '2014',
+    description: 'The life of Mason, from early childhood to his arrival at college.',
+    review: ''
+}
 - { title: 'October Sky', image: 'octobersky', year: '1999',
     description: 'The true story of Homer Hickam, a coal miners son who was inspired by the first Sputnik launch to take up rocketry against his fathers wishes.',
     review: ''
 }
-- { title: 'Boyhood', image: 'boyhood', year: '2014',
-    description: 'The life of Mason, from early childhood to his arrival at college.',
+- { title: 'The Great Raid', image: 'greatraid', year: '2005',
+    description: 'Taking place towards the end of WWII, 500 American Soldiers have been entrapped in a camp for 3 years. Beginning to give up hope they will ever be rescued, a group of Rangers goes on a dangerous mission to try and save them.',
+    review: ''
+}
+- { title: 'Deadpool', image: 'deadpool', year: '2016',
+    description: 'A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool.',
     review: ''
 }
 - { title: 'Fury', image: 'fury', year: '2014',
@@ -687,10 +703,6 @@ movies:
 }
 - { title: 'Silver Linings Playbook', image: 'silverlinings', year: '2012',
     description: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.',
-    review: ''
-}
-- { title: 'Deadpool', image: 'deadpool', year: '2016',
-    description: 'A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool.',
     review: ''
 }
 - { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
@@ -753,20 +765,8 @@ movies:
     description: 'King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.',
     review: ''
 }
-- { title: 'Curse of the Black Pearl', image: 'blackpearl', year: '2003',
-   description: 'Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governors daughter, from Jacks former pirate allies, who are now undead.',
-   review: ''
-}
-- { title: 'Star Wars: The Force Awakens', image: 'forceawakens', year: '2015',
-    description: 'Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.',
-    review: ''
-}
 - { title: 'Gattaca', image: 'gattaca', year: '1997',
     description: 'A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.',
-    review: ''
-}
-- { title: 'Star Wars: Revenge of the Sith', image: 'revengeofthesith', year: '2005',
-    description: 'During the near end of the clone wars, Darth Sidious has revealed himself and is ready to execute the last part of his plan to rule the Galaxy.',
     review: ''
 }
 - { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
@@ -785,8 +785,8 @@ movies:
     description: '123 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.',
     review: ''
 }
-- { title: 'Troy', image: 'troy', year: '2004',
-    description: 'An adaptation of Homer''s great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.',
+- { title: 'Blade Runner 2049', image: 'bladerunner2049', year: '2017',
+    description: 'A young blade runners discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who has been missing for thirty years.',
     review: ''
 }
 - { title: 'Slumdog Millionare', image: 'slumdogmillionare', year: '2008',
@@ -797,8 +797,8 @@ movies:
     description: 'A romance writer sets off to Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure.',
     review: ''
 }
-- { title: 'The Mask', image: 'mask', year: '1994',
-    description: 'Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.',
+- { title: 'Stand By Me', image: 'standbyme', year: '1986',
+    description: 'After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.',
     review: ''
 }
 - { title: 'Dirty Harry', image: 'dirtyharry', year: '1971',
@@ -809,8 +809,8 @@ movies:
     description: 'A coming-of-age story about a shy, young boy sent by his irresponsible mother to spend the summer with his wealthy, eccentric uncles in Texas.',
     review: ''
 }
-- { title: 'Edward Scissorhands', image: 'edwardscissorhands', year: '1990',
-    description: 'A gentle man, with scissors for hands, is brought into a new community after living in isolation.',
+- { title: 'Notting Hill', image: 'nottinghill', year: '1999',
+    description: 'The life of a simple bookshop owner changes when he meets the most famous film star in the world.',
     review: ''
 }
 - { title: 'Radio', image: 'radio', year: '2003',
@@ -850,9 +850,49 @@ movies:
 #     description: 'In 1962, the United States government enlists the help of Mutants with superhuman abilities to stop a malicious dictator who is determined to start World War III.',
 #     review: ''
 # }
+# - { title: 'Star Wars: The Force Awakens', image: 'forceawakens', year: '2015',
+#     description: 'Three decades after the defeat of the Galactic Empire, a new threat arises. The First Order attempts to rule the galaxy and only a ragtag group of heroes can stop them, along with the help of the Resistance.',
+#     review: ''
+# }
+# - { title: 'Curse of the Black Pearl', image: 'blackpearl', year: '2003',
+#    description: 'Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governors daughter, from Jacks former pirate allies, who are now undead.',
+#    review: ''
+# }
+# - { title: 'Star Wars: Revenge of the Sith', image: 'revengeofthesith', year: '2005',
+#     description: 'During the near end of the clone wars, Darth Sidious has revealed himself and is ready to execute the last part of his plan to rule the Galaxy.',
+#     review: ''
+# }
 
 
 #- { title: '', image: '', year: '',
 #    description: '',
 #    review: ''
 #}
+
+
+#-------------------------------
+# Ted Talks
+
+# senna, stand by me, blade runner, blade runner 2049
+
+talks:
+- { title: 'Start with Why', image: 'lavitaebella', year: '1997',
+    description: 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.',
+    review: 'Wonderful love story but an even more amazing sacrifice. This movie is by far the most beautiful I have ever seen, and shall remain above the rest forever.',
+}
+- { title: 'PPTs', image: 'lavitaebella', year: '1997',
+    description: 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.',
+    review: 'Wonderful love story but an even more amazing sacrifice. This movie is by far the most beautiful I have ever seen, and shall remain above the rest forever.',
+}
+- { title: 'Ted talk on nothing', image: 'lavitaebella', year: '1997',
+    description: 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.',
+    review: 'Wonderful love story but an even more amazing sacrifice. This movie is by far the most beautiful I have ever seen, and shall remain above the rest forever.',
+}
+- { title: 'Spam mail', image: 'lavitaebella', year: '1997',
+    description: 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.',
+    review: 'Wonderful love story but an even more amazing sacrifice. This movie is by far the most beautiful I have ever seen, and shall remain above the rest forever.',
+}
+- { title: 'Start with Why', image: 'lavitaebella', year: '1997',
+    description: 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.',
+    review: 'Wonderful love story but an even more amazing sacrifice. This movie is by far the most beautiful I have ever seen, and shall remain above the rest forever.',
+}
