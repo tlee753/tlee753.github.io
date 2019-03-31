@@ -6,11 +6,12 @@ One day I decided to develop a website from scratch and after many iterations, h
 It's honestly just a hobby/learning experience for me, but it has provided some wonderfully utility throughout the years.
 
 ### Layout
-I sectioned my site into four main pages
-1. About: just a little bit about me, kind of a random assortment of my likes and interests
-2. Portfolio: a few of the projects I'm most proud of
-3. Blog: a travel blog with pictures and maps of the places I've been to
-4. Contact: links to my accounts around the web and social media (fair warning I rarely use social media...)
+I sectioned my site into five main pages:
+1. Landing: good summary of the following four subpages, simple catch all with highlights
+2. About: just a little bit about me, kind of a random assortment of my likes and interests
+3. Portfolio: a few of the projects I'm most proud of
+4. Blog: a travel blog with pictures and maps of the places I've been to
+5. Contact: links to my accounts around the web and social media (fair warning I rarely use social media...)
 
 ### Devlopment Information
 For those interested, it is a static website that utilizes preprocessing to minimize development time.
@@ -20,4 +21,4 @@ For those interested, it is a static website that utilizes preprocessing to mini
 - Style Pre-processor: Sass
 - Analytics: Google Analytics
 - Javascript Utilities: JQuery, Reveal.js
-- Image Reducer: Image Optim (Mac)
+- Image Reducer: Image Optim (Mac), jpegoptim/optipng (Linux)

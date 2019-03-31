@@ -7,7 +7,26 @@ progress: 100
 ---
 
 
-I thoroughly enjoy building my own systems as I find I can better allocate funding towards fullfiling my needs (as well as being a fun hobby...). Here are two of the personal systems I've made in recent years.
+I thoroughly enjoy building my own systems as I find I can better allocate funding towards fullfiling my needs (as well as being a fun hobby...). Here are a few of the personal systems I've made in recent years.
+
+### Server
+- Operating System: Custom Arch
+- Processor: Dual Xeon
+
+<br><br>
+
+### Hackintosh
+- Operating System: Triple Boot Windows 10 Pro, Linux, Hackintosh + Virtual Machines
+- Processor: Intel 6600k (4 core, 3.6 GHz, 3.9 Turbo)
+- Graphics Card: XFX 480 8GB Black
+- Motherboard: Asus 
+- Memory: GSkill (2133 MHz)
+- Storage: Intel 180GB + Sandisk 240GB SSD's
+- Power Supply: 550 80+ Gold
+- Case: Thermaltake Silent
+
+Pictures coming eventually... ;)
+<br><br>
 
 ### Portable Build
 - Operating System: Triple Boot Windows 10 Pro, Linux, Hackintosh + Virtual Machines
@@ -15,11 +34,11 @@ I thoroughly enjoy building my own systems as I find I can better allocate fundi
 - Graphics Card: EVGA 1060
 - Motherboard: AsRock 
 - Memory: Corsair (3000 MHz)
-- Storage: Samsung 850 Evo
+- Storage: Samsung 850 Evo 500GB
 - Power Supply: Corsair SFW 450W
 - Case: Silverstone Milo HTPC
 
-Pictures coming soon... ;)
+Pictures coming eventually... ;)
 <br><br>
 
 ### Ascension Build
@@ -28,7 +47,7 @@ Pictures coming soon... ;)
 - Graphics Card: Asus Strix 970
 - Motherboard: Asus Hero VII
 - Memory: G.Skill Trident X (2400 MHz)
-- Storage: Sandisk Ultra Plus
+- Storage: Sandisk Ultra Plus 256GB
 - Power Supply: Evga Supernova G2 850W
 - Case: NZXT H440 Red/Black
 

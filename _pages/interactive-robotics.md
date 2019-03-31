@@ -22,3 +22,7 @@ Research Findings
 ![ROS Tutorial](/assets/img/portfolio/interactive-robotics/tutorial.png)
 <br>
 ![Gazebo](/assets/img/portfolio/interactive-robotics/gazebo.png)
+<br>
+![Robot](/assets/img/portfolio/interactive-robotics/robot.jpg)
+<br>
+![Terminal](/assets/img/portfolio/interactive-robotics/terminal.jpg)

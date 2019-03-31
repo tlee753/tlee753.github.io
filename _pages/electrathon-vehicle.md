@@ -28,4 +28,8 @@ Project Report
 
 ![3-D printed model](/assets/img/portfolio/electrathon-vehicle/electrathon-vehicle-1.jpg)
 <br>
-![Welding](/assets/img/portfolio/electrathon-vehicle/background.jpg)
+![Welding](/assets/img/portfolio/electrathon-vehicle/welding-1.jpg)
+<br>
+![Welding](/assets/img/portfolio/electrathon-vehicle/welding-2.jpg)
+<br>
+![Welding](/assets/img/portfolio/electrathon-vehicle/steel-frame.jpg)
