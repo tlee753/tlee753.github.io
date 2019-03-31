@@ -13,7 +13,7 @@ Full Program Beta Build
 
 <br>
 
-![Dark Mode](/assets/img/portfolio/chess-visualizer/frontend-2.0.png)
+![Dark Mode](/assets/img/portfolio/chess-visualizer/frontend-2.1.jpg)
 
 <br>
 
