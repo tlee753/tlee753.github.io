@@ -19,6 +19,10 @@ This is a little scientific experiment I've been meanign to pull off for awhile 
 
 <br>
 
+![Plane](/assets/img/portfolio/hab/plane.png)
+
+<br>
+
 ### Plane Crossing
 <video width="100%" controls>
     <source src="/assets/img/portfolio/hab/plane.mp4" type="video/mp4">

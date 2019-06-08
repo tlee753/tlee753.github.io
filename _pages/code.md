@@ -21,3 +21,9 @@ document.addEventListener('DOMContentLoaded', function() {
  });
 });
 ```
+
+### FFMPEG Command Line Trim Video
+```bash
+ffmpeg -ss 00:00:30 -i orginalfile -t 00:00:05 -vcodec copy -acodec copy newfile
+```
+
