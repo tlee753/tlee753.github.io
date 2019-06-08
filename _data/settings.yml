@@ -24,12 +24,12 @@ skills:
 # Portfolio Section
 portfolio:
 - {name: Rocketry, folder: 'rocketry'}
-- {name: Performance Computers, folder: 'performance-computers'}
-- {name: Eagle Scout Project, folder: 'eagle-scout-project'}
-- {name: Image Manipulation, folder: 'image-manipulation'}
-- {name: Electrathon Vehicle, folder: 'electrathon-vehicle'}
+- {name: High Altitude Ballooning, folder: 'hab'}
 - {name: Interactive Robotics, folder: 'interactive-robotics'}
 - {name: Chess Visualizer, folder: 'chess-visualizer'}
+- {name: Image Manipulation, folder: 'image-manipulation'}
+- {name: Eagle Scout Project, folder: 'eagle-scout-project'}
+- {name: Performance Computers, folder: 'performance-computers'}
 - {name: Passive Desalinator, folder: 'passive-desalinator'}
 
 # - {name: Stock Monitoring App, folder: 'stock-monitoring-app'}

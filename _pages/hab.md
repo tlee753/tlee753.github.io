@@ -7,7 +7,7 @@ progress: 90
 ---
 
 
-This is a little scientific experiment I've been meanign to pull off for awhile now.
+This is a little scientific experiment I've been meaning to pull off for awhile now. Overall it went well, an altitude near 80,000 feet was reached, my flight planning was dead accurate, and I recovered my payload with a little assistance but I did make my fair share of mistakes for a v1 :). I got a nice little visit from a plane before my cameras cut out...
 
 <br>
 
