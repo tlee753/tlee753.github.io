@@ -16,4 +16,7 @@ The answer is different for everyone but for me its a mixture of functionality a
 
 <br>
 
+
+![Structure Diagram](/assets/img/portfolio/homelab/server.png)
+
 ![Network Diagram](/assets/img/portfolio/homelab/network.jpg)
