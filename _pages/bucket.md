@@ -23,9 +23,10 @@ permalink: "/bucket/"
     - John Cleese
     - JK Rowling
     - Bill Watterson
+    - Kareem Abdul Jabar
 - [ ] Race down the Autobahn (sports car required)
 - [ ] Visit an active volcano (seeing lava required)
-- [ ] See the milky way galaxy (naked eye)
+- [x] See the milky way galaxy (naked eye)
 - [ ] Climb an exceptionally tall mountain (TBD...)
 - [ ] Scuba dive in the Great Barrier Reef
 - [ ] Monaco Gran Prix
@@ -51,10 +52,10 @@ permalink: "/bucket/"
 - [ ] HAM Radio Certification
 
 ### Travel
-- [ ] Visit every inhabited continent (3/6)
+- [ ] Visit every inhabited continent (5/6)
 - [ ] Visit all 50 states
 - [ ] Explore outer space
-- [ ] Jerusalem
+- [x] Jerusalem
 - [ ] Australia
 
 ### Skills
@@ -74,10 +75,10 @@ permalink: "/bucket/"
 
 ### Athletics
 - [x] Land a front flip (on land)
-- [x] Full backflip (water permitted)
+- [ ] Full backflip
 - [ ] Run a marathon
 - [ ] Finish an Iron Man
 - [x] Juggle a soccer ball (30 touches mixed min)
 - [x] Juggle
 - [x] Hold a handstand for 30 seconds
-- [ ] Do a one handed handstand (10 seconds?)
+- [x] Do a one handed handstand (10 seconds?)
