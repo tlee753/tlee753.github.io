@@ -4,8 +4,9 @@ header
     color: $theme-primary
     image: url(/assets/img/header/header.jpg)
     size: cover
-    position: center
+    position: 30% center
     repeat: no-repeat
+    // attachment: fixed
   -webkit-background-size: cover
   -moz-background-size: cover
   -o-background-size: cover
@@ -24,6 +25,16 @@ header
       size: 72px
       weight: 700
     opacity: 0.9
+    animation: reveal-banner 2.5s 0s ease-in-out
+    // animation-fill-mode: forwards
+    // animation-name: reveal-banner
+    // animation-duration: 1s
+    // animation-timing-function: ease-in-out
+    // animation-delay: 0.25s
+    // animation-iteration-count: 1
+    // animation-direction: normal
+    // animation-fill-mode: none
+    // animation-play-state: running
 
     span
       display: inline-block
@@ -38,8 +49,11 @@ header
     font:
       size: 24px
       weight: 700
-    opacity: 0.9
+    opacity: 0
     margin: 0 0 10px
+    animation: reveal-banner 2.5s 0.5s ease-in-out
+    animation-fill-mode: forwards
+    animation-play-state: running
 
   .button-box
     text-align: center
@@ -93,8 +107,8 @@ header
     h1
       padding-top: 100px
       font:
-        size: 36px
-      letter-spacing: 0.01em
+        size: 42px
+      // letter-spacing: 0.01em
 
       span
         border: $theme-tertiary solid 6px
@@ -128,7 +142,7 @@ header
     h1
       padding-top: 60px
       font:
-        size: 36px
+        size: 42px
 
       span
         border: $theme-tertiary solid 6px
@@ -137,3 +151,10 @@ header
     .kicker
       font:
         size: 14px
+
+
+@include keyframes('reveal-banner')
+  0%
+    opacity: 0
+  100%
+    opacity: 0.9

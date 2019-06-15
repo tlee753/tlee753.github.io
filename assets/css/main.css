@@ -1205,7 +1205,7 @@ header {
   background-color: #193a5d;
   background-image: url(/assets/img/header/header.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: 30% center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1222,7 +1222,8 @@ header {
     letter-spacing: 0.05em;
     font-size: 72px;
     font-weight: 700;
-    opacity: 0.9; }
+    opacity: 0.9;
+    animation: reveal-banner 2.5s 0s ease-in-out; }
     header h1 span {
       display: inline-block;
       padding: 0.2em 0.5em;
@@ -1234,8 +1235,11 @@ header {
     text-align: center;
     font-size: 24px;
     font-weight: 700;
-    opacity: 0.9;
-    margin: 0 0 10px; }
+    opacity: 0;
+    margin: 0 0 10px;
+    animation: reveal-banner 2.5s 0.5s ease-in-out;
+    animation-fill-mode: forwards;
+    animation-play-state: running; }
   header .button-box {
     text-align: center;
     padding: 0 20px;
@@ -1274,8 +1278,7 @@ header {
 @media screen and (max-width: 390px) {
   header h1 {
     padding-top: 100px;
-    font-size: 36px;
-    letter-spacing: 0.01em; }
+    font-size: 42px; }
     header h1 span {
       border: ghostwhite solid 6px;
       padding: 0.05em 0.125em; }
@@ -1293,12 +1296,27 @@ header {
 @media screen and (max-width: 670px) and (max-height: 375px) {
   header h1 {
     padding-top: 60px;
-    font-size: 36px; }
+    font-size: 42px; }
     header h1 span {
       border: ghostwhite solid 6px;
       padding: 0.05em 0.125em; }
   header .kicker {
     font-size: 14px; } }
+@-webkit-keyframes reveal-banner {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 0.9; } }
+@-moz-keyframes reveal-banner {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 0.9; } }
+@keyframes reveal-banner {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 0.9; } }
 #margin {
   position: relative;
   height: 50px;
@@ -1787,23 +1805,25 @@ header {
 #contact-page {
   height: 100vh;
   overflow: hidden;
-  height: 100vh;
   background-image: url(/assets/img/contact/contact.jpg);
   background-size: cover;
   background-position: 30% center; }
   #contact-page #contact-lockup {
     display: block;
     float: right;
-    height: 100vh;
+    height: calc(100vh - 90px);
     width: 50%;
-    padding-top: 50px;
-    padding-bottom: 0px;
-    background: ghostwhite;
-    opacity: 0.8; }
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgba(248, 248, 248, 0.7);
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-left: 10px;
+    margin-right: 10px; }
     #contact-page #contact-lockup .contact-item {
       position: relative;
       display: block;
-      height: calc(100vh / 8 - 50px / 8); }
+      height: calc(100vh / 8 - 100px / 8); }
       #contact-page #contact-lockup .contact-item::after {
         clear: both;
         content: "";
@@ -1823,12 +1843,13 @@ header {
             margin: 0 auto; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg circle {
               stroke: #193a5d;
-              fill: ghostwhite; }
+              fill-opacity: 0; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg path {
               fill: #193a5d; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover circle {
               stroke: ghostwhite;
-              fill: #193a5d; }
+              fill: #193a5d;
+              fill-opacity: 0.5; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover path {
               fill: ghostwhite; }
       #contact-page #contact-lockup .contact-item .contact-content {
