@@ -1,0 +1,21 @@
+---
+layout: post
+title: Cairo
+date: 2019-05-28 12:00
+category: Egypt
+thumbnail: Egypt/Cairo/slider.jpg
+---
+
+# Egypt
+
+---
+
+
+
+---
+
+{% for i in (1..129) %}
+
+![Cairo](/assets/img/travel/Egypt/Cairo/Cairo-{{i}}.JPG)
+
+{% endfor %}
