@@ -12,9 +12,9 @@
     float: right
     height: 100vh
     width: 50%
-    padding-top: 50px
+    margin-top: 50px
     padding-bottom: 0px
-    background: $theme-tertiary
+    background: $theme-quartiary
     opacity: 0.8
 
     .contact-item
@@ -35,20 +35,19 @@
           align-self: center
 
           svg
-            background-color: $theme-tertiary
-            border-radius: 50%
             margin: 0 auto
-
+            
             circle
               stroke: $theme-primary
               fill: $theme-tertiary
+              stroke-width: 1.5px
 
             path
               fill: $theme-primary
 
             &:hover
               circle
-                stroke: $theme-tertiary
+                stroke-width: 0px
                 fill: $theme-primary
 
               path
