@@ -453,7 +453,8 @@ html {
   overflow-x: hidden;
   width: 100%;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  scroll-behavior: smooth; }
 
 body {
   background-color: ghostwhite;
@@ -469,6 +470,9 @@ body {
   width: 100%;
   margin: 0;
   padding: 0; }
+
+::-webkit-scrollbar {
+  display: none; }
 
 progress[value] {
   -webkit-appearance: none;
@@ -745,105 +749,107 @@ hr {
   margin: 10px 0 30px;
   height: 0; }
 
-#about .about-title {
-  margin: 0;
-  padding: 15px 0 15px;
-  text-align: center; }
-  #about .about-title a {
-    text-decoration: none;
-    color: #193a5d; }
-    #about .about-title a:hover {
-      color: #296099; }
-#about .about-me {
-  text-align: center;
-  max-width: 620px;
-  padding: 0 20px;
-  margin: 30px auto;
-  font-size: 20px;
-  font-weight: 400; }
-  #about .about-me strong {
-    color: #193a5d; }
-#about .about-content {
-  max-width: 780px;
-  display: -webkit-box;
-  display: -moz-box;
-  display: box;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flexbox;
-  display: flex;
-  margin: 0 auto;
-  -webkit-box-align: center;
-  -moz-box-align: center;
-  box-align: center;
-  -webkit-align-items: center;
-  -moz-align-items: center;
-  -ms-align-items: center;
-  -o-align-items: center;
-  align-items: center;
-  -ms-flex-align: center;
-  -webkit-box-pack: justify;
-  -moz-box-pack: justify;
-  box-pack: justify;
-  -webkit-justify-content: space-between;
-  -moz-justify-content: space-between;
-  -ms-justify-content: space-between;
-  -o-justify-content: space-between;
-  justify-content: space-between;
-  -ms-flex-pack: justify; }
-  #about .about-content a {
-    -webkit-box-ordinal-group: 3;
-    -moz-box-ordinal-group: 3;
-    box-ordinal-group: 3;
-    -webkit-order: 3;
-    -moz-order: 3;
-    order: 3;
-    -ms-flex-order: 3; }
-    #about .about-content a .about-face {
+#about {
+  padding: 50px 0 0; }
+  #about .about-title {
+    margin: 0;
+    padding: 15px 0 15px;
+    text-align: center; }
+    #about .about-title a {
+      text-decoration: none;
+      color: #193a5d; }
+      #about .about-title a:hover {
+        color: #296099; }
+  #about .about-me {
+    text-align: center;
+    max-width: 620px;
+    padding: 0 20px;
+    margin: 30px auto;
+    font-size: 20px;
+    font-weight: 400; }
+    #about .about-me strong {
+      color: #193a5d; }
+  #about .about-content {
+    max-width: 780px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 auto;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    box-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+    -ms-flex-align: center;
+    -webkit-box-pack: justify;
+    -moz-box-pack: justify;
+    box-pack: justify;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    -ms-justify-content: space-between;
+    -o-justify-content: space-between;
+    justify-content: space-between;
+    -ms-flex-pack: justify; }
+    #about .about-content a {
+      -webkit-box-ordinal-group: 3;
+      -moz-box-ordinal-group: 3;
+      box-ordinal-group: 3;
+      -webkit-order: 3;
+      -moz-order: 3;
+      order: 3;
+      -ms-flex-order: 3; }
+      #about .about-content a .about-face {
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+        background-image: url(/assets/img/headshot.jpg);
+        background-size: cover; }
+    #about .about-content [class^="about-item"] {
+      background: linear-gradient(45deg, white, #cbcbcb, #b1b1b1);
       border-radius: 50%;
-      width: 200px;
-      height: 200px;
-      background-image: url(/assets/img/headshot.jpg);
-      background-size: cover; }
-  #about .about-content [class^="about-item"] {
-    background: linear-gradient(45deg, white, #cbcbcb, #b1b1b1);
-    border-radius: 50%;
-    height: 100px;
-    width: 100px; }
-    #about .about-content [class^="about-item"] path {
-      fill: #193a5d; }
-    #about .about-content [class^="about-item"].about-item1 {
-      -webkit-box-ordinal-group: 1;
-      -moz-box-ordinal-group: 1;
-      box-ordinal-group: 1;
-      -webkit-order: 1;
-      -moz-order: 1;
-      order: 1;
-      -ms-flex-order: 1; }
-    #about .about-content [class^="about-item"].about-item2 {
-      -webkit-box-ordinal-group: 2;
-      -moz-box-ordinal-group: 2;
-      box-ordinal-group: 2;
-      -webkit-order: 2;
-      -moz-order: 2;
-      order: 2;
-      -ms-flex-order: 2; }
-    #about .about-content [class^="about-item"].about-item3 {
-      -webkit-box-ordinal-group: 4;
-      -moz-box-ordinal-group: 4;
-      box-ordinal-group: 4;
-      -webkit-order: 4;
-      -moz-order: 4;
-      order: 4;
-      -ms-flex-order: 4; }
-    #about .about-content [class^="about-item"].about-item4 {
-      -webkit-box-ordinal-group: 5;
-      -moz-box-ordinal-group: 5;
-      box-ordinal-group: 5;
-      -webkit-order: 5;
-      -moz-order: 5;
-      order: 5;
-      -ms-flex-order: 5; }
+      height: 100px;
+      width: 100px; }
+      #about .about-content [class^="about-item"] path {
+        fill: #193a5d; }
+      #about .about-content [class^="about-item"].about-item1 {
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        box-ordinal-group: 1;
+        -webkit-order: 1;
+        -moz-order: 1;
+        order: 1;
+        -ms-flex-order: 1; }
+      #about .about-content [class^="about-item"].about-item2 {
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        box-ordinal-group: 2;
+        -webkit-order: 2;
+        -moz-order: 2;
+        order: 2;
+        -ms-flex-order: 2; }
+      #about .about-content [class^="about-item"].about-item3 {
+        -webkit-box-ordinal-group: 4;
+        -moz-box-ordinal-group: 4;
+        box-ordinal-group: 4;
+        -webkit-order: 4;
+        -moz-order: 4;
+        order: 4;
+        -ms-flex-order: 4; }
+      #about .about-content [class^="about-item"].about-item4 {
+        -webkit-box-ordinal-group: 5;
+        -moz-box-ordinal-group: 5;
+        box-ordinal-group: 5;
+        -webkit-order: 5;
+        -moz-order: 5;
+        order: 5;
+        -ms-flex-order: 5; }
 
 @media screen and (max-width: 780px) {
   #about .about-content {
@@ -858,7 +864,6 @@ hr {
       margin: 0 auto 30px; }
     #about .about-content [class^="about-item"] {
       margin: 10px 10%; } }
-/* Style the list */
 ul.breadcrumb {
   padding: 10px 16px;
   list-style: none;
@@ -866,22 +871,18 @@ ul.breadcrumb {
   font-size: 18px;
   border-radius: 5px; }
 
-/* Display list items side by side */
 ul.breadcrumb li {
   display: inline; }
 
-/* Add a slash symbol (/) before/behind each list item */
 ul.breadcrumb li + li:before {
   padding: 8px;
   color: #193a5d;
   content: ">\00a0"; }
 
-/* Add a color to all links inside the list */
 ul.breadcrumb li a {
   color: #245385;
   text-decoration: none; }
 
-/* Add a color on mouse-over */
 ul.breadcrumb li a:hover {
   color: #193a5d; }
 
@@ -1027,15 +1028,15 @@ ul.breadcrumb li a:hover {
     #contact .contact-lockup a .contact-item {
       background: none; }
       #contact .contact-lockup a .contact-item svg {
-        background-color: ghostwhite;
-        border-radius: 50%; }
+        background-color: ghostwhite; }
         #contact .contact-lockup a .contact-item svg circle {
           stroke: #193a5d;
-          fill: ghostwhite; }
+          fill: ghostwhite;
+          stroke-width: 1.5px; }
         #contact .contact-lockup a .contact-item svg path {
           fill: #193a5d; }
         #contact .contact-lockup a .contact-item svg:hover circle {
-          stroke: ghostwhite;
+          stroke-width: 0;
           fill: #193a5d; }
         #contact .contact-lockup a .contact-item svg:hover path {
           fill: ghostwhite; }
@@ -1596,7 +1597,7 @@ header {
           background: rgba(248, 248, 255, 0.8); }
 
 #work {
-  padding-bottom: 15px; }
+  padding: 50px 0 15px; }
   #work .work-title {
     margin: 0;
     padding: 15px 0;
@@ -1773,13 +1774,18 @@ header {
   .post-list .post-block {
     background-size: cover;
     background-position: center;
-    padding: 30px;
     margin: 10px 0;
     border-radius: 5px; }
+    .post-list .post-block .post-overlay {
+      padding: 30px;
+      border-radius: 5px; }
+    .post-list .post-block:hover .post-overlay {
+      background-color: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(5px);
+      -webkit-backdrop-filter: blur(5px); }
     .post-list .post-block:hover h2 {
       color: #193a5d;
-      text-shadow: 0 0 20px ghostwhite;
-      opacity: 1; }
+      text-shadow: 0 0 20px ghostwhite; }
     .post-list .post-block:hover p {
       color: #193a5d;
       text-shadow: 0 0 20px ghostwhite; }
@@ -1805,25 +1811,23 @@ header {
 #contact-page {
   height: 100vh;
   overflow: hidden;
+  height: 100vh;
   background-image: url(/assets/img/contact/contact.jpg);
   background-size: cover;
   background-position: 30% center; }
   #contact-page #contact-lockup {
     display: block;
     float: right;
-    height: calc(100vh - 90px);
+    height: 100vh;
     width: 50%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background: rgba(248, 248, 248, 0.7);
-    border-radius: 10px;
-    margin-top: 60px;
-    margin-left: 10px;
-    margin-right: 10px; }
+    margin-top: 50px;
+    padding-bottom: 0px;
+    background: #efefef;
+    opacity: 0.8; }
     #contact-page #contact-lockup .contact-item {
       position: relative;
       display: block;
-      height: calc(100vh / 8 - 100px / 8); }
+      height: calc(100vh / 8 - 50px / 8); }
       #contact-page #contact-lockup .contact-item::after {
         clear: both;
         content: "";
@@ -1838,18 +1842,16 @@ header {
           text-decoration: none;
           align-self: center; }
           #contact-page #contact-lockup .contact-item .contact-socialicon a svg {
-            background-color: ghostwhite;
-            border-radius: 50%;
             margin: 0 auto; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg circle {
               stroke: #193a5d;
-              fill-opacity: 0; }
+              fill: ghostwhite;
+              stroke-width: 1.5px; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg path {
               fill: #193a5d; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover circle {
-              stroke: ghostwhite;
-              fill: #193a5d;
-              fill-opacity: 0.5; }
+              stroke-width: 0px;
+              fill: #193a5d; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover path {
               fill: ghostwhite; }
       #contact-page #contact-lockup .contact-item .contact-content {

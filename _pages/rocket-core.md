@@ -1,8 +1,8 @@
 ---
 layout: portfolio
-title: Rocket Interception
+title: Rocket Core
 date: 2017-04-06
-permalink: "/rocket-interception/"
+permalink: "/rocket-core/"
 progress: 30
 ---
 
@@ -17,9 +17,9 @@ This is a fairly involved project as it requires the building of model rockets, 
 
 ### Rocket Modeling
 The first step is designing a rocket that will meet my functional requirements given the weight of the rocket's payload while also being extremely reusable. Here I've created a preliminary mock up and run simulations to ensure I achieve at least the 1000 feet (with insurance) apogee I feel is neccessary to ensure probable likelyhood of capture.
-![Openrocket View](/assets/img/portfolio/rocket-interception/openrocket-1.png)
+![Openrocket View](/assets/img/portfolio/rocket-core/openrocket-1.png)
 <br>
-![Simulation](/assets/img/portfolio/rocket-interception/openrocket-2.png)
+![Simulation](/assets/img/portfolio/rocket-core/openrocket-2.png)
 <br>
 
 ### Rocket Core
@@ -27,32 +27,32 @@ The rocket core is the brain of the rocket, specially designed to be as light as
 <br><br>
 
 ### Schematic
-![Schematic](/assets/img/portfolio/rocket-interception/schematic.jpg)
+![Schematic](/assets/img/portfolio/rocket-core/schematic.jpg)
 <br>
 
 ### PCB Design
 Top Layer
-![Top Layer](/assets/img/portfolio/rocket-interception/pcb-0.png)
+![Top Layer](/assets/img/portfolio/rocket-core/pcb-0.png)
 <br>
 Bottom Layer
-![Bottom Layer](/assets/img/portfolio/rocket-interception/pcb-1.png)
+![Bottom Layer](/assets/img/portfolio/rocket-core/pcb-1.png)
 <br>
 Silk Screen
-![Silk Screen](/assets/img/portfolio/rocket-interception/pcb-2.png)
+![Silk Screen](/assets/img/portfolio/rocket-core/pcb-2.png)
 <br>
 
 ### Rapid Prototype
 To get a true understanding of my dimensioning, I (extremely) quickly fabricated a prototype, a concept I've used many times to help shake out any simple ideas or problems I might be overlooking. In this case, I can tell my rocket's outer diameter can be shrunken down (better for rocket aerodynamics). 
 <br> 
-![Prototype](/assets/img/portfolio/rocket-interception/prototype.jpg)
+![Prototype](/assets/img/portfolio/rocket-core/prototype.jpg)
 <br>
 
 ### Radio Transmission Test
 Radio transmission testing using software defined radio (SDR) to ensure packets are being broadcast
-![Radio 1](/assets/img/portfolio/rocket-interception/radio-1.jpg)
+![Radio 1](/assets/img/portfolio/rocket-core/radio-1.jpg)
 <br>
 Transmit/Receive test between ground station and rocket core
-![Radio 2](/assets/img/portfolio/rocket-interception/radio-2.jpg)
+![Radio 2](/assets/img/portfolio/rocket-core/radio-2.jpg)
 <br>
 
 

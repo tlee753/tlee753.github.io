@@ -21,4 +21,11 @@ Github
 
 <br>
 
+Server
+![Server](/assets/img/portfolio/text-server/server.png)
+
+<br>
+
+Demo
 ![Demo](/assets/img/portfolio/text-server/demo.png)
+

@@ -7,15 +7,23 @@
   .post-block
     background-size: cover
     background-position: center
-    padding: 30px
     margin: 10px 0
     border-radius: 5px
 
+    .post-overlay 
+      padding: 30px
+      border-radius: 5px
+  
     &:hover
+
+      .post-overlay
+        background-color: rgba(255, 255, 255, 0.2)
+        backdrop-filter: blur(5px)
+        -webkit-backdrop-filter: blur(5px)
+
       h2
         color: $theme-primary
         text-shadow: 0 0 20px $theme-tertiary
-        opacity: 1
 
       p
         color: $theme-primary
