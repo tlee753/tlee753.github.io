@@ -30,3 +30,7 @@ Github
 <br>
 
 ![Mock Up](/assets/img/portfolio/lifestyle-budget/background.jpg)
+
+<br>
+
+![Electron v0.1](/assets/img/portfolio/lifestyle-budget/electron-0.1.png)
