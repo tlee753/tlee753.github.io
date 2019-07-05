@@ -3,7 +3,7 @@ layout: portfolio
 title: Text Server
 date: 2017-09-06 8:00:00
 permalink: "/text-server/"
-progress: 60
+progress: 90
 ---
 
 
@@ -15,17 +15,27 @@ The idea behind this project is to create a modular, text message based informat
 - health data
 - checking email
 
+
+<br>
+
+Ideation
+![Demo](/assets/img/portfolio/text-server/demo.png)
+
+<br>
+
+Initially, I built out a text messaging server in java which would text me (via email forwarding) the price of various stocks I was interested in each morning. I'd have to search for pictures of the output, but it was just a simple list of tickers and prices cron-jobbed to text me at market open and close.
+
+<br>
+
 <a class="button" href="https://github.com/tlee753/text-server">
-Github
+Java Initial Build Github
 </a>
 
 <br>
 
-Server
-![Server](/assets/img/portfolio/text-server/server.png)
+After some stagnation with the project, I brought it back up as a secured, database driven implementation of a remote health care service codenamed "Cellside Assistance". The system works via a modular dockerized model which utilizes google-voice and a python API as an external interface and a flask web server for local viewing. These interfaces are connected to an psuedo-intelligent language parser and of course a dockerized secure mongo database.
 
 <br>
 
-Demo
-![Demo](/assets/img/portfolio/text-server/demo.png)
-
+Dockerized Flask Server
+![Server](/assets/img/portfolio/text-server/server.png)
