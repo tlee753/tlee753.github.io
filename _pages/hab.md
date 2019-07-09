@@ -16,7 +16,19 @@ Launching involved overcoming quite a few of last minute challenges, but fortuna
 <br>
 
 While searching for hours, we did not find the balloon on the launch day due to the GPS landing upside down. As luck would have it, the balloon landed on the property of an extremely kind individual who followed the instructions I had taped to the side. One more long drive later and I had my equipment back.
-![Takeoff](/assets/img/portfolio/hab/landing.jpg)
+![Landing](/assets/img/portfolio/hab/landing.jpg)
+
+<br>
+
+### Tracking
+
+![Planning](/assets/img/portfolio/hab/planning.png)
+
+![Tracking](/assets/img/portfolio/hab/tracking-1.jpg)
+
+![Tracking](/assets/img/portfolio/hab/tracking-2.png)
+
+![Tracking](/assets/img/portfolio/hab/tracking-3.png)
 
 <br>
 
