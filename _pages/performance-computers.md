@@ -9,37 +9,129 @@ progress: 100
 
 I thoroughly enjoy building my own systems as I find I can better allocate funding towards fullfiling my needs (as well as being a fun hobby...). Here are a few of the personal systems I've made in recent years.
 
+<br>
+
+<a class="button" href="#ascension">
+Jump to Ascension Build
+</a>
+
+<a class="button" href="#portable">
+Jump to Portable Build
+</a>
+
+<a class="button" href="#gamer">
+Jump to Low Cost Gamer
+</a>
+
+<a class="button" href="#server">
+Jump to Server
+</a>
+
+<a class="button" href="#office">
+Jump to Office Conversion
+</a>
+
+
+
+<span id="office">
+
+---
+
+<br>
+
+### Office Conversion
+- Operating System: Windows Pro
+- Processor: i7 3770
+- Graphics Card: XFX 480 8GB Black
+
+(Build in Progress)
+
+
+
+<span id="server">
+
+---
+
+<br>
+
 ### Server
 - Operating System: Custom Arch
 - Processor: Dual Xeon
 
-<br><br>
+(Build in Progress)
 
-### Hackintosh
-- Operating System: Triple Boot Windows 10 Pro, Linux, Hackintosh + Virtual Machines
+
+<span id="gamer">
+
+---
+
+<br>
+
+### Low Cost Gamer
+- Operating System: Windows 10 Pro
 - Processor: Intel 6600k (4 core, 3.6 GHz, 3.9 Turbo)
 - Graphics Card: XFX 480 8GB Black
-- Motherboard: Asus 
+- Motherboard: Asus H170 Pro Gaming
 - Memory: GSkill (2133 MHz)
-- Storage: Intel 180GB + Sandisk 240GB SSD's
+- Storage: Sandisk 240GB SSD + 1 TB HDD
 - Power Supply: 550 80+ Gold
 - Case: Thermaltake Silent
 
-Pictures coming eventually... ;)
-<br><br>
+<a class="button" href="https://pcpartpicker.com/list/7DwjV6">
+Low Cost Gamer PC Part Picker
+</a>
+
+<br>
+![Gamer 1](/assets/img/portfolio/performance-computers/red-1.jpg)
+<br>
+![Gamer 2](/assets/img/portfolio/performance-computers/red-2.jpg)
+<br>
+![Gamer 3](/assets/img/portfolio/performance-computers/red-3.jpg)
+<br>
+![Gamer 4](/assets/img/portfolio/performance-computers/red-4.jpg)
+<br>
+![Gamer 5](/assets/img/portfolio/performance-computers/red-5.jpg)
+<br>
+
+<span id="portable">
+
+---
+
+<br>
 
 ### Portable Build
-- Operating System: Triple Boot Windows 10 Pro, Linux, Hackintosh + Virtual Machines
+- Operating System: Triple Boot Windows 10 Pro, Ubuntu, Hackintosh
 - Processor: Intel 8600K (6 core, 3.6 GHz, 4.3 Turbo)
 - Graphics Card: EVGA 1060
 - Motherboard: AsRock 
 - Memory: Corsair (3000 MHz)
-- Storage: Samsung 850 Evo 500GB
+- Storage: Samsung 850 Evo 500GB + Intel 180GB SSD's
 - Power Supply: Corsair SFW 450W
 - Case: Silverstone Milo HTPC
 
-Pictures coming eventually... ;)
-<br><br>
+<a class="button" href="https://pcpartpicker.com/list/8wvf3b">
+Portable PC Part Picker
+</a>
+
+<br>
+![Portable 1](/assets/img/portfolio/performance-computers/portable-1.jpg)
+<br>
+![Portable 2](/assets/img/portfolio/performance-computers/portable-2.jpg)
+<br>
+![Portable 3](/assets/img/portfolio/performance-computers/portable-3.jpg)
+<br>
+![Portable 4](/assets/img/portfolio/performance-computers/portable-4.jpg)
+<br>
+![Portable 5](/assets/img/portfolio/performance-computers/portable-5.jpg)
+<br>
+
+
+
+<span id="ascension">
+
+---
+
+<br>
 
 ### Ascension Build
 - Operating System: Windows 10 Pro and Linux Virtual Machines for Testing
@@ -51,9 +143,21 @@ Pictures coming eventually... ;)
 - Power Supply: Evga Supernova G2 850W
 - Case: NZXT H440 Red/Black
 
-### [PC Part Picker List](http://pcpartpicker.com/list/V2kZf8)
+<a class="button" href="http://pcpartpicker.com/list/V2kZf8">
+Ascension PC Part Picker
+</a>
 
-| Type | Item | Price |
+<br>
+![Ascension 3](/assets/img/portfolio/performance-computers/ascension-3.jpg)
+<br>
+![Ascension 2](/assets/img/portfolio/performance-computers/ascension-2.jpg)
+<br>
+![Ascension 4](/assets/img/portfolio/performance-computers/ascension-4.jpg)
+<br>
+![Ascension 5](/assets/img/portfolio/performance-computers/ascension-5.jpg)
+
+
+<!-- | Type | Item | Price |
 | ---- | ---- | ----- |
 |CPU            |[Intel Core i7-4790K 4.0GHz Quad-Core Processor](http://pcpartpicker.com/product/6vzv6h/intel-cpu-bx80646i74790k)|Purchased For $276.99|
 |CPU Cooler     |[Corsair H110i GT 113.0 CFM Liquid CPU Cooler](http://pcpartpicker.com/product/ZVnG3C/corsair-cpu-cooler-cw9060019ww)|Purchased For $123.99|
@@ -70,17 +174,8 @@ Pictures coming eventually... ;)
 |Mouse          |[Logitech G700s Wireless Laser Mouse](http://pcpartpicker.com/product/29V48d/logitech-mouse-910003584)|Purchased For $49.99|
 |Speakers       |[Logitech Z506 155W 5.1ch Speakers](http://pcpartpicker.com/product/YwLypg/logitech-speakers-980000430)|Purchased For $74.99|
 |Other          |Qck Mousepad|Purchased For $8.99|
-||Total (*Prices include shipping, taxes, rebates, and discounts*)|$1953.81|
+||Total (*Prices include shipping, taxes, rebates, and discounts*)|$1953.81| -->
 
-<br>
-
-![Ascension 3](/assets/img/portfolio/performance-computers/ascension-3.jpg)
-<br>
-![Ascension 2](/assets/img/portfolio/performance-computers/ascension-2.jpg)
-<br>
-![Ascension 4](/assets/img/portfolio/performance-computers/ascension-4.jpg)
-<br>
-![Ascension 5](/assets/img/portfolio/performance-computers/ascension-5.jpg)
 
 <!--
 <br>
