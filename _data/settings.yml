@@ -176,9 +176,10 @@ slider:
 - {name: 'Fussen, Germany', image: 'slider-fussen', link: '/germany/2017/01/22/Fussen.html'}
 - {name: 'Cairo, Egypt', image: 'slider-cairo', link: '/egypt/2019/05/28/Cairo.html'}
 - {name: 'Santiago, Chile', image: 'slider-santiago', link: '/chile/2016/06/21/Santiago.html'}
-- {name: 'Interlaken, Switzerland', image: 'slider-interlaken', link: '/switzerland/2017/02/11/Interlaken.html'}
+- {name: 'Dubai, U.A.E.', image: 'slider-dubai', link: '/uae/2019/06/10/Dubai.html'}
 - {name: 'Galapagos, Ecuador', image: 'slider-galapagos', link: '/ecuador/2016/07/14/Galapagos.html'}
 
+# - {name: 'Interlaken, Switzerland', image: 'slider-interlaken', link: '/switzerland/2017/02/11/Interlaken.html'}
 # - {name: 'Cuenca, Ecuador', image: 'slider-cuenca', link: 'http://tlee753.com/ecuador/2016/06/30/Cuenca.html'}
 # - {name: 'Munich, Germany', image: 'slider-munich', link: 'http://tlee753.com/germany/2017/01/21/Munich.html'}
 
