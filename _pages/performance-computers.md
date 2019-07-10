@@ -11,25 +11,11 @@ I thoroughly enjoy building my own systems as I find I can better allocate fundi
 
 <br>
 
-<a class="button" href="#ascension">
-Jump to Ascension Build
-</a>
-
-<a class="button" href="#portable">
-Jump to Portable Build
-</a>
-
-<a class="button" href="#gamer">
-Jump to Low Cost Gamer
-</a>
-
-<a class="button" href="#server">
-Jump to Server
-</a>
-
-<a class="button" href="#office">
-Jump to Office Conversion
-</a>
+<a class="button" href="#ascension">Jump to Ascension Build</a>
+<a class="button" href="#portable">Jump to Portable Build</a>
+<a class="button" href="#gamer">Jump to Low Cost Gamer</a>
+<a class="button" href="#server">Jump to Server</a>
+<a class="button" href="#office">Jump to Office Conversion</a>
 
 
 
