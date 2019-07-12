@@ -3,7 +3,7 @@ layout: portfolio
 title: Stock Dashboard
 date: 2017-09-06 8:00:00
 permalink: "/stock-dashboard/"
-progress: 60
+progress: 80
 ---
 
 <a class="button" href="/workspace/iextrading/">
@@ -26,7 +26,7 @@ a database on my server for future testing (an eventual algorithm building).
 
 This basic test queries the yahoo finance rest api using an encoded url. Each stock is individually requested
 via java script on the clientside, although I have my own rest api running on my server containing an up to
-date json of all the most important data for all the major stocks. Currently I am taking a look at the bloomberg api.
+date json of all the most important data for all the major stocks.
 
 <br>
 
