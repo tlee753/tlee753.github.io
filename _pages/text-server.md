@@ -3,7 +3,7 @@ layout: portfolio
 title: Text Server
 date: 2017-09-06 8:00:00
 permalink: "/text-server/"
-progress: 90
+progress: 100
 ---
 
 
@@ -34,6 +34,13 @@ Java Initial Build Github
 <br>
 
 After some stagnation with the project, I brought it back up as a secured, database driven implementation of a remote health care service codenamed "Cellside Assistance". The system works via a modular dockerized model which utilizes google-voice and a python API as an external interface and a flask web server for local viewing. These interfaces are connected to an psuedo-intelligent language parser and of course a dockerized secure mongo database.
+
+<br>
+
+<a class="button" href="https://github.com/tlee753/cellside-assistance">
+Python/GoogleVoice/Docker Github
+</a>
+
 
 <br>
 
