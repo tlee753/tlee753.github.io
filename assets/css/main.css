@@ -471,9 +471,6 @@ body {
   margin: 0;
   padding: 0; }
 
-::-webkit-scrollbar {
-  display: none; }
-
 progress[value] {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -522,6 +519,17 @@ progress[value]::-moz-progress-value {
     background-color: #193a5d;
     box-shadow: 0 0 20px #193a5d;
     text-shadow: 0 0 20px #193a5d; }
+
+::-webkit-scrollbar {
+  background-color: transparent; }
+
+::-webkit-scrollbar-thumb {
+  border-radius: 12px;
+  background-color: #193a5d; }
+
+::-webkit-scrollbar-track {
+  border-radius: 12px;
+  background-color: ghostwhite; }
 
 a {
   color: #0074D9;
@@ -1434,7 +1442,7 @@ header {
     color: ghostwhite;
     max-width: 620px;
     margin: 0px auto;
-    padding: 10px 30px;
+    padding: 30px 30px;
     font-size: 20px;
     font-weight: 400;
     background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #193a5d 5%, #193a5d, #193a5d 95%, rgba(0, 0, 0, 0) 100%);
@@ -1523,9 +1531,10 @@ header {
         left: 50%;
         transform: translateX(-50%);
         margin: 0 auto;
-        padding: 10px;
+        padding: 10px 0px;
         background: rgba(25, 58, 93, 0.8);
-        color: ghostwhite; }
+        color: ghostwhite;
+        width: 200px; }
         #slider #slider-lockup a #slider-title:hover {
           color: #193a5d;
           background: rgba(248, 248, 255, 0.8); }
@@ -1588,7 +1597,7 @@ header {
         color: ghostwhite;
         background-color: rgba(25, 58, 93, 0.8);
         margin: 0;
-        padding: 5px 5px 5px 5px;
+        padding: 10px 0;
         width: 200px;
         font-size: 16px;
         font-weight: 400; }
