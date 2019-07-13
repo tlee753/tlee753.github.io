@@ -16,6 +16,6 @@ thumbnail: Israel/Jerusalem/slider.jpg
 
 {% for i in (1..110) %}
 
-![Cairo](/assets/img/travel/Israel/Jerusalem/Jerusalem-{{i}}.JPG)
+![Jerusalem-{{i}}](/assets/img/travel/Israel/Jerusalem/Jerusalem-{{i}}.jpg)
 
 {% endfor %}
