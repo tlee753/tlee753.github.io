@@ -29,8 +29,18 @@ I thoroughly enjoy building my own systems as I find I can better allocate fundi
 - Operating System: Windows Pro
 - Processor: i7 3770
 - Graphics Card: XFX 480 8GB Black
+- Memory: 16GB 1600Mhz DDR3
+- Storage: Samsung Evo 256GB
+- Power Supply: 385 80+ Gold
+- Case: Dell Optiplex 7010
 
-(Build in Progress)
+<br>
+![Office 1](/assets/img/portfolio/performance-computers/office-1.jpg)
+<br>
+![Office 3](/assets/img/portfolio/performance-computers/office-3.jpg)
+<br>
+![Office 4](/assets/img/portfolio/performance-computers/office-4.jpg)
+<br>
 
 
 

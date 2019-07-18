@@ -7,7 +7,7 @@
     </div>
 
     <ul>
-        {% for item in site.data.settings.menu reversed %}
+        {% for item in site.data.settings.menu %}
             <a href="{{ item.link }}"><li class="navbar-item">{{ item.name }}</li></a>
         {% endfor %}
     </ul>
