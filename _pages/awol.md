@@ -16,6 +16,7 @@ Simple 2D game idea leveled survival game idea which strives to
 
 ### Ideation
 ![Map](/assets/img/portfolio/awol/map.jpg)
+<br>
 ![Planner](/assets/img/portfolio/awol/planner.jpg)
 
 <br>
