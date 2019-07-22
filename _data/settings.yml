@@ -63,6 +63,8 @@ portfoliopage:
 - {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
 # - {name: RGB Board, folder: 'rgb-board', next: '', previous: ''}
 - {name: Angel, folder: 'angel', next: '', previous: ''}
+- {name: Awol, folder: 'awol', next: '', previous: ''}
+# - {name: Balance App, folder: 'balance-app', next: '', previous: ''}
 
 # - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
 # - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
