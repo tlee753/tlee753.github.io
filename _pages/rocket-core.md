@@ -47,6 +47,14 @@ To get a true understanding of my dimensioning, I (extremely) quickly fabricated
 ![Prototype](/assets/img/portfolio/rocket-core/prototype.jpg)
 <br>
 
+### Completed Electronics Build
+Here is the completed laser etched board with sensors/radios attached and working.
+<br>
+![Build 1](/assets/img/portfolio/rocket-core/build-1.jpg)
+<br>
+![Build 2](/assets/img/portfolio/rocket-core/build-2.jpg)
+<br>
+
 ### Radio Transmission Test
 Radio transmission testing using software defined radio (SDR) to ensure packets are being broadcast
 ![Radio 1](/assets/img/portfolio/rocket-core/radio-1.jpg)
