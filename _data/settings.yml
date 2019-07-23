@@ -59,7 +59,7 @@ portfoliopage:
 - {name: Web Automation Framework, folder: 'web-automation-framework', next: '', previous: ''}
 - {name: Rocket Core, folder: 'rocket-core', next: '', previous: ''}
 - {name: Homelab, folder: 'homelab', next: '', previous: ''}
-# - {name: Plane Tracker, folder: 'plane-tracker', next: '', previous: ''}
+- {name: Plane Tracker, folder: 'plane-tracker', next: '', previous: ''}
 - {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
 # - {name: RGB Board, folder: 'rgb-board', next: '', previous: ''}
 - {name: Angel, folder: 'angel', next: '', previous: ''}
