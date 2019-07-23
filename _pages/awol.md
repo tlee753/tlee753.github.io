@@ -6,9 +6,6 @@ permalink: "/awol/"
 progress: 10
 ---
 
-
-### Awol
-
 Simple 2D game idea leveled survival game idea which strives to
 - conserve battery life
 - be playable offline/online
