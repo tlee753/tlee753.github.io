@@ -21,6 +21,8 @@
         background: fade-out($theme-primary, 0.2)
         color: $theme-tertiary
         width: 200px
+        backdrop-filter: blur(10px)
+        -webkit-backdrop-filter: blur(10px)
 
         &:hover
           color: $theme-primary
@@ -40,6 +42,10 @@
         weight: 700
       color: $theme-primary
       transform: translateY(-50%)
+      backdrop-filter: blur(10px)
+      -webkit-backdrop-filter: blur(10px)
+      -moz-user-select: none
+      -webkit-user-select: none
 
       &:hover
         background: fade-out($theme-primary, 0.2)
@@ -77,6 +83,8 @@
           font:
             size: 16px
             weight: 400
+          backdrop-filter: blur(10px)
+          -webkit-backdrop-filter: blur(10px)
 
           &:hover
             color: $theme-primary

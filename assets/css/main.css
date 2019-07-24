@@ -1338,7 +1338,9 @@ header {
   text-decoration: none;
   margin: 0;
   padding: 0;
-  width: 100%; }
+  width: 100%;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); }
   #navbar .branding {
     float: left;
     overflow: hidden; }
@@ -1376,7 +1378,8 @@ header {
       width: 50px;
       padding: 0;
       text-align: left;
-      border: none; }
+      border: none;
+      background: rgba(0, 0, 0, 0); }
       #navbar .branding .handle #navbar-menu svg {
         height: 100%;
         border-radius: 50%; }
@@ -1403,8 +1406,7 @@ header {
       font-size: 1.2em;
       font-weight: 400;
       text-transform: uppercase;
-      color: #193a5d;
-      background-color: #efefef; }
+      color: #193a5d; }
       #navbar ul .navbar-item:hover, #navbar ul .navbar-item:focus {
         color: white;
         background-color: #193a5d; }
@@ -1419,11 +1421,6 @@ header {
       transform: translateX(-50%); }
     #navbar .branding .handle {
       display: inline; }
-      #navbar .branding .handle #navbar-menu svg.show {
-        background-color: #193a5d; }
-        #navbar .branding .handle #navbar-menu svg.show path {
-          stroke: ghostwhite;
-          fill: ghostwhite; }
   #navbar ul {
     max-height: 0;
     width: 100%; }
@@ -1533,7 +1530,9 @@ header {
         padding: 10px 0px;
         background: rgba(25, 58, 93, 0.8);
         color: ghostwhite;
-        width: 200px; }
+        width: 200px;
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px); }
         #slider #slider-lockup a #slider-title:hover {
           color: #193a5d;
           background: rgba(248, 248, 255, 0.8); }
@@ -1572,7 +1571,11 @@ header {
       font-size: 24px;
       font-weight: 700;
       color: #193a5d;
-      transform: translateY(-50%); }
+      transform: translateY(-50%);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      -moz-user-select: none;
+      -webkit-user-select: none; }
       #slider #slider-lockup .slider-button:hover {
         background: rgba(25, 58, 93, 0.8);
         color: ghostwhite;
@@ -1599,7 +1602,9 @@ header {
         padding: 10px 0;
         width: 200px;
         font-size: 16px;
-        font-weight: 400; }
+        font-weight: 400;
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px); }
         #slider #slider-lockup a .slider-image .slider-label:hover {
           color: #193a5d;
           background: rgba(248, 248, 255, 0.8); }
@@ -1831,7 +1836,9 @@ header {
     margin-top: 50px;
     padding-bottom: 0px;
     background: #efefef;
-    opacity: 0.8; }
+    opacity: 0.8;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); }
     #contact-page #contact-lockup .contact-item {
       position: relative;
       display: block;
