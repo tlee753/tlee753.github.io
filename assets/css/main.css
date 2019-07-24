@@ -1232,95 +1232,82 @@ header {
   -o-background-size: cover;
   width: 100vw;
   height: 100vh; }
-  header h1 {
+  header .header-content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
     text-align: center;
-    padding-top: 40vh;
-    margin: 0px auto 10px;
-    color: ghostwhite;
-    text-shadow: 0 0 20px #193a5d;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-size: 72px;
-    font-weight: 700;
-    opacity: 0.9;
     animation: reveal-banner 2.5s 0s ease-in-out; }
-    header h1 span {
-      display: inline-block;
-      padding: 0.2em 0.5em;
-      border: ghostwhite solid 10px;
-      box-shadow: 0 0 20px #193a5d; }
-  header .kicker {
-    color: ghostwhite;
-    text-shadow: 0 0 20px #193a5d;
-    text-align: center;
-    font-size: 24px;
-    font-weight: 700;
-    opacity: 0;
-    margin: 0 0 10px;
-    animation: reveal-banner 2.5s 0.5s ease-in-out;
-    animation-fill-mode: forwards;
-    animation-play-state: running; }
-  header .button-box {
-    text-align: center;
-    padding: 0 20px;
-    display: none; }
-    header .button-box a {
-      text-align: center; }
-      header .button-box a .button {
+    header .header-content h1 {
+      margin: 0px auto 10px;
+      color: ghostwhite;
+      text-shadow: 0 0 20px #193a5d;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-size: 72px;
+      font-weight: 700; }
+      header .header-content h1 span {
         display: inline-block;
-        opacity: 0.9;
+        padding: 0.2em 0.5em;
+        border: ghostwhite solid 10px;
         box-shadow: 0 0 20px #193a5d;
-        text-shadow: 0 0 20px #193a5d;
-        font-size: 14px;
-        line-height: 30px;
-        color: #193a5d;
-        height: 30px;
-        width: 160px;
-        padding: 5px;
-        background-color: ghostwhite;
-        text-decoration: none;
-        border: 0px solid transparent;
-        border-radius: 10px;
-        margin: 5px; }
-        header .button-box a .button:hover {
-          color: ghostwhite;
-          background-color: #193a5d; }
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px); }
+    header .header-content .kicker {
+      display: inline-block;
+      color: ghostwhite;
+      text-shadow: 0 0 20px #193a5d;
+      text-align: center;
+      font-size: 24px;
+      font-weight: 700;
+      margin: 0;
+      padding: 0 10px;
+      border-radius: 5px;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px); }
+    header .header-content .button-box {
+      text-align: center;
+      padding: 0 20px;
+      display: none; }
+      header .header-content .button-box a {
+        text-align: center; }
+        header .header-content .button-box a .button {
+          display: inline-block;
+          opacity: 0.9;
+          box-shadow: 0 0 20px #193a5d;
+          text-shadow: 0 0 20px #193a5d;
+          font-size: 14px;
+          line-height: 30px;
+          color: #193a5d;
+          height: 30px;
+          width: 160px;
+          padding: 5px;
+          background-color: ghostwhite;
+          text-decoration: none;
+          border: 0px solid transparent;
+          border-radius: 10px;
+          margin: 5px; }
+          header .header-content .button-box a .button:hover {
+            color: ghostwhite;
+            background-color: #193a5d; }
 
 @media screen and (max-width: 540px) {
-  header h1 {
-    padding-top: 100px;
+  header .header-content h1 {
     font-size: 54px; }
-    header h1 span {
+    header .header-content h1 span {
       border: ghostwhite solid 8px;
       padding: 0.1em 0.25em; }
-  header .kicker {
+  header .header-content .kicker {
     font-size: 18px; } }
 @media screen and (max-width: 390px) {
-  header h1 {
-    padding-top: 100px;
+  header .header-content h1 {
     font-size: 42px; }
-    header h1 span {
+    header .header-content h1 span {
       border: ghostwhite solid 6px;
       padding: 0.05em 0.125em; }
-  header .kicker {
-    font-size: 14px; } }
-@media screen and (max-width: 736px) and (max-height: 415px) {
-  header h1 {
-    padding-top: 60px;
-    font-size: 54px; }
-    header h1 span {
-      border: ghostwhite solid 8px;
-      padding: 0.1em 0.25em; }
-  header .kicker {
-    font-size: 18px; } }
-@media screen and (max-width: 670px) and (max-height: 375px) {
-  header h1 {
-    padding-top: 60px;
-    font-size: 42px; }
-    header h1 span {
-      border: ghostwhite solid 6px;
-      padding: 0.05em 0.125em; }
-  header .kicker {
+  header .header-content .kicker {
     font-size: 14px; } }
 @-webkit-keyframes reveal-banner {
   0% {

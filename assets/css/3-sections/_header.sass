@@ -13,146 +13,143 @@ header
   width: 100vw
   height: 100vh
 
-
-
-  h1
+  .header-content
+    position: absolute
+    left: 50%
+    top: 50%
+    width: 100%
+    transform: translate(-50%, -50%)
     text-align: center
-    padding-top: 40vh
-    margin: 0px auto 10px
-    color: $theme-tertiary
-    text-shadow: 0 0 20px $theme-primary
-    text-transform: uppercase
-    letter-spacing: 0.05em
-    font:
-      size: 72px
-      weight: 700
-    opacity: 0.9
     animation: reveal-banner 2.5s 0s ease-in-out
-    // animation-fill-mode: forwards
-    // animation-name: reveal-banner
-    // animation-duration: 1s
-    // animation-timing-function: ease-in-out
-    // animation-delay: 0.25s
-    // animation-iteration-count: 1
-    // animation-direction: normal
-    // animation-fill-mode: none
-    // animation-play-state: running
 
-    span
-      display: inline-block
-      padding: 0.2em 0.5em
-      border: $theme-tertiary solid 10px
-      box-shadow: 0 0 20px $theme-primary
+    h1
+      margin: 0px auto 10px
+      color: $theme-tertiary
+      text-shadow: 0 0 20px $theme-primary
+      text-transform: uppercase
+      letter-spacing: 0.05em
+      font:
+        size: 72px
+        weight: 700
 
-  .kicker
-    color: $theme-tertiary
-    text-shadow: 0 0 20px $theme-primary
-    text-align: center
-    font:
-      size: 24px
-      weight: 700
-    opacity: 0
-    margin: 0 0 10px
-    animation: reveal-banner 2.5s 0.5s ease-in-out
-    animation-fill-mode: forwards
-    animation-play-state: running
-
-  .button-box
-    text-align: center
-    padding: 0 20px
-    display: none
-
-    a
-      text-align: center
-
-      .button
+      span
         display: inline-block
-        opacity: 0.9
+        padding: 0.2em 0.5em
+        border: $theme-tertiary solid 10px
         box-shadow: 0 0 20px $theme-primary
-        text-shadow: 0 0 20px $theme-primary
-        font-size: 14px
-        line-height: 30px
-        color: $theme-primary
-        height: 30px
-        width: 160px
-        padding: 5px
-        background-color: $theme-tertiary
-        text-decoration: none
-        border: 0px solid transparent
-        border-radius: 10px
-        margin: 5px
+        // background-color: rgba(228, 228, 228, 0.4)
+        backdrop-filter: blur(10px)
+        -webkit-backdrop-filter: blur(10px)
 
-        &:hover
-          color: $theme-tertiary
-          background-color: $theme-primary
+    .kicker
+      display: inline-block
+      color: $theme-tertiary
+      text-shadow: 0 0 20px $theme-primary
+      text-align: center
+      font:
+        size: 24px
+        weight: 700
+      margin: 0
+      padding: 0 10px
+      border-radius: 5px
+      backdrop-filter: blur(10px)
+      -webkit-backdrop-filter: blur(10px)
+
+    .button-box
+      text-align: center
+      padding: 0 20px
+      display: none
+
+      a
+        text-align: center
+
+        .button
+          display: inline-block
+          opacity: 0.9
+          box-shadow: 0 0 20px $theme-primary
+          text-shadow: 0 0 20px $theme-primary
+          font-size: 14px
+          line-height: 30px
+          color: $theme-primary
+          height: 30px
+          width: 160px
+          padding: 5px
+          background-color: $theme-tertiary
+          text-decoration: none
+          border: 0px solid transparent
+          border-radius: 10px
+          margin: 5px
+
+          &:hover
+            color: $theme-tertiary
+            background-color: $theme-primary
 
 
 @media screen and (max-width: 540px)
   header
 
-    h1
-      padding-top: 100px
-      font:
-        size: 54px
+    .header-content
 
-      span
-        border: $theme-tertiary solid 8px
-        padding: 0.1em 0.25em
+      h1
+        font:
+          size: 54px
 
-    .kicker
-      font:
-        size: 18px
+        span
+          border: $theme-tertiary solid 8px
+          padding: 0.1em 0.25em
+
+      .kicker
+        font:
+          size: 18px
 
 @media screen and (max-width: 390px)
   header
 
-    h1
-      padding-top: 100px
-      font:
-        size: 42px
-      // letter-spacing: 0.01em
+    .header-content
 
-      span
-        border: $theme-tertiary solid 6px
-        padding: 0.05em 0.125em
+      h1
+        font:
+          size: 42px
 
-    .kicker
-      font:
-        size: 14px
+        span
+          border: $theme-tertiary solid 6px
+          padding: 0.05em 0.125em
 
-
-@media screen and (max-width: 736px) and (max-height: 415px)
-  header
-
-    h1
-      padding-top: 60px
-      font:
-        size: 54px
-
-      span
-        border: $theme-tertiary solid 8px
-        padding: 0.1em 0.25em
-
-    .kicker
-      font:
-        size: 18px
+      .kicker
+        font:
+          size: 14px
 
 
-@media screen and (max-width: 670px) and (max-height: 375px)
-  header
+// @media screen and (max-width: 736px) and (max-height: 415px)
+//   header
 
-    h1
-      padding-top: 60px
-      font:
-        size: 42px
+//     h1
+//       font:
+//         size: 54px
 
-      span
-        border: $theme-tertiary solid 6px
-        padding: 0.05em 0.125em
+//       span
+//         border: $theme-tertiary solid 8px
+//         padding: 0.1em 0.25em
 
-    .kicker
-      font:
-        size: 14px
+//     .kicker
+//       font:
+//         size: 18px
+
+
+// @media screen and (max-width: 670px) and (max-height: 375px)
+//   header
+
+//     h1
+//       font:
+//         size: 42px
+
+//       span    
+//         border: $theme-tertiary solid 6px
+//         padding: 0.05em 0.125em
+
+//     .kicker
+//       font:
+//         size: 14px
 
 
 @include keyframes('reveal-banner')
