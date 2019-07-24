@@ -1424,6 +1424,11 @@ header {
       transform: translateX(-50%); }
     #navbar .branding .handle {
       display: inline; }
+      #navbar .branding .handle #navbar-menu svg.show {
+        background-color: #193a5d; }
+        #navbar .branding .handle #navbar-menu svg.show path {
+          stroke: ghostwhite;
+          fill: ghostwhite; }
   #navbar ul {
     max-height: 0;
     width: 100%; }
