@@ -95,7 +95,9 @@
         weight: 400
       text-transform: uppercase
       color: $theme-primary
-      // background-color: $theme-quartiary
+      background-color: $theme-quartiary        
+      backdrop-filter: blur(10px)
+      -webkit-backdrop-filter: blur(10px)
 
       &:hover,
       &:focus
@@ -121,11 +123,11 @@
         #navbar-menu
 
           svg.show
-            // background-color: $theme-primary
+            background-color: $theme-primary
 
             path
-              // stroke: $theme-tertiary
-              // fill: $theme-tertiary
+              stroke: $theme-tertiary
+              fill: $theme-tertiary
 
     ul
       max-height: 0
@@ -136,4 +138,6 @@
         width: 100%
 
     ul.show
-      max-height: 200px
+      max-height: 200px 
+      backdrop-filter: blur(10px)
+      -webkit-backdrop-filter: blur(10px)
