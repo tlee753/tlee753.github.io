@@ -84,6 +84,8 @@
     -ms-transition: max-height 0.5s
     -moz-transition: max-height 0.5s
     -o-transition: max-height 0.5s
+    backdrop-filter: blur(10px)
+    -webkit-backdrop-filter: blur(10px)
 
     .navbar-item
       display: inline-block
@@ -96,8 +98,6 @@
       text-transform: uppercase
       color: $theme-primary
       background-color: $theme-quartiary        
-      backdrop-filter: blur(10px)
-      -webkit-backdrop-filter: blur(10px)
 
       &:hover,
       &:focus
@@ -120,14 +120,15 @@
       .handle
         display: inline
 
-        #navbar-menu
+        // #navbar-menu
+        //   background-color: green
 
-          svg.show
-            background-color: $theme-primary
+        //   svg.show
+        //     background-color: $theme-primary
 
-            path
-              stroke: $theme-tertiary
-              fill: $theme-tertiary
+        //     path
+        //       stroke: $theme-tertiary
+        //       fill: $theme-tertiary
 
     ul
       max-height: 0
@@ -138,6 +139,6 @@
         width: 100%
 
     ul.show
-      max-height: 200px 
+      max-height: 200px
       backdrop-filter: blur(10px)
       -webkit-backdrop-filter: blur(10px)
