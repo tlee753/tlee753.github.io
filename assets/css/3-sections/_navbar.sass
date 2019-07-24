@@ -7,7 +7,9 @@
   text-decoration: none
   margin: 0
   padding: 0
-  width: 100%
+  width: 100%        
+  backdrop-filter: blur(10px)
+  -webkit-backdrop-filter: blur(10px)
 
   .branding
     float: left
@@ -57,6 +59,7 @@
       padding: 0
       text-align: left
       border: none
+      background: rgba(0, 0, 0, 0)
 
       #navbar-menu
 
@@ -92,7 +95,7 @@
         weight: 400
       text-transform: uppercase
       color: $theme-primary
-      background-color: $theme-quartiary
+      // background-color: $theme-quartiary
 
       &:hover,
       &:focus
@@ -118,11 +121,11 @@
         #navbar-menu
 
           svg.show
-            background-color: $theme-primary
+            // background-color: $theme-primary
 
             path
-              stroke: $theme-tertiary
-              fill: $theme-tertiary
+              // stroke: $theme-tertiary
+              // fill: $theme-tertiary
 
     ul
       max-height: 0
