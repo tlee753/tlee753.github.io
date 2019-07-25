@@ -1332,8 +1332,8 @@ header {
 #navbar {
   height: 50px;
   position: fixed;
-  background: #efefef;
-  opacity: 0.8;
+  background: rgba(248, 248, 248, 0.7);
+  color: #193a5d;
   z-index: 10;
   text-decoration: none;
   margin: 0;
@@ -1366,7 +1366,6 @@ header {
       margin: 0;
       padding-left: 15px;
       line-height: 50px;
-      color: #193a5d;
       font-size: 2.2em;
       font-weight: 700; }
       #navbar .branding .navbar-title:hover, #navbar .branding .navbar-title:focus {
@@ -1398,18 +1397,14 @@ header {
     -webkit-transition: max-height 0.5s;
     -ms-transition: max-height 0.5s;
     -moz-transition: max-height 0.5s;
-    -o-transition: max-height 0.5s;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px); }
+    -o-transition: max-height 0.5s; }
     #navbar ul .navbar-item {
       display: inline-block;
       padding: 0 15px;
       line-height: 50px;
       font-size: 1.2em;
       font-weight: 400;
-      text-transform: uppercase;
-      color: #193a5d;
-      background-color: #efefef; }
+      text-transform: uppercase; }
       #navbar ul .navbar-item:hover, #navbar ul .navbar-item:focus {
         color: white;
         background-color: #193a5d; }
@@ -1436,9 +1431,7 @@ header {
       box-sizing: border-box;
       width: 100%; }
   #navbar ul.show {
-    max-height: 200px;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px); } }
+    max-height: 200px; } }
 #objective {
   background-color: #193a5d;
   background-image: url("/assets/img/circuit-tile.png");
