@@ -1844,8 +1844,8 @@ header {
     margin-top: 50px;
     padding-bottom: 0px;
     background: rgba(248, 248, 248, 0.7);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px); }
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px); }
     #contact-page #contact-lockup .contact-item {
       position: relative;
       display: block;
