@@ -1397,16 +1397,20 @@ header {
     -webkit-transition: max-height 0.5s;
     -ms-transition: max-height 0.5s;
     -moz-transition: max-height 0.5s;
-    -o-transition: max-height 0.5s; }
+    -o-transition: max-height 0.5s;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); }
     #navbar ul .navbar-item {
       display: inline-block;
       padding: 0 15px;
       line-height: 50px;
       font-size: 1.2em;
       font-weight: 400;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      color: #193a5d;
+      background-color: rgba(248, 248, 248, 0.7); }
       #navbar ul .navbar-item:hover, #navbar ul .navbar-item:focus {
-        color: white;
+        color: ghostwhite;
         background-color: #193a5d; }
 
 @media screen and (max-width: 780px) {
@@ -1426,7 +1430,9 @@ header {
           fill: ghostwhite; }
   #navbar ul {
     max-height: 0;
-    width: 100%; }
+    width: 100%;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); }
     #navbar ul .navbar-item {
       box-sizing: border-box;
       width: 100%; }

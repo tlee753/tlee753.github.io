@@ -44,7 +44,6 @@
       margin: 0
       padding-left: 15px
       line-height: 50px
-      // color: $theme-primary
       font:
         size: 2.2em
         weight: 700
@@ -85,8 +84,8 @@
     -ms-transition: max-height 0.5s
     -moz-transition: max-height 0.5s
     -o-transition: max-height 0.5s
-    // backdrop-filter: blur(10px)
-    // -webkit-backdrop-filter: blur(10px)
+    backdrop-filter: blur(10px)
+    -webkit-backdrop-filter: blur(10px)
 
     .navbar-item
       display: inline-block
@@ -97,12 +96,12 @@
         size: 1.2em
         weight: 400
       text-transform: uppercase
-      // color: $theme-primary
-      // background-color: $theme-glass    
+      color: $theme-primary
+      background-color: $theme-glass    
 
       &:hover,
       &:focus
-        color: white
+        color: $theme-tertiary
         background-color: $theme-primary
 
 
@@ -133,6 +132,8 @@
     ul
       max-height: 0
       width: 100%
+      backdrop-filter: blur(10px)
+      -webkit-backdrop-filter: blur(10px)
 
       .navbar-item
         box-sizing: border-box
