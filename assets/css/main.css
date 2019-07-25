@@ -1339,8 +1339,8 @@ header {
   margin: 0;
   padding: 0;
   width: 100%;
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px); }
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px); }
   #navbar .branding {
     float: left;
     overflow: hidden; }
@@ -1398,8 +1398,8 @@ header {
     -ms-transition: max-height 0.5s;
     -moz-transition: max-height 0.5s;
     -o-transition: max-height 0.5s;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px); }
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px); }
     #navbar ul .navbar-item {
       display: inline-block;
       padding: 0 15px;
@@ -1431,8 +1431,8 @@ header {
   #navbar ul {
     max-height: 0;
     width: 100%;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px); }
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px); }
     #navbar ul .navbar-item {
       box-sizing: border-box;
       width: 100%; }
