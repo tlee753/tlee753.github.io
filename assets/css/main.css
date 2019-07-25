@@ -1843,8 +1843,7 @@ header {
     width: 50%;
     margin-top: 50px;
     padding-bottom: 0px;
-    background: #efefef;
-    opacity: 0.8;
+    background: rgba(248, 248, 248, 0.7);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px); }
     #contact-page #contact-lockup .contact-item {
@@ -1868,7 +1867,7 @@ header {
             margin: 0 auto; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg circle {
               stroke: #193a5d;
-              fill: ghostwhite;
+              fill: rgba(248, 248, 248, 0.7);
               stroke-width: 1.5px; }
             #contact-page #contact-lockup .contact-item .contact-socialicon a svg path {
               fill: #193a5d; }
