@@ -79,13 +79,11 @@
     margin: 0
     padding: 0
     text-align: center
-    transition: max-height 0.5s
-    -webkit-transition: max-height 0.5s
-    -ms-transition: max-height 0.5s
-    -moz-transition: max-height 0.5s
-    -o-transition: max-height 0.5s
-    backdrop-filter: blur(5px)
-    -webkit-backdrop-filter: blur(5px)
+    // transition: max-height 0.5s
+    // -webkit-transition: max-height 0.5s
+    // -ms-transition: max-height 0.5s
+    // -moz-transition: max-height 0.5s
+    // -o-transition: max-height 0.5s
 
     .navbar-item
       display: inline-block
@@ -96,8 +94,7 @@
         size: 1.2em
         weight: 400
       text-transform: uppercase
-      color: $theme-primary
-      background-color: $theme-glass    
+      color: $theme-primary    
 
       &:hover,
       &:focus
@@ -132,8 +129,6 @@
     ul
       max-height: 0
       width: 100%
-      backdrop-filter: blur(5px)
-      -webkit-backdrop-filter: blur(5px)
 
       .navbar-item
         box-sizing: border-box
@@ -141,5 +136,11 @@
 
     ul.show
       max-height: 200px
-      // backdrop-filter: blur(5px)
-      // -webkit-backdrop-filter: blur(5px)
+      background: $theme-glass
+      backdrop-filter: blur(5px)
+      -webkit-backdrop-filter: blur(5px)
+      transition: max-height 0.5s
+      -webkit-transition: max-height 0.5s
+      -ms-transition: max-height 0.5s
+      -moz-transition: max-height 0.5s
+      -o-transition: max-height 0.5s
