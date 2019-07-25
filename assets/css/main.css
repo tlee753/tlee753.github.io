@@ -1435,7 +1435,8 @@ header {
     -webkit-transition: max-height 0.5s;
     -ms-transition: max-height 0.5s;
     -moz-transition: max-height 0.5s;
-    -o-transition: max-height 0.5s; } }
+    transition: backdrop-filter 0.5s;
+    -webkit-transition: backdrop-filter 0.5s; } }
 #objective {
   background-color: #193a5d;
   background-image: url("/assets/img/circuit-tile.png");
