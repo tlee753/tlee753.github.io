@@ -1372,7 +1372,7 @@ header {
       font-size: 2.2em;
       font-weight: 700; }
       #navbar .branding .navbar-title:hover, #navbar .branding .navbar-title:focus {
-        color: #245385; }
+        color: rgba(25, 58, 93, 0.7); }
     #navbar .branding .handle {
       display: none;
       float: right;
@@ -1897,7 +1897,7 @@ header {
             margin: 0;
             color: #193a5d; }
             #contact-page #contact-lockup .contact-item .contact-content a h1:hover {
-              color: #296099; }
+              color: rgba(25, 58, 93, 0.7); }
 
 /* width media queries */
 @media screen and (max-width: 1220px) {
