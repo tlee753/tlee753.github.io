@@ -10,35 +10,39 @@
     margin: 10px 0
     border-radius: 5px
 
-    .post-overlay 
+    .post-overlay
+      display: inline-block
       padding: 30px
+      width: 100%
       border-radius: 5px
+
+      .post-block-content
+        // width: 100%
+        margin: 0
+        padding: 10px
+        display: inline-block
+        border-radius: 10px
+        backdrop-filter: blur(5px)
+        -webkit-backdrop-filter: blur(5px)
+
+        h2, p
+          margin: 0
+          color: $theme-tertiary
+          text-shadow: 0 0 20px $theme-primary
+
   
     &:hover
 
       .post-overlay
-        background-color: rgba(255, 255, 255, 0.2)
+        background-color: rgba(238, 238, 238, 0.2)
         backdrop-filter: blur(5px)
         -webkit-backdrop-filter: blur(5px)
 
-      h2
-        color: $theme-primary
-        text-shadow: 0 0 20px $theme-tertiary
+        .post-block-content
+          backdrop-filter: none
+          -webkit-backdrop-filter: none
 
-      p
-        color: $theme-primary
-        text-shadow: 0 0 20px $theme-tertiary  
 
-    h2
-      margin: 0
-      color: $theme-tertiary
-      text-shadow: 0 0 20px $theme-primary
-      opacity: 0.9
-
-    p
-      margin: 0
-      color: $theme-tertiary
-      text-shadow: 0 0 20px $theme-primary
 
 .world-map
   max-width: 1200px

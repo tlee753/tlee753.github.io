@@ -10,9 +10,11 @@ permalink: "/blog/"
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
         <div class="post-block" style="background-image: url(/assets/img/travel/{{ post.thumbnail }})">
             <div class="post-overlay">
-                <h2>{{ post.title }}</h2>
-                <p>{{ post.category }}</p>
-                <p>{{ post.date | date: "%-d %B %Y" }}</p>
+                <div class="post-block-content">
+                    <h2>{{ post.title }}</h2>
+                    <p>{{ post.category }}</p>
+                    <p>{{ post.date | date: "%-d %B %Y" }}</p>
+                </div>
             </div>
         </div>
     </a>

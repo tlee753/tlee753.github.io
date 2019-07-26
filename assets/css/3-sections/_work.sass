@@ -45,8 +45,9 @@
       .work-overlay
         +position(absolute, 0% 0px null 0px)
         height: 100%
-        background: fade-out($theme-primary, 0.2)
-        opacity: 0
+        background: $theme-blue-glass
+        backdrop-filter: blur(5px)
+        // opacity: 0
         text-align: center
         +display(flex)
         +align-items(center)
