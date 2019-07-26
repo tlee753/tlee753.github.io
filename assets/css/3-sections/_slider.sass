@@ -18,7 +18,7 @@
         transform: translateX(-50%)
         margin: 0 auto
         padding: 10px 0px
-        background: fade-out($theme-primary, 0.2)
+        background: $theme-blue-glass
         color: $theme-tertiary
         width: 200px
         backdrop-filter: blur(5px)
@@ -26,14 +26,14 @@
 
         &:hover
           color: $theme-primary
-          background: fade-out($theme-tertiary, 0.2)
+          background: $theme-glass
 
     .slider-button
       z-index: 1
       position: absolute
       top: 50%
       +size(50px)
-      background: fade-out($theme-tertiary, 0.2)
+      background: $theme-glass
       +display(flex)
       +align-items(center)
       +justify-content(space-around)
@@ -46,9 +46,10 @@
       -webkit-backdrop-filter: blur(5px)
       -moz-user-select: none
       -webkit-user-select: none
+      user-select: none
 
       &:hover
-        background: fade-out($theme-primary, 0.2)
+        background: $theme-blue-glass
         color: $theme-tertiary
         cursor: pointer
 
@@ -76,7 +77,7 @@
           left: 50%
           transform: translateX(-50%)
           color: $theme-tertiary
-          background-color: fade-out($theme-primary, 0.2)
+          background-color: $theme-blue-glass
           margin: 0
           padding: 10px 0
           width: 200px
@@ -88,4 +89,4 @@
 
           &:hover
             color: $theme-primary
-            background: fade-out($theme-tertiary, 0.2)
+            background: $theme-glass
