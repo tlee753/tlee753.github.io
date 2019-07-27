@@ -45,4 +45,11 @@ Python/GoogleVoice/Docker Github
 <br>
 
 Dockerized Flask Server
+<br>
+![Overview](/assets/img/portfolio/text-server/overview.png)
+<br>
+![Insight 1](/assets/img/portfolio/text-server/insight-1.png)
+<br>
+![Insight 2](/assets/img/portfolio/text-server/insight-2.png)
+<br>
 ![Server](/assets/img/portfolio/text-server/server.png)

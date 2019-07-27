@@ -52,7 +52,7 @@ portfoliopage:
 - {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
 - {name: Text Server, folder: 'text-server', next: '', previous: ''}
 - {name: Web Development, folder: 'web-development', next: '', previous: ''}
-- {name: Drone Killer, folder: 'drone-killer', next: '', previous: ''}
+# - {name: Drone Killer, folder: 'drone-killer', next: '', previous: ''}
 - {name: World History Timeline, folder: 'world-history-timeline', next: '', previous: ''}
 - {name: Lifestyle Budget, folder: 'lifestyle-budget', next: '', previous: ''}
 - {name: Personal Finance Club, folder: 'finance-club', next: '', previous: ''}
@@ -60,6 +60,7 @@ portfoliopage:
 - {name: Rocket Core, folder: 'rocket-core', next: '', previous: ''}
 - {name: Homelab, folder: 'homelab', next: '', previous: ''}
 - {name: Plane Tracker, folder: 'plane-tracker', next: '', previous: ''}
+- {name: School Projects, folder: 'school-projects', next: '', previous: ''}
 - {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
 # - {name: RGB Board, folder: 'rgb-board', next: '', previous: ''}
 - {name: Angel, folder: 'angel', next: '', previous: ''}

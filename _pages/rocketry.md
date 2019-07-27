@@ -47,13 +47,13 @@ Onshape CAD Model
 <br>
 
 ### Avionics Design Planning
-![Rocketry 2](/assets/img/portfolio/rocketry/rocketry-2.jpg)
+![Rocketry 2](/assets/img/portfolio/rocketry/rocketry-2.png)
 <br>
 
 ### Payload v1.1
-![Rocketry 3](/assets/img/portfolio/rocketry/rocketry-3.jpg)
+![Rocketry 3](/assets/img/portfolio/rocketry/rocketry-3.png)
 <br>
-![Rocketry 4](/assets/img/portfolio/rocketry/rocketry-4.jpg)
+![Rocketry 4](/assets/img/portfolio/rocketry/rocketry-4.png)
 <br>
 ![Rocketry 5](/assets/img/portfolio/rocketry/rocketry-5.jpg)
 <br>
