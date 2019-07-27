@@ -69,9 +69,15 @@ Onshape CAD Model
 ![Rocketry 9](/assets/img/portfolio/rocketry/rocketry-9.png)
 <br>
 
+### Assembley
+![Lab](/assets/img/portfolio/rocketry/lab.jpg)
+<br>
+![Paint](/assets/img/portfolio/rocketry/paint.jpg)
+<br>
+
 ### Launch Day
-<!-- ![Rocketry 7](/assets/img/portfolio/rocketry/rocketry-7.jpg)
-<br> -->
+![Launchpad](/assets/img/portfolio/rocketry/launchpad.jpg)
+<br>
 ![Rocketry 8](/assets/img/portfolio/rocketry/rocketry-8.jpg)
 <br>
 

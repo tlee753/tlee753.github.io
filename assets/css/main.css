@@ -503,7 +503,6 @@ progress[value]::-moz-progress-value {
 .button {
   text-align: center;
   display: inline-block;
-  opacity: 0.9;
   font-size: 14px;
   line-height: 30px;
   color: ghostwhite;
@@ -511,14 +510,13 @@ progress[value]::-moz-progress-value {
   padding: 5px 10px;
   background-color: #193a5d;
   text-decoration: none;
-  border: 0px solid transparent;
   border-radius: 10px;
   margin: 5px; }
   .button:hover {
     color: ghostwhite;
-    background-color: #193a5d;
-    box-shadow: 0 0 20px #193a5d;
-    text-shadow: 0 0 20px #193a5d; }
+    background-color: rgba(25, 58, 93, 0.7);
+    box-shadow: 0 0 10px #193a5d;
+    text-shadow: 0 0 10px #193a5d; }
 
 ::-moz-scrollbar {
   background-color: transparent; }
@@ -1477,7 +1475,11 @@ header {
     font-size: 24px;
     font-weight: 700;
     color: ghostwhite;
-    text-shadow: 1px 1px 1px #193a5d; }
+    text-shadow: 1px 1px 1px #193a5d;
+    padding: 10px 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); }
     #profile .profile-text i {
       color: #193a5d;
       text-shadow: 1px 1px 1px white; }
