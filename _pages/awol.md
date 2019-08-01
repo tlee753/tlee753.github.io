@@ -3,7 +3,7 @@ layout: portfolio
 title: Awol
 date: 2019-07-04 12:00:00
 permalink: "/awol/"
-progress: 20
+progress: 40
 ---
 
 Simple 2D game idea leveled survival game idea which strives to
