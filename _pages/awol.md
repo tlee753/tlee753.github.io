@@ -27,3 +27,11 @@ Game development is underway in Unity with iOS as the initial targeted platform.
 <br>
 ![Notes](/assets/img/portfolio/awol/notes.jpg)
 <br>
+
+### Video Demo 1
+Making some progress...
+<br>
+<video width="100%" controls>
+    <source src="/assets/img/portfolio/awol/demo-1.mp4" type="video/mp4">
+    Your broswer does not support the video tag.
+</video>

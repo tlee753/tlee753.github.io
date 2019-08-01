@@ -16,6 +16,10 @@ progress: 100
 <br> -->
 
 ### Interactive D3
+<a class="button" href="/plane-crashes">
+Project Link
+</a>
+
 ![D3 1](/assets/img/portfolio/school-projects/d3-1.png)
 <br>
 ![D3 2](/assets/img/portfolio/school-projects/d3-2.png)
