@@ -35,3 +35,9 @@ Making some progress...
     <source src="/assets/img/portfolio/awol/demo-1.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
+
+### Android Beta Build
+Just for testing, download at your own discretion.
+<a class="button" href="/assets/docs/raiders.apk">
+Android Beta Build
+</a>
