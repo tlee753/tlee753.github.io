@@ -3,13 +3,21 @@ layout: portfolio
 title: Awol
 date: 2019-07-04 12:00:00
 permalink: "/awol/"
-progress: 40
+progress: 50
 ---
 
 Simple 2D game idea leveled survival game idea which strives to
 - conserve battery life
 - be playable offline/online
 - encourage user modification
+
+### Android Beta Build
+Just for testing, download at your own discretion.
+<br>
+<a class="button" href="/assets/docs/raiders.apk">
+Android Beta Build
+</a>
+<br>
 
 ### Ideation
 <br>
@@ -35,6 +43,7 @@ Making some progress...
     <source src="/assets/img/portfolio/awol/demo-1.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
+<br>
 
 ### Android Beta Build
 Just for testing, download at your own discretion.

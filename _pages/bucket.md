@@ -34,10 +34,9 @@ permalink: "/bucket/"
 
 ### Accomplishments
 - [x] Read Harry Potter series
-- [ ] Read Lord of the Rings
 - [ ] Speak at a TED event
 - [ ] Start a business/non-profit
-- [ ] Publish an app (web dev assistant?)
+- [x] Publish an app
 - [x] Write a software program (GUI based, complexity and originality required)
 - [ ] List top 100 books (quality reads)
 - [x] Eagle Scout
