@@ -20,6 +20,7 @@ permalink: "/presentations/"
 |-----|----|
 |GT Advice                                  |[GT Advice](/gtadvice/)|
 |Resume                                     |[Resume](/assets/docs/Tyler-Lee-Resume.pdf)|
+|NASA JSC Abstract                          |[Abstract](/assets/docs/Tyler-Lee-JSC-Intern-Abstract.pdf)|
 |Overview of Mainstream Serial Protocols    |[Final Report](/assets/docs/Overview-of-Mainstream-Serial-Protocols-v1.4.pdf)|
 |DE2Bot Occupancy Grid Mapping              |[Project Report](/assets/docs/DE2Bot-Report.pdf)|
 |ROS Robotics Research                      |[Research Findings](/assets/docs/ROS-Report.pdf)|
