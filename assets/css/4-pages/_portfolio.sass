@@ -11,6 +11,14 @@
     overflow: hidden
     min-height: 200px
 
+    &:first-child
+
+      .portfolio-background
+        padding-top: calc(15% + 50px)
+
+      .portfolio-overlay
+        bottom: calc(50% - 25px)
+
     .portfolio-background
       transform: scale(1)
       transition: transform 2s ease-in-out
@@ -28,7 +36,6 @@
         transform: scale(1.05)
 
     .portfolio-overlay
-      // opacity: .8
       position: absolute
       max-width: 480px
       background-color: $theme-glass

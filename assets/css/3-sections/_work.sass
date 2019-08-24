@@ -15,10 +15,12 @@
         color: lighten($theme-primary, 15%)
 
   .work-container
-    margin: 0 auto
-    padding: 0 15px
+    margin: 0 15px
+    // padding: 0 15px
     //max-width: 1200px
     +clearfix()
+    border-radius: 5px
+    overflow: hidden
 
     .work-unit
       display: block
@@ -33,6 +35,7 @@
       overflow: hidden
       cursor: pointer
       +perspective(300)
+      overflow: hidden
 
       @media screen and (max-width: 780px)
         width: 50%
@@ -55,6 +58,7 @@
         +justify-content(space-around)
         +transform(matrix3d(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1))
         +transition(opacity, 300ms, ease-in, 500ms)
+        overflow: hidden
 
         strong
           display: block
@@ -70,5 +74,6 @@
       &:hover .work-overlay
         opacity: 1
         @extend %animation
+        overflow: hidden
 
 
