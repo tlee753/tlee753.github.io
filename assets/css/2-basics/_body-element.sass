@@ -52,25 +52,49 @@ progress[value]::-moz-progress-value
   background-size: 35px 20px, 100% 100%, 100% 100%
   border-radius: 5px
 
+// .button
+//   display: inline-block
+//   color: $theme-tertiary
+//   padding: 5px 10px
+//   background-color: $theme-primary
+//   text-decoration: none
+//   border-radius: 5px
+//   margin: 5px
+//   border: 2px solid $theme-primary
+
+//   &:hover
+//     color: $theme-primary
+//     background-color: transparent
+
 .button
-  text-align: center
-  display: inline-block
-  font-size: 14px
-  line-height: 30px
   color: $theme-tertiary
-  height: 30px
-  padding: 5px 10px
-  background-color: $theme-primary
-  text-decoration: none
-  // border: 0px solid transparent
-  border-radius: 10px
+  display: inline-block
+  position: relative
+  border: 4px solid transparent
+  border-radius: 8px
+  background-color: $theme-blue-glass
+  background-clip: padding-box
+  padding: 10px
   margin: 5px
 
   &:hover
     color: $theme-tertiary
-    background-color: $theme-blue-glass
-    box-shadow: 0 0 10px $theme-primary
-    text-shadow: 0 0 10px $theme-primary
+    background: transparent
+
+.button::after
+  position: absolute
+  top: -4px
+  bottom: -4px
+  left: -4px
+  right: -4px
+  background: linear-gradient(165deg, $theme-blue-glass, $theme-glass)
+  content: ''
+  z-index: -1
+  border-radius: 4px
+
+
+
+
 
 ::-moz-scrollbar
   background-color: transparent
