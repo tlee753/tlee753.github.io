@@ -1720,7 +1720,7 @@ header {
         -webkit-transition: opacity, 300ms, ease-in, 500ms;
         -moz-transition: opacity, 300ms, ease-in, 500ms;
         transition: opacity, 300ms, ease-in, 500ms;
-        overflow: hidden; }
+        border-radius: 5px; }
         #work .work-container .work-unit .work-overlay strong {
           display: block;
           padding: 0 20px;
@@ -1730,8 +1730,7 @@ header {
           text-transform: uppercase;
           line-height: 1.2; }
       #work .work-container .work-unit:hover .work-overlay {
-        opacity: 1;
-        overflow: hidden; }
+        opacity: 1; }
 
 #why-content {
   text-align: center;
