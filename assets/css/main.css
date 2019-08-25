@@ -537,7 +537,7 @@ progress[value]::-moz-progress-value {
 
 ::-moz-scrollbar-track {
   border-radius: 12px;
-  background-color: ghostwhite; }
+  background-color: #efefef; }
 
 ::-webkit-scrollbar-thumb {
   border-radius: 12px;
@@ -545,7 +545,7 @@ progress[value]::-moz-progress-value {
 
 ::-webkit-scrollbar-track {
   border-radius: 12px;
-  background-color: ghostwhite; }
+  background-color: #efefef; }
 
 a {
   color: #0074D9;
@@ -838,8 +838,8 @@ hr {
     #about .about-content [class^="about-item"] {
       background: linear-gradient(45deg, white, #cbcbcb, #b1b1b1);
       border-radius: 50%;
-      height: 100px;
-      width: 100px; }
+      height: 120px;
+      width: 120px; }
       #about .about-content [class^="about-item"] path {
         fill: #193a5d; }
       #about .about-content [class^="about-item"].about-item1 {
@@ -1052,10 +1052,10 @@ ul.breadcrumb li a:hover {
     #contact .contact-lockup a .contact-item {
       background: none; }
       #contact .contact-lockup a .contact-item svg {
-        background-color: ghostwhite; }
+        background-color: transparent; }
         #contact .contact-lockup a .contact-item svg circle {
           stroke: #193a5d;
-          fill: ghostwhite;
+          fill: transparent;
           stroke-width: 1.5px; }
         #contact .contact-lockup a .contact-item svg path {
           fill: #193a5d; }
@@ -1515,18 +1515,18 @@ header {
         width: 16px;
         margin-right: 8px;
         border-radius: 50%;
-        background-color: #193a5d; }
+        background-color: #b1b1b1; }
         #skills .skill-lockup .skill-unit .skill-icons span:after {
           content: "";
           display: block;
           height: 12px;
           width: 12px;
-          background: white;
+          background: transparent;
           border-radius: 50%;
           margin: 2px; }
 
 #skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+10), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+11) {
-  background: #b1b1b1; }
+  background: ghostwhite; }
 
 @media screen and (max-width: 540px) {
   .skill-lockup {
@@ -2326,7 +2326,8 @@ header {
     .portfolio-page .portfolio-content img {
       display: block;
       margin: 0 auto;
-      max-width: 100%; }
+      max-width: 100%;
+      border-radius: 5px; }
     .portfolio-page .portfolio-content li {
       padding-right: 10px; }
     .portfolio-page .portfolio-content h1, .portfolio-page .portfolio-content h2, .portfolio-page .portfolio-content h4 {
@@ -2350,7 +2351,8 @@ header {
   .post-content img {
     display: block;
     margin: 10px auto;
-    max-width: 100%; }
+    max-width: 100%;
+    border-radius: 5px; }
   .post-content hr {
     margin: 10px 10px;
     color: #b1b1b1; }
