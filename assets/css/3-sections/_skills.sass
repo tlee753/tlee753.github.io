@@ -24,13 +24,13 @@
           +size(16px)
           margin-right: 8px
           border-radius: 50%
-          background-color: $theme-primary
+          background-color: $theme-secondary
 
           &:after
             content: ''
             display: block
             +size(12px)
-            background: white
+            background: transparent
             border-radius: 50%
             margin: 2px
 
@@ -39,7 +39,7 @@
             @extend %skill-color
 
 %skill-color
-  background: $theme-secondary
+  background: $theme-tertiary
 
 
 @media screen and (max-width: 540px)
