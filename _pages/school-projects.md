@@ -27,4 +27,11 @@ Project Link
 ![D3 3](/assets/img/portfolio/school-projects/d3-3.png)
 
 ### Robotic Path Planning
-coming soon...
+![RRT](/assets/img/portfolio/school-projects/rrt.jpg)
+<br>
+
+<video width="100%" controls>
+    <source src="/assets/img/portfolio/school-projects/localization.mov" type="video/mov">
+    Your broswer does not support the video tag.
+</video>
+<br>
