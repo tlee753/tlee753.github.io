@@ -830,6 +830,7 @@ hr {
       order: 3;
       -ms-flex-order: 3; }
       #about .about-content a .about-face {
+        box-shadow: 0 0 1px #193a5d;
         border-radius: 50%;
         width: 200px;
         height: 200px;
@@ -839,7 +840,8 @@ hr {
       background: linear-gradient(45deg, white, #cbcbcb, #b1b1b1);
       border-radius: 50%;
       height: 120px;
-      width: 120px; }
+      width: 120px;
+      box-shadow: 0 0 1px #193a5d; }
       #about .about-content [class^="about-item"] path {
         fill: #193a5d; }
       #about .about-content [class^="about-item"].about-item1 {
@@ -1510,6 +1512,7 @@ header {
       font-size: 0;
       margin: 3px 0 30px; }
       #skills .skill-lockup .skill-unit .skill-icons span {
+        box-shadow: 0 0 1px #193a5d;
         display: inline-block;
         height: 16px;
         width: 16px;
@@ -1835,6 +1838,9 @@ header {
           margin: 0;
           color: ghostwhite;
           text-shadow: 0 0 20px #193a5d; }
+        .post-list .post-block .post-overlay .post-block-content p {
+          font-size: 1.2rem;
+          font-weight: 500; }
     .post-list .post-block:hover .post-overlay {
       background-color: rgba(238, 238, 238, 0.2);
       backdrop-filter: blur(5px);
@@ -2206,13 +2212,14 @@ header {
     height: 100%;
     width: 25%;
     display: block;
-    float: left; }
+    float: left;
+    z-index: -1; }
     .movie-container .movie-image img {
       height: 100%;
       margin: 0 auto;
       display: block; }
   .movie-container .movie-content {
-    background-color: ghostwhite;
+    background-color: #efefef;
     height: 100%;
     widtH: 75%;
     display: block;
@@ -2231,7 +2238,9 @@ header {
       color: #193a5d;
       text-align: center;
       padding: 0 5px;
-      margin: 5px auto; }
+      margin: 5px auto;
+      font-size: 1.2rem;
+      overflow: auto; }
     .movie-container .movie-content .movie-review {
       color: #b1b1b1;
       text-align: center;
