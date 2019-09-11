@@ -38,18 +38,21 @@ portfolio:
 #-------------------------------
 # Portfolio Page
 portfoliopage:
+- {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
 - {name: Performance Computers, folder: 'performance-computers', next: '', previous: ''}
+- {name: Rocketry, folder: 'rocketry', next: '', previous: ''}
 - {name: Autonomous Robotics, folder: 'autonomous-robotics', next: '', previous: ''}
 - {name: Eagle Scout Project, folder: 'eagle-scout-project', next: '', previous: ''}
-- {name: Rocketry, folder: 'rocketry', next: '', previous: ''}
 - {name: Chess Visualizer, folder: 'chess-visualizer', next: '', previous: ''}
+- {name: Plane Tracker, folder: 'plane-tracker', next: '', previous: ''}
+- {name: Rocket Core, folder: 'rocket-core', next: '', previous: ''}
 - {name: Image Manipulation, folder: 'image-manipulation', next: '', previous: ''}
 - {name: Stock Dashboard, folder: 'stock-dashboard', next: '', previous: ''}
 - {name: Electrathon Vehicle, folder: 'electrathon-vehicle', next: '', previous: ''}
 - {name: Interactive Robotics, folder: 'interactive-robotics', next: '', previous: ''}
 - {name: Passive Desalinator, folder: 'passive-desalinator', next: '', previous: ''}
+- {name: Awol App, folder: 'awol', next: '', previous: ''}
 - {name: Ricing, folder: 'ricing', next: '', previous: ''}
-- {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
 - {name: Text Server, folder: 'text-server', next: '', previous: ''}
 - {name: Web Development, folder: 'web-development', next: '', previous: ''}
 # - {name: Drone Killer, folder: 'drone-killer', next: '', previous: ''}
@@ -57,14 +60,11 @@ portfoliopage:
 - {name: Lifestyle Budget, folder: 'lifestyle-budget', next: '', previous: ''}
 - {name: Personal Finance Club, folder: 'finance-club', next: '', previous: ''}
 - {name: Web Automation Framework, folder: 'web-automation-framework', next: '', previous: ''}
-- {name: Rocket Core, folder: 'rocket-core', next: '', previous: ''}
 - {name: Homelab, folder: 'homelab', next: '', previous: ''}
-- {name: Plane Tracker, folder: 'plane-tracker', next: '', previous: ''}
 - {name: School Projects, folder: 'school-projects', next: '', previous: ''}
-- {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
+- {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
 # - {name: RGB Board, folder: 'rgb-board', next: '', previous: ''}
 - {name: Angel, folder: 'angel', next: '', previous: ''}
-- {name: Awol, folder: 'awol', next: '', previous: ''}
 # - {name: Balance App, folder: 'balance-app', next: '', previous: ''}
 
 # - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}

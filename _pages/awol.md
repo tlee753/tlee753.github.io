@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Awol
+title: Awol App
 date: 2019-07-04 12:00:00
 permalink: "/awol/"
 progress: 50
@@ -9,7 +9,7 @@ progress: 50
 Simple 2D game idea leveled survival game idea which strives to
 - conserve battery life
 - be playable offline/online
-- encourage user modification
+- encourage user modification and level design
 
 ### Android Beta Build
 Just for testing, download at your own discretion.
