@@ -12,26 +12,31 @@ This is a little scientific experiment I've been meaning to pull off for awhile 
 <br>
 
 ### Takeoff
-Launching involved overcoming quite a few of last minute challenges, but fortunately I finally achieved the ascent rate I planned around. 
+Launching involved overcoming quite a few of last minute challenges, but fortunately I finally achieved the ascent rate I planned around.
+
+<br>
 ![Takeoff](/assets/img/portfolio/hab/takeoff.jpg)
 
 <br>
 
 ### Tracking
-One of the most difficult parts of the planning and operations phases is the tracking of the balloon. It is critical to avoid major airports and large bodies of water. I choose to launch from Yonah Mountain due to the weather patterns I saw over the course of several weeks and the distance from Hartsfield Jackson. I used several online predictors such as the one shown below as well as a few simple calculations to check, and wouldn't you know it the balloon flew almost precisely as predicted. 
+One of the most difficult parts of the planning and operations phases is the tracking of the balloon. It is critical to avoid major airports and large bodies of water. I choose to launch from Yonah Mountain due to the weather patterns I saw over the course of several weeks and the distance from Hartsfield Jackson. I used several online predictors such as the one shown below as well as a few simple calculations to check, and wouldn't you know it the balloon flew almost precisely as predicted.
 
+<br>
 ![Planning](/assets/img/portfolio/hab/planning.png)
-
+<br>
 ![Tracking](/assets/img/portfolio/hab/tracking-1.jpg)
-
+<br>
 ![Tracking](/assets/img/portfolio/hab/tracking-2.png)
-
+<br>
 ![Tracking](/assets/img/portfolio/hab/tracking-3.png)
 
 <br>
 
 ### Landing
 While searching for hours, we did not find the balloon on the launch day due to the GPS landing upside down. As luck would have it, the balloon landed on the property of an extremely kind individual who followed the instructions I had taped to the side. One more long drive later and I had my equipment back.
+
+<br>
 ![Landing](/assets/img/portfolio/hab/landing.jpg)
 
 <br>
