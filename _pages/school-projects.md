@@ -31,7 +31,7 @@ Project Link
 <br>
 
 <video width="100%" controls>
-    <source src="/assets/img/portfolio/school-projects/localization.mov" type="video/mov">
+    <source src="/assets/img/portfolio/school-projects/localization.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
 <br>
