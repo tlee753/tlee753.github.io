@@ -14,80 +14,41 @@ I thoroughly enjoy building my own systems as I find I can better allocate fundi
 <a class="button" href="#ascension">Jump to Ascension Build</a>
 <a class="button" href="#portable">Jump to Portable Build</a>
 <a class="button" href="#gamer">Jump to Low Cost Gamer</a>
-<a class="button" href="#server">Jump to Server</a>
 <a class="button" href="#office">Jump to Office Conversion</a>
+<a class="button" href="#server">Jump to Server</a>
 
 
 
-<span id="office">
-
----
-
-<br>
-
-### Office Conversion
-- Operating System: Windows Pro
-- Processor: i7 3770
-- Graphics Card: XFX 480 8GB Black
-- Memory: 16GB 1600Mhz DDR3
-- Storage: Samsung Evo 256GB
-- Power Supply: 385 80+ Gold
-- Case: Dell Optiplex 7010
-
-<br>
-![Office 1](/assets/img/portfolio/performance-computers/office-1.jpg)
-<br>
-![Office 3](/assets/img/portfolio/performance-computers/office-3.jpg)
-<br>
-![Office 4](/assets/img/portfolio/performance-computers/office-4.jpg)
-<br>
-
-
-
-<span id="server">
+<span id="ascension">
 
 ---
 
 <br>
 
-### Server
-- Operating System: Custom Arch
-- Processor: Dual Xeon
+### Ascension Build
+- Operating System: Windows 10 Pro and Linux Virtual Machines for Testing
+- Processor: Intel 4790K (4 core, 4.0 GHz, 4.4 Turbo)
+- Graphics Card: Asus Strix 970
+- Motherboard: Asus Hero VII
+- Memory: G.Skill Trident X (2400 MHz)
+- Storage: Sandisk Ultra Plus 256GB
+- Power Supply: Evga Supernova G2 850W
+- Case: NZXT H440 Red/Black
 
-(Build in Progress)
-
-
-<span id="gamer">
-
----
-
-<br>
-
-### Low Cost Gamer
-- Operating System: Windows 10 Pro
-- Processor: Intel 6600k (4 core, 3.6 GHz, 3.9 Turbo)
-- Graphics Card: XFX 480 8GB Black
-- Motherboard: Asus H170 Pro Gaming
-- Memory: GSkill (2133 MHz)
-- Storage: Sandisk 240GB SSD + 1 TB HDD
-- Power Supply: 550 80+ Gold
-- Case: Thermaltake Silent
-
-<a class="button" href="https://pcpartpicker.com/list/7DwjV6">
-Low Cost Gamer PC Part Picker
+<a class="button" href="http://pcpartpicker.com/list/V2kZf8">
+Ascension PC Part Picker
 </a>
 
 <br>
-![Gamer 1](/assets/img/portfolio/performance-computers/red-1.jpg)
+![Ascension 3](/assets/img/portfolio/performance-computers/ascension-3.jpg)
 <br>
-![Gamer 2](/assets/img/portfolio/performance-computers/red-2.jpg)
+![Ascension 2](/assets/img/portfolio/performance-computers/ascension-2.jpg)
 <br>
-![Gamer 3](/assets/img/portfolio/performance-computers/red-3.jpg)
+![Ascension 4](/assets/img/portfolio/performance-computers/ascension-4.jpg)
 <br>
-![Gamer 4](/assets/img/portfolio/performance-computers/red-4.jpg)
-<br>
-![Gamer 5](/assets/img/portfolio/performance-computers/red-5.jpg)
-<br>
+![Ascension 5](/assets/img/portfolio/performance-computers/ascension-5.jpg)
+
+
 
 <span id="portable">
 
@@ -123,34 +84,77 @@ Portable PC Part Picker
 
 
 
-<span id="ascension">
+<span id="gamer">
 
 ---
 
 <br>
 
-### Ascension Build
-- Operating System: Windows 10 Pro and Linux Virtual Machines for Testing
-- Processor: Intel 4790K (4 core, 4.0 GHz, 4.4 Turbo)
-- Graphics Card: Asus Strix 970
-- Motherboard: Asus Hero VII
-- Memory: G.Skill Trident X (2400 MHz)
-- Storage: Sandisk Ultra Plus 256GB
-- Power Supply: Evga Supernova G2 850W
-- Case: NZXT H440 Red/Black
+### Low Cost Gamer
+- Operating System: Windows 10 Pro
+- Processor: Intel 6600k (4 core, 3.6 GHz, 3.9 Turbo)
+- Graphics Card: XFX 480 8GB Black
+- Motherboard: Asus H170 Pro Gaming
+- Memory: GSkill (2133 MHz)
+- Storage: Sandisk 240GB SSD + 1 TB HDD
+- Power Supply: 550 80+ Gold
+- Case: Thermaltake Silent
 
-<a class="button" href="http://pcpartpicker.com/list/V2kZf8">
-Ascension PC Part Picker
+<a class="button" href="https://pcpartpicker.com/list/7DwjV6">
+Low Cost Gamer PC Part Picker
 </a>
 
 <br>
-![Ascension 3](/assets/img/portfolio/performance-computers/ascension-3.jpg)
+![Gamer 1](/assets/img/portfolio/performance-computers/red-1.jpg)
 <br>
-![Ascension 2](/assets/img/portfolio/performance-computers/ascension-2.jpg)
+![Gamer 2](/assets/img/portfolio/performance-computers/red-2.jpg)
 <br>
-![Ascension 4](/assets/img/portfolio/performance-computers/ascension-4.jpg)
+![Gamer 3](/assets/img/portfolio/performance-computers/red-3.jpg)
 <br>
-![Ascension 5](/assets/img/portfolio/performance-computers/ascension-5.jpg)
+![Gamer 4](/assets/img/portfolio/performance-computers/red-4.jpg)
+<br>
+![Gamer 5](/assets/img/portfolio/performance-computers/red-5.jpg)
+<br>
+
+
+
+<span id="office">
+
+---
+
+<br>
+
+### Office Conversion
+- Operating System: Windows Pro
+- Processor: i7 3770
+- Graphics Card: XFX 480 8GB Black
+- Memory: 16GB 1600Mhz DDR3
+- Storage: Samsung Evo 256GB
+- Power Supply: 385 80+ Gold
+- Case: Dell Optiplex 7010
+
+<br>
+![Office 1](/assets/img/portfolio/performance-computers/office-1.jpg)
+<br>
+![Office 3](/assets/img/portfolio/performance-computers/office-3.jpg)
+<br>
+![Office 4](/assets/img/portfolio/performance-computers/office-4.jpg)
+<br>
+
+
+
+<span id="server">
+
+---
+
+<br>
+
+### Server
+- Operating System: Custom Arch/Ubuntu Server/ESXi
+- Processor: Dual Xeon
+
+(Pictures to come later...)
+
 
 
 <!-- | Type | Item | Price |

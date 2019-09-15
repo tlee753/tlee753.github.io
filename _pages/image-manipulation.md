@@ -14,9 +14,8 @@ I did the development in python (v3.5) for cross platform functionality combined
 
 <br>
 
-<a class="button" href="https://github.com/tlee753/image-manipulation">
-Github
-</a>
+<a class="button" href="https://github.com/tlee753/image-manipulation">Github</a>
+<a class="button" href="https://github.com/tlee753/image-manipulation/releases/download/v2.0/Main.exe">Windows Release</a>
 
 <br>
 ![Linux](/assets/img/portfolio/image-manipulation/Linux.jpg)
