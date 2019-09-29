@@ -64,6 +64,7 @@ portfoliopage:
 - {name: Homelab, folder: 'homelab', next: '', previous: ''}
 - {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
 - {name: Angel, folder: 'angel', next: '', previous: ''}
+- {name: Venutian Atmospheric Probe Explorer, folder: 'vape', next: '', previous: ''}
 # - {name: Balance App, folder: 'balance-app', next: '', previous: ''}
 # - {name: RGB Board, folder: 'rgb-board', next: '', previous: ''}
 
