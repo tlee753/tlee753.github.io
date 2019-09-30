@@ -3,7 +3,7 @@ layout: portfolio
 title: Autonomous Robotics
 date: 2017-09-06 8:00:00
 permalink: "/autonomous-robotics/"
-progress: 90
+progress: 100
 ---
 
 
@@ -70,3 +70,9 @@ The Programmable Real Time units on the Beagle Bone Blue operate at 200 MHz whic
 The software to control the robot is written using Electron which is a javascript based chromium web app running in a desktop window. The interface to the camera is a live stream web app running on the beagle bone ported into the GUI and the speed control options for each motor use ssh-keys to authenticate a signal file transfer (which is then interpretted by the PRU).
 <br>
 ![robotics-10](/assets/img/portfolio/robotics/robotics-10.png)
+
+### Demo
+<video width="100%" controls>
+    <source src="/assets/img/portfolio/robotics/video.mp4" type="video/mp4">
+    Your broswer does not support the video tag.
+</video>

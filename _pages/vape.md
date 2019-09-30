@@ -97,19 +97,17 @@ Unfortunatly, there is a simple rational argument for Mars is the target: Venus 
 from vpython import *
 import math
 
-scene.width=1920
-scene.height=1080
+scene.width = 1920
+scene.height = 1080
 
 ### Soviet Balloons
 volume = 4/3 * math.pi * (1.75 ** 3)
-# print("Soviet Balloon: %f m^3" % volume)
 sphere(pos=vector(-10, 0, 0), radius=1.75, color=color.red)
 label(pos=vector(-10, 4, 0), text="Soviet Balloon\nVolume: %0.3f" % volume)
 
 ### 25 kg sphere
 radius = 1.814
 volume = 4/3 * math.pi * (radius ** 3)
-# print("Concept Sphere: %f m^3" % volume)
 sphere(pos=vector(-5, 0, 0), radius=radius)
 label(pos=vector(-5, -3, 0), text="25 kg Sphere\nVolume: %0.3f" % volume)
 
@@ -118,7 +116,6 @@ length = 5.305
 width = 4
 height = 2.5
 volume = 4/3 * math.pi * (length/2) * (width/2) * (height/2)
-# print("Concept Ellipsoid: %f m^3" % volume)
 ellipsoid(pos=vector(0, 0, 0), length=length, height=height, width=width, color=color.blue, axis=vector(0, 0, 1))
 label(pos=vector(0, 4, 0), text="25 kg Ellipsoid Front\nVolume: %0.3f" % volume)
 ellipsoid(pos=vector(5, 0, 0), length=length, height=height, width=width, color=color.blue, axis=vector(1, 0, 0))
