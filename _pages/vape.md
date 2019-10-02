@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Venutian Atmospheric Probe Explorer
+title: Venusian Atmospheric Probe Explorer
 date: 2017-09-06 8:00:00
 permalink: "/vape/"
 progress: 70
@@ -27,7 +27,7 @@ th:nth-child(5) {
 </style>
 
 ### Introduction
-Oh yes, that name is definitely intentional. VAPE is cool right? Well this has everything to do with clouds, except there made out of actually poisonous sulfuric acid. This is my "bare minimum engineering approach" research into what a low cost, sustained Venutian Atmosopheric Probe Explorer (VAPE) might look like.
+Oh yes, that name is definitely intentional. VAPE is cool right? Well this has everything to do with clouds, except there made out of actually poisonous sulfuric acid. This is my "bare minimum engineering approach" research into what a low cost, sustained Venusian Atmosopheric Probe Explorer (VAPE) might look like.
 
 <br>
 
