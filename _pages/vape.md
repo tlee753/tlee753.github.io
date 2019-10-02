@@ -35,6 +35,8 @@ So after building model rockets, high altitude balloons, quadcopters, robots and
 
 <br>
 
+<div class="scroll-table" markdown="1">
+
 | Property | Venus | Earth | Mars | Moon |
 | -------- | ----- | ----- | ---- | ---- |
 | Gravitational Force (m/s<sup>2</sup>) | 8.87 | 9.81 | 3.71 | 1.62 |
@@ -43,6 +45,8 @@ So after building model rockets, high altitude balloons, quadcopters, robots and
 | Optimal Travel Time | 3 months | You're Here | 6 months | 3 days |
 | Magnetosphere | Some | Loads | Some | None |
 | Year Length |
+
+</div>
 
 <br>
 

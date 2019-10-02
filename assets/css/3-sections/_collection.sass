@@ -7,7 +7,6 @@
     grid-template-columns: 1fr 1fr 1fr 1fr
     grid-gap: 20px
     padding: 20px
-    align-content: space-around
 
     @media screen and (max-width: 800px)
       padding: 10px
@@ -39,6 +38,25 @@
         size: cover
         repeat: no-repeat
       overflow: hidden
+      align-content: space-around
+      animation: twinkle 5s linear infinite
+      -webkit-animation: twinkle 5s linear infinite
+      -moz-animation: twinkle 5s linear infinite
+
+      &:nth-child(5n)
+        animation-delay: 1s
+
+      &:nth-child(5n + 1)
+        animation-delay: 2s
+
+      &:nth-child(5n + 2)
+        animation-delay: 3s
+
+      &:nth-child(5n + 3)
+        animation-delay: 4s
+
+      &:nth-child(5n + 4)
+        animation-delay: 4s
 
       @media screen and (max-width: 780px)
         // width: 50%
@@ -73,3 +91,20 @@
         +position(absolute, 0% 0px 0px 0px)
 
 
+@keyframes twinkle
+  0%, 100%
+    opactiy: 0.8
+  50%
+    opacity: 0.5
+
+@-webkit-keyframes twinkle
+  0%, 100%
+    opactiy: 0.8
+  50%
+    opacity: 0.5
+
+@-moz-keyframes twinkle
+  0%, 100%
+    opactiy: 0.8
+  50%
+    opacity: 0.5

@@ -113,38 +113,34 @@ socialpage:
 #-------------------------------
 # Collection Section
 interests:
-- {name: My Favorite Quotes, folder: 'quotes', link: '/quotes/'}
+- {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
 - {name: '', folder: '', link: ''}
 - {name: My Bucket List, folder: 'bucket', link: '/bucket/'}
 - {name: '', folder: '', link: ''}
 - {name: '', folder: '', link: ''}
 - {name: My Favorite Books, folder: 'books', link: '/books/'}
 - {name: '', folder: '', link: ''}
-- {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
+- {name: My Favorite Quotes, folder: 'quotes', link: '/quotes/'}
+- {name: My Favorite TED Talks, folder: 'ted', link: '/ted/'}
+- {name: '', folder: '', link: ''}
+- {name: Wanderers, folder: 'wanderers', link: '/wanderers/'}
 - {name: '', folder: '', link: ''}
 - {name: '', folder: '', link: ''}
 - {name: How to Win Friends and Influence People, folder: 'htwfaip', link: 'https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People'}
 - {name: '', folder: '', link: ''}
-- {name: Wanderers, folder: 'wanderers', link: '/wanderers/'}
-- {name: Start with Why, folder: 'why', link: '/why/'}
-- {name: '', folder: '', link: ''}
 - {name: Euler Problems, folder: 'euler', link: 'https://projecteuler.net/'}
-- {name: '', folder: '', link: ''}
-- {name: '', folder: '', link: ''}
 - {name: Intelligence Squared, folder: 'intelligence-squared', link: 'https://www.intelligencesquaredus.org/'}
-- {name: '', folder: '', link: ''}
 - {name: '', folder: '', link: ''}
 - {name: Georgia Tech UNICEF, folder: 'unicef', link: 'http://www.unicef.gatech.edu/'}
 - {name: '', folder: '', link: ''}
 - {name: '', folder: '', link: ''}
-- {name: The Boy and the Starfish, folder: 'starfish', link: '/starfish/'}
+- {name: Start with Why, folder: 'why', link: '/why/'}
 - {name: '', folder: '', link: ''}
 - {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
-- {name: '', folder: '', link: ''}
 - {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
 - {name: '', folder: '', link: ''}
+- {name: The Boy and the Starfish, folder: 'starfish', link: '/starfish/'}
 - {name: '', folder: '', link: ''}
-- {name: TED Talks, folder: 'ted', link: 'https://www.ted.com'}
 - {name: '', folder: '', link: ''}
 - {name: John Wooden, folder: 'wooden', link: 'http://coachwooden.com'}
 - {name: '', folder: '', link: ''}

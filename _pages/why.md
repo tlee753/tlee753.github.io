@@ -7,6 +7,6 @@ permalink: "/why/"
 
 <div id="why-content">
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/sioZd3AxmnE" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
+<iframe width="100%" height="80%" src="https://www.youtube.com/embed/sioZd3AxmnE" frameborder="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
 </div>

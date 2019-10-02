@@ -11,8 +11,10 @@ permalink: "/ted/"
 
     <div class="movie-image">
     
-        <img src="/assets/img/movies/{{ ted.image }}.jpg"/>
-    
+        <!-- <img src="/assets/img/movies/{{ ted.image }}.jpg"/> -->
+
+        <iframe width="100%" height="100%" src="{{ ted.link }}" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     </div>
 
     <div class="movie-content">
@@ -21,7 +23,7 @@ permalink: "/ted/"
     
         <h3 class="movie-title"> {{ ted.title }} </h3>
     
-        <h4 class="movie-year"> {{ ted.year }} </h4>
+        <h4 class="movie-year"> {{ ted.author }} - {{ ted.year }} </h4>
     
         <p class="movie-description"> {{ ted.description }} </p>
     
