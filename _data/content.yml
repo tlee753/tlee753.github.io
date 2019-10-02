@@ -188,11 +188,11 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Flowers for Algernon', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'The Most Dangerous Game', author: '', image: '', year: '',
     description: '',
     review: ''
 }

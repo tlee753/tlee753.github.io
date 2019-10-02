@@ -66,9 +66,14 @@ Unfortunatly, there is a simple rational argument for Mars is the target: Venus 
 
 <br>
 
+<div class="scroll-table" markdown="1">
+
 | Property | Venus | Earth | Mars | Moon |
 | -------- | ----- | ----- | ---- | ---- |
-| Day Length | 8.87 | 9.81 | 3.71 | 1.62 |
+| Day Length | 
+| Year Length |
+
+</div>
 
 <br>
 

@@ -1,9 +1,10 @@
 ul.breadcrumb {
   padding: 10px 16px;
   list-style: none;
-  background-color: #efefef;
+  background-color: $theme-glass;
   font-size: 18px;
   border-radius: 5px;
+  margin: 20px 10px 0px
 }
 
 ul.breadcrumb li {
@@ -17,10 +18,10 @@ ul.breadcrumb li+li:before {
 }
 
 ul.breadcrumb li a {
-  color: lighten($theme-primary, 10%);
+  color: $theme-primary;
   text-decoration: none;
 }
 
 ul.breadcrumb li a:hover {
-  color: $theme-primary;
+  color: lighten($theme-primary, 10%);
 }

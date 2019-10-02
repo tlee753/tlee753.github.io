@@ -712,7 +712,7 @@ body {
 
 table {
   border-collapse: separate;
-  border-spacing: 2px; }
+  border-spacing: 4px; }
 
 td, th {
   padding: 10px;
@@ -897,9 +897,10 @@ hr {
 ul.breadcrumb {
   padding: 10px 16px;
   list-style: none;
-  background-color: #efefef;
+  background-color: rgba(248, 248, 248, 0.7);
   font-size: 18px;
-  border-radius: 5px; }
+  border-radius: 5px;
+  margin: 20px 10px 0px; }
 
 ul.breadcrumb li {
   display: inline; }
@@ -910,11 +911,11 @@ ul.breadcrumb li + li:before {
   content: ">\00a0"; }
 
 ul.breadcrumb li a {
-  color: #245385;
+  color: #193a5d;
   text-decoration: none; }
 
 ul.breadcrumb li a:hover {
-  color: #193a5d; }
+  color: #245385; }
 
 #collection {
   background: #b1b1b1; }
@@ -1818,7 +1819,8 @@ header {
     padding: 10px;
     margin: 0 0 10px 0;
     overflow: hidden;
-    height: 35px; }
+    height: 35px;
+    border-radius: 5px; }
     #gtadvice-content [class^="advice"] ul {
       list-style-type: disc; }
       #gtadvice-content [class^="advice"] ul ul {
@@ -2208,8 +2210,8 @@ header {
     width: 100%;
     text-align: center;
     margin: 0 auto;
-    border-collapse: separate;
-    border-spacing: 0 10px; }
+    padding: 10px 0px;
+    border-collapse: separate; }
     .presentation-contents #presentation-table table tr th {
       padding: 10px;
       font-size: 24px;
@@ -2230,7 +2232,8 @@ header {
         padding: 10px 0px;
         display: inline-block;
         height: 100%;
-        width: 100%; }
+        width: 100%;
+        border-radius: 5px; }
         .presentation-contents #presentation-table table tr td a:hover {
           background-color: ghostwhite;
           color: #193a5d; }
