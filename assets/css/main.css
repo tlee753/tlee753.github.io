@@ -727,6 +727,9 @@ td {
   background-color: #b1b1b1;
   color: #193a5d; }
 
+.scroll-table {
+  overflow: auto; }
+
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
   color: #193a5d;
@@ -920,8 +923,7 @@ ul.breadcrumb li a:hover {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 20px;
-    padding: 20px;
-    align-content: space-around; }
+    padding: 20px; }
     @media screen and (max-width: 800px) {
       #collection .collection-container {
         padding: 10px;
@@ -946,7 +948,21 @@ ul.breadcrumb li a:hover {
       background-position: center center;
       background-size: cover;
       background-repeat: no-repeat;
-      overflow: hidden; }
+      overflow: hidden;
+      align-content: space-around;
+      animation: twinkle 5s linear infinite;
+      -webkit-animation: twinkle 5s linear infinite;
+      -moz-animation: twinkle 5s linear infinite; }
+      #collection .collection-container .collection-unit:nth-child(5n) {
+        animation-delay: 1s; }
+      #collection .collection-container .collection-unit:nth-child(5n + 1) {
+        animation-delay: 2s; }
+      #collection .collection-container .collection-unit:nth-child(5n + 2) {
+        animation-delay: 3s; }
+      #collection .collection-container .collection-unit:nth-child(5n + 3) {
+        animation-delay: 4s; }
+      #collection .collection-container .collection-unit:nth-child(5n + 4) {
+        animation-delay: 4s; }
       #collection .collection-container .collection-unit .collection-overlay {
         position: absolute;
         top: 100%;
@@ -998,6 +1014,21 @@ ul.breadcrumb li a:hover {
         bottom: 0px;
         left: 0px; }
 
+@keyframes twinkle {
+  0%, 100% {
+    opactiy: 0.8; }
+  50% {
+    opacity: 0.5; } }
+@-webkit-keyframes twinkle {
+  0%, 100% {
+    opactiy: 0.8; }
+  50% {
+    opacity: 0.5; } }
+@-moz-keyframes twinkle {
+  0%, 100% {
+    opactiy: 0.8; }
+  50% {
+    opacity: 0.5; } }
 #contact .contact-title {
   margin: 0;
   padding: 15px 0 15px;
@@ -1481,7 +1512,7 @@ header {
     top: 12%;
     transform: translateX(-50%);
     text-align: center;
-    max-width: 560px;
+    max-width: 640px;
     margin: 0 auto;
     font-size: 24px;
     font-weight: 700;
@@ -1750,8 +1781,7 @@ header {
   background-size: 100% 100%; }
   #why-content iframe {
     margin: 0 auto;
-    padding: 10px;
-    max-width: 640px; }
+    padding: 50px 10px 0; }
 
 #wanderers-content {
   height: 100vh;
@@ -1763,7 +1793,7 @@ header {
   align-items: center; }
   #wanderers-content iframe {
     margin: 0 auto;
-    padding: 10px; }
+    padding: 50px 10px 0; }
 
 #starfish-content {
   max-width: 1000px;
@@ -1998,206 +2028,6 @@ header {
           width: 50px; }
       #contact-page #contact-lockup .contact-item .contact-content {
         display: none; } }
-#isabel-page {
-  background: linear-gradient(to bottom right, #00CED1, #FFB6C1, #228B22);
-  height: 100%; }
-  #isabel-page .isabel-image {
-    display: block;
-    margin: 0 auto;
-    width: 300px;
-    border-radius: 25px; }
-  #isabel-page .isabel-title {
-    margin: 0;
-    padding-top: 75px;
-    padding-bottom: 15px;
-    font-family: Garamond, serif;
-    font-size: 30px;
-    text-align: center;
-    color: #00696b; }
-  #isabel-page .isabel-text {
-    margin: 0 auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    font-family: Garamond, serif;
-    font-size: 24px;
-    text-align: center;
-    color: #00696b;
-    max-width: 450px; }
-
-#isabel-album {
-  margin: 0 auto;
-  display: -webkit-box;
-  display: -moz-box;
-  display: box;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flexbox;
-  display: flex;
-  height: 500px;
-  overflow: hidden;
-  -webkit-box-align: center;
-  -moz-box-align: center;
-  box-align: center;
-  -webkit-align-items: center;
-  -moz-align-items: center;
-  -ms-align-items: center;
-  -o-align-items: center;
-  align-items: center;
-  -ms-flex-align: center;
-  -webkit-box-pack: distribute;
-  -moz-box-pack: distribute;
-  box-pack: distribute;
-  -webkit-justify-content: space-around;
-  -moz-justify-content: space-around;
-  -ms-justify-content: space-around;
-  -o-justify-content: space-around;
-  justify-content: space-around;
-  -ms-flex-pack: distribute; }
-  #isabel-album .isabel-slot {
-    width: 25%;
-    height: 100%;
-    margin: 0;
-    padding: 0; }
-  #isabel-album .isabel-photo {
-    height: 100%;
-    width: 100%;
-    object-fit: cover; }
-
-#countdown {
-  background: #00ECB9;
-  font-family: Garamond, serif;
-  text-align: center;
-  color: white; }
-  #countdown h3 {
-    text-align: center;
-    color: white;
-    margin: 0 auto;
-    padding: 10px 0;
-    font-size: 36px;
-    font-weight: 600; }
-  #countdown hr {
-    width: 40%;
-    border: 1px solid #FFB6C1;
-    margin: 0 auto 5px; }
-  #countdown #clock {
-    display: inline-block;
-    text-align: center;
-    font-size: 30px;
-    font-weight: 400;
-    padding-bottom: 5px; }
-    #countdown #clock div {
-      display: inline-block;
-      padding: 10px;
-      border-radius: 3px;
-      background: #00BF96;
-      margin: 5px; }
-      #countdown #clock div span {
-        display: inline-block;
-        padding: 15px;
-        border-radius: 3px;
-        background: #00816A; }
-      #countdown #clock div .clock-labels {
-        padding-top: 5px;
-        color: white;
-        font-size: 16px;
-        font-weight: 400; }
-
-#postcard {
-  margin: 0;
-  padding: 25px;
-  height: calc(100vh - 100px);
-  background-color: #193a5d;
-  background-image: url(/blog/images/Switzerland/Interlaken/Interlaken-11.JPG);
-  background-size: cover;
-  background-position: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover; }
-  #postcard #postcard-stamp {
-    position: relative;
-    display: block;
-    float: right;
-    max-width: 25%; }
-  #postcard #postcard-letter {
-    position: relative;
-    display: block;
-    float: left;
-    overflow: auto;
-    height: 100%;
-    width: 50%;
-    background-color: ghostwhite; }
-    #postcard #postcard-letter h4 {
-      margin: 0;
-      padding: 10px; }
-    #postcard #postcard-letter p {
-      padding: 10px;
-      margin: 0; }
-    #postcard #postcard-letter .postcard-centered {
-      text-align: center; }
-    #postcard #postcard-letter hr {
-      width: 90%;
-      margin: 0 auto;
-      padding: 5px; }
-
-.isabel-poetry {
-  background: linear-gradient(to right, whitesmoke, gold, whitesmoke);
-  height: 100%;
-  font-family: Garamond, serif; }
-  .isabel-poetry h3 {
-    padding: 10px 0;
-    margin: 0;
-    color: white;
-    text-align: center;
-    font-size: 36px;
-    font-weight: 600; }
-  .isabel-poetry .isabel-poem {
-    text-align: center;
-    max-width: 620px;
-    padding: 0 20px;
-    margin: 0 auto;
-    font-size: 22px;
-    font-weight: 400; }
-    .isabel-poetry .isabel-poem .poem-newline {
-      color: white;
-      padding-top: 10px;
-      line-height: 100%; }
-    .isabel-poetry .isabel-poem .poem-endline {
-      color: white;
-      padding-bottom: 20px;
-      line-height: 100%; }
-    .isabel-poetry .isabel-poem .poem-line {
-      color: white;
-      padding: 0;
-      margin: 0;
-      line-height: 100%; }
-
-#isabel-prom {
-  padding: 10px;
-  overflow: auto; }
-  #isabel-prom img {
-    display: block;
-    padding: 0;
-    max-height: 80vh;
-    max-width: calc(100vw - 20px);
-    margin: 0 auto; }
-
-@media screen and (max-width: 500px) {
-  #isabel-page .isabel-title {
-    font-size: 22px; }
-  #isabel-page .isabel-image {
-    width: 150px; }
-  #isabel-page .isabel-text {
-    line-height: 100%; }
-
-  #countdown h3 {
-    font-size: 24px; }
-  #countdown #clock {
-    font-size: 22px; }
-
-  .isabel-poetry h3 {
-    font-size: 22px; }
-  .isabel-poetry .isabel-poem {
-    font-size: 16px; } }
 .movie-container {
   height: 300px;
   overflow: hidden;

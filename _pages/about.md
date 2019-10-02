@@ -9,7 +9,11 @@ permalink: "/about/"
 
 <div id="profile-background">Test</div>
 
-<p class="profile-text">If you think you can or can't, <i>you're right</i><br>- Henry Ford</p>
+<p class="profile-text">
+    If you think you can or can't, <i>you're right</i><br>- Henry Ford
+    <br><br>
+    The items below are simply a collection of some of my favorite things and a little insight into who I am :)
+</p>
 
 </section>
 
