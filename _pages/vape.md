@@ -48,7 +48,7 @@ So after building model rockets, high altitude balloons, quadcopters, robots, et
 | Average Distance from Earth (AU) | 1.135 | - | 1.693 | 0.00257 |
 | Average Round Trip Comm Time | 18.3 min | - | 28.2 min | 2.6 sec |
 | Surface Atmospheric Pressure (atm) | 93 | 1 | 0.006 | 0 |
-| Magnetosphere | None | Loads | None | None |
+| Surface Magnetic Field (gauss) | None | 25 - 65 | None | None |
 
 </div>
 
