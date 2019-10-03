@@ -230,7 +230,7 @@ label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
 - [Venus HAVOC Hype Video](https://www.youtube.com/watch?v=0az7DEwG68A&feature=youtu.be)
 - [Clouds of Venus Dyamics Uncertainty](https://www.skyandtelescope.com/astronomy-news/venus-clouds-puzzle-scientists/)
 - [HAVOC Concept NASA](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160006329.pdf)
-- https://ntrs.nasa.gov/search.jsp?R=20160006329
+    - https://ntrs.nasa.gov/search.jsp?R=20160006329
 - [Colonizing Venus](https://www.universetoday.com/130482/how-do-we-colonize-venus/)
 - [European Venus Explorer Concept](https://mathscinotes.com/wp-content/uploads/2016/02/02_The-European-Venus-Explorer-EVE-2010-Mission-Proposal_C.-Wilson-1.pdf)
 - [Russian Balloon Calcs](https://www.mathscinotes.com/2016/02/floating-habitat-on-venus/)
@@ -239,7 +239,7 @@ label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
 - [Raspberry Pi Power Consumption](https://www.jeffgeerling.com/blogs/jeff-geerling/raspberry-pi-zero-power)
 - [Batteries](https://www.amazon.com/Batteries-Rechargeable-Non-Button-High-Capacity-Flashlight/dp/B07Y1MDPT9/ref=asc_df_B07XP6BP2L/?tag=&linkCode=df0&hvadid=365896412151&hvpos=1o1&hvnetw=g&hvrand=2824005550531793629&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010753&hvtargid=pla-819940596628&ref=&adgrpid=73640491182&th=1)
 - [Pumpkin Battery](http://www.pumpkininc.com/space/datasheet/710-01640-F_DS_BM_2.pdf)
-- https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM_2%29.html
+    - https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM_2%29.html
 - [NASA GEVS](https://standards.nasa.gov/standard/gsfc/gsfc-std-7000)
 - [RC Model](https://www.youtube.com/watch?v=s1w6a8PbIus)
 
