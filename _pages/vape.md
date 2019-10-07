@@ -246,7 +246,7 @@ label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
 - [Mars Composition](https://www.universetoday.com/14702/what-is-mars-made-of/)
 - [Hohmann Transfer window speed up](https://www.lpi.usra.edu/meetings/marsconcepts2012/pdf/4181.pdf)
 - [Earth to Venus time](http://clowder.net/hop/railroad/EV.htm)
-- [Venus Closest Neighbor]()
+- [Venus Closest Neighbor](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20190312a/full/)
 - [Terraforming Venus/Mars](https://slate.com/human-interest/2013/09/outer-space-can-we-make-mars-or-venus-habitable.html)
 - [Venusian Atmosphere](https://www.danielyeow.com/2015/venus/)
 
