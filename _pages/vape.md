@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: Venusian Atmospheric Probe Explorer
-date: 2017-09-06 8:00:00
+date: 2019-09-06 8:00:00
 permalink: "/vape/"
 progress: 70
 ---
@@ -242,6 +242,13 @@ label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
     - https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM_2%29.html
 - [NASA GEVS](https://standards.nasa.gov/standard/gsfc/gsfc-std-7000)
 - [RC Model](https://www.youtube.com/watch?v=s1w6a8PbIus)
+- [Venus Weather Patterns](https://www.universetoday.com/14282/how-long-is-a-day-on-venus/)
+- [Mars Composition](https://www.universetoday.com/14702/what-is-mars-made-of/)
+- [Hohmann Transfer window speed up](https://www.lpi.usra.edu/meetings/marsconcepts2012/pdf/4181.pdf)
+- [Earth to Venus time](http://clowder.net/hop/railroad/EV.htm)
+- [Venus Closest Neighbor]()
+- [Terraforming Venus/Mars](https://slate.com/human-interest/2013/09/outer-space-can-we-make-mars-or-venus-habitable.html)
+- [Venusian Atmosphere](https://www.danielyeow.com/2015/venus/)
 
 - [Voyager RTDs](https://en.wikipedia.org/wiki/MHW-RTG)
 - [Venus Express ESA](https://en.wikipedia.org/wiki/Venus_Express)
