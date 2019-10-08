@@ -2032,29 +2032,29 @@ header {
         display: none; } }
 .movie-container {
   height: 300px;
+  min-height: 300px;
   overflow: hidden;
   border-bottom: 2px solid #193a5d;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  display: flex; }
   .movie-container::after {
     clear: both;
     content: "";
     display: table; }
   .movie-container .movie-image {
     background: linear-gradient(to right, #193a5d, #b1b1b1, #193a5d);
-    height: 100%;
     width: 25%;
-    display: block;
-    float: left;
-    z-index: -1; }
+    display: flex;
+    justify-content: center;
+    overflow: hidden; }
     .movie-container .movie-image img {
       height: 100%;
-      margin: 0 auto;
-      display: block; }
+      object-fit: cover;
+      align-self: center; }
   .movie-container .movie-content {
-    background-color: #efefef;
     height: 100%;
-    widtH: 75%;
+    width: 75%;
     display: block;
     float: left; }
     .movie-container .movie-content .movie-title {
