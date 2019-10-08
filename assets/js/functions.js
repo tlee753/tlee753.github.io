@@ -1,15 +1,11 @@
 $(document).ready(function() {
+
     //smoothScroll(1000);
 
     $('.handle').on('click', function(){
-        //document.body.style.backgroundColor = '#000000';
         $('#navbar ul').toggleClass('show');
         $('#navbar-menu svg').toggleClass('show');
     });
-
-    // $("img").unveil(1000);
-
-    // $('[class^="advice"]')
 
     $('[class^="advice"]').on('click', function(){
         var divHeight = $(this).height();
@@ -22,13 +18,12 @@ $(document).ready(function() {
 
     $('.movie-container').on('click', function(){
         var divHeight = $(this).height();
-        if (divHeight > 300) {
-            movieShrinkDiv($(this));
-        } else {
+        if (divHeight <= 300) {
             expandDiv($(this));
+        } else {
+            movieShrinkDiv($(this));
         }
     });
-
 
 });
 

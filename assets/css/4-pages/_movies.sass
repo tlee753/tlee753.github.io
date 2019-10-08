@@ -1,28 +1,29 @@
 .movie-container
   height: 300px
+  min-height: 300px
   overflow: hidden
   border-bottom: 2px solid $theme-primary
   margin: 0
   padding: 0
+  display: flex
   +clearfix()
 
   .movie-image
     background: linear-gradient(to right, $theme-primary, $theme-secondary, $theme-primary)
-    height: 100%
     width: 25%
-    display: block
-    float: left
-    z-index: -1
+    display: flex
+    justify-content: center
+    overflow: hidden
 
     img
       height: 100%
-      margin: 0 auto
-      display: block
+      object-fit: cover
+      align-self: center
 
   .movie-content
-    background-color: $theme-quartiary
+    // background-color: $theme-quartiary
     height: 100%
-    widtH: 75%
+    width: 75%
     display: block
     float: left
 
