@@ -47,13 +47,16 @@ So after building model rockets, high altitude balloons, quadcopters, robots, et
 | Year Length (Earth Days) | 224.7 | 365 | 687 | - |
 | Average Distance from Earth (AU) | 1.135 | - | 1.693 | 0.00257 |
 | Average Round Trip Comm Time | 18.3 min | - | 28.2 min | 2.6 sec |
-| Surface Atmospheric Pressure (atm) | 93 | 1 | 0.006 | 0 |
-| Surface Magnetic Field (gauss) | None | 25 - 65 | None | None |
 
 </div>
+*Data is likely debatable but horizontal rows are source congruent for comparison
 
 <br>
+
 ### Distance Calculations
+I'm a bit of a believer in "closer is better" when it comes to space, and since this is a small step in the long term mission towards human inhabitation of other celestial bodies, I decided to do the math out and see what communication times are going to be like. First, I used a simplified formula for finding the average distance between roughly spherical orbiting bodies over an infinite span. From there it is simple unit conversion to see how long the round radio talk time is. [This source](https://physicstoday.scitation.org/do/10.1063/PT.6.3.20190312a/full/) was particularly helpful in the distance calculations and there [accompanying video](https://www.youtube.com/watch?v=GDgbVIqGADQ&feature=youtu.be) is a cool demonstration of why Mercury is actually the closest planet to Earth. Anyway, the output shown below is also in the above table.
+
+<br>
 
 `pip install scipy`
 
@@ -99,6 +102,7 @@ print("Average Earth to Moon Distance: %0.9f AU" % earthMoonDist)
 print("Average Earth to Moon Round Trip Time: %0.3f seconds" % earthMoonTime)
 ```
 
+Output
 ```
 Average Earth to Venus Distance: 1.135 AU
 Average Earth to Venus Round Trip Time: 1133 seconds
@@ -109,13 +113,12 @@ Average Earth to Mars Round Trip Time: 1689 seconds
 Average Earth to Moon Distance: 0.002573570 AU
 Average Earth to Moon Round Trip Time: 2.568 seconds
 ```
-*Interesting note that Mercury is actually the closest planet on average to Earth at 1.038 AU, in fact on average Mercury is the closest to every planet
 
 <br>
 
 ### Solar Energy Analysis
 
-Just a quick foray into Space Engine demonstrates how different the amount of light each planet receives. In terms of human math, more sunlight equals more energy. You can clearly see Venus gets about twice as much sunlight as the Martians, and no this isn't playing with angles; probes sent to Mars have 4 times more solar panels (inverse square law for light).
+Just a quick foray into Space Engine demonstrates how different the amount of light each planet receives. In terms of humans, more sunlight equals more energy. You can clearly see Venus gets about twice as much sunlight as the Martians, and no this isn't playing with angles; probes sent to Mars have 4 times more solar panels (inverse square law for light).
 
 <br>
 Venus
@@ -127,6 +130,12 @@ Mars
 
 <br>
 
+### Composition
+We aren't able to pro
+
+<br>
+
+### The Harsh Reality
 Unfortunatly, there is a simple rational argument for Mars is the target: Venus is a living hell at the moment. With surface temperatures exceeding 800* Celcius and pressure exceeding 92 Earth Atmospheres, humans walking on our sister planet just isn't happening anytime soon.
 
 <br>
@@ -135,11 +144,11 @@ Unfortunatly, there is a simple rational argument for Mars is the target: Venus 
 
 | Property | Venus | Earth | Mars | Moon |
 | -------- | ----- | ----- | ---- | ---- |
-| Siddereal Day Length | 243.025 days | 24 hours | 
-| Solar Day Length | 116.75 days | 24 hours | 
-| Year Length |
+| Siddereal Day Length | 243.025 days | 24 hours | 25 hours | 28 days |
+| Solar Day Length | 116.75 days | 24 hours | 25 hours | 28 days |
 | Average Surface Temperature (°Celcius) | 462 | 14 | -63 | 107 / -153 |
 | Surface Atmospheric Pressure (atm) | 93 | 1 | 0.006 | 0 |
+| Surface Magnetic Field (gauss) | None | 25 - 65 | None | None |
 
 </div>
 

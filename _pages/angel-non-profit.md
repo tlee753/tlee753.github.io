@@ -7,7 +7,7 @@ progress: 40
 ---
 
 
-Simple non-profit idea to aid in the contribution of ideas, resources, and funding to the improvement of the world. :)
+Simple non-profit idea to aid in the contribution of ideas, resources, and funding to the improvement of the world. I'm currently working on the backend, URL, IT resources, and account management features. :)
 
 <br>
 <a class="button" href="https://tlee753.com/angel/">
