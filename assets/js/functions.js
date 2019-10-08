@@ -20,6 +20,15 @@ $(document).ready(function() {
         }
     });
 
+    $('.movie-container').on('click', function(){
+        var divHeight = $(this).height();
+        if (divHeight > 300) {
+            movieShrinkDiv($(this));
+        } else {
+            expandDiv($(this));
+        }
+    });
+
 
 });
 
@@ -41,6 +50,10 @@ function smoothScroll (duration) {
 // GT advice/explore pages
 function shrinkDiv (divElement) {
     divElement.animate({height: '35px'});
+}
+
+function movieShrinkDiv (divElement) {
+    divElement.animate({height: '300px'});
 }
 
 function expandDiv (divElement) {
