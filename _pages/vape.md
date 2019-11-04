@@ -27,7 +27,7 @@ th:nth-child(5) {
 </style>
 
 ### Introduction
-Oh yes, that name is definitely intentional. VAPE is cool right? Well this has everything to do with clouds, except there made out of  poisonous sulfuric acid. This is my "bare minimum engineering approach" research into what a low cost, sustained Venusian Atmosopheric Probe Explorer (VAPE) might look like.
+Oh yes, that name is definitely intentional. Well this has everything to do with clouds, except there made out of poisonous sulfuric acid. This is my "simple engineering approach" research into what a low cost, sustained Venusian Atmosopheric Probe Explorer (VAPE) might look like.
 
 <br>
 
@@ -131,7 +131,7 @@ Mars
 <br>
 
 ### Composition
-We aren't able to pro
+Surface composition is very similar across the three major terrestrial planets. 
 
 <br>
 

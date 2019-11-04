@@ -2,6 +2,7 @@
 layout: post
 title: Border Waters
 date: 2014-06-28 12:00:00
+tags: travel
 category: Canada
 thumbnail: Canada/Border%20Waters/slider.jpg
 ---

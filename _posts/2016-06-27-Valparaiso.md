@@ -2,6 +2,7 @@
 layout: post
 title: Valparaiso
 date: 2016-06-27 16:00:00
+tags: travel
 category: Chile
 thumbnail: Chile/Valparaiso/slider.jpg
 ---
