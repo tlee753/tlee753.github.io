@@ -2,6 +2,7 @@
 layout: post
 title: Galapagos Islands
 date: 2016-07-14 12:00:00
+tags: travel
 category: Ecuador
 thumbnail: Ecuador/Galapagos/slider.jpg
 ---

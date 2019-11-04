@@ -4,6 +4,7 @@ menu:
 - {name: About, link: '/about'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Blog, link: '/blog'}
+- {name: Travel, link: '/travel'}
 - {name: Contact, link: '/contact'}
 
 
@@ -38,6 +39,8 @@ portfolio:
 #-------------------------------
 # Portfolio Page
 portfoliopage:
+- {name: Venusian Atmospheric Probe Explorer, folder: 'vape', next: '', previous: ''}
+- {name: Angel Nonprofit, folder: 'angel-nonprofit', next: '', previous: ''}
 - {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
 - {name: Performance Computers, folder: 'performance-computers', next: '', previous: ''}
 - {name: Rocketry, folder: 'rocketry', next: '', previous: ''}
@@ -63,8 +66,6 @@ portfoliopage:
 - {name: Personal Finance Club, folder: 'finance-club', next: '', previous: ''}
 - {name: Homelab, folder: 'homelab', next: '', previous: ''}
 - {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
-- {name: Angel Nonprofit, folder: 'angel-nonprofit', next: '', previous: ''}
-- {name: Venusian Atmospheric Probe Explorer, folder: 'vape', next: '', previous: ''}
 # - {name: Balance App, folder: 'balance-app', next: '', previous: ''}
 # - {name: RGB Board, folder: 'rgb-board', next: '', previous: ''}
 

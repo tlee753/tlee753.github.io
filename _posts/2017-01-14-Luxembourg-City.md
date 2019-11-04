@@ -2,6 +2,7 @@
 layout: post
 title: Luxembourg City
 date: 2017-01-14 12:00:00
+tags: travel
 category: Luxembourg
 thumbnail: Luxembourg/Luxembourg%20City/slider.jpg
 ---

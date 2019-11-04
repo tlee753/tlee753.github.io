@@ -9,7 +9,11 @@ thumbnail: Switzerland/Geneva/Geneva-43.jpg
 
 # First Post
 
-I am ~~gearing up to~~ adding all of my travels to my website, looking forward to detailing my **adventures**!
+Thought I would start a little blog for some mindless thoughts and questions...
+
+<br>
+
+Also, I am ~~gearing up to~~ adding all of my travels to my website, looking forward to detailing my **adventures**!
 
 {% highlight ruby linenos %}
 def print_hi(name)

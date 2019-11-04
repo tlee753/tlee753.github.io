@@ -2,6 +2,7 @@
 layout: post
 title: Interlaken
 date: 2017-02-11 12:00
+tags: travel
 category: Switzerland
 thumbnail: Switzerland/Interlaken/slider.jpg
 ---

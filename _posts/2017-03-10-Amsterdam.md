@@ -2,6 +2,7 @@
 layout: post
 title: Amsterdam
 date: 2017-03-10 12:00
+tags: travel
 category: Netherlands
 thumbnail: Netherlands/Amsterdam/slider.jpg
 ---
