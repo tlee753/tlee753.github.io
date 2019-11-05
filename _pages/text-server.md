@@ -52,4 +52,6 @@ Dockerized Flask Server
 <br>
 ![Insight 2](/assets/img/portfolio/text-server/insight-2.png)
 <br>
+![Portainer](/assets/img/portfolio/text-server/portainer.png)
+<br>
 ![Server](/assets/img/portfolio/text-server/server.png)

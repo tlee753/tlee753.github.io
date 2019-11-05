@@ -75,7 +75,7 @@ permalink: "/bucket/"
 ### Athletics
 - [x] Land a front flip (on land)
 - [ ] Full backflip
-- [ ] Run a marathon
+- [x] Run a marathon
 - [ ] Finish an Iron Man
 - [x] Juggle a soccer ball (30 touches mixed min)
 - [x] Juggle

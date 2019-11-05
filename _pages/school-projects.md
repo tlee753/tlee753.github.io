@@ -8,12 +8,16 @@ progress: 100
 
 
 ### SQL/PHP Database with Session Mangaement
-![Datbase 1](/assets/img/portfolio/school-projects/database-1.png)
+![Database 1](/assets/img/portfolio/school-projects/database-1.png)
 <br>
-![Datbase 2](/assets/img/portfolio/school-projects/database-2.png)
+![Database 2](/assets/img/portfolio/school-projects/database-2.png)
 <br>
 <!-- ![Datbase 3](/assets/img/portfolio/school-projects/database-3.png)
 <br> -->
+![Database 4](/assets/img/portfolio/school-projects/database-4.png)
+<br>
+![Database 5](/assets/img/portfolio/school-projects/database-5.png)
+<br>
 
 ### Interactive D3
 <a class="button" href="/plane-crashes">

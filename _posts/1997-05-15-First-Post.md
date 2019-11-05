@@ -2,7 +2,8 @@
 layout: post
 title: First Post
 date: 1997-05-15 8:00:00
-category: Whoville
+tags:
+category: Misc
 thumbnail: Switzerland/Geneva/Geneva-43.jpg
 ---
 
