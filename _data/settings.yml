@@ -39,8 +39,9 @@ portfolio:
 #-------------------------------
 # Portfolio Page
 portfoliopage:
-- {name: Venusian Atmospheric Probe Explorer, folder: 'vape', next: '', previous: ''}
 - {name: Angel Nonprofit, folder: 'angel-nonprofit', next: '', previous: ''}
+- {name: Venusian Atmospheric Probe Explorer, folder: 'vape', next: '', previous: ''}
+- {name: Vestibular Balance, folder: 'vestibular-balance', next: '', previous: ''}
 - {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
 - {name: Performance Computers, folder: 'performance-computers', next: '', previous: ''}
 - {name: Rocketry, folder: 'rocketry', next: '', previous: ''}
