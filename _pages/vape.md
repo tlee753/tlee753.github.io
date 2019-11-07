@@ -154,6 +154,9 @@ Unfortunatly, there is a simple rational argument for Mars is the target: Venus 
 
 <br>
 
+### The Big Idea
+The 
+
 ### Goals
 - ultra low cost
 - open source
@@ -209,6 +212,10 @@ label(pos=vector(5, -3, 0), text="25 kg Ellipsoid Side")
 ellipsoid(pos=vector(10, 0, 0), length=length, height=height, width=width, color=color.blue, axis=vector(0, 1, 0))
 label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
 ```
+
+<br>
+
+<iframe src="/assets/docs/vape-size-comp.html" width="100%" height="600" frameBorder="0" style="overflow: hidden; margin: 0; padding: 0;" scrolling="no"></iframe>
 
 <br>
 
