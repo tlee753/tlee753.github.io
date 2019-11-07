@@ -213,6 +213,8 @@ ellipsoid(pos=vector(10, 0, 0), length=length, height=height, width=width, color
 label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
 ```
 
+Output
+
 <br>
 
 <iframe src="/assets/docs/vape-size-comp.html" width="100%" height="600" frameBorder="0" style="overflow: hidden; margin: 0; padding: 0;" scrolling="no"></iframe>
@@ -233,6 +235,7 @@ label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
 <br>
 ![cfd 7](/assets/img/portfolio/vape/cfd-7.png)
 
+<br>
 
 ### Links to Add / Sources
 - [Forbes Mars vs Venus](https://www.forbes.com/sites/quora/2017/10/18/is-venus-a-better-place-to-colonize-than-mars/#668f8b8a5c47)
