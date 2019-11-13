@@ -645,6 +645,14 @@ movies:
     description: '',
     review: ''
 }
+- { title: 'The Butterfly Effect', image: 'butterfly-effect', year: '',
+    description: '',
+    review: ''
+}
+- { title: 'Rocketman', image: 'rocketman', year: '',
+    description: '',
+    review: ''
+}
 - { title: 'Scarface', image: 'scarface', year: '1983',
     description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
     review: ''
