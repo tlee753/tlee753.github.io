@@ -39,6 +39,7 @@ portfolio:
 #-------------------------------
 # Portfolio Page
 portfoliopage:
+- {name: Football Automute, folder: 'football-automute', next: '', previous: ''}
 - {name: Angel Nonprofit, folder: 'angel-nonprofit', next: '', previous: ''}
 - {name: Venusian Atmospheric Probe Explorer, folder: 'vape', next: '', previous: ''}
 - {name: Vestibular Balance, folder: 'vestibular-balance', next: '', previous: ''}
