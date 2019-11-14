@@ -196,15 +196,15 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'East of Eden', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: '12 Rules for Life', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Seveneves', author: '', image: '', year: '',
     description: '',
     review: ''
 }

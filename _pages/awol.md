@@ -14,7 +14,7 @@ Simple 2D game idea leveled survival game idea which strives to
 ### Android Beta Build
 Just for testing, download at your own discretion.
 <br>
-<a class="button" href="/assets/docs/raiders.apk">
+<a class="button" href="https://github.com/tlee753/awol/releases/download/0.1/raiders.apk">
 Android Beta Build
 </a>
 <br>
@@ -48,6 +48,6 @@ Making some progress...
 ### Android Beta Build
 Just for testing, download at your own discretion.
 <br>
-<a class="button" href="/assets/docs/raiders.apk">
+<a class="button" href="https://github.com/tlee753/awol/releases/download/0.1/raiders.apk">
 Android Beta Build
 </a>

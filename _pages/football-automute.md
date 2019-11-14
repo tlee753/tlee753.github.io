@@ -50,9 +50,7 @@ from keras.callbacks import ModelCheckpoint
 
 # get basic file properties to make sure files are comparable
 def readFileProperties(filename):
-
     waveFile = open(filename, "rb")
-
     fmt = waveFile.read(36)
     
     numChannels = struct.unpack('<H', fmt[10:12])[0]
@@ -60,22 +58,28 @@ def readFileProperties(filename):
     bitDepth = struct.unpack('<H', fmt[22:24])[0]
 
     waveFile.close()
-
     return (numChannels, sampleRate, bitDepth)
 
 # get descriptive audio data coefficients for nueral network to process
 def extractFeatures(filename):
-   
     try:
         audio, sampleRate = librosa.load(filename, res_type='kaiser_fast')
         mfccs = librosa.feature.mfcc(y=audio, sr=sampleRate, n_mfcc=40)
-        
     except Exception as e:
         print(e)
         return None
-     
     mfccs = mfccs[:, :215] # limit clips to ~5 seconds
     return mfccs
+
+# view mel frequency cepstrum coefficient spectogram
+def viewMfcss(mfccs, title):
+    import matplotlib.pyplot as plt
+    plt.figure(figsize=(10, 4))
+    librosa.display.specshow(mfccs, x_axis='time')
+    plt.colorbar()
+    plt.title(title)
+    plt.tight_layout()
+    plt.show()
 
 # parse audio data into a pandas dataframe
 audiodata = []
@@ -84,12 +88,16 @@ for i in range(106):
     filename = "wav-audio/nfl-%03d.wav" % i
     metadata = readFileProperties(filename)
     features = extractFeatures(filename)
+    # if i == 1:
+    #     viewMfcss(features, "NFL MFCCS")
     audiodata.append([0, metadata[0], metadata[1], metadata[2], features])
 
 for i in range(19):
     filename = "wav-audio/ad2-%03d.wav" % i
     metadata = readFileProperties(filename)
     features = extractFeatures(filename)
+    # if i == 1:
+    #     viewMfcss(features, "AD MFCCS")
     audiodata.append([1, metadata[0], metadata[1], metadata[2], features])
 
 dataFrame = pd.DataFrame(audiodata, columns=['adBool', 'numChannels', 'sampleRate', 'bitDepth', 'features'])
@@ -179,9 +187,12 @@ print(model.predict(testX, batch_size=None, verbose=1, steps=None))
 
 <br>
 Output, showing above 95% accuracy
-
 ![basics](/assets/img/portfolio/football-automute/basics.png)
 
+<br>
+![NFL MFCCS](/assets/img/portfolio/football-automute/nfl-mfccs.png)
+<br>
+![AD MFCCS](/assets/img/portfolio/football-automute/ad1-mfccs.png)
 <br>
 
 ### Next steps
