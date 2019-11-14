@@ -49,6 +49,7 @@ permalink: "/bucket/"
 - [ ] Motorcycle license
 - [ ] FCC Certification
 - [ ] HAM Radio Certification
+- [ ] Chess Expert (2000+ rating)
 
 ### Travel
 - [ ] Visit every inhabited continent (5/6)
@@ -62,12 +63,12 @@ permalink: "/bucket/"
 - [ ] Learn another new language (Italian)
 - [ ] Learn basic sign language
 - [x] Solve a rubik's cube in under 2 minutes
-- [ ] Play an instrument (electric guitar?)
-- [ ] Play another instrument (piano?)
+- [ ] Play an instrument (electric guitar)
+- [ ] Play another instrument (piano)
 
 ### Contributions
 - [ ] Make a meaningful anonymous donation (Widow's Offering...)
-- [ ] Write a book (open source publication)
+- [ ] Write a book (open source publication if published)
 - [ ] Plant an orchard
 - [ ] Make a quote book (Iannarino-esque)
 - [ ] Giving blood 20 times (2/20)

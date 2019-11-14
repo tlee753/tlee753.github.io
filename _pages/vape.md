@@ -155,21 +155,22 @@ Unfortunatly, there is a simple rational argument for Mars is the target: Venus 
 <br>
 
 ### The Big Idea
-The 
+The idea is to take advantage of uniquely Earth-like atmospheric conditions to put a scientific probe into the upper atmosphere. My rational is an extremely low cost probe would have minimal risk compared to a larger, more expensive payload, and would teach us enormous amounts about how the Venusian climate functions. Everything from the wind current forces, Soviet "rain" conjecture, sustainability of solar visibility for the solar panels, and longevity of an atmospheric spacecraft could be tested without much fear of losing the craft.
 
-### Goals
+In a list my major goals are as follows:
 - ultra low cost
 - open source
     - design
-    - hardware
-    - software
-- launchable on low cost rocket
-- sustained as long as possible in atmosphere
-- buildable
+    - hardware (electronics)
+    - software (CFE or fPrime, not sure which framework yet)
+- launchable on low cost rocket (ideally cheap launch cost but lowers dimension capability)
+- design to remain afloat for as long as possible in atmosphere (a la Oppurtunity on Mars...)
+- buildable (I would like to build it, not sure why)
 
 <br>
 
 ### Background Research
+It wouldn't problem solving if I didn't start research what we do and do not already know
 - HAVOC
 - Soviet Landers
 
@@ -213,7 +214,7 @@ ellipsoid(pos=vector(10, 0, 0), length=length, height=height, width=width, color
 label(pos=vector(10, 4, 0), text="25 kg Ellipsoid Top")
 ```
 
-Output
+Interactive Output (right click and drag to move on desktop)
 
 <br>
 
