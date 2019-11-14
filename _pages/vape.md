@@ -170,15 +170,27 @@ In a list my major goals are as follows:
 <br>
 
 ### Background Research
-It wouldn't problem solving if I didn't start research what we do and do not already know
-- HAVOC
-- Soviet Landers
+It wouldn't problem solving if I didn't start with researching what we do and do not already know. The two major operational venutian missions to analyze are the HAVOC (High Altitude Venus Operational Concept) created by NASA and the balloons flown on Venus by the Soviets during the space race.
+
+#### HAVOC
+NASA Goddard's proposal involves a two phase approach. First, a steerable robotic blimp makes its way to the Venusian atmosphere with a largely scientific payload to study the environmental conditions and prepare for the next phase which is sending humans into a much larger blimp. From here, the decision on a permanent presence on our sister planet can be thoroughly evaluated.
+
+![HAVOC](/assets/img/portfolio/vape/havoc.png)
+<br>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/0az7DEwG68A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Its an awesome proposal, all credit to the mission concept team at Goddard. From the outside, it seems to cover everything my probe does and more and to be honest when I started reading the extensive research documentation, I nearly axed this project. So what am I doing differently? Dirt cheap cost, minimal risk, and simple design for easy iteration. I actually consider my concept to be a further precursor to robotic mission of the HAVOC. Losing a tiny blimp due to some unforseen conditions is far easier on the taxpayers than a 100+ foot long blimp. Plus, worst case, you realize it isn't good enough for further mission planning, you can just gather up the images and science data and save yourself the trouble until bio-technology advances to where you can terraform the planet.
+
+#### Soviet Balloons
+A sleeper in the space race, the Soviet exploration of Venus is mind numbingly interesting. As part of their Venusian lander program, they also sent two balloons into the upper atmosphere, albeit without any kind of energy generation so they only lasted a day or so. Still, they provide a great starting point for developing my small scale blimp concept and give detailed measurements on wind forces, suggests of "rain" as they slowly sunk, and a comparable model for buoyancy forces.
 
 <br>
 
 ### Concept
-![size comparison](/assets/img/portfolio/vape/size-comp.png)
+So based on the Soviet balloon payloads, I wanted to create a target model with similar bouyancy characteristics, meaning a similar volume. I also wanted to incorporate a mildly flat surface for solar panels so I decided on an elipsoid. Messing around with a few axial parameters in `vPython` I came up with the following as a satisfactory model.
 
+<br>
+![size comparison](/assets/img/portfolio/vape/size-comp.png)
 <br>
 
 `pip3 install vpython`
@@ -223,18 +235,44 @@ Interactive Output (right click and drag to move on desktop)
 <br>
 
 ### Design
+Once I had my shape, I used my favorite CAD tool to make a quick rendition of the ellipsoid design, with a few changes. First, CADing an ellipse is a pain, so it isn't the perfectly round shape I hoped for. Second, I added a tubular payload to the bottom of 1 meter in length, and 15 cm in width to support a "cubesat" like payload which I'll get to later. Ideally, this will be easy to attach to the bottom of the blimp and not provide much drag for the hurricane strength winds of Venus. Winds which lead me perfectly to the next part: Computational Fluid Dynamics.
+
+<br>
+
 ![CAD](/assets/img/portfolio/vape/cad.png)
 
 <br>
 
 ### CFD
+I had never used computational fluid dynamics before so step 1 was learn CFD. A week of low definition Russian and German videos and a lot of software exploration later, I settled on Openfoam with Paraview for visualization. One of these days I'll get around to making an English version of analyzing external flows on an STL model.
+
+<br>
+
+As an astute colleague pointed out, I really don't have a baseline to compare my models to but as a CFD novice, I'm fairly certain they aren't the most accurate thing anyway. However, they certainly look pretty and made my server scream. I was mainly trying to figure out if my payload tube would generate massive interference and how well the "edge" (middle section from the side) of the blimp would fair in gale force winds. Predictably, there is clearly some strong forces involved but I don't think it would be the end of the world for the blimp.
+
+<br>
+
+Stream Trace
 ![cfd 4](/assets/img/portfolio/vape/cfd-4.png)
 <br>
+Side View of Velocity shows current predictably moves faster on top due to shorter path - bernoulli effect
 ![cfd 5](/assets/img/portfolio/vape/cfd-5.png)
 <br>
+Forward facing mid-section cut showing high pressure on the nose and tubular payload.
 ![cfd 6](/assets/img/portfolio/vape/cfd-6.png)
 <br>
+Top down view to mid-section cut shows some drag and current around "edge"
 ![cfd 7](/assets/img/portfolio/vape/cfd-7.png)
+<br>
+
+
+### Hardware (Electronics) and Software
+Coming soon :)
+
+<br>
+
+### Conclusion
+Its a fun project with a lot more to add/learn/work on. I don't really intend for their to be any substantial outcome, it was just a fun excercise in "what if" that happens to be incredibly illuminating to me.
 
 <br>
 
