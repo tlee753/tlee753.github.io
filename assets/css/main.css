@@ -2173,6 +2173,8 @@ header {
       padding-right: 10px; }
     .portfolio-page .portfolio-content h1, .portfolio-page .portfolio-content h2, .portfolio-page .portfolio-content h4 {
       padding-left: 10px; }
+    .portfolio-page .portfolio-content h4 {
+      margin-bottom: 0; }
     .portfolio-page .portfolio-content hr {
       margin: 20px; }
 

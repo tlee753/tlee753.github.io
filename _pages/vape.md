@@ -3,7 +3,7 @@ layout: portfolio
 title: Venusian Atmospheric Probe Explorer
 date: 2019-09-06 8:00:00
 permalink: "/vape/"
-progress: 70
+progress: 80
 ---
 
 
@@ -117,7 +117,6 @@ Average Earth to Moon Round Trip Time: 2.568 seconds
 <br>
 
 ### Solar Energy Analysis
-
 Just a quick foray into Space Engine demonstrates how different the amount of light each planet receives. In terms of humans, more sunlight equals more energy. You can clearly see Venus gets about twice as much sunlight as the Martians, and no this isn't playing with angles; probes sent to Mars have 4 times more solar panels (inverse square law for light).
 
 <br>
@@ -131,12 +130,12 @@ Mars
 <br>
 
 ### Composition
-Surface composition is very similar across the three major terrestrial planets. 
+Surface composition is very similar across the three major terrestrial planets. At the surface of Venus, the material composition isn't entirely disimilar to Earth from what we can predict scientifically during our solar systems planetary formation as well as what we know from the Soviet landers.
 
 <br>
 
 ### The Harsh Reality
-Unfortunatly, there is a simple rational argument for Mars is the target: Venus is a living hell at the moment. With surface temperatures exceeding 800* Celcius and pressure exceeding 92 Earth Atmospheres, humans walking on our sister planet just isn't happening anytime soon.
+Unfortunatly, there is a simple rational argument for Mars as the target for planetary expansion: Venus is a living hell at the moment. With surface temperatures exceeding 800* Celcius and pressure exceeding 92 Earth Atmospheres, humans walking on our sister planet just isn't happening anytime soon. Furthermore, terraforming is difficult as bio-structures heavily rely on hydrogen which Venus has all but depleted. Without a magnetic field to protect from solar winds, the hydrogen has slowly "leaked" off the upper atmosphere.
 
 <br>
 
@@ -155,7 +154,7 @@ Unfortunatly, there is a simple rational argument for Mars is the target: Venus 
 <br>
 
 ### The Big Idea
-The idea is to take advantage of uniquely Earth-like atmospheric conditions to put a scientific probe into the upper atmosphere. My rational is an extremely low cost probe would have minimal risk compared to a larger, more expensive payload, and would teach us enormous amounts about how the Venusian climate functions. Everything from the wind current forces, Soviet "rain" conjecture, sustainability of solar visibility for the solar panels, and longevity of an atmospheric spacecraft could be tested without much fear of losing the craft.
+My idea is to take advantage of uniquely Earth-like atmospheric conditions to put a scientific probe into the upper atmosphere. My rational is an extremely low cost probe would have minimal risk compared to a larger, more expensive payload, and would teach us enormous amounts about how the Venusian climate functions. Everything from the wind current forces, Soviet "rain" conjecture, sustainability of solar visibility for the solar panels, and longevity of an atmospheric spacecraft could be tested without much fear of losing the craft.
 
 In a list my major goals are as follows:
 - ultra low cost
@@ -170,10 +169,10 @@ In a list my major goals are as follows:
 <br>
 
 ### Background Research
-It wouldn't problem solving if I didn't start with researching what we do and do not already know. The two major operational venutian missions to analyze are the HAVOC (High Altitude Venus Operational Concept) created by NASA and the balloons flown on Venus by the Soviets during the space race.
+It wouldn't problem solving if I didn't start with researching what we do and do not already know. The two major operational Venusian missions to analyze are the HAVOC (High Altitude Venus Operational Concept) created by NASA and the balloons flown on Venus by the Soviets during the space race.
 
 #### HAVOC
-NASA Goddard's proposal involves a two phase approach. First, a steerable robotic blimp makes its way to the Venusian atmosphere with a largely scientific payload to study the environmental conditions and prepare for the next phase which is sending humans into a much larger blimp. From here, the decision on a permanent presence on our sister planet can be thoroughly evaluated.
+NASA Goddard's proposal involves a two phase approach. First, a steerable robotic blimp makes its way to the Venusian atmosphere with a largely scientific payload to study the environmental conditions and prepare for the next phase which is sending humans in a much larger blimp. From here, the decision on colonization of our sister planet can be thoroughly evaluated.
 
 ![HAVOC](/assets/img/portfolio/vape/havoc.png)
 <br>
@@ -244,35 +243,56 @@ Once I had my shape, I used my favorite CAD tool to make a quick rendition of th
 <br>
 
 ### CFD
-I had never used computational fluid dynamics before so step 1 was learn CFD. A week of low definition Russian and German videos and a lot of software exploration later, I settled on Openfoam with Paraview for visualization. One of these days I'll get around to making an English version of analyzing external flows on an STL model.
+I had never used computational fluid dynamics before so step 1 was learn CFD. A week of low definition Russian and German videos and a lot of software exploration later, I settled on a `Heylx OS` frontend, `Openfoam` backend with `Paraview` for visualization. One of these days I'll get around to making an English version of analyzing external flows on an STL model.
 
 <br>
 
-As an astute colleague pointed out, I really don't have a baseline to compare my models to but as a CFD novice, I'm fairly certain they aren't the most accurate thing anyway. However, they certainly look pretty and made my server scream. I was mainly trying to figure out if my payload tube would generate massive interference and how well the "edge" (middle section from the side) of the blimp would fair in gale force winds. Predictably, there is clearly some strong forces involved but I don't think it would be the end of the world for the blimp.
+As an astute colleague pointed out, I really don't have a baseline to compare my models to, but as a CFD novice, I'm fairly certain they aren't the most accurate thing anyway. However, they certainly look pretty and made my server scream. I was mainly trying to figure out if my payload tube would generate massive interference and how well the "edge" (middle section from the side) of the blimp would fair in gale force winds. Predictably, there is clearly some strong forces involved but I don't think it would be the end of the world for the blimp.
 
 <br>
 
 Stream Trace
 ![cfd 4](/assets/img/portfolio/vape/cfd-4.png)
 <br>
-Side View of Velocity shows current predictably moves faster on top due to shorter path - bernoulli effect
+Side View of velocity shows current predictably moves faster on top due to shorter path - bernoulli effect
 ![cfd 5](/assets/img/portfolio/vape/cfd-5.png)
 <br>
-Forward facing mid-section cut showing high pressure on the nose and tubular payload.
+Forward facing mid-section cut of pressure showing high pressure on the nose and tubular payload.
 ![cfd 6](/assets/img/portfolio/vape/cfd-6.png)
 <br>
-Top down view to mid-section cut shows some drag and current around "edge"
+Top down view to mid-section cut of velocity shows some drag and current around "edge"
 ![cfd 7](/assets/img/portfolio/vape/cfd-7.png)
 <br>
 
 
-### Hardware (Electronics) and Software
-Coming soon :)
+### Software
+Between hardware and software, this is the easy one, so I'll start with it. In following with my belief of open source being better for the world with lower barriers to entry as well as being more easily scientifically replicated, its basically down to NASA JSC's fPrime and NASA Goddard's Core Flight Executive. I personally prefer the slightly more modern and intuitive fPrime so thats probably what it will be, albeit with a reworked front end.
 
+<br>
+<a class="button" href="https://github.com/nasa/fprime">
+f Prime Github
+</a>
+<a class="button" href="https://github.com/nasa/cFE">
+cFE Github
+</a>
+<br>
+
+### Hardware
+This is the fun part, I really believe in lowering barriers to entry and while there are some open source satellite concepts out there, they just aren't robust enough in my opinion. From a prevous project on a [Raspberry Pi powered rocket core](/rocket-core/) I belive there is a niche for a hyper low cost cubesat hardware/software framework. I started developing a model until I found Goddard's b-e-a-u-tiful Pi Sat Concept. It incorporates so many wonderful ideas: modular design, easy upgradability, wide spread knowlegde of how to program with a plethora of resources - I dare say it is exactly what I was hoping to build. Of course, for the Venusian probe it will definitely have to be tested in rugged conditions and healthly flattened down a soldered package.
+
+<br>
+Rocket Core, as configured for high alitutde balloon flight
+![Rocket Core](/assets/img/portfolio/rocket-core/build-1.jpg)
+<br>
+Early Flight Stack Concept, using a pi zero for processing
+![Flight Stack](/assets/img/portfolio/vape/flight-stack.jpg)
+<br>
+Goddard's Pi Satellite "Dev Kit" using a Pi Compute Module, Rasbperry Pi 40 pin header, and a fairly standard satellite PC 104 stackable bus
+![Pi Sat](/assets/img/portfolio/vape/pi-sat.jpg)
 <br>
 
 ### Conclusion
-Its a fun project with a lot more to add/learn/work on. I don't really intend for their to be any substantial outcome, it was just a fun excercise in "what if" that happens to be incredibly illuminating to me.
+It is a fun project with a lot more to add/learn/work on. I don't really intend for their to be any substantial outcome, it was just a fun excercise in "what if" that happens to be incredibly illuminating to me. If I were to develop a conclusion, well, Venusian colonization is a few major technological leaps away and we should really focus on the moon. And so begins my next project, a low cost lunar science lab...
 
 <br>
 
