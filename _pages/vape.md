@@ -3,7 +3,7 @@ layout: portfolio
 title: Venusian Atmospheric Probe Explorer
 date: 2019-09-06 8:00:00
 permalink: "/vape/"
-progress: 80
+progress: 90
 ---
 
 
@@ -27,7 +27,7 @@ th:nth-child(5) {
 </style>
 
 ### Introduction
-Oh yes, that name is definitely intentional. Well this has everything to do with clouds, except there made out of poisonous sulfuric acid. This is my "simple engineering approach" research into what a low cost, sustained Venusian Atmosopheric Probe Explorer (VAPE) might look like.
+Oh yes, that name is definitely intentional. Well this has everything to do with clouds, except there made out of poisonous sulfuric acid. This is my "simple engineering approach" research into what a low cost, sustained Venusian Atmospheric Probe Explorer (VAPE) might look like.
 
 <br>
 
@@ -297,6 +297,8 @@ It is a fun project with a lot more to add/learn/work on. I don't really intend 
 <br>
 
 ### Links to Add / Sources
+<h4>Venusian Conditions</h4>
+
 - [Forbes Mars vs Venus](https://www.forbes.com/sites/quora/2017/10/18/is-venus-a-better-place-to-colonize-than-mars/#668f8b8a5c47)
 - [Gas Resistivity](https://www.thoughtco.com/table-of-electrical-resistivity-conductivity-608499)
 - [Atmosphere Radiation](http://lasp.colorado.edu/~espoclass/ASTR_5835_2015_Readings_Notes/Titov_Et_Al-EVTP.pdf)
@@ -313,13 +315,6 @@ It is a fun project with a lot more to add/learn/work on. I don't really intend 
 - [European Venus Explorer Concept](https://mathscinotes.com/wp-content/uploads/2016/02/02_The-European-Venus-Explorer-EVE-2010-Mission-Proposal_C.-Wilson-1.pdf)
 - [Russian Balloon Calcs](https://www.mathscinotes.com/2016/02/floating-habitat-on-venus/)
 - [Depth Pressure Calculator](http://www.calctool.org/CALC/other/games/depth_press)
-- [Arduino Power Consumption](https://forum.arduino.cc/index.php?topic=50701.0)
-- [Raspberry Pi Power Consumption](https://www.jeffgeerling.com/blogs/jeff-geerling/raspberry-pi-zero-power)
-- [Batteries](https://www.amazon.com/Batteries-Rechargeable-Non-Button-High-Capacity-Flashlight/dp/B07Y1MDPT9/ref=asc_df_B07XP6BP2L/?tag=&linkCode=df0&hvadid=365896412151&hvpos=1o1&hvnetw=g&hvrand=2824005550531793629&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010753&hvtargid=pla-819940596628&ref=&adgrpid=73640491182&th=1)
-- [Pumpkin Battery](http://www.pumpkininc.com/space/datasheet/710-01640-F_DS_BM_2.pdf)
-    - https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM_2%29.html
-- [NASA GEVS](https://standards.nasa.gov/standard/gsfc/gsfc-std-7000)
-- [RC Model](https://www.youtube.com/watch?v=s1w6a8PbIus)
 - [Venus Weather Patterns](https://www.universetoday.com/14282/how-long-is-a-day-on-venus/)
 - [Mars Composition](https://www.universetoday.com/14702/what-is-mars-made-of/)
 - [Hohmann Transfer window speed up](https://www.lpi.usra.edu/meetings/marsconcepts2012/pdf/4181.pdf)
@@ -330,10 +325,26 @@ It is a fun project with a lot more to add/learn/work on. I don't really intend 
 - [Venus Winds](https://www.universetoday.com/36816/winds-on-venus/)
 - [Venus Rain](https://www.wired.com/2013/04/vega-venus-rain/)
 
+
+<h4>Satellite Hardware</h4>
+
+- [Arduino Power Consumption](https://forum.arduino.cc/index.php?topic=50701.0)
+- [Raspberry Pi Power Consumption](https://www.jeffgeerling.com/blogs/jeff-geerling/raspberry-pi-zero-power)
+- [Batteries](https://www.amazon.com/Batteries-Rechargeable-Non-Button-High-Capacity-Flashlight/dp/B07Y1MDPT9/ref=asc_df_B07XP6BP2L/?tag=&linkCode=df0&hvadid=365896412151&hvpos=1o1&hvnetw=g&hvrand=2824005550531793629&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010753&hvtargid=pla-819940596628&ref=&adgrpid=73640491182&th=1)
+- [Pumpkin Battery](http://www.pumpkininc.com/space/datasheet/710-01640-F_DS_BM_2.pdf)
+    - https://www.pumpkinspace.com/store/p198/Intelligent_Protected_Lithium_Battery_Module_with_SoC_Reporting_%28BM_2%29.html
+- [NASA GEVS](https://standards.nasa.gov/standard/gsfc/gsfc-std-7000)
+- [Pi Sat](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20150023353.pdf)
+- [RC Model](https://www.youtube.com/watch?v=s1w6a8PbIus)
+
+<h4>Wikipedia</h4>
+
 - [Voyager RTDs](https://en.wikipedia.org/wiki/MHW-RTG)
 - [Venus Express ESA](https://en.wikipedia.org/wiki/Venus_Express)
 - [Missions to Venus](https://en.wikipedia.org/wiki/List_of_missions_to_Venus)
 - [Venus Atmosphere](https://en.wikipedia.org/wiki/Atmosphere_of_Venus)
+
+<h4>CFD</h4>
 
 - [Automotive OpenFoam Research](http://www.tfd.chalmers.se/~lada/postscript_files/Bastian-Nebenfuhr-OpenFOAM_A_tool_for_predicting_automotive_flow_fields.pdf)
 - [K-e Turbulence Models](https://web.stanford.edu/class/me469b/handouts/turbulence.pdf)
