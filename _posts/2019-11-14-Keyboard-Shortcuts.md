@@ -25,10 +25,11 @@ I think the world of keyboard shortcuts, less time leaving the keyboard is just 
 - `Ctrl + k` clears everything before the cursor
 - `Ctrl + a` takes you to the beginning of the line
 - `Ctrl + e` takes you to the end of the line
+- `!!` makes it easy to add arguments to previous command
 
 ### Vim
 - `:G` takes you to the end of the file
 - `:gg` takes you to the beginning of the file
-- `Y + p` copies a line and pastes it
+- `Y` copies a line and `p` pastes it
 - `dd` deletes a line
 - `/` searches and `#` cycles through same named terms
