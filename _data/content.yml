@@ -441,10 +441,6 @@ movies:
     description: 'When a Roman general is betrayed and his family murdered by an emperors corrupt son, he comes to Rome as a gladiator to seek revenge.',
     review: ''
 }
-- { title: 'Its A Wonderful Life', image: 'wonderfullife', year: '1946',
-    description: 'An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.',
-    review: ''
-}
 - { title: 'The Dark Knight', image: 'darkknight', year: '2008',
     description: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.',
     review: ''
@@ -455,6 +451,10 @@ movies:
 }
 - { title: 'Rush', image: 'rush', year: '2013',
     description: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
+    review: ''
+}
+- { title: 'Its A Wonderful Life', image: 'wonderfullife', year: '1946',
+    description: 'An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.',
     review: ''
 }
 - { title: 'Sunshine', image: 'sunshine', year: '2007',
@@ -573,14 +573,6 @@ movies:
    description: 'A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.',
    review: ''
 }
-- { title: 'The Departed', image: 'departed', year: '2006',
-    description: 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.',
-    review: ''
-}
-- { title: 'Primer', image: 'primer', year: '2004',
-   description: 'Four friends/fledgling entrepreneurs, knowing that there is something bigger and more innovative than the different error-checking devices they have built, wrestle over their new invention.',
-   review: ''
-}
 - { title: 'Sherlock Holmes: Game of Shadows', image: 'gameofshadows', year: '2011',
     description: 'Sherlock Holmes and his sidekick Dr. Watson join forces to outwit and bring down their fiercest adversary, Professor Moriarty.',
     review: ''
@@ -591,6 +583,14 @@ movies:
 }
 - { title: 'Good Will Hunting', image: 'goodwillhunting', year: '1997',
     description: 'Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.',
+    review: ''
+}
+- { title: 'Primer', image: 'primer', year: '2004',
+   description: 'Four friends/fledgling entrepreneurs, knowing that there is something bigger and more innovative than the different error-checking devices they have built, wrestle over their new invention.',
+   review: ''
+}
+- { title: 'The Departed', image: 'departed', year: '2006',
+    description: 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.',
     review: ''
 }
 - { title: 'Inglourious Basterds', image: 'inglouriousbasterds', year: '2009',
@@ -629,8 +629,8 @@ movies:
     description: 'A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.',
     review: ''
 }
-- { title: 'Psycho', image: 'psycho', year: '',
-    description: '',
+- { title: 'Psycho', image: 'psycho', year: '1960',
+    description: 'A Phoenix secretary embezzles forty thousand dollars from her employer''s client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.',
     review: ''
 }
 - { title: 'Saving Private Ryan', image: 'savingprivateryan', year: '1998',
@@ -641,28 +641,24 @@ movies:
     description: 'A young blade runners discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who has been missing for thirty years.',
     review: ''
 }
-- { title: 'Mad Max Fury Road', image: 'furyroad', year: '',
-    description: '',
+- { title: 'Rocky', image: 'rocky', year: '1976',
+    description: 'Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.',
     review: ''
 }
-- { title: 'The Butterfly Effect', image: 'butterfly-effect', year: '',
-    description: '',
-    review: ''
-}
-- { title: 'Rocketman', image: 'rocketman', year: '',
-    description: '',
+- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
+    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
     review: ''
 }
 - { title: 'Scarface', image: 'scarface', year: '1983',
     description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
     review: ''
 }
-- { title: 'Heat', image: 'heat', year: '1995',
-    description: 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.',
+- { title: 'Mad Max Fury Road', image: 'furyroad', year: '2015',
+    description: 'In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.',
     review: ''
 }
-- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
-    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
+- { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
+    description: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.',
     review: ''
 }
 - { title: 'The Martian', image: 'martian', year: '2015',
@@ -673,12 +669,8 @@ movies:
     description: 'During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.',
     review: ''
 }
-- { title: 'Memento', image: 'memento', year: '2000',
-    description: 'A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.',
-    review: ''
-}
-- { title: 'Rocky', image: 'rocky', year: '1976',
-    description: 'Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.',
+- { title: 'Heat', image: 'heat', year: '1995',
+    description: 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.',
     review: ''
 }
 - { title: 'The Book of Eli', image: 'bookofeli', year: '2010',
@@ -693,8 +685,20 @@ movies:
     description: 'Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.',
     review: ''
 }
-- { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
-    description: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.',
+- { title: 'Rocketman', image: 'rocketman', year: '2019',
+    description: 'A musical fantasy about the fantastical human story of Elton John''s breakthrough years.',
+    review: ''
+}
+- { title: 'Deadpool', image: 'deadpool', year: '2016',
+    description: 'A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool.',
+    review: ''
+}
+- { title: 'Forrest Gump', image: 'forrestgump', year: '1994',
+    description: 'Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.',
+    review: ''
+}
+- { title: 'Memento', image: 'memento', year: '2000',
+    description: 'A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.',
     review: ''
 }
 - { title: 'Goodfellas', image: 'goodfellas', year: '1990',
@@ -705,32 +709,24 @@ movies:
     description: 'The life of Mason, from early childhood to his arrival at college.',
     review: ''
 }
-- { title: 'Deadpool', image: 'deadpool', year: '2016',
-    description: 'A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool.',
-    review: ''
-}
-- { title: 'Fury', image: 'fury', year: '2014',
-    description: '1945, in the World War II Germany, the tough Sergeant Don "Wardaddy" Collier commands a tank and survives a German attack with his veteran crew.',
-    review: ''
-}
 - { title: 'Senna', image: 'senna', year: '2010',
    description: 'A documentary on Brazilian Formula One racing driver Ayrton Senna, who won the F1 world championship three times before his death at age 34.',
    review: ''
 }
-- { title: 'The Great Raid', image: 'greatraid', year: '2005',
-    description: 'Taking place towards the end of WWII, 500 American Soldiers have been entrapped in a camp for 3 years. Beginning to give up hope they will ever be rescued, a group of Rangers goes on a dangerous mission to try and save them.',
+- { title: 'The Butterfly Effect', image: 'butterflyeffect', year: '2004',
+    description: 'Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.',
     review: ''
 }
 - { title: 'Miracle', image: 'miracle', year: '2004',
     description: 'Miracle tells the true story of Herb Brooks (Russell), the player-turned-coach who led the 1980 U.S. Olympic hockey team to victory over the seemingly invincible Russian squad.',
     review: ''
 }
-- { title: 'Silver Linings Playbook', image: 'silverlinings', year: '2012',
-    description: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.',
+- { title: 'Fury', image: 'fury', year: '2014',
+    description: '1945, in the World War II Germany, the tough Sergeant Don "Wardaddy" Collier commands a tank and survives a German attack with his veteran crew.',
     review: ''
 }
-- { title: 'Forrest Gump', image: 'forrestgump', year: '1994',
-    description: 'Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.',
+- { title: 'Silver Linings Playbook', image: 'silverlinings', year: '2012',
+    description: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.',
     review: ''
 }
 - { title: 'The Italian Job', image: 'italianjob', year: '2003',
@@ -749,16 +745,12 @@ movies:
     description: 'Allied P.O.W.s plan for several hundred of their number to escape from a German camp during World War II.',
     review: ''
 }
-- { title: 'Harry Potter: Order of the Phoenix', image: 'orderofthephoenix', year: '2007',
-    description: 'With their warning about Lord Voldemorts return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.',
+- { title: 'E.T. The Extra Terrestrial', image: 'etextra', year: '1982',
+    description: 'A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.',
     review: ''
 }
-- { title: 'Rocky IV', image: 'rocky4', year: '1985',
-    description: 'After iron man Drago, a highly intimidating 6-foot-5, 261-pound Soviet athlete, kills Apollo Creed in an exhibition match, Rocky comes to the heart of Russia for 15 pile-driving boxing rounds of revenge.',
-    review: ''
-}
-- { title: 'October Sky', image: 'octobersky', year: '1999',
-    description: 'The true story of Homer Hickam, a coal miners son who was inspired by the first Sputnik launch to take up rocketry against his fathers wishes.',
+- { title: 'First Blood', image: 'firstblood', year: '1982',
+    description: 'Former Green Beret John Rambo is pursued into the mountains surrounding a small town by a tyrannical sheriff and his deputies, forcing him to survive using his combat skills.',
     review: ''
 }
 - { title: 'The Edge of Tomorrow', image: 'edgeoftomorrow', year: '2014',
@@ -769,12 +761,16 @@ movies:
     description: 'A veteran assigned to extract Earths remaining resources begins to question what he knows about his mission and himself.',
     review: ''
 }
-- { title: 'E.T. The Extra Terrestrial', image: 'etextra', year: '1982',
-    description: 'A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.',
+- { title: 'Harry Potter: Order of the Phoenix', image: 'orderofthephoenix', year: '2007',
+    description: 'With their warning about Lord Voldemorts return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.',
     review: ''
 }
-- { title: 'First Blood', image: 'firstblood', year: '1982',
-    description: 'Former Green Beret John Rambo is pursued into the mountains surrounding a small town by a tyrannical sheriff and his deputies, forcing him to survive using his combat skills.',
+- { title: 'The Great Raid', image: 'greatraid', year: '2005',
+    description: 'Taking place towards the end of WWII, 500 American Soldiers have been entrapped in a camp for 3 years. Beginning to give up hope they will ever be rescued, a group of Rangers goes on a dangerous mission to try and save them.',
+    review: ''
+}
+- { title: 'Rocky IV', image: 'rocky4', year: '1985',
+    description: 'After iron man Drago, a highly intimidating 6-foot-5, 261-pound Soviet athlete, kills Apollo Creed in an exhibition match, Rocky comes to the heart of Russia for 15 pile-driving boxing rounds of revenge.',
     review: ''
 }
 - { title: 'Braveheart', image: 'braveheart', year: '1995',
@@ -789,12 +785,12 @@ movies:
     description: 'A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.',
     review: ''
 }
+- { title: 'Airplane', image: 'airplane', year: '1980',
+   description: 'A man afraid to fly must ensure that a plane lands safely after the pilots become sick.',
+   review: ''
+}
 - { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
     description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
-    review: ''
-}
-- { title: 'War of the Worlds', image: 'waroftheworlds', year: '2005',
-    description: 'As Earth is invaded by alien tripod fighting machines, one family fights for survival.',
     review: ''
 }
 - { title: 'Black Hawk Down', image: 'blackhawkdown', year: '2001',
@@ -804,6 +800,10 @@ movies:
 - { title: 'Slumdog Millionare', image: 'slumdogmillionare', year: '2008',
     description: 'A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"',
     review: ''
+}
+- { title: 'Mean Girls', image: 'meangirls', year: '2004',
+   description: 'Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.',
+   review: ''
 }
 - { title: 'Stand By Me', image: 'standbyme', year: '1986',
     description: 'After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.',
@@ -817,20 +817,32 @@ movies:
     description: 'When a mad man calling himself "the Scorpio Killer" menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.',
     review: ''
 }
-- { title: 'Secondhand Lions', image: 'secondhandlions', year: '2003',
-    description: 'A coming-of-age story about a shy, young boy sent by his irresponsible mother to spend the summer with his wealthy, eccentric uncles in Texas.',
-    review: ''
-}
-- { title: 'Notting Hill', image: 'nottinghill', year: '1999',
-    description: 'The life of a simple bookshop owner changes when he meets the most famous film star in the world.',
-    review: ''
-}
-- { title: 'Radio', image: 'radio', year: '2003',
-    description: 'The story of a high school coach and the developmentally challenged man who he took under his wing.',
-    review: ''
-}
 
+#- { title: '', image: '', year: '',
+#    description: '',
+#    review: ''
+#}
 
+# - { title: 'War of the Worlds', image: 'waroftheworlds', year: '2005',
+#     description: 'As Earth is invaded by alien tripod fighting machines, one family fights for survival.',
+#     review: ''
+# }
+# - { title: 'Secondhand Lions', image: 'secondhandlions', year: '2003',
+#     description: 'A coming-of-age story about a shy, young boy sent by his irresponsible mother to spend the summer with his wealthy, eccentric uncles in Texas.',
+#     review: ''
+# }
+# - { title: 'Notting Hill', image: 'nottinghill', year: '1999',
+#     description: 'The life of a simple bookshop owner changes when he meets the most famous film star in the world.',
+#     review: ''
+# }
+# - { title: 'Radio', image: 'radio', year: '2003',
+#     description: 'The story of a high school coach and the developmentally challenged man who he took under his wing.',
+#     review: ''
+# }
+# - { title: 'October Sky', image: 'octobersky', year: '1999',
+#     description: 'The true story of Homer Hickam, a coal miners son who was inspired by the first Sputnik launch to take up rocketry against his fathers wishes.',
+#     review: ''
+# }
 # - { title: 'Valkyrie', image: 'valkyrie', year: '2008',
 #     description: 'A dramatization of the 20 July assassination and political coup plot by desperate renegade German Army officers against Hitler during World War II.',
 #     review: ''
@@ -880,11 +892,6 @@ movies:
 #     review: ''
 # }
 
-
-#- { title: '', image: '', year: '',
-#    description: '',
-#    review: ''
-#}
 
 
 #-------------------------------
