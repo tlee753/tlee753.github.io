@@ -18,6 +18,7 @@ I think the world of keyboard shortcuts, less time leaving the keyboard is just 
 - `Ctrl + Tab` cycles through tabs moving to the right
 - `Ctrl + Shift + Tab` cycles through tabs moving to the left
 - `Ctrl + Shift + R` empty cache and reload
+- `Ctrl + Mouse Scroll` zooms in and out of a page quickly
 
 ### Linux Terminal
 - `Ctrl + l` runs a `clear` without adding anything to your `history`
@@ -25,7 +26,7 @@ I think the world of keyboard shortcuts, less time leaving the keyboard is just 
 - `Ctrl + k` clears everything before the cursor
 - `Ctrl + a` takes you to the beginning of the line
 - `Ctrl + e` takes you to the end of the line
-- `!!` makes it easy to add arguments to previous command
+- `!!` runs previous command like `sudo !!`
 
 ### Vim
 - `:G` takes you to the end of the file
