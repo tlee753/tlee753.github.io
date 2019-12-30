@@ -23,7 +23,7 @@ permalink: "/bucket/"
     - John Cleese
     - JK Rowling
     - Bill Watterson
-    - Kareem Abdul Jabar
+    - Kareem Abdul Jabbar
 - [ ] Race down the Autobahn (sports car required)
 - [ ] Visit an active volcano (seeing lava required)
 - [x] See the milky way galaxy (naked eye)
@@ -68,17 +68,24 @@ permalink: "/bucket/"
 
 ### Contributions
 - [ ] Make a meaningful anonymous donation (Widow's Offering...)
-- [ ] Write a book (open source publication if published)
+- [x] Write a book (open source publication if published)
 - [ ] Plant an orchard
 - [ ] Make a quote book (Iannarino-esque)
 - [ ] Giving blood 20 times (2/20)
 
 ### Athletics
 - [x] Land a front flip (on land)
-- [ ] Full backflip
+- [x] Full backflip
 - [x] Run a marathon
 - [ ] Finish an Iron Man
 - [x] Juggle a soccer ball (30 touches mixed min)
 - [x] Juggle
 - [x] Hold a handstand for 30 seconds
 - [x] Do a one handed handstand (10 seconds?)
+
+
+### Materialistic
+- [ ] Rebuild a 1969 Mustang Mach 1, Black with Silver Chrome :)
+<br><br>
+
+![mustang](/assets/img/collection/bucket/mustang.jpg)
