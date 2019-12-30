@@ -19,11 +19,13 @@ Love
 - superior neurological reasoning
 - job obsoletion
 - global economic prosperity/equilibrium
+- individualized educational resources
 
 ### Protocell Development
 - biological understanding of life
     - RNA
     - non traditional elemental formation
+    - exponential growth including usable byproduct
 - extraplanetary development
 
 ### Theoretical Physics
@@ -31,3 +33,6 @@ Love
 
 ### Altruistic Project Management
 - global aid and altruism
+
+### Open Source Satellite Framework
+- massively lower barriers to entry in space

@@ -3,7 +3,7 @@ layout: portfolio
 title: History Timeline
 date: 2017-09-06 8:00:00
 permalink: "/world-history-timeline/"
-progress: 80
+progress: 90
 ---
 
 

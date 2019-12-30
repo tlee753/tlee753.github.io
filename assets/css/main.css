@@ -506,7 +506,7 @@ progress[value]::-moz-progress-value {
   position: relative;
   border: 4px solid transparent;
   border-radius: 8px;
-  background-color: rgba(25, 58, 93, 0.7);
+  background-color: #193a5d;
   background-clip: padding-box;
   padding: 10px;
   margin: 5px; }
@@ -2176,7 +2176,11 @@ header {
     .portfolio-page .portfolio-content h4 {
       margin-bottom: 0; }
     .portfolio-page .portfolio-content hr {
-      margin: 20px; }
+      margin: 10px 10px;
+      border: 0;
+      height: 2px;
+      background: #193a5d;
+      background-image: linear-gradient(to right, #b1b1b1, #193a5d, #b1b1b1); }
 
 .post-content {
   max-width: 1000px;
@@ -2188,6 +2192,8 @@ header {
     margin: 20px 0; }
   .post-content h3 {
     margin: 30px 0 10px; }
+  .post-content h4 {
+    margin-bottom: 0; }
   .post-content p {
     padding: 0 10px;
     margin: 0; }
@@ -2198,7 +2204,13 @@ header {
     border-radius: 5px; }
   .post-content hr {
     margin: 10px 10px;
-    color: #b1b1b1; }
+    border: 0;
+    height: 2px;
+    background: #193a5d;
+    background-image: linear-gradient(to right, #b1b1b1, #193a5d, #b1b1b1); }
+  .post-content .post-button-back {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px); }
 
 #presentation-title {
   padding: 10px 10px 0 10px; }
