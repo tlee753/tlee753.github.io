@@ -2210,7 +2210,8 @@ header {
     background-image: linear-gradient(to right, #b1b1b1, #193a5d, #b1b1b1); }
   .post-content .post-button-back {
     backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px); }
+    -webkit-backdrop-filter: blur(10px);
+    display: inline; }
 
 #presentation-title {
   padding: 10px 10px 0 10px; }

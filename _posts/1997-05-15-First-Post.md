@@ -14,7 +14,9 @@ Thought I would start a little blog for some mindless thoughts and questions...
 
 <br>
 
-Also, I am ~~gearing up to~~ adding all of my travels to my website, looking forward to detailing my **adventures**!
+This post is a markdown/sass styles demo :)
+
+<br>
 
 {% highlight ruby linenos %}
 def print_hi(name)
@@ -27,8 +29,6 @@ print_hi('Tyler')
 
 > “Next Play" - Coach K
 
-![favicon](/favicon.ico)
-
 |Table Header|
 |------------|
 |Style Visualization|
@@ -40,3 +40,5 @@ public class Greeting {
     }
 }
 ```
+
+![favicon](/favicon.ico)
