@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spiral Particles
+title: Spiraling Particles
 date: 2020-01-12 12:00
 tags: fun
 category: Fun
@@ -8,7 +8,7 @@ thumbnail: ../blog/spiral.jpg
 ---
 
 
-# Spiral Particles
+# Spiraling Particles
 The spiral nature of galaxies is really fundamentally fascinating from a physical and mathmatical perspective. I've read a bit on why this happens but I've been meaning to write a little particle physics simulation just to experiment. Simply put, the theory goes that if particles exist in a three dimensional environment with a random distribution of locations, gravity will bring the particles into a single plane with a spin.
 
 <br>
@@ -113,4 +113,3 @@ It amazes me that running this results in this sort of phenomena everytime, the 
 Really, for a simple as this is, I'm just stunned at how vast space is. `Space Engine` is a far better visualization of this, but you can see here how quickly things can move away from each other.
 
 <br>
-
