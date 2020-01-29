@@ -48,9 +48,9 @@ Total: 8.073035
 ```
 
 #### Resulting Observations
-- any population size between ~400 and ~30000 is within 5% of the 80-20 rule
-- any population size between ~120 and ~10000000 is within 10% of the 80-20 rule
-- ~1800 is roughtly the center of the 80-20 split
+- any population size between `~400` and `~30000` is within 5% of the 80-20 rule
+- any population size between `~120` and `~10000000` is within 10% of the 80-20 rule
+- `~1800` is roughtly the center of the 80-20 split
 
 > TLDR: My hypothesis was correct.
 

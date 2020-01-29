@@ -8,6 +8,13 @@ permalink: "/bucket/"
 
 # Bucket List
 
+### Projects
+- [ ] Philanthropic Non-profit
+- [ ] Protocell Research
+- [ ] AI Human Intelligence
+- [ ] Simple Satellite System
+- [ ] 
+
 ### Experiences
 - [x] Go skydiving
 - [ ] Fly in a hot air balloon
@@ -82,7 +89,6 @@ permalink: "/bucket/"
 - [x] Juggle
 - [x] Hold a handstand for 30 seconds
 - [x] Do a one handed handstand (10 seconds?)
-
 
 ### Materialistic
 - [ ] Rebuild a 1969 Mustang Mach 1, Black with Silver Chrome :)
