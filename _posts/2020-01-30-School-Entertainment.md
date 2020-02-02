@@ -11,8 +11,8 @@ thumbnail: ../blog/school-fun.jpg
 # School Entertainment
 School can be pretty boring, sitting behind the concrete walls for hours on end, so a little harmless mischief can really spice things up. Here are a few ideas to entertain yourself.
 
-### Pink and Purple
-Really any kind of hilarious theme that is entirely out of place but can't count against you. I've been a big fan of making everything pink and purple such as this accounting project, but 70's hippie themes or way to much <strong style="color: lime; background: orange;">NEON</strong> are also classics.
+### Pink and Purple Theme
+Really any kind of hilarious theme that is entirely out of place but can't count against you. I've been a big fan of making everything pink and purple such as this accounting project, but 70's hippie themes or way to much <strong style="color: lime; background: orange;">&nbsp;NEON&nbsp;</strong> are also classics.
 ![Pink and Purple](/assets/img/blog/school-fun/accounting.jpg)
 
 ### Fight Club Powerpoint Slides/Video Inserts
@@ -26,7 +26,7 @@ Everyone loves that teacher that encourages students to "branch out to their cre
 Definitely did this more in college since the professors are never in the room before class, nothing like having the super high paid professor erasing a groan worthy dad joke before lecture.
 
 ### Learn Printer IP Addresses and Print Random Stuff
-Useful in high school and rather fun, although stay within reason as your IT department can likely track this stuff. You can usually get the IP address from the printer with a few button presses or by netork mapping the school. From there, you just `Add Printer` using the correct drivers and you can either print to the lab printers (didn't cost money when the library did) or print random stuff to the library/other location just to brighten someone's day ;)
+Useful in high school and rather fun, although stay within reason as your IT department can likely track this stuff. You can usually get the IP address from the printer with a few button presses or by network mapping the school. From there, you just `Add Printer` using the correct drivers and you can either print to the lab printers (didn't cost money when the library did) or print random stuff to the library/other location just to brighten someone's day ;)
 
 ### Teacher Bingo
 Easy enough, just make bingo cards filled with commonly said words/phrases by the teacher, then watch as the teacher is amazed by how closely everyone is paying attention. Just don't shout Bingo! when you win.
