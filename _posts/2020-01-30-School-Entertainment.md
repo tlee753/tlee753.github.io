@@ -12,7 +12,7 @@ thumbnail: ../blog/school-fun.jpg
 School can be pretty boring, sitting behind the concrete walls for hours on end, so a little harmless mischief can really spice things up. Here are a few ideas to entertain yourself.
 
 ### Pink and Purple Theme
-Really any kind of hilarious theme that is entirely out of place but can't count against you. I've been a big fan of making everything pink and purple such as this accounting project, but 70's hippie themes or way to much <strong style="color: lime; background: orange;">&nbsp;NEON&nbsp;</strong> are also classics.
+Really any kind of hilarious theme that is entirely out of place but can't count against you. I've been a big fan of making everything pink and purple such as this accounting project, but 70's hippie themes or way too much <strong style="color: lime; background: orange;">&nbsp;NEON&nbsp;</strong> are also classics.
 ![Pink and Purple](/assets/img/blog/school-fun/accounting.jpg)
 
 ### Fight Club Powerpoint Slides/Video Inserts
