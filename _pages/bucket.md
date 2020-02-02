@@ -8,12 +8,12 @@ permalink: "/bucket/"
 
 # Bucket List
 
-### Projects
+### Lifetime Projects
 - [ ] Philanthropic Non-profit
 - [ ] Protocell Research
 - [ ] AI Human Intelligence
 - [ ] Simple Satellite System
-- [ ] 
+- [ ] Research Nature of Reality
 
 ### Experiences
 - [x] Go skydiving
@@ -78,7 +78,7 @@ permalink: "/bucket/"
 - [x] Write a book (open source publication if published)
 - [ ] Plant an orchard
 - [ ] Make a quote book (Iannarino-esque)
-- [ ] Giving blood 20 times (2/20)
+- [ ] Giving blood 20 times (3/20)
 
 ### Athletics
 - [x] Land a front flip (on land)
