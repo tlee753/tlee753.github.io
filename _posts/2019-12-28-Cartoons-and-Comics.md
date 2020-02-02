@@ -15,6 +15,7 @@ Just a quick one until I have time to add more. I was thinking about the beauty 
 ### 1. Tom and Jerry
 I still struggle to believe these came out in the 1940's, but they are nothing if not timeless. Its incredible to me that such a simple premise, cat chase mouse, could remain hilarious in every environment and constantly discover new ways to make me laugh myself silly. As a kid, I felt like David could always defeat the Goliath, he just has to outsmart him with endless creativity.
 <video width="100%" controls>
+    <source src="/assets/img/blog/cartoons/custard.webm" type="video/webm">
     <source src="/assets/img/blog/cartoons/custard.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
@@ -26,6 +27,7 @@ Just the vivid imagination of a child coming to life... the simplest objects can
 ### 3. Pink Panther
 Comedy in every scenario you could imagine, Pink Panther bends every rule of reality in wild scenarios ranging from chasing inanimate objects to battles against man to exploring psychedelic dream worlds. I love that Pink sometimes wins, sometimes loses, but often just leaves the scene shrugging his shoulders and moving on a little wiser.
 <video width="100%" controls>
+    <source src="/assets/img/blog/cartoons/pink.webm" type="video/webm">
     <source src="/assets/img/blog/cartoons/pink.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
@@ -33,6 +35,7 @@ Comedy in every scenario you could imagine, Pink Panther bends every rule of rea
 ### 4. Dr. Suess
 Suess really works wonders on an open canvas to illustrate morals to children: sharing, cleaning up, preserving nature, or my favorite, being kind and inclusive as explained by wacky creatures rhyming their way into the mind.
 <video width="100%" controls>
+    <source src="/assets/img/blog/cartoons/grinch.webm" type="video/webm">
     <source src="/assets/img/blog/cartoons/grinch.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
