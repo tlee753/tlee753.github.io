@@ -1866,7 +1866,8 @@ header {
         display: inline-block;
         border-radius: 10px;
         backdrop-filter: blur(5px);
-        -webkit-backdrop-filter: blur(5px); }
+        -webkit-backdrop-filter: blur(5px);
+        background-color: rgba(177, 177, 177, 0.2); }
         .post-list .post-block .post-overlay .post-block-content h2, .post-list .post-block .post-overlay .post-block-content p {
           margin: 0;
           color: ghostwhite;
@@ -1875,12 +1876,13 @@ header {
           font-size: 1.2rem;
           font-weight: 500; }
     .post-list .post-block:hover .post-overlay {
-      background-color: rgba(238, 238, 238, 0.2);
+      background-color: rgba(177, 177, 177, 0.2);
       backdrop-filter: blur(5px);
       -webkit-backdrop-filter: blur(5px); }
       .post-list .post-block:hover .post-overlay .post-block-content {
         backdrop-filter: none;
-        -webkit-backdrop-filter: none; }
+        -webkit-backdrop-filter: none;
+        background: none; }
 
 .world-map {
   max-width: 1200px;

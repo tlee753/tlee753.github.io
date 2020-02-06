@@ -1,6 +1,6 @@
 ---
 layout: post
-title: School Entertainment 
+title: School Entertainment
 date: 2020-01-30 12:00
 tags: fun
 category: Fun
