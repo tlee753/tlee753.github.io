@@ -2,8 +2,8 @@
 layout: post
 title: Keyboard Shortcuts
 date: 2019-11-03 12:00
-tags: useful
-category: Misc
+tags: tech
+category: Tech
 thumbnail: ../blog/keyboard.jpg
 ---
 
