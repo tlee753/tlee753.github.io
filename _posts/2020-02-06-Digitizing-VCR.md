@@ -1,19 +1,27 @@
 ---
 layout: post
-title: Analog Capture 
+title: Digitizing VCR 
 date: 2020-02-06 12:00
 tags: tech
 category: Tech
-thumbnail: ../blog/analog-capture.png
+thumbnail: ../blog/digitizing-vcr.png
 ---
 
 
-# Analog Capture
+# Digitizing VCR
 At some point it became time to convert old family videos on VHS/VCR to digital, and well, it turned out to be a rabbit hole that can go as deep as you want it to. I was looking for a low-cost, ultra-simple, good enough solution because lets be honest, the extra 1% in details isn't worth the extra hundreds you could spend building a professional studio or hiring a professinal studio for a lot of this content. (By all means, get your wedding tape done professinally!)
 
 <br>
 
+![USB Stick](/assets/img/blog/digitizing-vcr/usb-stick.png)
+
+<br>
+
 In terms of low-cost hardware, I used this [10$ usb stick from Amazon](https://www.amazon.com/Jancane-USB-Audio-Video-Converter/dp/B07NPFJJ7K/ref=asc_df_B07NPFJJ7K/?tag=hyprod-20&linkCode=df0&hvadid=343187928868&hvpos=1o1&hvnetw=g&hvrand=14806862553366141929&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010753&hvtargid=pla-847531773077&psc=1&tag=&ref=&adgrpid=68968886357&hvpone=&hvptwo=&hvadid=343187928868&hvpos=1o1&hvnetw=g&hvrand=14806862553366141929&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9010753&hvtargid=pla-847531773077) because it was cheap, could be primed, and because I think a lot of these adapters are really the exact same model from 2005. In terms of software, well, I started out with Windows but grew sick of it so I compiled a dead simple, easy modifiable, single bash file to run when capturing.
+
+<br>
+
+PSA: From my testing, this script records VCR footage at a little more than 1 GB an hour.
 
 ### ffmpeg Script
 `sudo apt install ffmpeg`
@@ -51,7 +59,7 @@ movie.mp4
 This is a quick side by side showing the stock windows capture program that comes with the stick on the left, and my custom `ffmpeg` script on the right.
 <video width="100%" controls>
 published: true
-    <source src="/assets/img/blog/analog-comp.mp4" type="video/mp4">
+    <source src="/assets/img/blog/digitizing-vcr/analog-comp.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
 
