@@ -7,7 +7,7 @@ progress: 100
 ---
 
 
-As an after work project at NASA JSC, the interns are developing a model rocket with an advanced avionics payload. While we didn't quite suceed in all regards, we did have an awesome launch, a successful parachute deployment, and a hell of time making the damn thing.
+As an after work project at NASA JSC, the interns developed a model rocket with an advanced avionics payload. While we didn't quite succeed in all regards, we did have an awesome launch, a successful parachute deployment, and a hell of time making the damn thing.
 
 <br>
 
@@ -15,7 +15,7 @@ The Tiny Flying Rocket (TFR) was modeled after the Saturn 5 and initially intend
 
 <br>
 
-The payload didn't end up with design I iterated to nor the functionality I had desired, but I did start the camera over a bluetooth ssh shell to our onboard flight computer and it did capture some interesting footage. Almost immediately after launch our rocket went into a heavy spin as the launch force snapped one of the fins halway off. Despite this, we still managed to gain an awesome amount of altitude, well over Johnson Space Center and easily enough to see Earth's curvature.
+The payload didn't end up with the design I iterated to nor the functionality I had desired, but I did start the camera over a bluetooth ssh shell to our onboard flight computer and it did capture some interesting footage. Almost immediately after launch our rocket went into a heavy spin as the launch force snapped one of the fins halway off. Despite this, we still managed to gain an awesome amount of altitude, well over Johnson Space Center and easily enough to see Earth's curvature.
 
 <br>
 
