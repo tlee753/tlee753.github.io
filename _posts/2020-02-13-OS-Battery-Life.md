@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OS Battery Life 
-date: 2020-02-14 12:00
+date: 2020-02-13 12:00
 tags: tech
 category: Tech
 thumbnail: ../blog/os-battery-life.jpg
@@ -9,7 +9,7 @@ thumbnail: ../blog/os-battery-life.jpg
 
 
 # OS Battery Life
-I've plenty of people on the internet discussing battery life savings by operating system, but its always by wattage or how the battery life "feels". Well, thats great an all but here in the real world, what matters is the time you can spend using the laptop until the battery gives out and you forgot to save your presentation.
+I've seen plenty of people on the internet discussing battery life savings by operating system, but its always by wattage or how the battery life "feels". Well, thats great an all but here in the real world, what matters is the time you can spend using the laptop until the battery gives out and you forgot to save your presentation.
 
 <br>
 
@@ -24,6 +24,8 @@ I decided to run two tests per operating system, one with it idling on the deskt
 <br>
 
 I kept everything as stock as possible for each OS, stock browsers (Edge on Windows, Firefox on Ubuntu/Arch), default wallpaper, connected to the same WiFi - only really changing the power settings such that the screen/system would stay on the whole time. I know there are things out there like `TLP` for Linux but I wanted to keep it simple. You can always go mad tuning things but this is just curiousity test to me to see if Linux or a lighter distro would show evidence of providing some extra juice.
+
+| Laptop | Toshiba Portege R705-P35 |
 
 <br>
 
