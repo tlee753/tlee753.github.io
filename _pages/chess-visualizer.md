@@ -7,9 +7,8 @@ progress: 100
 ---
 
 
-<a class="button" href="https://github.com/tlee753/chess-visualizer/raw/master/release/Chess-latest-1.8.jar">
-Full Program Beta Build
-</a>
+<a class="button" href="https://github.com/tlee753/chess-visualizer/raw/master/release/Chess-latest-1.8.jar">Full Program Build</a>
+<a class="button" href="/assets/docs/az-54.pgn">Example Game</a>
 
 <br>
 
@@ -100,7 +99,7 @@ Full Program Beta Build
 
 ### Demo Video
 <video width="100%" controls>
-    <source src="/assets/img/portfolio/chess-visualizer/chess-visualizer-demo.mp4" type="video/mp4">
+    <source src="/assets/img/portfolio/chess-visualizer/chess-visualizer-demo-2.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
 <br>
