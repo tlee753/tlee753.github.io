@@ -9,11 +9,11 @@ thumbnail: ../blog/os-battery-life.jpg
 
 
 # OS Battery Life
-I've seen plenty of people on the internet discussing battery life savings by operating system, but its always by wattage or how the battery life "feels". Well, thats great an all but here in the real world, what matters is the time you can spend using the laptop until the battery gives out and you forgot to save your presentation.
+I've seen plenty of people on the internet discussing battery life savings by operating system, but its always by instantaneous wattage or how the battery life "feels". Well, thats great an all but here in the real world, what matters is the time you can spend using the laptop until the battery gives out and you forget to save your presentation.
 
 <br>
 
-So anyways, I've been wanting to test this for awhile and finally got a blank laptop to upgrade for someone. In return for an ssd, I got a week to flash operating systems on the little bugger, charge it up, and run it into the ground.
+So anyways, I've been wanting to test this for awhile and finally got a blank laptop to upgrade for someone. In return for an ssd and windows install, I got a week to flash operating systems on the little bugger, charge it up, and run it into the ground.
 
 <br>
 
