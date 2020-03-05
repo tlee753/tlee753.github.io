@@ -9,9 +9,10 @@ It's honestly just a hobby/learning experience for me, but it has provided some 
 I sectioned my site into five main pages:
 1. Landing: good summary of the following four subpages, simple catch all with highlights
 2. About: just a little bit about me, kind of a random assortment of my likes and interests
-3. Portfolio: a few of the projects I'm most proud of
-4. Blog: a travel blog with pictures and maps of the places I've been to
-5. Contact: links to my accounts around the web and social media (fair warning I rarely use social media...)
+3. Portfolio: a few of the personal projects I'm most proud of
+4. Blog: some mindless thoughts and wanderings
+5. Travel: a travel blog with pictures and maps of the major places I've been to
+6. Contact: links to my accounts around the web and social media (fair warning I rarely use social media...)
 
 ### Devlopment Information
 For those interested, it is a static website that utilizes preprocessing to minimize development time.

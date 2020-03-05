@@ -24,7 +24,7 @@ permalink: "/bucket/"
 - [ ] Kill it at a karaoke night
 - [x] Witness a solar eclipse
 - [x] Swim in bioluminescent water
-- [ ] Meet one of my role models
+- [ ] Meet a role model
     - Barack Obama
     - Lebron James
     - John Cleese
@@ -38,6 +38,8 @@ permalink: "/bucket/"
 - [ ] Scuba dive in the Great Barrier Reef
 - [ ] Monaco Gran Prix
 - [ ] Surf inside a wave
+- [x] Jet ski on the open ocean
+- [ ] Go the olympics
 
 ### Accomplishments
 - [x] Read Harry Potter series
