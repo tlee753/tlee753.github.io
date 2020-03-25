@@ -8,7 +8,7 @@ permalink: "/experiment/"
 
 <style>
 .post-content img {
-    height: 200px;
+    height: 138px;
     float: left;
     border-radius: 20px;
 }
