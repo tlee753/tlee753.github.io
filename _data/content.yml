@@ -1,5 +1,6 @@
 #-------------------------------
 # Book Section
+#-------------------------------
 
 # old baseball book about guy from the tigers
 
@@ -228,19 +229,19 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Enders Game', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'The Boxcar Children', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Splinter of the Minds Eye', author: '', image: '', year: '',
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Sideways Stories from Wayside School', author: '', image: '', year: '',
     description: '',
     review: ''
 }
@@ -413,8 +414,7 @@ books:
 
 #-------------------------------
 # Movie Section
-
-#  
+#-------------------------------
 
 movies:
 - { title: 'La Vita e Bella', image: 'lavitaebella', year: '1997',
@@ -465,16 +465,16 @@ movies:
     description: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.',
     review: ''
 }
-- { title: 'The Pursuit of Happiness', image: 'pursuitofhappiness', year: '2006',
-    description: 'A struggling salesman takes custody of his son as hes poised to begin a life-changing professional endeavor.',
-    review: ''
-}
 - { title: 'Star Wars: The Empire Strikes Back', image: 'empirestrike', year: '1980',
     description: 'After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.',
     review: ''
 }
 - { title: 'The Matrix', image: 'matrix', year: '1999',
     description: 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.',
+    review: ''
+}
+- { title: 'The Pursuit of Happiness', image: 'pursuitofhappiness', year: '2006',
+    description: 'A struggling salesman takes custody of his son as hes poised to begin a life-changing professional endeavor.',
     review: ''
 }
 - { title: 'Alien', image: 'alien', year: '1979',
@@ -505,10 +505,6 @@ movies:
     description: 'A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughters best friend.',
     review: ''
 }
-- { title: 'Contact', image: 'contact', year: '1997',
-   description: 'Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.',
-   review: ''
-}
 - { title: 'Inception', image: 'inception', year: '2010',
     description: 'A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.',
     review: ''
@@ -520,6 +516,10 @@ movies:
 - { title: 'V for Vendetta', image: 'vforvendetta', year: '2005',
     description: 'In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.',
     review: ''
+}
+- { title: 'Contact', image: 'contact', year: '1997',
+   description: 'Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.',
+   review: ''
 }
 - { title: 'Seven', image: 'seven', year: '1995',
     description: 'Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.',
@@ -597,13 +597,13 @@ movies:
     description: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.',
     review: ''
 }
-- { title: 'The Pianist', image: 'pianist', year: '2002',
-    description: 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.',
-    review: ''
+- { title: '2001: A Space Odyssey', image: '', year: '',
+   description: '',
+   review: ''
 }
-- { title: 'Black Swan', image: 'blackswan', year: '2010',
-    description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
-    review: ''
+- { title: 'Dirty Dancing', image: '', year: '',
+   description: '',
+   review: ''
 }
 - { title: 'Mission: Impossible II', image: 'missionimpossible2', year: '2000',
     description: 'A secret agent is sent to Sydney, to find and destroy a genetically modified disease called "Chimera".',
@@ -625,9 +625,13 @@ movies:
     description: 'Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.',
     review: ''
 }
-- { title: '2001: A Space Odyssey', image: '', year: '',
-   description: '',
-   review: ''
+- { title: 'The Pianist', image: 'pianist', year: '2002',
+    description: 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.',
+    review: ''
+}
+- { title: 'Black Swan', image: 'blackswan', year: '2010',
+    description: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.',
+    review: ''
 }
 - { title: 'The Bourne Identity', image: 'bourneidentity', year: '2002',
     description: 'A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.',
@@ -649,20 +653,20 @@ movies:
     description: 'Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.',
     review: ''
 }
-- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
-    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
-    review: ''
-}
-- { title: 'Scarface', image: 'scarface', year: '1983',
-    description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
-    review: ''
-}
 - { title: 'Warrior', image: '', year: '',
    description: '',
    review: ''
 }
 - { title: 'Mad Max Fury Road', image: 'furyroad', year: '2015',
     description: 'In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.',
+    review: ''
+}
+- { title: 'L.A. Confidential', image: 'laconfidential', year: '2007',
+    description: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
+    review: ''
+}
+- { title: 'Scarface', image: 'scarface', year: '1983',
+    description: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
     review: ''
 }
 - { title: 'Terminator 2: Judgement Day', image: 'terminator2', year: '1991',
@@ -789,10 +793,6 @@ movies:
    description: 'A man afraid to fly must ensure that a plane lands safely after the pilots become sick.',
    review: ''
 }
-- { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
-    description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
-    review: ''
-}
 - { title: 'Black Hawk Down', image: 'blackhawkdown', year: '2001',
     description: '123 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.',
     review: ''
@@ -823,6 +823,10 @@ movies:
 #    review: ''
 # }
 
+# - { title: 'Eternal Sunshine of the Spotless Mind', image: 'eternalsunshine', year: '1994',
+#     description: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.',
+#     review: ''
+# }
 # - { title: 'The Great Raid', image: 'greatraid', year: '2005',
 #     description: 'Taking place towards the end of WWII, 500 American Soldiers have been entrapped in a camp for 3 years. Beginning to give up hope they will ever be rescued, a group of Rangers goes on a dangerous mission to try and save them.',
 #     review: ''
