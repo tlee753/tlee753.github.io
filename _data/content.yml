@@ -245,7 +245,7 @@ books:
     description: '',
     review: ''
 }
-- { title: '', author: '', image: '', year: '',
+- { title: 'Columbine', author: '', image: '', year: '',
     description: '',
     review: ''
 }
