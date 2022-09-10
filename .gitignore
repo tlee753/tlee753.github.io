@@ -39,3 +39,7 @@ Icon
 
 # Site Folder
 _site
+
+# Jekyll
+.jekyll-cache
+
