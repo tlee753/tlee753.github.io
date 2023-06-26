@@ -1,20 +1,20 @@
 ---
-layout: default
+layout: page
 title: About
 date: 2017-09-06 8:00:00
 permalink: "/about/"
 ---
 
-<section id="profile">
-
-<div id="profile-background">Test</div>
-
-<p class="profile-text">
-    If you think you can or can't, <i>you're right</i><br>- Henry Ford
-    <br><br>
-    The items below are simply a collection of some of my favorite things and a little insight into who I am :)
-</p>
-
-</section>
-
-{% include collection.html %}
+<ul class="post-list">
+    {% for interest in site.data.settings.interests %}
+        <a class="post-link" href="{{ interest.link }}">
+            <div class="post-block" style="background-image: url(/assets/img/collection/{{ interest.folder }}/display.jpg)">
+                <div class="post-overlay">
+                    <div class="post-block-content">
+                        <h2>{{ interest.name }}</h2>
+                    </div>
+                </div>
+            </div>
+        </a>
+    {% endfor %}
+</ul>
