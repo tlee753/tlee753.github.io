@@ -1,0 +1,601 @@
+- 'The Book Thief':
+    author: ''
+    image: 'bookthief'
+    year: ''
+    desc: 'A story about, among other things: A girl, some words, an accordionist, some fanatical Germans, a Jewish fist-fighter, and quite a lot of thievery. . . .an unforgettable story about the ability of books to feed the soul. Winner of the 2007 BookBrowse Ruby Award.'
+
+- 'In Cold Blood':
+    author: 'Truman Capote'
+    image: 'incoldblood'
+    year: ''
+    desc: 'On November 15, 1959, in the small town of Holcomb, Kansas, four members of the Clutter family were savagely murdered by blasts from a shotgun held a few inches from their faces. There was no apparent motive for the crime, and there were almost no clues.'
+
+- 'All Quiet on the Western Front':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'The Boy Who Dared':
+    author: 'Susan Campbell Bartoletti'
+    image: 'boywhodared'
+    year: ''
+    desc: 'A Newbery Honor Book author has written a powerful and gripping novel about a youth in Nazi Germany who tells the truth about Hitler.'
+
+- 'Harry Potter and the Deathly Hallows':
+    author: 'J. K. Rowling'
+    image: 'deathlyhallows'
+    year: ''
+    desc: 'Its no longer safe for Harry at Hogwarts, so he and his best friends, Ron and Hermione, are on the run. Professor Dumbledore has given them clues about what they need to do to defeat the dark wizard, Lord Voldemort, once and for all, but its up to them to figure out what these hints and suggestions really mean.'
+
+- 'How to Win Friends and Influence People':
+    author: 'Dale Carnegie'
+    image: 'htwfaip'
+    year: ''
+    desc: 'You can go after the job you want...and get it! You can take the job you have...and improve it! You can take any situation you are in...and make it work for you!'
+
+- 'Surely Youre Joking, Mr. Feynman!':
+    author: 'Richard Feynman'
+    image: 'surelyyourejoking'
+    year: ''
+    desc: 'Richard Feynman (1918-1988), winner of the Nobel Prize in physics, thrived on outrageous adventures. Here he recounts in his inimitable voice his experience trading ideas on atomic physics with Einstein and Bohr and ideas on gambling with Nick the Greek; cracking the uncrackable safes guarding the most deeply held nuclear secrets; painting a naked female toreador - and much else of an eyebrow-raising nature.'
+
+- 'A Wrinkle in Time':
+    author: 'Madeleine LEngle'
+    image: 'awrinkleintime'
+    year: ''
+    desc: 'It was a dark and stormy night; Meg Murry, her small brother Charles Wallace, and her mother had come down to the kitchen for a midnight snack when they were upset by the arrival of a most disturbing stranger.'
+
+- 'Number the Stars':
+    author: 'Lois Lowry'
+    image: 'numberthestars'
+    year: ''
+    desc: 'Ten-year-old Annemarie Johansen and her best friend Ellen Rosen often think of life before the war. Its now 1943 and their life in Copenhagen is filled with school, food shortages, and the Nazi soldiers marching through town. When the Jews of Denmark are "relocated," Ellen moves in with the Johansens and pretends to be one of the family.'
+
+- 'Night':
+    author: 'Elie Wiesel'
+    image: 'night'
+    year: ''
+    desc: 'An autobiographical narrative in which the author describes his experiences in Nazi concentration camps, watching family and friends die, and how they led him to believe that God is dead.'
+
+- 'Endurance':
+    author: 'Alfred Lansing'
+    image: 'endurance'
+    year: ''
+    desc: 'The astonishing saga of polar explorer Ernest Shackletons survival for over a year on the ice-bound Antarctic seas, as Time magazine put it, "defined heroism." Alfred Lansings scrupulously researched and brilliantly narrated book -- with over 200,000 copies sold -- has long been acknowledged as the definitive account of the Endurances fateful trip.'
+
+- '1984':
+    author: 'George Orwell'
+    image: '1984'
+    year: ''
+    desc: 'The year 1984 has come and gone, but George Orwells prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. 1984 is still the great modern classic of "negative utopia" -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words.'
+
+- 'The Giver':
+    author: 'Lois Lowry'
+    image: 'giver'
+    year: ''
+    desc: 'Twelve-year-old Jonas lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community.'
+
+- 'The Martian':
+    author: 'Andy Weir'
+    image: 'martian'
+    year: '2014'
+    desc: 'Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. Now, he’s sure he’ll be the first person to die there.'
+
+- 'Testament of Youth':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Frankenstein':
+    author: 'Mary Shelley'
+    image: 'frankenstein'
+    year: ''
+    desc: 'Frankenstein, a story about a student of natural philosophy who learns the secret of imparting life to a creature constructed from bones he has collected in charnel-houses. The story is not a study of the macabre, as such, but rather a study of how man uses his power, through science, to manipulate and pervert his own destiny, and this makes it a profoundly disturbing book.'
+
+- 'Start with Why':
+    author: 'Simon Senek'
+    image: 'startwithwhy'
+    year: ''
+    desc: 'Why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over?'
+
+- 'The Great Gatsby':
+    author: 'F. Scott Fitzgerald'
+    image: 'greatgatsby'
+    year: ''
+    desc: 'THE GREAT GATSBY, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” is an exquisitely crafted tale of America in the 1920s.'
+
+- 'To Kill a Mockingbird':
+    author: 'Harper Lee'
+    image: 'tokillamockingbird'
+    year: ''
+    desc: 'The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.'
+
+- 'Tuck Everlasting':
+    author: 'Natalie Babbitt'
+    image: 'tuckeverlasting'
+    year: ''
+    desc: 'Doomed to - or blessed with - eternal life after drinking from a magic spring, the Tuck family wanders about trying to live as inconspicuously and comfortably as they can. When ten-year-old Winnie Foster stumbles on their secret, the Tucks take her home and explain why living forever at one age is less a blessing that it might seem.'
+
+- 'All the Light We Cannot See':
+    author: 'Anthony Doerr'
+    image: 'allthelightwecannotsee'
+    year: ''
+    desc: 'A stunningly ambitious and beautiful novel about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II. '
+
+- 'The Lion, the Witch, and the Wardrobe':
+    author: 'C. S. Lewis'
+    image: 'lionwitchwardrobe'
+    year: ''
+    desc: 'NARNIA...the land beyond the wardrobe, the secret country known only to Peter, Susan, Edmund, and Lucy...the place where the adventure begins.'
+
+- 'Before I Fall':
+    author: 'Lauren Oliver'
+    image: 'beforeifall'
+    year: ''
+    desc: 'With this stunning debut novel, New York Times bestselling author Lauren Oliver emerged as one of todays foremost authors of young adult fiction. Like Jay Ashers Thirteen Reasons Why and Gayle Formans If I Stay, Before I Fall raises thought-provoking questions about love, death, and how one persons life can affect so many others.'
+
+- 'Devil in the White City':
+    author: 'Erik Larson'
+    image: 'devilinwhite'
+    year: ''
+    desc: 'Erik Larsons gifts as a storyteller are magnificently displayed in this rich narrative of the master builder, the killer, and the great fair that obsessed them both.'
+
+- 'Fahrenheit 451':
+    author: 'Ray Bradbury'
+    image: 'fahrenheit451'
+    year: ''
+    desc: 'The Bradbury classic about a future crisis in intellectual freedom and book burning. Fahrenheit 451 is the temperature at which book paper catches fire and burns.'
+
+- 'The Hitchhikers Guide to the Galaxy':
+    author: 'Douglas Adams'
+    image: 'hitchhikers'
+    year: ''
+    desc: 'Seconds before Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker’s Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.'
+
+- 'The Diary of a Young Girl':
+    author: 'Anne Frank'
+    image: 'diaryofayounggirl'
+    year: ''
+    desc: 'Discovered in the attic in which she spent the last years of her life, Anne Franks remarkable diary has since become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit.'
+
+- 'Harry Potter and the Chamber of Secrets':
+    author: 'J. K. Rowling'
+    image: 'chamberofsecrets'
+    year: ''
+    desc: 'The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he is packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike.'
+
+- 'Slaughterhouse Five':
+    author: 'Kurt Vonnegut'
+    image: 'slaughterhousefive'
+    year: ''
+    desc: 'Kurt Vonneguts absurdist classic Slaughterhouse-Five introduces us to Billy Pilgrim, a man who becomes unstuck in time after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonneguts) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden.'
+
+- 'Holes':
+    author: 'Louis Sachar'
+    image: 'holes'
+    year: ''
+    desc: 'Stanley Yelnats is under a curse. A curse that began with his no-good-dirty-rotten-pig-stealing-great-great-grandfather and has since followed generations of Yelnats. Now Stanley has been unjustly sent to a boys detention center, Camp Green Lake, where the warden makes the boys "build character" by spending all day, every day, digging holes: five feet wide and five feet deep. It doesnt take long for Stanley to realize theres more than character improvement going on at Camp Green Lake. The boys are digging holes because the warden is looking for something. Stanley tries to dig up the truth in this inventive and darkly humorous tale of crime and punishment—and redemption.'
+
+- 'Into the Wild':
+    author: 'Jon Krakauer'
+    image: 'intothewild'
+    year: ''
+    desc: 'In April 1992 a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, a party of moose hunters found his decomposed body. How McCandless came to die is the unforgettable story of Into the Wild.'
+
+- 'The Maze Runner':
+    author: 'James Dashner'
+    image: 'mazerunner'
+    year: ''
+    desc: 'When Thomas wakes up in the lift, the only thing he can remember is his name. He’s surrounded by strangers—boys whose memories are also gone.'
+
+- 'Hatchet':
+    author: 'Gary Paulsen'
+    image: 'hatchet'
+    year: ''
+    desc: 'Brian is on his way to Canada to visit his estranged father when the pilot of his small prop plane suffers a heart attack. Brian is forced to crash-land the plane in a lake--and finds himself stranded in the remote Canadian wilderness with only his clothing and the hatchet his mother gave him as a present before his departure. '
+
+- 'The Happiness Hypothesis':
+    author: 'Jonathan Haidt'
+    image: 'hapinesshypothesis'
+    year: ''
+    desc: 'In his widely praised book, award-winning psychologist Jonathan Haidt examines the world’s philosophical wisdom through the lens of psychological science, showing how a deeper understanding of enduring maxims-like Do unto others as you would have others do unto you, or What doesn’t kill you makes you stronger-can enrich and even transform our lives.'
+
+- 'A Dogs Purpose':
+    author: 'W. Bruce Cameron'
+    image: 'adogspurpose'
+    year: ''
+    desc: 'This is the remarkable story of one endearing dogs search for his purpose over the course of several lives. More than just another charming dog story, this touches on the universal quest for an answer to lifes most basic question: Why are we here?'
+
+- 'The Far Side Gallery':
+    author: 'Gary Larson'
+    image: 'farsidegallery'
+    year: ''
+    desc: 'The Far Side Gallery is an anthology of Gary Larsons The Far Side comic strips, which were printed from 1982–1984.'
+
+- 'The Hunger Games':
+    author: 'Suzanne Collins'
+    image: 'hungergames'
+    year: ''
+    desc: 'The nation of Panem, formed from a post-apocalyptic North America, is a country that consists of a wealthy Capitol region surrounded by 12 poorer districts. Early in its history, a rebellion led by a 13th district against the Capitol resulted in its destruction and the creation of an annual televised event known as the Hunger Games.'
+
+- 'Kringle':
+    author: 'Tony Abbott'
+    image: 'kringle'
+    year: ''
+    desc: 'Just in time for Christmas comes a fantasy epic from one of todays most popular writers for children. It is the story of a young orphan realizing his destiny -- to become the legendary Kris Kringle.'
+
+- 'Journey to the Center of the Earth':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Murder on the Orient Express':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Stormbreaker':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Scorpia':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'The Grim Grotto':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Dunk':
+    author: 'David Lubar'
+    image: ''
+    year: ''
+    desc: ''
+
+- 'October Sky':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Kite Runner':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'The Five People You Meet in Heaven':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'James and the Giant Peach':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Flowers for Algernon':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'The Most Dangerous Game':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'East of Eden':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '12 Rules for Life':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Seveneves':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Dune':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Little House on the Praire':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Boxcar Kids':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'The Bad Beginning':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Catcher in the Rye':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Ender''s Game':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'The Boxcar Children':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Splinter of the Minds Eye':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Sideways Stories from Wayside School':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Columbine':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Foundation':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'Ready Player One':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'East of Eden':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- 'A Gentleman in Moscow':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+- '':
+    author: ''
+    image: ''
+    year: ''
+    desc: ''
+
+# old baseball book about guy from the tigers

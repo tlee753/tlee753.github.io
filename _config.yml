@@ -1,29 +1,19 @@
-# General Information
 title: Tyler Lee
 tagline: Leader // Explorer // Engineer
 description: Leader // Explorer // Engineer
 
+baseurl: ""
+url: "https://tlee753.com"
 
-# Site Location
-baseurl: "" # default base url of /
-url: "http://tlee753.com"
-
-
-# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 include: ['_pages']
-#permalink: /:title/
 
-
-# Specify the port jekyll uses to serve locally
+host: 0.0.0.0
 port: 4000
 
-
-# Sass settings
 sass:
   sass_dir: css
   style: :nested
-

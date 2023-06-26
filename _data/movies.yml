@@ -1,0 +1,524 @@
+- 'La Vita e Bella':
+    image: 'lavitaebella'
+    year: '1997'
+    desc: 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.'
+
+- 'Fight Club':
+    image: 'fightclub'
+    year: '1999'
+    desc: 'An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker, forming an underground fight club that evolves into something much, much more...'
+
+- 'The Shawshank Redemption':
+    image: 'shawshank'
+    year: '1994'
+    desc: 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.'
+
+- 'Star Wars: A New Hope':
+    image: 'newhope'
+    year: '1977'
+    desc: 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empires world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.'
+
+- 'Indiana Jones: Raiders of the Lost Ark':
+    image: 'raidersark'
+    year: '1981'
+    desc: 'Archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis.'
+
+- 'Gladiator':
+    image: 'gladiator'
+    year: '2000'
+    desc: 'When a Roman general is betrayed and his family murdered by an emperors corrupt son, he comes to Rome as a gladiator to seek revenge.'
+
+- 'The Dark Knight':
+    image: 'darkknight'
+    year: '2008'
+    desc: 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.'
+
+- 'The Usual Suspects':
+    image: 'usualsuspects'
+    year: '1995'
+    desc: 'A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.'
+
+- 'Its A Wonderful Life':
+    image: 'wonderfullife'
+    year: '1946'
+    desc: 'An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.'
+
+- 'Sunshine':
+    image: 'sunshine'
+    year: '2007'
+    desc: 'A team of international astronauts are sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.'
+
+- 'Rush':
+    image: 'rush'
+    year: '2013'
+    desc: 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.'
+
+- 'City of God':
+    image: 'cityofgod'
+    year: '2002'
+    desc: 'Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.'
+
+- 'Star Wars: The Empire Strikes Back':
+    image: 'empirestrike'
+    year: '1980'
+    desc: 'After the rebels have been brutally overpowered by the Empire on their newly established base, Luke Skywalker takes advanced Jedi training with Master Yoda, while his friends are pursued by Darth Vader as part of his plan to capture Luke.'
+
+- 'The Matrix':
+    image: 'matrix'
+    year: '1999'
+    desc: 'A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.'
+
+- 'The Pursuit of Happiness':
+    image: 'pursuitofhappiness'
+    year: '2006'
+    desc: 'A struggling salesman takes custody of his son as hes poised to begin a life-changing professional endeavor.'
+
+- 'Alien':
+    image: 'alien'
+    year: '1979'
+    desc: 'After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.'
+
+- 'The Truman Show':
+    image: 'trumanshow'
+    year: '1998'
+    desc: 'An insurance salesman/adjuster discovers his entire life is actually a television show.'
+
+- 'Blood Diamond':
+    image: 'blooddiamond'
+    year: '2006'
+    desc: 'A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.'
+
+- 'Jurassic Park':
+    image: 'jurassicpark'
+    year: '1993'
+    desc: 'During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.'
+
+- 'Contact':
+    image: 'contact'
+    year: '1997'
+    desc: 'Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.'
+
+- 'Casino Royale':
+    image: 'casinoroyale'
+    year: '2006'
+    desc: 'Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.'
+
+- 'Indiana Jones: The Last Crusade':
+    image: 'lastcrusade'
+    year: '1989'
+    desc: 'When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his fathers footsteps and stop the Nazis.'
+
+- 'American Beauty':
+    image: 'americanbeauty'
+    year: '1999'
+    desc: 'A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughters best friend.'
+
+- 'Inception':
+    image: 'inception'
+    year: '2010'
+    desc: 'A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.'
+
+- 'The Prestige':
+    image: 'prestige'
+    year: '2006'
+    desc: 'Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion.'
+
+- 'V for Vendetta':
+    image: 'vforvendetta'
+    year: '2005'
+    desc: 'In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.'
+
+- 'Seven':
+    image: 'seven'
+    year: '1995'
+    desc: 'Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.'
+
+- 'Shutter Island':
+    image: 'shutterisland'
+    year: '2010'
+    desc: 'A U.S Marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.'
+
+- 'Schindlers List':
+    image: 'schindler'
+    year: '1993'
+    desc: 'In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.'
+
+- 'Gran Torino':
+    image: 'grantorino'
+    year: '2008'
+    desc: 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, a Hmong teenager who tried to steal Kowalskis prized possession: a 1972 Gran Torino.'
+
+- 'Mission: Impossible':
+    image: 'missionimpossible'
+    year: '1996'
+    desc: 'An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.'
+
+- 'Minority Report':
+    image: 'minorityreport'
+    year: '2002'
+    desc: 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.'
+
+- 'Back to the Future':
+    image: 'backtothefuture'
+    year: '1985'
+    desc: 'A young man is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.'
+
+- 'Die Hard':
+    image: 'diehard'
+    year: '1988'
+    desc: 'John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.'
+
+- 'Oceans Eleven':
+    image: 'oceanseleven'
+    year: '2001'
+    desc: 'Danny Ocean and his eleven accomplices plan to rob three Las Vegas casinos simultaneously.'
+
+- 'Aliens':
+    image: 'aliens'
+    year: '1986'
+    desc: '57 years later, Ellen Ripley is rescued by a deep salvage team during her hypersleep. The moon from the original movie has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?'
+
+- 'Blade Runner':
+    image: 'bladerunner'
+    year: '1982'
+    desc: 'A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.'
+
+- 'Iron Man':
+    image: 'ironman'
+    year: '2008'
+    desc: 'After being held captive in an Afghan cave, a billionaire engineer creates a unique weaponized suit of armor to fight evil.'
+
+- 'Ex Machina':
+    image: 'exmachina'
+    year: '2014'
+    desc: 'A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.'
+
+- 'Dirty Dancing':
+    image: 'dirty-dancing'
+    year: '1987'
+    desc: 'Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp''s dance instructor, Johnny Castle.'
+
+- '2001: A Space Odyssey':
+    image: '2001-a-space'
+    year: '1968'
+    desc: 'After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.'
+
+- 'Groundhog Day':
+    image: 'groundhogday'
+    year: '1993'
+    desc: 'A weatherman finds himself living the same day over and over again.'
+
+- 'Good Will Hunting':
+    image: 'goodwillhunting'
+    year: '1997'
+    desc: 'Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.'
+
+- 'Sherlock Holmes: Game of Shadows':
+    image: 'gameofshadows'
+    year: '2011'
+    desc: 'Sherlock Holmes and his sidekick Dr. Watson join forces to outwit and bring down their fiercest adversary, Professor Moriarty.'
+
+- 'Primer':
+    image: 'primer'
+    year: '2004'
+    desc: 'Four friends/fledgling entrepreneurs, knowing that there is something bigger and more innovative than the different error-checking devices they have built, wrestle over their new invention.'
+
+- 'The Departed':
+    image: 'departed'
+    year: '2006'
+    desc: 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.'
+
+- 'Inglourious Basterds':
+    image: 'inglouriousbasterds'
+    year: '2009'
+    desc: 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owners vengeful plans for the same.'
+
+- 'Interstellar':
+    image: 'interstellar'
+    year: '2014'
+    desc: 'A team of explorers travel through a wormhole in space in an attempt to ensure humanitys survival.'
+
+- 'Star Wars: Return of the Jedi':
+    image: 'returnofthejedi'
+    year: '1983'
+    desc: 'After rescuing Han Solo from the palace of Jabba the Hutt, the rebels attempt to destroy the second Death Star, while Luke struggles to make Vader return from the dark side of the Force.'
+
+- 'The Book Thief':
+    image: 'booktheif'
+    year: '2013'
+    desc: 'While subjected to the horrors of World War II Germany, young Liesel finds solace by stealing books and sharing them with others. In the basement of her home, a Jewish refugee is being protected by her adoptive parents.'
+
+- 'The Pianist':
+    image: 'pianist'
+    year: '2002'
+    desc: 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.'
+
+- 'Black Swan':
+    image: 'blackswan'
+    year: '2010'
+    desc: 'A committed dancer wins the lead role in a production of Tchaikovskys "Swan Lake" only to find herself struggling to maintain her sanity.'
+
+- 'The Bourne Identity':
+    image: 'bourneidentity'
+    year: '2002'
+    desc: 'A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.'
+
+- 'Psycho':
+    image: 'psycho'
+    year: '1960'
+    desc: 'A Phoenix secretary embezzles forty thousand dollars from her employer''s client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.'
+
+- 'Saving Private Ryan':
+    image: 'savingprivateryan'
+    year: '1998'
+    desc: 'Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.'
+
+- 'Blade Runner 2049':
+    image: 'bladerunner2049'
+    year: '2017'
+    desc: 'A young blade runners discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who has been missing for thirty years.'
+
+- 'Rocky':
+    image: 'rocky'
+    year: '1976'
+    desc: 'Rocky Balboa, a small-time boxer, gets a supremely rare chance to fight the heavy-weight champion, Apollo Creed, in a bout in which he strives to go the distance for his self-respect.'
+
+- 'Mad Max Fury Road':
+    image: 'furyroad'
+    year: '2015'
+    desc: 'In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.'
+
+- 'Jojo Rabbit':
+    image: 'jojo-rabbit'
+    year: '2019'
+    desc: 'A young German boy in the Hitler Youth whose hero and imaginary friend is the country''s dictator is shocked to discover that his mother is hiding a Jewish girl in their home.'
+
+- 'Warrior':
+    image: 'warrior'
+    year: '2011'
+    desc: 'The youngest son of an alcoholic former boxer returns home, where he''s trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.'
+
+- 'Donnie Darko':
+    image: 'donnie-darko'
+    year: '2001'
+    desc: 'After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.'
+
+- 'L.A. Confidential':
+    image: 'laconfidential'
+    year: '2007'
+    desc: 'As corruption grows in 1950s LA, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.'
+
+- 'Scarface':
+    image: 'scarface'
+    year: '1983'
+    desc: 'In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.'
+
+- 'Terminator 2: Judgement Day':
+    image: 'terminator2'
+    year: '1991'
+    desc: 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.'
+
+- 'The Imitation Game':
+    image: 'imitationgame'
+    year: '2014'
+    desc: 'During World War II, mathematician Alan Turing tries to crack the enigma code with help from fellow mathematicians.'
+
+- 'Heat':
+    image: 'heat'
+    year: '1995'
+    desc: 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.'
+
+- 'The Book of Eli':
+    image: 'bookofeli'
+    year: '2010'
+    desc: 'A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.'
+
+- 'I Am Legend':
+    image: 'iamlegend'
+    year: '2007'
+    desc: 'Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.'
+
+- 'Deadpool':
+    image: 'deadpool'
+    year: '2016'
+    desc: 'A former Special Forces operative turned mercenary is subjected to a rogue experiment that leaves him with accelerated healing powers, adopting the alter ego Deadpool.'
+
+- 'Spiderman 2':
+    image: 'spiderman2'
+    year: '2004'
+    desc: 'Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.'
+
+- 'Rocketman':
+    image: 'rocketman'
+    year: '2019'
+    desc: 'A musical fantasy about the fantastical human story of Elton John''s breakthrough years.'
+
+- 'Forrest Gump':
+    image: 'forrestgump'
+    year: '1994'
+    desc: 'Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.'
+
+- 'Memento':
+    image: 'memento'
+    year: '2000'
+    desc: 'A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.'
+
+- 'The Martian':
+    image: 'martian'
+    year: '2015'
+    desc: 'An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.'
+
+- 'Sherlock Holmes':
+    image: 'sherlockholmes'
+    year: '2009'
+    desc: 'Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.'
+
+- 'Goodfellas':
+    image: 'goodfellas'
+    year: '1990'
+    desc: 'Henry Hill and his friends work their way up through the mob hierarchy.'
+
+- 'Boyhood':
+    image: 'boyhood'
+    year: '2014'
+    desc: 'The life of Mason, from early childhood to his arrival at college.'
+
+- 'Senna':
+    image: 'senna'
+    year: '2010'
+    desc: 'A documentary on Brazilian Formula One racing driver Ayrton Senna, who won the F1 world championship three times before his death at age 34.'
+
+- 'The Butterfly Effect':
+    image: 'butterflyeffect'
+    year: '2004'
+    desc: 'Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.'
+
+- 'Miracle':
+    image: 'miracle'
+    year: '2004'
+    desc: 'Miracle tells the true story of Herb Brooks (Russell), the player-turned-coach who led the 1980 U.S. Olympic hockey team to victory over the seemingly invincible Russian squad.'
+
+- 'Fury':
+    image: 'fury'
+    year: '2014'
+    desc: '1945, in the World War II Germany, the tough Sergeant Don "Wardaddy" Collier commands a tank and survives a German attack with his veteran crew.'
+
+- 'Silver Linings Playbook':
+    image: 'silverlinings'
+    year: '2012'
+    desc: 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.'
+
+- 'American Gangster':
+    image: 'americangangster'
+    year: '2007'
+    desc: 'In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.'
+
+- 'Butch Cassidy and the Sundance Kid':
+    image: 'butchandsundance'
+    year: '1969'
+    desc: 'Two Western bank/train robbers flee to Bolivia when the law gets too close.'
+
+- 'The Great Escape':
+    image: 'greatescape'
+    year: '1963'
+    desc: 'Allied P.O.W.s plan for several hundred of their number to escape from a German camp during World War II.'
+
+- 'E.T. The Extra Terrestrial':
+    image: 'etextra'
+    year: '1982'
+    desc: 'A troubled child summons the courage to help a friendly alien escape Earth and return to his home-world.'
+
+- 'First Blood':
+    image: 'firstblood'
+    year: '1982'
+    desc: 'Former Green Beret John Rambo is pursued into the mountains surrounding a small town by a tyrannical sheriff and his deputies, forcing him to survive using his combat skills.'
+
+- 'The Edge of Tomorrow':
+    image: 'edgeoftomorrow'
+    year: '2014'
+    desc: 'A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.'
+
+- 'Oblivion':
+    image: 'oblivion'
+    year: '2013'
+    desc: 'A veteran assigned to extract Earths remaining resources begins to question what he knows about his mission and himself.'
+
+- 'Rocky IV':
+    image: 'rocky4'
+    year: '1985'
+    desc: 'After iron man Drago, a highly intimidating 6-foot-5, 261-pound Soviet athlete, kills Apollo Creed in an exhibition match, Rocky comes to the heart of Russia for 15 pile-driving boxing rounds of revenge.'
+
+- 'Braveheart':
+    image: 'braveheart'
+    year: '1995'
+    desc: 'When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.'
+
+- 'Monty Python and the Holy Grail':
+    image: 'montypython'
+    year: '1975'
+    desc: 'King Arthur and his knights embark on a low-budget search for the Grail, encountering many, very silly obstacles.'
+
+- 'Airplane':
+    image: 'airplane'
+    year: '1980'
+    desc: 'A man afraid to fly must ensure that a plane lands safely after the pilots become sick.'
+
+- 'Stand By Me':
+    image: 'standbyme'
+    year: '1986'
+    desc: 'After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.'
+
+- 'Legends of the Fall':
+    image: 'legendsofthefall'
+    year: '1994'
+    desc: 'In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.'
+
+- 'Slumdog Millionare':
+    image: 'slumdogmillionare'
+    year: '2008'
+    desc: 'A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of "Who Wants to be a Millionaire?"'
+
+- 'Gattaca':
+    image: 'gattaca'
+    year: '1997'
+    desc: 'A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.'
+
+- 'Romancing the Stone':
+    image: 'romancingthestone'
+    year: '1984'
+    desc: 'A romance writer sets off to Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure.'
+
+- 'Dirty Harry':
+    image: 'dirtyharry'
+    year: '1971'
+    desc: 'When a mad man calling himself "the Scorpio Killer" menaces the city, tough as nails San Francisco Police Inspector Harry Callahan is assigned to track down and ferret out the crazed psychopath.'
+
+- 'The Italian Job':
+    image: 'italianjob'
+    year: '2003'
+    desc: 'After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.'
+
+# - ''
+#     image: ''
+#     year: ''
+#     desc: ''
+
+# - 'Eternal Sunshine of the Spotless Mind'
+#     image: 'eternalsunshine'
+#     year: '1994'
+#     desc: 'When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with.'
+
+# - 'Harry Potter: Order of the Phoenix'
+#     image: 'orderofthephoenix'
+#     year: '2007'
+#     desc: 'With their warning about Lord Voldemorts return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.'
+
+# - 'Mean Girls'
+#     image: 'meangirls'
+#     year: '2004'
+#     desc: 'Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.'
+
+# - 'Radio'
+#     image: 'radio'
+#     year: '2003'
+#     desc: 'The story of a high school coach and the developmentally challenged man who he took under his wing.'
