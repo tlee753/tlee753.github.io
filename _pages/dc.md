@@ -92,7 +92,7 @@ category: Misc
 - Amtrak North
     - Baltimore (40 min)
     - Wilmington (1.5 hr)
-    - Philidelphia (1.5 hr)
+    - Philidelphia (2 hr)
     - New York (3.5 hr)
     - Stamford (4.5 hr)
     - Boston (8 hr)
