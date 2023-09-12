@@ -22,6 +22,7 @@ category: Misc
 - Asian Art Musuem
 - Botanical Garden
 - Hishorn Art Musuem
+- Kenilworth Aquatic Gardens
 - Lincoln / Jefferson / Roosevelt / Eisenhower / MLK Monuments
 - National Arboretum
 - National Archives
