@@ -19,7 +19,7 @@ permalink: "/bucket/"
 - [x] Go skydiving
 - [ ] Fly in a hot air balloon
 - [ ] See the northern lights
-- [ ] Go skiing (black diamond)
+- [x] Go skiing (double black diamond)
 - [ ] Go hang gliding (rain forest?)
 - [ ] Kill it at a karaoke night
 - [x] Witness a solar eclipse
@@ -27,9 +27,6 @@ permalink: "/bucket/"
 - [ ] Meet a role model
     - Barack Obama
     - Lebron James
-    - John Cleese
-    - JK Rowling
-    - Bill Watterson
     - Kareem Abdul Jabbar
 - [ ] Race down the Autobahn (sports car required)
 - [ ] Visit an active volcano (seeing lava required)
@@ -53,19 +50,18 @@ permalink: "/bucket/"
 - [ ] Get a black belt
 
 ### Certifications
-- [ ] Pilot's license
-- [x] Scuba certification
-- [ ] Motorcycle license
+- [ ] Chess Expert (2000+ rating)
 - [ ] FCC Certification
 - [ ] HAM Radio Certification
-- [ ] Chess Expert (2000+ rating)
+- [ ] Motorcycle license
+- [ ] Pilot's license
+- [x] Scuba certification
 
 ### Travel
 - [ ] Visit every inhabited continent (5/6)
 - [ ] Visit all 50 states
 - [ ] Explore outer space
 - [x] Jerusalem
-- [ ] Australia
 
 ### Skills
 - [x] Learn a new language (Spanish)
