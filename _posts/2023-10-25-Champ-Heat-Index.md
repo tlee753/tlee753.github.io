@@ -25,8 +25,50 @@ thumbnail: ../blog/horseshoe.jpg
 <script src="/assets/js/d3-hexbin-v0.2.js"></script>
 <script src="/assets/js/topojson-v2.js"></script>
 
+# Champion Heat Index
+
+So this is a fun little idea thats been noodling around, I was curious where the best place to live is geographically to see pro sports championships. Obviously New York and Los Angeles have literally double the number of teams as anyone else but thats not the point, I just want to know where the hottest sports cities are...
+
+<br>
+
+I wanted a championship to always provide a city with some score, albeit with more recent ones counting for more, so I decide on a simple inversion of years since championship. So the current champions in any sport will get a score of `1 / 1 = 1` while a championship 50 years ago would provide `1 / 50 = 0.02` points to a city's heat index. Stil counts for something, it will always be greater than `0` but you can see how strong the receny bias is.
+
+<br>
+
+This quickly divulged into figuring out which city is the current pro sports champion based the combined scores of all pro sports championships in each city. A champion of champions if you will. Spoilers, as of writing this its currently `Los Angeles` with a score of `3.303`.
+
+<br>
+
+Numbers are fun, but the whole goal is to look at geography and see where I need to move to. I dusted off the trusty old D3 (now on version 7!) and mapped out the scores. Also, soooorry Canada, your data isn't in the Alber's topographical map I used...
+
+<br>
+
+The redder the better, and Los Angeles sticks out like a sore thumb. The East Coast Titans of New York and Boston perpetual remain high with some out-in-the-plains cities overperforming recently. The midwest fascinated me as well, because while there aren't any super hot cities, they are a lot of champions throughout history in the rust belt.
+
 <div id="champ-map"></div>
+
+Now to break down the data further. This is a chart of every city that has ever won a championship and the current points distribution across the five major sports. Keep in mind that a current year champion in a sport will get 1 full point, so you can easily pick out the current winners (Las Vegas in hockey, Denver in basketball).
+
+<br>
+
+I found it interesting that the only cities to have won in every sport are New York, Los Angeles, Chicago, and DC - although Denver, Boston, Toronto, and St. Louis are quite close. It also tickles me that New York has such a high baseball score despite not having won a world series since the 2009 Yankees...
+
 <div id="champ-index"></div>
+
+Finally, I thought it would be interesting to see historically who has held the crown of Pro sports champion, so I ran the calculations for each year.
+
+<br>
+
+You can really see some sports eras in the data - the Yankees multi-decade chokehold on baseball, the 60's Boston Celtics, and the recent dominance of Los Angeles across a number of sports. Of course you would expect to see New York and Los Angeles on top most years but the occasional generational dynasty in a smaller city has made it to the top.
+
+<br>
+
+If your city was currently champion in every sport, you would of course have a minimum score of 5, but no city has ever achieved that. New York's `4.469` in 1955 is the peak anyone has accomplished, all the more impressive given that soccer and football weren't pro enough yet for my data.
+
+<br>
+
+In recent times, Los Angeles has seen a number of spikes with a peak during the Shaq-Kobe Laker era of `4.380` in 2002. Los Angeles has really done well across the board in the modern age, compared to New York's Bronx-Bombing to the top.
+
 <div id="champ-history"></div>
 
 <script>
@@ -243,6 +285,9 @@ d3.csv("/assets/js/champ-heat-history.csv").then(function(data) {
     chsvg.append("text").attr("x", 65).attr("y", 237).text("Other").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
 })
 </script>
+
+### Parsed Data
+Should anyone care to spot check my data :)
 
 <div class="scroll-table" markdown="1">
 
