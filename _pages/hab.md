@@ -66,7 +66,7 @@ Side View
 
 <br>
 
-<video width="100%" controls>
+<video width="100%" poster="/assets/img/portfolio/hab/plane.png" controls>
     <source src="/assets/img/portfolio/hab/plane.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>
