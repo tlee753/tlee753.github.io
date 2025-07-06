@@ -666,7 +666,7 @@ progress[value]::-moz-progress-value {
 
 ::-moz-scrollbar-track {
   border-radius: 12px;
-  background-color: #efefef;
+  background-color: #e4e4e4;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -676,7 +676,7 @@ progress[value]::-moz-progress-value {
 
 ::-webkit-scrollbar-track {
   border-radius: 12px;
-  background-color: #efefef;
+  background-color: #e4e4e4;
 }
 
 a {
