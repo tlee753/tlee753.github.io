@@ -23,3 +23,8 @@ For those interested, it is a static website that utilizes preprocessing to mini
 - **Analytics**: Google Analytics
 - **Javascript Utilities**: JQuery, Reveal.js
 - **Image Reducer**: Image Optim (Mac), jpegoptim/optipng (Linux)
+
+### Utility
+```bash
+sass -w assets/css/main.sass:assets/css/main.css
+```
