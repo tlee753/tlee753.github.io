@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50"><svg viewBox="0 0 1000 1000" width="50" height="50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+
+  <!-- <rect
+        x="0"
+        y="0"
+        height="1000"
+        width="1000"
+        style="fill:ghostwhite; fill-opacity:1; stroke:none;"
+    /> -->
+  <circle r="500" cx="500" cy="500" style="fill: white; stroke: none; --darkreader-inline-fill: var(--darkreader-text-ffffff, #e8e6e3); --darkreader-inline-stroke: none;" id="SvgjsCircle1245" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle>
+  <circle r="400" cx="500" cy="500" style="fill: none; stroke: rgb(177, 177, 177); stroke-width: 60px; --darkreader-inline-fill: none; --darkreader-inline-stroke: var(--darkreader-text-b1b1b1, #b7b0a7);" id="SvgjsCircle1244" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></circle>
+  <path d="M 448,795 V 205 c -81,14 -167,74 -208,145" style="fill: none; stroke: rgb(177, 177, 177); stroke-width: 60px; stroke-linecap: round; stroke-linejoin: round; --darkreader-inline-fill: none; --darkreader-inline-stroke: var(--darkreader-text-b1b1b1, #b7b0a7);" id="SvgjsPath1243" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></path>
+  <path d="M 552,205 V 795 C 633,781 719,721 760,650" style="fill: none; stroke: rgb(177, 177, 177); stroke-width: 60px; stroke-linecap: round; stroke-linejoin: round; --darkreader-inline-fill: none; --darkreader-inline-stroke: var(--darkreader-text-b1b1b1, #b7b0a7);" id="SvgjsPath1242" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
