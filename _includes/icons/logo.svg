@@ -15,20 +15,27 @@
         style="fill:ghostwhite; fill-opacity:1; stroke:none;"
     /> -->
   <circle
+        r="500"
+        cx="500"
+        cy="500"
+        style="fill:white;stroke:none;"
+        id="circle1"
+    />
+  <circle
         r="400"
         cx="500"
         cy="500"
-        style="fill:none;stroke:#204060;stroke-width:60px"
+        style="fill:none;stroke:#b1b1b1;stroke-width:60px"
         id="circle1"
     />
   <path
         d="M 448,795 V 205 c -81,14 -167,74 -208,145"
-        style="fill:none;stroke:#204060;stroke-width:60px;stroke-linecap:round;stroke-linejoin:round"
+        style="fill:none;stroke:#b1b1b1;stroke-width:60px;stroke-linecap:round;stroke-linejoin:round"
         id="left"
     />
   <path
         d="M 552,205 V 795 C 633,781 719,721 760,650"
-        style="fill:none;stroke:#204060;stroke-width:60px;stroke-linecap:round;stroke-linejoin:round"
+        style="fill:none;stroke:#b1b1b1;stroke-width:60px;stroke-linecap:round;stroke-linejoin:round"
         id="right"
     />
 </svg>
