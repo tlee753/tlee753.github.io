@@ -85,33 +85,15 @@ portfoliopage:
 # Contact Section
 social:
 - {icon: 'github', link: 'http://www.github.com/tlee753', color: "#000000"}
-- {icon: 'skype', link: 'skype:tlee753?chat', color: "#00AFF0"}
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/tlee753', color: "#007BB5"}
-- {icon: 'twitter', link: 'http://www.twitter.com/tlee753', color: "#55ACEE"}
-- {icon: 'facebook', link: 'http://www.facebook.com/tyler.lee.14019', color: "#3B5998"}
-
-# - {icon: 'mail', link: 'mailto:tlee753@gatech.edu', color: "#008BCF"}
-# - {icon: 'microsoft', link: '', color: "#0078D7"}
-# - {icon: 'stackoverflow', link: 'http://stackoverflow.com/users/5428731/tlee753?tab=profile', color: "#FE7A15"}
-# - {icon: 'youtube', link: 'http://www.youtube.com/user/tlee753', color: "#BB0000"}
-# - {icon: 'googleplus', link: 'http://plus.google.com/u/0/+TylerLee753', color: "#DD4B39"}
-
+- {icon: 'mail', link: 'mailto:tlee753@gatech.edu', color: "#008BCF"}
 
 #-------------------------------
 # Contact Page
 socialpage:
-- {icon: 'mail', link: 'mailto:tlee753@gatech.edu', color: "#008BCF"}
-- {icon: 'skype', link: 'skype:tlee753?chat', color: "#00AFF0"}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/tlee753', color: "#007BB5"}
 - {icon: 'github', link: 'http://www.github.com/tlee753', color: "#000000"}
-- {icon: 'stackoverflow', link: 'http://stackoverflow.com/users/5428731/tlee753?tab=profile', color: "#FE7A15"}
-- {icon: 'twitter', link: 'http://www.twitter.com/tlee753', color: "#55ACEE"}
-- {icon: 'facebook', link: 'http://www.facebook.com/tyler.lee.14019', color: "#3B5998"}
-- {icon: 'googleplus', link: 'http://plus.google.com/u/0/+TylerLee753', color: "#DD4B39"}
-
-# - {icon: 'microsoft', link: '', color: "#0078D7"}
-# - {icon: 'youtube', link: 'http://www.youtube.com/user/tlee753', color: "#BB0000"}
-
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/tlee753', color: "#007BB5"}
+- {icon: 'mail', link: 'mailto:tlee753@gatech.edu', color: "#008BCF"}
 
 #-------------------------------
 # Collection Section
