@@ -101,8 +101,3 @@ Nothing says European like the sun rising over a glimmering field.
 ![Luxembourg City](/assets/img/travel/Luxembourg/Luxembourg City/Luxembourg-City-51.JPG)
 The infamous Patton wished to be buried with his men.
 Luxembourgers cherish public places such as this creatively themed playground.
-
-
-
-
-
