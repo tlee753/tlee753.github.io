@@ -9,12 +9,7 @@ thumbnail: Chile/Vina%20Del%20Mar/slider.jpg
 
 
 # Vina Del Mar
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-1.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-2.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-3.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-4.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-5.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-6.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-7.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-8.JPG)
-![Vina Del Mar](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-9.JPG)
+
+{% for i in (1..9) %}
+![Vina Del Mar-{{i}}](/assets/img/travel/Chile/Vina Del Mar/Vina-Del-Mar-{{i}}.JPG)
+{% endfor %}

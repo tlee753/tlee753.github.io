@@ -18,7 +18,5 @@ From tropical penguins to the center of volcanoes, our group adventured across t
 ---
 
 {% for i in (1..16) %}
-
 ![Galapagos-{{i}}](/assets/img/travel/Ecuador/Galapagos/Galapagos-{{i}}.jpg)
-
 {% endfor %}

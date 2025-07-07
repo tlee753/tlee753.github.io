@@ -14,7 +14,6 @@ thumbnail: Mexico/Malinalco/slider.jpg
 
 ---
 
-![Malinalco](/assets/img/travel/Mexico/Malinalco/Malinalco-1.JPG)
-![Malinalco](/assets/img/travel/Mexico/Malinalco/Malinalco-2.JPG)
-![Malinalco](/assets/img/travel/Mexico/Malinalco/Malinalco-3.JPG)
-![Malinalco](/assets/img/travel/Mexico/Malinalco/Malinalco-4.JPG)
+{% for i in (1..4) %}
+![Malinalco-{{i}}](/assets/img/travel/Mexico/Malinalco/Malinalco-{{i}}.JPG)
+{% endfor %}
