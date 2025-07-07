@@ -588,13 +588,13 @@ progress[value]::-moz-progress-bar {
 }
 
 progress[value]::-webkit-progress-value {
-  background-image: -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, 0.1) 33%, rgba(0, 0, 0, 0.1) 66%, transparent 66%), -webkit-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.25)), -webkit-linear-gradient(left, #204060, #b1b1b1);
+  background-image: -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, 0.1) 33%, rgba(0, 0, 0, 0.1) 66%, transparent 66%), -webkit-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.25)), -webkit-linear-gradient(left, #103050, #b1b1b1);
   background-size: 35px 20px, 100% 100%, 100% 100%;
   border-radius: 5px;
 }
 
 progress[value]::-moz-progress-value {
-  background-image: -moz-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, 0.1) 33%, rgba(0, 0, 0, 0.1) 66%, transparent 66%), -moz-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.25)), -moz-linear-gradient(left, #204060, #b1b1b1);
+  background-image: -moz-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, 0.1) 33%, rgba(0, 0, 0, 0.1) 66%, transparent 66%), -moz-linear-gradient(top, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.25)), -moz-linear-gradient(left, #103050, #b1b1b1);
   background-size: 35px 20px, 100% 100%, 100% 100%;
   border-radius: 5px;
 }
@@ -606,12 +606,12 @@ progress[value]::-moz-progress-value {
   margin: 10px;
   padding: 10px;
   color: ghostwhite;
-  background-color: #204060;
+  background-color: #103050;
   border-radius: 5px;
   text-decoration: none;
   border: none;
   font-weight: 700px;
-  border: 2px solid #204060;
+  border: 2px solid #103050;
   transition-duration: 0.4s;
 }
 #ron button:focus {
@@ -619,8 +619,8 @@ progress[value]::-moz-progress-value {
 }
 #ron button:hover {
   background-color: transparent;
-  border: 2px solid #204060;
-  color: #204060;
+  border: 2px solid #103050;
+  color: #103050;
 }
 
 .button {
@@ -629,7 +629,7 @@ progress[value]::-moz-progress-value {
   position: relative;
   border: 4px solid transparent;
   border-radius: 8px;
-  background-color: #204060;
+  background-color: #103050;
   background-clip: padding-box;
   padding: 10px;
   margin: 5px;
@@ -645,7 +645,7 @@ progress[value]::-moz-progress-value {
   bottom: -4px;
   left: -4px;
   right: -4px;
-  background: linear-gradient(165deg, rgba(25, 58, 93, 0.7), rgba(248, 248, 248, 0.7));
+  background: linear-gradient(165deg, rgba(16, 48, 80, 0.7), rgba(248, 248, 248, 0.7));
   content: "";
   z-index: -1;
   border-radius: 4px;
@@ -661,7 +661,7 @@ progress[value]::-moz-progress-value {
 
 ::-moz-scrollbar-thumb {
   border-radius: 12px;
-  background-color: #204060;
+  background-color: #103050;
 }
 
 ::-moz-scrollbar-track {
@@ -671,7 +671,7 @@ progress[value]::-moz-progress-value {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 12px;
-  background-color: #204060;
+  background-color: #103050;
 }
 
 ::-webkit-scrollbar-track {
@@ -922,13 +922,13 @@ td, th {
 
 th {
   text-align: center;
-  background-color: #204060;
+  background-color: #103050;
   color: ghostwhite;
 }
 
 td {
   background-color: #b1b1b1;
-  color: #204060;
+  color: #103050;
 }
 
 .scroll-table {
@@ -937,7 +937,7 @@ td {
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #204060;
+  color: #103050;
   font-weight: bold;
 }
 
@@ -1003,10 +1003,10 @@ hr {
 }
 #about .about-title a {
   text-decoration: none;
-  color: #204060;
+  color: #103050;
 }
 #about .about-title a:hover {
-  color: rgb(51.125, 102.25, 153.375);
+  color: rgb(28.75, 86.25, 143.75);
 }
 #about .about-me {
   text-align: center;
@@ -1017,7 +1017,7 @@ hr {
   font-weight: 400;
 }
 #about .about-me strong {
-  color: #204060;
+  color: #103050;
 }
 #about .about-content {
   max-width: 780px;
@@ -1058,7 +1058,7 @@ hr {
   -ms-flex-order: 3;
 }
 #about .about-content a .about-face {
-  box-shadow: 0 0 1px #204060;
+  box-shadow: 0 0 1px #103050;
   border-radius: 50%;
   width: 200px;
   height: 200px;
@@ -1070,10 +1070,10 @@ hr {
   border-radius: 50%;
   height: 120px;
   width: 120px;
-  box-shadow: 0 0 1px #204060;
+  box-shadow: 0 0 1px #103050;
 }
 #about .about-content [class^=about-item] path {
-  fill: #204060;
+  fill: #103050;
 }
 #about .about-content [class^=about-item].about-item1 {
   -webkit-box-ordinal-group: 1;
@@ -1145,17 +1145,17 @@ ul.breadcrumb li {
 
 ul.breadcrumb li + li:before {
   padding: 8px;
-  color: #204060;
+  color: #103050;
   content: "> ";
 }
 
 ul.breadcrumb li a {
-  color: #204060;
+  color: #103050;
   text-decoration: none;
 }
 
 ul.breadcrumb li a:hover {
-  color: rgb(44.75, 89.5, 134.25);
+  color: rgb(24.5, 73.5, 122.5);
 }
 
 #collection {
@@ -1225,7 +1225,7 @@ ul.breadcrumb li a:hover {
   right: 0px;
   left: 0px;
   height: 100%;
-  background: rgba(32, 64, 96, 0.8);
+  background: rgba(16, 48, 80, 0.8);
   -webkit-transition: all 0.15s ease-out 0s;
   -moz-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s;
@@ -1300,23 +1300,23 @@ ul.breadcrumb li a:hover {
 #contact .contact-title {
   margin: 0;
   padding: 15px 0 15px;
-  color: #204060;
+  color: #103050;
   text-align: center;
 }
 #contact .contact-title a {
   text-decoration: none;
-  color: #204060;
+  color: #103050;
 }
 #contact .contact-title a:hover {
-  color: rgb(51.125, 102.25, 153.375);
+  color: rgb(28.75, 86.25, 143.75);
 }
 #contact .contact-line {
-  border: 2px solid #204060;
+  border: 2px solid #103050;
   width: 40%;
   margin: 15px auto;
 }
 #contact .contact-email {
-  color: #204060;
+  color: #103050;
   text-align: center;
   padding: 0 0 15px;
   margin: 0;
@@ -1324,7 +1324,7 @@ ul.breadcrumb li a:hover {
   font-weight: 400;
 }
 #contact .contact-email:hover {
-  color: rgb(51.125, 102.25, 153.375);
+  color: rgb(28.75, 86.25, 143.75);
 }
 #contact .contact-lockup {
   margin: 0 auto;
@@ -1366,16 +1366,16 @@ ul.breadcrumb li a:hover {
   background-color: transparent;
 }
 #contact .contact-lockup a .contact-item svg circle {
-  stroke: #204060;
+  stroke: #103050;
   fill: transparent;
   stroke-width: 1.5px;
 }
 #contact .contact-lockup a .contact-item svg path {
-  fill: #204060;
+  fill: #103050;
 }
 #contact .contact-lockup a .contact-item svg:hover circle {
   stroke-width: 0;
-  fill: #204060;
+  fill: #103050;
 }
 #contact .contact-lockup a .contact-item svg:hover path {
   fill: ghostwhite;
@@ -1507,7 +1507,7 @@ ul.breadcrumb li a:hover {
 footer {
   height: 200px;
   position: relative;
-  background-color: #204060;
+  background-color: #103050;
   background-image: url(/assets/img/footer/footer.jpg);
   background-size: cover;
   background-position: 50% 75%;
@@ -1525,20 +1525,11 @@ footer .footer-image {
   margin-top: 50px;
   opacity: 0.9;
 }
-footer .footer-image svg .piece-0 {
-  fill: ghostwhite;
+footer .footer-image svg circle {
+  stroke: rgba(248, 248, 248, 0.7);
 }
-footer .footer-image svg .piece-1 {
-  fill: rgb(83.25, 140.5, 197.75);
-}
-footer .footer-image svg .piece-2 {
-  fill: #204060;
-}
-footer .footer-image svg .line {
-  fill: none;
-  stroke: black;
-  stroke-width: 3;
-  stroke-miterlimit: 10;
+footer .footer-image svg path {
+  stroke: rgba(248, 248, 248, 0.7);
 }
 footer #footer-content {
   display: inline-block;
@@ -1547,17 +1538,17 @@ footer #footer-content {
 }
 footer #footer-content nav .footer-link {
   margin-left: 20px;
-  color: ghostwhite;
+  color: rgba(16, 48, 80, 0.7);
   font-size: 20px;
   font-weight: 500;
 }
 footer #footer-content nav .footer-link:hover, footer #footer-content nav .footer-link:focus {
-  color: #b1b1b1;
+  color: ghostwhite;
 }
 footer #footer-content #copyright {
   text-transform: uppercase;
   text-align: center;
-  color: #b1b1b1;
+  color: ghostwhite;
   margin-top: 10px;
   font-size: 18px;
   font-weight: 400;
@@ -1574,7 +1565,7 @@ footer #footer-content #copyright {
 }
 header {
   position: relative;
-  background-color: #204060;
+  background-color: #103050;
   background-image: url(/assets/img/header/header.jpg);
   background-size: cover;
   background-position: 30% center;
@@ -1600,7 +1591,7 @@ header .header-content {
 header .header-content h1 {
   margin: 0px auto 10px;
   color: ghostwhite;
-  text-shadow: 0 0 20px #204060;
+  text-shadow: 0 0 20px #103050;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   font-size: 72px;
@@ -1610,7 +1601,7 @@ header .header-content h1 span {
   display: inline-block;
   padding: 0.2em 0.5em;
   border: ghostwhite solid 10px;
-  box-shadow: 0 0 20px #204060;
+  box-shadow: 0 0 20px #103050;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-radius: 5px;
@@ -1618,7 +1609,7 @@ header .header-content h1 span {
 header .header-content .kicker {
   display: inline-block;
   color: ghostwhite;
-  text-shadow: 0 0 20px #204060;
+  text-shadow: 0 0 20px #103050;
   text-align: center;
   font-size: 24px;
   font-weight: 700;
@@ -1639,11 +1630,11 @@ header .header-content .button-box a {
 header .header-content .button-box a .button {
   display: inline-block;
   opacity: 0.9;
-  box-shadow: 0 0 20px #204060;
-  text-shadow: 0 0 20px #204060;
+  box-shadow: 0 0 20px #103050;
+  text-shadow: 0 0 20px #103050;
   font-size: 14px;
   line-height: 30px;
-  color: #204060;
+  color: #103050;
   height: 30px;
   width: 160px;
   padding: 5px;
@@ -1655,7 +1646,7 @@ header .header-content .button-box a .button {
 }
 header .header-content .button-box a .button:hover {
   color: ghostwhite;
-  background-color: #204060;
+  background-color: #103050;
 }
 
 @media screen and (max-width: 540px) {
@@ -1716,7 +1707,7 @@ header .header-content .button-box a .button:hover {
   height: 50px;
   position: fixed;
   background: rgba(248, 248, 248, 0.7);
-  color: #204060;
+  color: #103050;
   z-index: 10;
   text-decoration: none;
   margin: 0;
@@ -1741,10 +1732,10 @@ header .header-content .button-box a .button:hover {
   fill: ghostwhite;
 }
 #navbar .branding .navbar-logo svg .piece-1 {
-  fill: rgb(83.25, 140.5, 197.75);
+  fill: rgb(41.5, 124.5, 207.5);
 }
 #navbar .branding .navbar-logo svg .piece-2 {
-  fill: #204060;
+  fill: #103050;
 }
 #navbar .branding .navbar-logo svg .line {
   fill: none;
@@ -1761,7 +1752,7 @@ header .header-content .button-box a .button:hover {
   font-weight: 700;
 }
 #navbar .branding .navbar-title:hover, #navbar .branding .navbar-title:focus {
-  color: rgba(25, 58, 93, 0.7);
+  color: rgba(16, 48, 80, 0.7);
 }
 #navbar .branding .handle {
   display: none;
@@ -1779,8 +1770,8 @@ header .header-content .button-box a .button:hover {
 }
 #navbar .branding .handle #navbar-menu svg path {
   stroke-width: 1px;
-  stroke: #204060;
-  fill: #204060;
+  stroke: #103050;
+  fill: #103050;
 }
 #navbar ul {
   position: absolute;
@@ -1797,11 +1788,11 @@ header .header-content .button-box a .button:hover {
   font-size: 1.2em;
   font-weight: 400;
   text-transform: uppercase;
-  color: #204060;
+  color: #103050;
 }
 #navbar ul .navbar-item:hover, #navbar ul .navbar-item:focus {
   color: ghostwhite;
-  background-color: #204060;
+  background-color: #103050;
 }
 
 @media screen and (max-width: 780px) {
@@ -1818,10 +1809,10 @@ header .header-content .button-box a .button:hover {
     display: inline;
   }
   #navbar .branding .handle #navbar-menu svg.show circle {
-    fill: #204060;
+    fill: #103050;
   }
   #navbar .branding .handle #navbar-menu svg.show path {
-    stroke: ghostwhite;
+    stroke: rgba(248, 248, 248, 0.7);
   }
   #navbar ul {
     max-height: 0;
@@ -1845,7 +1836,7 @@ header .header-content .button-box a .button:hover {
   }
 }
 #objective {
-  background-color: #204060;
+  background-color: #103050;
   background-image: url("/assets/img/circuit-tile.png");
   background-repeat: repeat;
 }
@@ -1857,7 +1848,7 @@ header .header-content .button-box a .button:hover {
   padding: 30px 30px;
   font-size: 20px;
   font-weight: 400;
-  background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #204060 5%, #204060, #204060 95%, rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, #103050 5%, #103050, #103050 95%, rgba(0, 0, 0, 0) 100%);
   opacity: 0.95;
 }
 
@@ -1886,14 +1877,14 @@ header .header-content .button-box a .button:hover {
   font-size: 24px;
   font-weight: 700;
   color: ghostwhite;
-  text-shadow: 1px 1px 1px #204060;
+  text-shadow: 1px 1px 1px #103050;
   padding: 10px 20px;
   border-radius: 10px;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
 #profile .profile-text i {
-  color: #204060;
+  color: #103050;
   text-shadow: 1px 1px 1px white;
 }
 
@@ -1920,7 +1911,7 @@ header .header-content .button-box a .button:hover {
   margin: 3px 0 30px;
 }
 #skills .skill-lockup .skill-unit .skill-icons span {
-  box-shadow: 0 0 1px #204060;
+  box-shadow: 0 0 1px #103050;
   display: inline-block;
   height: 16px;
   width: 16px;
@@ -1969,7 +1960,7 @@ header .header-content .button-box a .button:hover {
   transform: translateX(-50%);
   margin: 0 auto;
   padding: 10px 0px;
-  background: rgba(25, 58, 93, 0.7);
+  background: rgba(16, 48, 80, 0.7);
   color: ghostwhite;
   width: 200px;
   backdrop-filter: blur(5px);
@@ -1977,7 +1968,7 @@ header .header-content .button-box a .button:hover {
   border-radius: 5px;
 }
 #slider #slider-lockup a #slider-title:hover {
-  color: #204060;
+  color: #103050;
   background: rgba(248, 248, 248, 0.7);
 }
 #slider #slider-lockup .slider-button {
@@ -2014,7 +2005,7 @@ header .header-content .button-box a .button:hover {
   -ms-flex-pack: distribute;
   font-size: 24px;
   font-weight: 700;
-  color: #204060;
+  color: #103050;
   transform: translateY(-50%);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
@@ -2024,7 +2015,7 @@ header .header-content .button-box a .button:hover {
   border-radius: 5px;
 }
 #slider #slider-lockup .slider-button:hover {
-  background: rgba(25, 58, 93, 0.7);
+  background: rgba(16, 48, 80, 0.7);
   color: ghostwhite;
   cursor: pointer;
 }
@@ -2048,7 +2039,7 @@ header .header-content .button-box a .button:hover {
   left: 50%;
   transform: translateX(-50%);
   color: ghostwhite;
-  background-color: rgba(25, 58, 93, 0.7);
+  background-color: rgba(16, 48, 80, 0.7);
   margin: 0;
   padding: 10px 0;
   width: 200px;
@@ -2059,7 +2050,7 @@ header .header-content .button-box a .button:hover {
   border-radius: 5px;
 }
 #slider #slider-lockup a .slider-image .slider-label:hover {
-  color: #204060;
+  color: #103050;
   background: rgba(248, 248, 248, 0.7);
 }
 
@@ -2073,10 +2064,10 @@ header .header-content .button-box a .button:hover {
 }
 #work .work-title a {
   text-decoration: none;
-  color: #204060;
+  color: #103050;
 }
 #work .work-title a:hover {
-  color: rgb(51.125, 102.25, 153.375);
+  color: rgb(28.75, 86.25, 143.75);
 }
 #work .work-container {
   margin: 0 15px;
@@ -2122,7 +2113,7 @@ header .header-content .button-box a .button:hover {
   right: 0px;
   left: 0px;
   height: 100%;
-  background: rgba(25, 58, 93, 0.7);
+  background: rgba(16, 48, 80, 0.7);
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
   text-align: center;
@@ -2259,7 +2250,7 @@ header .header-content .button-box a .button:hover {
   margin: 0;
 }
 #gtadvice-content .advice-primary {
-  background-color: #204060;
+  background-color: #103050;
   color: ghostwhite;
 }
 #gtadvice-content .advice-primary h3, #gtadvice-content .advice-primary h5 {
@@ -2267,7 +2258,7 @@ header .header-content .button-box a .button:hover {
 }
 #gtadvice-content .advice-secondary {
   background-color: #b1b1b1;
-  color: #204060;
+  color: #103050;
 }
 
 .post-list {
@@ -2299,7 +2290,7 @@ header .header-content .button-box a .button:hover {
 .post-list .post-block .post-overlay .post-block-content h2, .post-list .post-block .post-overlay .post-block-content p {
   margin: 0;
   color: ghostwhite;
-  text-shadow: 0 0 20px #204060;
+  text-shadow: 0 0 20px #103050;
 }
 .post-list .post-block .post-overlay .post-block-content p {
   font-size: 1.2rem;
@@ -2322,10 +2313,10 @@ header .header-content .button-box a .button:hover {
   margin: 0 auto;
 }
 .world-map svg .map-country:hover {
-  fill: #204060;
+  fill: #103050;
 }
 .world-map svg .map-state:hover {
-  fill: #204060;
+  fill: #103050;
 }
 
 #contact-page {
@@ -2372,17 +2363,17 @@ header .header-content .button-box a .button:hover {
   margin: 0 auto;
 }
 #contact-page #contact-lockup .contact-item .contact-socialicon a svg circle {
-  stroke: #204060;
+  stroke: #103050;
   fill: rgba(248, 248, 248, 0.7);
   fill-opacity: 0;
   stroke-width: 1.5px;
 }
 #contact-page #contact-lockup .contact-item .contact-socialicon a svg path {
-  fill: #204060;
+  fill: #103050;
 }
 #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover circle {
   stroke-width: 0px;
-  fill: #204060;
+  fill: #103050;
   fill-opacity: 1;
 }
 #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover path {
@@ -2401,10 +2392,10 @@ header .header-content .button-box a .button:hover {
 #contact-page #contact-lockup .contact-item .contact-content a h1 {
   padding: 0 10px 0;
   margin: 0;
-  color: #204060;
+  color: #103050;
 }
 #contact-page #contact-lockup .contact-item .contact-content a h1:hover {
-  color: rgba(25, 58, 93, 0.7);
+  color: rgba(16, 48, 80, 0.7);
 }
 
 /* width media queries */
@@ -2519,7 +2510,7 @@ header .header-content .button-box a .button:hover {
   height: 300px;
   min-height: 300px;
   overflow: hidden;
-  border-bottom: 2px solid #204060;
+  border-bottom: 2px solid #103050;
   margin: 0;
   padding: 0;
   display: flex;
@@ -2530,7 +2521,7 @@ header .header-content .button-box a .button:hover {
   display: table;
 }
 .movie-container .movie-image {
-  background: linear-gradient(to right, #204060, #b1b1b1, #204060);
+  background: linear-gradient(to right, #103050, #b1b1b1, #103050);
   width: 25%;
   display: flex;
   justify-content: center;
@@ -2548,7 +2539,7 @@ header .header-content .button-box a .button:hover {
   float: left;
 }
 .movie-container .movie-content .movie-title {
-  color: #204060;
+  color: #103050;
   text-align: center;
   padding: 0;
   margin: 10px auto;
@@ -2560,7 +2551,7 @@ header .header-content .button-box a .button:hover {
   margin: 10px auto;
 }
 .movie-container .movie-content .movie-description {
-  color: #204060;
+  color: #103050;
   text-align: center;
   padding: 0 5px;
   margin: 5px auto;
@@ -2615,7 +2606,7 @@ header .header-content .button-box a .button:hover {
   position: absolute;
   max-width: 480px;
   background-color: rgba(248, 248, 248, 0.7);
-  color: #204060;
+  color: #103050;
   font-size: 24px;
   text-align: center;
   left: 50%;
@@ -2629,7 +2620,7 @@ header .header-content .button-box a .button:hover {
 }
 #portfolio .portfolio-unit .portfolio-overlay:hover {
   color: ghostwhite;
-  background-color: rgba(25, 58, 93, 0.7);
+  background-color: rgba(16, 48, 80, 0.7);
 }
 
 .portfolio-page {
@@ -2657,7 +2648,7 @@ header .header-content .button-box a .button:hover {
 }
 .portfolio-page .portfolio-content h3 {
   text-align: center;
-  color: #204060;
+  color: #103050;
   margin: 0;
 }
 .portfolio-page .portfolio-content div {
@@ -2693,8 +2684,8 @@ header .header-content .button-box a .button:hover {
   margin: 10px 10px;
   border: 0;
   height: 2px;
-  background: #204060;
-  background-image: linear-gradient(to right, #b1b1b1, #204060, #b1b1b1);
+  background: #103050;
+  background-image: linear-gradient(to right, #b1b1b1, #103050, #b1b1b1);
 }
 
 .post-content {
@@ -2706,7 +2697,7 @@ header .header-content .button-box a .button:hover {
   overflow-x: scroll;
 }
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
-  color: #204060;
+  color: #103050;
   padding-left: 10px;
 }
 .post-content h1 {
@@ -2732,8 +2723,8 @@ header .header-content .button-box a .button:hover {
   margin: 10px 10px;
   border: 0;
   height: 2px;
-  background: #204060;
-  background-image: linear-gradient(to right, #b1b1b1, #204060, #b1b1b1);
+  background: #103050;
+  background-image: linear-gradient(to right, #b1b1b1, #103050, #b1b1b1);
 }
 .post-content .post-button-back {
   backdrop-filter: blur(10px);
@@ -2766,7 +2757,7 @@ header .header-content .button-box a .button:hover {
   padding: 10px;
   font-size: 24px;
   font-weight: 700;
-  background-color: #204060;
+  background-color: #103050;
   color: ghostwhite;
 }
 .presentation-contents #presentation-table table tr td {
@@ -2774,13 +2765,13 @@ header .header-content .button-box a .button:hover {
   font-size: 16px;
   margin: 0px auto;
   background-color: #b1b1b1;
-  color: #204060;
+  color: #103050;
   padding: 0;
 }
 .presentation-contents #presentation-table table tr td a {
   text-decoration: none;
   color: ghostwhite;
-  background-color: #204060;
+  background-color: #103050;
   padding: 10px 0px;
   display: inline-block;
   height: 100%;
@@ -2789,7 +2780,7 @@ header .header-content .button-box a .button:hover {
 }
 .presentation-contents #presentation-table table tr td a:hover {
   background-color: ghostwhite;
-  color: #204060;
+  color: #103050;
 }
 
 @media screen and (max-width: 500px) {

@@ -19,23 +19,12 @@ footer
     margin-left: 50px
     margin-top: 50px
     opacity: 0.9
-
+    
     svg
-
-      .piece-0
-        fill: $theme-tertiary
-
-      .piece-1
-        fill: lighten($theme-primary, 30%)
-
-      .piece-2
-        fill: $theme-primary
-
-      .line
-        fill: none
-        stroke: black
-        stroke-width: 3
-        stroke-miterlimit: 10
+      circle
+        stroke: $theme-glass
+      path
+        stroke: $theme-glass
 
   #footer-content
     display: inline-block
@@ -43,21 +32,20 @@ footer
     margin-left: 0px
 
     nav
-
       .footer-link
         margin-left: 20px
-        color: $theme-tertiary
+        color: $theme-blue-glass
         font:
           size: 20px
           weight: 500
         &:hover,
         &:focus
-          color: $theme-secondary
+          color: $theme-tertiary
 
     #copyright
       text-transform: uppercase
       text-align: center
-      color: $theme-secondary
+      color: $theme-tertiary
       margin-top: 10px
       font:
         size: 18px
