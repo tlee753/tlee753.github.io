@@ -69,11 +69,8 @@ function currentDiv(n) {
 
 function showDivs(n) {
     var i;
-
-    // get slide array
     var x = document.getElementsByClassName("carousel");
 
-    // wrap back around
     if (n > x.length) {
         slideIndex = 1;
     }
@@ -85,7 +82,4 @@ function showDivs(n) {
     for (i = 0; i < x.length; i++) {
         x[i].style.display = "none";
     }
-
-    // this line errors
-    // x[slideIndex-1].style.display = "block";
 }

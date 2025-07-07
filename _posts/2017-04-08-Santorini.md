@@ -9,14 +9,6 @@ thumbnail: Greece/Santorini/slider.jpg
 
 # Santorini
 
----
-
-
-
----
-
 {% for i in (1..18) %}
-
 ![Santorini](/assets/img/travel/Greece/Santorini/Santorini-{{i}}.JPG)
-
 {% endfor %}

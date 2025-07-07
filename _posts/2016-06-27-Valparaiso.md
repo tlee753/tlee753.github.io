@@ -16,9 +16,6 @@ Known as one of the most colorful places in the world, Valparaiso looks like a p
 
 ---
 
-![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-1.JPG)
-![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-2.JPG)
-![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-3.JPG)
-![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-4.JPG)
-![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-5.JPG)
-![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-6.JPG)
+{% for i in (1..6) %}
+![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-{{i}}.JPG)
+{% endfor %}
