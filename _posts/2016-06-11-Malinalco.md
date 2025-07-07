@@ -10,10 +10,6 @@ thumbnail: Mexico/Malinalco/slider.jpg
 
 # Malinalco
 
----
-
----
-
 {% for i in (1..4) %}
 ![Malinalco-{{i}}](/assets/img/travel/Mexico/Malinalco/Malinalco-{{i}}.JPG)
 {% endfor %}
