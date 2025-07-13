@@ -1,7 +1,4 @@
-$colorlist: #000000 #007BB5 #008BCF #55ACEE #3B5998 #0078D7 #00AFF0 #FE7A15 #BB0000 #DD4B39
-
 #contact
-
   .contact-title
     margin: 0
     padding: 15px 0 15px
@@ -13,31 +10,14 @@ $colorlist: #000000 #007BB5 #008BCF #55ACEE #3B5998 #0078D7 #00AFF0 #FE7A15 #BB0
       color: $theme-primary
 
       &:hover
-        color: lighten($theme-primary, 15%)
-
-  .contact-line
-    border: 2px solid $theme-primary
-    width: 40%
-    margin: 15px auto
-
-  .contact-email
-    color: $theme-primary
-    text-align: center
-    padding: 0 0 15px
-    margin: 0
-    font:
-      size: 60px
-      weight: 400
-
-    &:hover
-      color: lighten($theme-primary, 15%)
+        color: $theme-primary-lite
 
   .contact-lockup
     margin: 0 auto
-    padding: 15px 0 15px
-    +display(flex)
-    +align-items(center)
-    +justify-content(space-around)
+    padding: 15px 0 30px
+    display: flex
+    align-items: center
+    justify-content: space-around
 
     a
       text-decoration: none
@@ -65,51 +45,35 @@ $colorlist: #000000 #007BB5 #008BCF #55ACEE #3B5998 #0078D7 #00AFF0 #FE7A15 #BB0
             path
               fill: $theme-tertiary
 
-
-      //@each $color in $colorlist
-        .socialcolor-#{$color}
+        .socialcolor
           svg
             background-color: $theme-tertiary
-            border-radius: 50%
 
             circle
-              stroke: #{$color}
+              stroke: $theme-primary
               fill: $theme-tertiary
 
             path
-              fill: #{$color}
+              fill: $theme-primary
 
             &:hover
               circle
                 stroke: $theme-tertiary
-                fill: #{$color}
+                fill: $theme-primary
 
               path
                 fill: $theme-tertiary
 
-
 @media screen and (max-width: 650px)
   #contact
-
     .contact-item
       svg
         height: 75px
         width: 75px
 
-    .contact-email
-      font:
-        size: 45px
-
 @media screen and (max-width: 480px)
   #contact
-
     .contact-item
       svg
         height: 50px
         width: 50px
-
-    .contact-email
-      font:
-        size: 30px
-
-

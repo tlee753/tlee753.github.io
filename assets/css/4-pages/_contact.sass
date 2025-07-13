@@ -15,7 +15,6 @@
     margin-top: 50px
     padding-bottom: 0px
     background: $theme-glass
-    // opacity: 0.8
     backdrop-filter: blur(5px)
     -webkit-backdrop-filter: blur(5px)
 
@@ -23,7 +22,6 @@
       position: relative
       display: block
       height: calc(100vh / 8 - 50px / 8)
-      +clearfix()
 
       .contact-socialicon
         display: inline-flex
@@ -75,8 +73,6 @@
             &:hover
               color: $theme-blue-glass
 
-/* width media queries */
-
 @media screen and (max-width: 1220px)
   #contact-page
 
@@ -115,14 +111,11 @@
           width: 100%
 
           a
-
             svg
-              +size(75px)
+              size: 75px
 
         .contact-content
           display: none
-
-/* height media queries */
 
 @media screen and (max-height: 780px)
   #contact-page
@@ -162,9 +155,8 @@
           width: 100%
 
           a
-
             svg
-              +size(75px)
+              size: 75px
 
         .contact-content
           display: none
@@ -187,9 +179,8 @@
           width: 100%
 
           a
-
             svg
-              +size(50px)
+              size: 50px
 
         .contact-content
           display: none

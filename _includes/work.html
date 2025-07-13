@@ -1,19 +1,14 @@
 <section id="work">
-
-    <h3 class="work-title"><a href="/portfolio">Work</a></h3>
-
+    <h2 class="work-title"><a href="/portfolio">Portfolio</a></h2>
     <div class="work-container">
 
         {% for item in site.data.settings.portfolio %}
-
-        <a href="/{{ item.folder }}" class="work-unit" style="background-image: url(/assets/img/portfolio/{{ item.folder }}/thumbnail.jpg);">
-            <div class="work-overlay">
-                <strong> {{ item.name }} </strong>
-            </div>
-        </a>
-
+            <a href="/{{ item.folder }}" class="work-unit" style="background-image: url(/assets/img/portfolio/{{ item.folder }}/thumbnail.jpg);">
+                <div class="work-overlay">
+                    <strong> {{ item.name }} </strong>
+                </div>
+            </a>
         {% endfor %}
 
     </div>
-
 </section>

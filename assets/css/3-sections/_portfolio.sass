@@ -1,0 +1,72 @@
+#work
+  .work-title
+    clear: both
+    margin: 0
+    padding: 15px 0
+    text-align: center
+
+    a
+      color: $theme-primary
+
+      &:hover
+        color: $theme-primary-lite
+
+  .work-container
+    border-radius: 5px
+    clear: both
+    margin: 0 20px 20px
+    overflow: hidden
+
+    .work-unit
+      display: flex
+      position: relative
+      width: 25%
+      padding-top: 12.5%
+      float: left
+      background:
+        position: center center
+        size: cover
+        repeat: no-repeat
+      overflow: hidden
+      cursor: pointer
+      perspective: 300
+      overflow: hidden
+
+      @media screen and (max-width: 780px)
+        width: 50%
+        padding-top: 25%
+
+      @media screen and (max-width: 390px)
+        width: 100%
+        padding-top: 50%
+
+      .work-overlay
+        position: absolute
+        top: 0
+        right: 0
+        left: 0
+        height: 100%
+        background: $theme-blue-glass
+        backdrop-filter: blur(5px)
+        -webkit-backdrop-filter: blur(5px)
+        text-align: center
+        display: flex
+        align-items: center
+        justify-content: space-around
+        transform: matrix3d(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1)
+        transition: opacity 300ms ease-in 500ms
+        border-radius: 5px
+
+        strong
+          display: block
+          padding: 0 20px
+          color: $theme-tertiary
+          font:
+            weight: 400
+            size: 24px
+          text-transform: uppercase
+          line-height: 1.2
+
+      &:hover .work-overlay
+        opacity: 1
+        @extend %animation

@@ -1,22 +1,18 @@
 <section id="slider">
-
     <div id="slider-lockup">
-
-        <a href="/blog"><h3 id="slider-title">Travel Blog</h3></a>
+        
+        <a href="/blog"><h2 id="slider-title">Travel Blog</h2></a>
 
         <a class="slider-button left" onclick="plusDivs(-1)"><</a>
         <a class="slider-button right" onclick="plusDivs(1)">></a>
 
         {% for slide in site.data.settings.slider %}
-
             <a href="{{ slide.link }}">
                 <div class="slider-image" style="background-image: url(/assets/img/slider/{{ slide.image }}.jpg); position: center; background-repeat: no-repeat;">
                     <div class="slider-label">{{ slide.name }}</div>
                 </div>
             </a>
-
         {% endfor %}
-
+        
     </div>
-
 </section>

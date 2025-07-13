@@ -1,12 +1,11 @@
 #-------------------------------
 # Menu Section
 menu:
-- {name: About, link: '/about'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Blog, link: '/blog'}
-- {name: Travel, link: '/travel'}
-- {name: Contact, link: '/contact'}
-
+- {name: About, link: "/about"}
+- {name: Portfolio, link: "/portfolio"}
+- {name: Blog, link: "/blog"}
+- {name: Travel, link: "/travel"}
+- {name: Contact, link: "/contact"}
 
 #-------------------------------
 # Skill Section
@@ -20,154 +19,109 @@ skills:
 - {name: UX Design, value: '6'}
 - {name: Programming, value: '7'}
 
-
 #-------------------------------
 # Portfolio Section
 portfolio:
-- {name: Rocketry, folder: 'rocketry'}
-- {name: High Altitude Ballooning, folder: 'hab'}
-- {name: Interactive Robotics, folder: 'interactive-robotics'}
-- {name: Chess Visualizer, folder: 'chess-visualizer'}
-- {name: Image Manipulation, folder: 'image-manipulation'}
-- {name: Eagle Scout Project, folder: 'eagle-scout-project'}
-- {name: Performance Computers, folder: 'performance-computers'}
-- {name: Passive Desalinator, folder: 'passive-desalinator'}
-
-# - {name: Stock Monitoring App, folder: 'stock-monitoring-app'}
-
+- {name: Rocketry, folder: "rocketry"}
+- {name: High Altitude Ballooning, folder: "hab"}
+- {name: Interactive Robotics, folder: "interactive-robotics"}
+- {name: Chess Visualizer, folder: "chess-visualizer"}
+- {name: Image Manipulation, folder: "image-manipulation"}
+- {name: Eagle Scout Project, folder: "eagle-scout-project"}
+- {name: Performance Computers, folder: "performance-computers"}
+- {name: Passive Desalinator, folder: "passive-desalinator"}
 
 #-------------------------------
 # Portfolio Page
 portfoliopage:
-- {name: Football Automute, folder: 'football-automute', next: '', previous: ''}
-- {name: Angel Nonprofit, folder: 'angel-nonprofit', next: '', previous: ''}
-- {name: Venusian Atmospheric Probe Explorer, folder: 'vape', next: '', previous: ''}
-- {name: Vestibular Balance, folder: 'vestibular-balance', next: '', previous: ''}
-- {name: High Altitude Balloon, folder: 'hab', next: '', previous: ''}
-- {name: Performance Computers, folder: 'performance-computers', next: '', previous: ''}
-- {name: Rocketry, folder: 'rocketry', next: '', previous: ''}
-- {name: Autonomous Robotics, folder: 'autonomous-robotics', next: '', previous: ''}
-- {name: Eagle Scout Project, folder: 'eagle-scout-project', next: '', previous: ''}
-- {name: Chess Visualizer, folder: 'chess-visualizer', next: '', previous: ''}
-- {name: Plane Tracker, folder: 'plane-tracker', next: '', previous: ''}
-- {name: Rocket Core, folder: 'rocket-core', next: '', previous: ''}
-- {name: Image Manipulation, folder: 'image-manipulation', next: '', previous: ''}
-- {name: Web Automation Framework, folder: 'web-automation-framework', next: '', previous: ''}
-- {name: Electrathon Vehicle, folder: 'electrathon-vehicle', next: '', previous: ''}
-- {name: Interactive Robotics, folder: 'interactive-robotics', next: '', previous: ''}
-- {name: Passive Desalinator, folder: 'passive-desalinator', next: '', previous: ''}
-- {name: Web Development, folder: 'web-development', next: '', previous: ''}
-- {name: Awol App, folder: 'awol', next: '', previous: ''}
-- {name: Ricing, folder: 'ricing', next: '', previous: ''}
-- {name: Text Server, folder: 'text-server', next: '', previous: ''}
-- {name: School Projects, folder: 'school-projects', next: '', previous: ''}
-- {name: Stock Dashboard, folder: 'stock-dashboard', next: '', previous: ''}
-# - {name: Drone Killer, folder: 'drone-killer', next: '', previous: ''}
-- {name: World History Timeline, folder: 'world-history-timeline', next: '', previous: ''}
-- {name: Lifestyle Budget, folder: 'lifestyle-budget', next: '', previous: ''}
-- {name: Personal Finance Club, folder: 'finance-club', next: '', previous: ''}
-- {name: Homelab, folder: 'homelab', next: '', previous: ''}
-- {name: Automated Can Crusher, folder: 'automated-can-crusher', next: '', previous: ''}
-# - {name: Balance App, folder: 'balance-app', next: '', previous: ''}
-# - {name: RGB Board, folder: 'rgb-board', next: '', previous: ''}
+- {name: Football Automute, folder: "football-automute"}
+- {name: Angel Nonprofit, folder: "angel-nonprofit"}
+- {name: Venusian Atmospheric Probe Explorer, folder: "vape"}
+- {name: Vestibular Balance, folder: "vestibular-balance"}
+- {name: High Altitude Balloon, folder: "hab"}
+- {name: Performance Computers, folder: "performance-computers"}
+- {name: Rocketry, folder: "rocketry"}
+- {name: Autonomous Robotics, folder: "autonomous-robotics"}
+- {name: Eagle Scout Project, folder: "eagle-scout-project"}
+- {name: Chess Visualizer, folder: "chess-visualizer"}
+- {name: Plane Tracker, folder: "plane-tracker"}
+- {name: Rocket Core, folder: "rocket-core"}
+- {name: Image Manipulation, folder: "image-manipulation"}
+- {name: Web Automation Framework, folder: "web-automation-framework"}
+- {name: Electrathon Vehicle, folder: "electrathon-vehicle"}
+- {name: Interactive Robotics, folder: "interactive-robotics"}
+- {name: Passive Desalinator, folder: "passive-desalinator"}
+- {name: Web Development, folder: "web-development"}
+- {name: Awol App, folder: "awol"}
+- {name: Ricing, folder: "ricing"}
+- {name: Text Server, folder: "text-server"}
+- {name: School Projects, folder: "school-projects"}
+- {name: Stock Dashboard, folder: "stock-dashboard"}
+- {name: World History Timeline, folder: "world-history-timeline"}
+- {name: Lifestyle Budget, folder: "lifestyle-budget"}
+- {name: Personal Finance Club, folder: "finance-club"}
+- {name: Homelab, folder: "homelab"}
+- {name: Automated Can Crusher, folder: "automated-can-crusher"}
 
-# - {name: Beaglebone PRU Encoder Reading, folder: 'beaglebone-pru-encoder-reading', next: '', previous: ''}
-# - {name: Musings of a 20 Year Old, folder: 'musings', next: '', previous: ''}
-# - {name: Keys to Happiness, folder: 'keys-to-happiness', next: '', previous: ''}  
-
+# - {name: Beaglebone PRU Encoder Reading, folder: "beaglebone-pru-encoder-reading"}
+# - {name: Musings of a 20 Year Old, folder: "musings"}
+# - {name: Keys to Happiness, folder: "keys-to-happiness"}
 # Quadcopter build
 # cheap astro mount
-
-# NASA Orion space capsule (open source)
-
 
 #-------------------------------
 # Contact Section
 social:
-- {icon: 'github', link: 'http://www.github.com/tlee753', color: "#000000"}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/tlee753', color: "#007BB5"}
-- {icon: 'mail', link: 'mailto:tlee753@gatech.edu', color: "#008BCF"}
+- {icon: "github", link: "http://www.github.com/tlee753"}
+- {icon: "linkedin", link: "http://www.linkedin.com/in/tlee753"}
+- {icon: "mail", link: "mailto:tlee753@gatech.edu"}
 
 #-------------------------------
 # Contact Page
 socialpage:
-- {icon: 'github', link: 'http://www.github.com/tlee753', color: "#000000"}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/tlee753', color: "#007BB5"}
-- {icon: 'mail', link: 'mailto:tlee753@gatech.edu', color: "#008BCF"}
+- {icon: "github", link: "http://www.github.com/tlee753"}
+- {icon: "linkedin", link: "http://www.linkedin.com/in/tlee753"}
+- {icon: "mail", link: "mailto:tlee753@gatech.edu"}
 
 #-------------------------------
 # Collection Section
 interests:
-- {name: My Favorite Movies, folder: 'movies', link: '/movies/'}
-- {name: My Bucket List, folder: 'bucket', link: '/bucket/'}
-- {name: My Favorite Books, folder: 'books', link: '/books/'}
-- {name: My Favorite Quotes, folder: 'quotes', link: '/quotes/'}
-- {name: My Favorite TED Talks, folder: 'ted', link: '/ted/'}
-- {name: Wanderers, folder: 'wanderers', link: '/wanderers/'}
-- {name: How to Win Friends and Influence People, folder: 'htwfaip', link: 'https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People'}
-- {name: Euler Problems, folder: 'euler', link: 'https://projecteuler.net/'}
-- {name: Intelligence Squared, folder: 'intelligence-squared', link: 'https://www.intelligencesquaredus.org/'}
-- {name: Georgia Tech UNICEF, folder: 'unicef', link: 'http://www.unicef.gatech.edu/'}
-- {name: Start with Why, folder: 'why', link: '/why/'}
-- {name: Calvin and Hobbes, folder: 'calvin', link: 'http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes'}
-- {name: Albert Einstein, folder: 'einstein', link: 'https://es.wikipedia.org/wiki/Albert_Einstein'}
-- {name: The Boy and the Starfish, folder: 'starfish', link: '/starfish/'}
-- {name: John Wooden, folder: 'wooden', link: 'http://coachwooden.com'}
-- {name: Reader's Digest, folder: 'readers-digest', link: 'http://www.rd.com/'}
-
-# - {name: John Oliver, folder: 'oliver', link: 'https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ'}
-# - {name: Space X, folder: 'spacex', link: 'http://www.spacex.com/'}
-# - {name: RECONSO, folder: 'reconso', link: 'https://reconso.gatech.edu'}
-# - {name: Vsauce, folder: 'vsauce', link: 'https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA'}
-
-# HUMOR SECTION
-# amazon reviews
-# scott sterling
-# history of japan
-# key and peele
-
-# IDEAS
-# jack johnson
-# formula one racing
-# world war 2
-# Dr. Suess
-
-# OTHER
-# - {name: Star Wars, folder: 'star-wars', link: 'http://metro.co.uk/2015/05/04/star-wars-day-18-reasons-the-original-trilogy-will-always-be-better-than-the-new-films-5179869/'}
-# - {name: Dream Car, folder: 'dream-car', link: 'http://www.carmagazine.co.uk/car-reviews/audi/audi-r8-e-tron-2013-review/'}
-# - {name: Coding Jokes, folder: 'coding-jokes', link: 'http://www.hongkiat.com/blog/programming-jokes/'}
-# - {name: Stockfish vs Komodo Chess Engines, folder: 'chess', link: 'https://en.wikipedia.org/wiki/Top_Chess_Engine_Championship'}
-
+- {name: My Favorite Movies, folder: "movies", link: "/movies/"}
+- {name: My Bucket List, folder: "bucket", link: "/bucket/"}
+- {name: My Favorite Books, folder: "books", link: "/books/"}
+- {name: My Favorite Quotes, folder: "quotes", link: "/quotes/"}
+- {name: My Favorite TED Talks, folder: "ted", link: "/ted/"}
+- {name: Wanderers, folder: "wanderers", link: "/wanderers/"}
+- {name: How to Win Friends and Influence People, folder: "htwfaip", link: "https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People"}
+- {name: Euler Problems, folder: "euler", link: "https://projecteuler.net/"}
+- {name: Intelligence Squared, folder: "intelligence-squared", link: "https://www.intelligencesquaredus.org/"}
+- {name: Georgia Tech UNICEF, folder: "unicef", link: "http://www.unicef.gatech.edu/"}
+- {name: Start with Why, folder: "why", link: "/why/"}
+- {name: Calvin and Hobbes, folder: "calvin", link: "http://bigthink.com/Picture-This/what-is-the-legacy-of-calvin-and-hobbes"}
+- {name: Albert Einstein, folder: "einstein", link: "https://es.wikipedia.org/wiki/Albert_Einstein"}
+- {name: The Boy and the Starfish, folder: "starfish", link: "/starfish/"}
+- {name: John Wooden, folder: "wooden", link: "http://coachwooden.com"}
+- {name: Reader's Digest, folder: "readers-digest", link: "http://www.rd.com/"}
 
 #-------------------------------
 # Slider Section
 slider:
-- {name: 'Fussen, Germany', image: 'slider-fussen', link: '/germany/2017/01/22/Fussen.html'}
-- {name: 'Cairo, Egypt', image: 'slider-cairo', link: '/egypt/2019/05/28/Cairo.html'}
-- {name: 'Santiago, Chile', image: 'slider-santiago', link: '/chile/2016/06/21/Santiago.html'}
-- {name: 'Dubai, U.A.E.', image: 'slider-dubai', link: '/uae/2019/06/10/Dubai.html'}
-- {name: 'Galapagos, Ecuador', image: 'slider-galapagos', link: '/ecuador/2016/07/14/Galapagos.html'}
+- {name: "Fussen, Germany", image: "slider-fussen", link: "/germany/2017/01/22/Fussen.html"}
+- {name: "Cairo, Egypt", image: "slider-cairo", link: "/egypt/2019/05/28/Cairo.html"}
+- {name: "Santiago, Chile", image: "slider-santiago", link: "/chile/2016/06/21/Santiago.html"}
+- {name: "Dubai, U.A.E.", image: "slider-dubai", link: "/uae/2019/06/10/Dubai.html"}
+- {name: "Galapagos, Ecuador", image: "slider-galapagos", link: "/ecuador/2016/07/14/Galapagos.html"}
 
-# - {name: 'Interlaken, Switzerland', image: 'slider-interlaken', link: '/switzerland/2017/02/11/Interlaken.html'}
-# - {name: 'Cuenca, Ecuador', image: 'slider-cuenca', link: 'http://tlee753.com/ecuador/2016/06/30/Cuenca.html'}
-# - {name: 'Munich, Germany', image: 'slider-munich', link: 'http://tlee753.com/germany/2017/01/21/Munich.html'}
-
-# france (mont saint michel)
-# grand cayman
-# niagra falls
-
+# - {name: "Interlaken, Switzerland", image: "slider-interlaken", link: "/switzerland/2017/02/11/Interlaken.html"}
+# - {name: "Cuenca, Ecuador", image: "slider-cuenca", link: "http://tlee753.com/ecuador/2016/06/30/Cuenca.html"}
+# - {name: "Munich, Germany", image: "slider-munich", link: "http://tlee753.com/germany/2017/01/21/Munich.html"}
 
 #-------------------------------
 # Search Engine Optimization
 seo:
-  description: 'Tyler Lee''s Personal Website'
-  rel-author: 'http://www.linkedin/in/tlee753'
-  rel-publisher: 'http://www.linkedin/in/tlee753'
-
+  description: "Tyler Lee's Personal Website"
+  rel-author: "http://www.linkedin/in/tlee753"
 
 #-------------------------------
 # Google Analytics Section
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 google-analytics-ua: "UA-107927214-1"

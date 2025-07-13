@@ -19,25 +19,6 @@
       float: left
       line-height: 0
 
-      svg
-        height: 50px
-        width: 50px
-
-        .piece-0
-          fill: $theme-tertiary
-
-        .piece-1
-          fill: lighten($theme-primary, 30%)
-
-        .piece-2
-          fill: $theme-primary
-
-        .line
-          fill: none
-          stroke: black
-          stroke-width: 3
-          stroke-miterlimit: 10
-
     .navbar-title
       float: left
       margin: 0
@@ -61,7 +42,6 @@
       background: rgba(0, 0, 0, 0)
 
       #navbar-menu
-
         svg
           height: 100%
           border-radius: 50%
@@ -87,13 +67,12 @@
         size: 1.2em
         weight: 400
       text-transform: uppercase
-      color: $theme-primary    
+      color: $theme-primary 
 
       &:hover,
       &:focus
         color: $theme-tertiary
         background-color: $theme-primary
-
 
 @media screen and (max-width: 780px)
   #navbar
@@ -111,7 +90,6 @@
         display: inline
 
         #navbar-menu
-
           svg.show
             circle
               fill: $theme-primary

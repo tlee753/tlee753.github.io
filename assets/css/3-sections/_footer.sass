@@ -1,62 +1,35 @@
 footer
   height: 200px
-  position: relative
   background:
     color: $theme-primary
     image: url(/assets/img/footer/footer.jpg)
     size: cover
     position: 50% 75%
-    repeat: no-repeat
   -webkit-background-size: cover
   -moz-background-size: cover
   -o-background-size: cover
-
-  .footer-image
-    position: relative
-    float: left
-    width: 100px
-    height: 100px
-    margin-left: 50px
-    margin-top: 50px
-    opacity: 0.9
-    
-    svg
-      circle
-        stroke: $theme-glass
-      path
-        stroke: $theme-glass
-
+  display: flex
+  margin: 0 auto
+  
   #footer-content
-    display: inline-block
-    margin-top: 40px
-    margin-left: 0px
-
+    margin: 20px auto
+    text-align: center
+    
     nav
       .footer-link
-        margin-left: 20px
+        margin: 0 10px
         color: $theme-blue-glass
         font:
           size: 20px
           weight: 500
         &:hover,
         &:focus
-          color: $theme-tertiary
+          color: $theme-glass
 
     #copyright
       text-transform: uppercase
       text-align: center
-      color: $theme-tertiary
+      color: $theme-glass
       margin-top: 10px
       font:
         size: 18px
-        weight: 400
-
-@media screen and (max-width: 560px)
-  footer
-
-    #footer-content
-      display: inline-block
-      margin-top: 20px
-
-    .footer-image
-      display: none

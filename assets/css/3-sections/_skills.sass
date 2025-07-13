@@ -4,7 +4,6 @@
     max-width: 700px
     margin: 0 auto
     padding: 30px 0 0 0
-    +clearfix
 
     .skill-unit
       width: 350px
@@ -22,18 +21,11 @@
         span
           box-shadow: 0 0 1px $theme-primary
           display: inline-block
-          +size(16px)
+          height: 16px
+          width: 16px
           margin-right: 8px
           border-radius: 50%
           background-color: $theme-secondary
-
-          &:after
-            content: ''
-            display: block
-            +size(12px)
-            background: transparent
-            border-radius: 50%
-            margin: 2px
 
         @for $i from 1 through 10
           &.skill-#{$i} span:nth-child(n+#{$i+1})
@@ -41,7 +33,6 @@
 
 %skill-color
   background: $theme-tertiary
-
 
 @media screen and (max-width: 540px)
   .skill-lockup
