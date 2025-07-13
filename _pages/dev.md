@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Development
+title: Development
 date: 2017-08-27 8:00:00
 category: Uncategorized
 permalink: "/dev/"

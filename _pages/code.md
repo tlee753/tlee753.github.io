@@ -6,24 +6,20 @@ category: Utility
 permalink: "/code/"
 ---
 
-### Slack Dark Theme
-- Append the following code to this file in Slack App on your system
-
-`app.asar.unpacked/src/static/ssb-interop.js`
-
-```js
-document.addEventListener('DOMContentLoaded', function() {
- $.ajax({
-   url: 'https://cdn.rawgit.com/laCour/slack-night-mode/master/css/raw/black.css',
-   success: function(css) {
-     $("<style></style>").appendTo('head').html(css);
-   }
- });
-});
-```
-
 ### FFMPEG Command Line Trim Video
 ```bash
-ffmpeg -ss 00:00:30 -i orginalfile -t 00:00:05 -vcodec copy -acodec copy newfile
+ffmpeg -i orig.file -ss 00:00:30 -t 00:00:05 -vcodec copy -acodec copy new.file
 ```
 
+### Fib Test
+```python
+import time
+startTime = time.time()
+
+def fib(n):
+    if n <= 1: return 1
+    return fib(n - 1) + fib(n-2)
+
+print(fib(40))
+print("%s sec" % (time.time() - startTime))
+```

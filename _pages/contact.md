@@ -1,19 +1,11 @@
 ---
-layout: default
+layout: page
 title: Contact
 date: 2017-09-06 8:00:00
 permalink: "/contact/"
 ---
 
-<style type="text/css">
-    footer {
-        display: none;
-    }
-</style>
-
 <div id="contact-page">
-
-    <div id="contact-image"></div>
 
     <div id="contact-lockup">
 
