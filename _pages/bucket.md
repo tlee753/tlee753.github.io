@@ -29,7 +29,7 @@ permalink: "/bucket/"
     - Lebron James
     - Kareem Abdul Jabbar
 - [ ] Race down the Autobahn (sports car required)
-- [ ] Visit an active volcano (seeing lava required)
+- [ ] Visit an active volcano (lava required)
 - [x] See the milky way galaxy (naked eye)
 - [ ] Climb an exceptionally tall mountain (TBD...)
 - [ ] Scuba dive in the Great Barrier Reef
@@ -43,7 +43,7 @@ permalink: "/bucket/"
 - [ ] Speak at a TED event
 - [ ] Start a business/non-profit
 - [x] Publish an app
-- [x] Write a software program (GUI based, complexity and originality required)
+- [x] Write a software program
 - [ ] List top 100 books (quality reads)
 - [x] Eagle Scout
 - [x] Build a computer from scratch
@@ -60,7 +60,6 @@ permalink: "/bucket/"
 ### Travel
 - [ ] Visit every inhabited continent (5/6)
 - [ ] Visit all 50 states
-- [ ] Explore outer space
 - [x] Jerusalem
 
 ### Skills
@@ -76,7 +75,7 @@ permalink: "/bucket/"
 - [x] Write a book (open source publication if published)
 - [ ] Plant an orchard
 - [ ] Make a quote book (Iannarino-esque)
-- [ ] Giving blood 20 times (3/20)
+- [ ] Giving blood 20 times (4/20)
 
 ### Athletics
 - [x] Land a front flip (on land)
