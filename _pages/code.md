@@ -23,3 +23,13 @@ def fib(n):
 print(fib(40))
 print("%s sec" % (time.time() - startTime))
 ```
+
+### Rename
+```shell
+# lower-case
+rename 'y/A-Z/a-z/' *
+
+# swap spaces for lines
+rename 'y/ /-/' *
+```
+
