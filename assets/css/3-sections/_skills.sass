@@ -12,20 +12,19 @@
       .skill-label
         font:
           size: 20px
-          color: $theme-secondary
 
       .skill-icons
         font-size: 0
         margin: 3px 0 30px
 
         span
-          box-shadow: 0 0 1px $theme-primary
+          box-shadow: 0 0 5px white
           display: inline-block
           height: 16px
           width: 16px
           margin-right: 8px
           border-radius: 50%
-          background-color: $theme-secondary
+          background-color: $theme-primary
 
         @for $i from 1 through 10
           &.skill-#{$i} span:nth-child(n+#{$i+1})

@@ -18,6 +18,12 @@
     .navbar-logo
       float: left
       line-height: 0
+      
+      svg
+        circle
+          stroke: $theme-primary
+        path
+          stroke: $theme-primary
 
     .navbar-title
       float: left
@@ -81,12 +87,18 @@
         display: inline
 
         #navbar-menu
+          svg
+            circle
+              stroke: $theme-primary
+            path
+              stroke: $theme-primary
+          
           svg.show
+            path
+              stroke: $theme-secondary
             circle
               fill: $theme-primary
-
-            path
-              stroke: $theme-glass
+              stroke: $theme-secondary
 
     ul
       max-height: 0
