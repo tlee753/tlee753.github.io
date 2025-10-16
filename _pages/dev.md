@@ -20,7 +20,6 @@ permalink: "/dev/"
 ### Short Term
 - massive overhaul on the work pages
   - next/previous pages for work
-  - images
 - about page
   - tutorials
 - blog
@@ -34,11 +33,17 @@ permalink: "/dev/"
     - star wars m-bed program
 
 ### Long Term
+- switch to zola
+- resume page
+    - timeline of life
+- index page for presentations, tutorials, dc, etc
+- start page (new tab)
+- svg header which changes with theme color
 - blog map to site pages per country (click Germany go to Germany page)
     - incorporate with blog post link
 - 4k support
 - tutorials page
-- resume page
+
 - search page
 
 ---

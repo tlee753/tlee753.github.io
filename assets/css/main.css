@@ -191,8 +191,8 @@ code {
   font-size: 15px;
   border: 1px solid lightgrey;
   border-radius: 3px;
-  background-color: ghostwhite;
-  color: black;
+  background-color: #F8F8FF;
+  color: #000000;
 }
 
 code {
@@ -210,8 +210,8 @@ pre > code {
 }
 
 blockquote {
-  color: ghostwhite;
-  border-left: 4px solid ghostwhite;
+  color: #F8F8FF;
+  border-left: 4px solid #F8F8FF;
   padding-left: 5px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -241,7 +241,7 @@ body {
   font-size: 1rem;
   line-height: 1.6;
   font-family: "Lexend", "Century Gothic", sans-serif;
-  color: ghostwhite;
+  color: #F8F8FF;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
   -moz-font-smoothing: antialiased;
@@ -257,7 +257,7 @@ progress {
   width: calc(100% - 40px);
   height: 20px;
   margin: 10px 20px;
-  background: black;
+  background: #000000;
   border: 1px solid #00FFAF;
 }
 
@@ -282,7 +282,7 @@ progress::-moz-progress-value {
   display: inline-block;
   margin: 10px;
   padding: 10px;
-  color: black;
+  color: #000000;
   background-color: #00FFAF;
   border-radius: 5px;
   border: 2px solid #00FFAF;
@@ -303,7 +303,7 @@ progress::-moz-progress-value {
 button {
   margin: 10px;
   padding: 10px;
-  color: black;
+  color: #000000;
   background-color: #00FFAF;
   border-radius: 5px;
   border: 2px solid #00FFAF;
@@ -325,7 +325,7 @@ a {
   outline: 0;
 }
 a:hover, a:focus {
-  color: #305070;
+  color: #009969;
 }
 
 ::selection {
@@ -345,7 +345,8 @@ img::-moz-selection {
 }
 
 pre.highlight {
-  background: ghostwhite;
+  background: #000000;
+  color: #F8F8FF;
   border-radius: 5px;
   border: 1px solid #00FFAF;
 }
@@ -555,12 +556,12 @@ td, th {
 th {
   text-align: center;
   background-color: #00FFAF;
-  color: black;
+  color: #000000;
 }
 
 td {
-  background-color: ghostwhite;
-  color: black;
+  background-color: #F8F8FF;
+  color: #000000;
 }
 
 .scroll-table {
@@ -580,7 +581,7 @@ td {
   color: #00FFAF;
 }
 #about .about-title a:hover {
-  color: #305070;
+  color: #009969;
 }
 #about .about-me {
   text-align: center;
@@ -612,7 +613,7 @@ td {
   background-size: cover;
 }
 #about .about-content [class^=about-item] {
-  background: black;
+  background: #000000;
   border: 4px solid #00FFAF;
   border-radius: 50%;
   size: 120px;
@@ -678,7 +679,7 @@ ul.breadcrumb li a {
 }
 
 ul.breadcrumb li a:hover {
-  color: ghostwhite;
+  color: #F8F8FF;
 }
 
 #contact .contact-title {
@@ -692,7 +693,7 @@ ul.breadcrumb li a:hover {
   color: #00FFAF;
 }
 #contact .contact-title a:hover {
-  color: #305070;
+  color: #009969;
 }
 #contact .contact-lockup {
   margin: 0 auto;
@@ -724,24 +725,24 @@ ul.breadcrumb li a:hover {
   fill: #00FFAF;
 }
 #contact .contact-lockup a .contact-item svg:hover path {
-  fill: black;
+  fill: #000000;
 }
 #contact .contact-lockup a .contact-item .socialcolor svg {
-  background-color: black;
+  background-color: #000000;
 }
 #contact .contact-lockup a .contact-item .socialcolor svg circle {
   stroke: #00FFAF;
-  fill: black;
+  fill: #000000;
 }
 #contact .contact-lockup a .contact-item .socialcolor svg path {
   fill: #00FFAF;
 }
 #contact .contact-lockup a .contact-item .socialcolor svg:hover circle {
-  stroke: black;
+  stroke: #000000;
   fill: #00FFAF;
 }
 #contact .contact-lockup a .contact-item .socialcolor svg:hover path {
-  fill: black;
+  fill: #000000;
 }
 
 @media screen and (max-width: 650px) {
@@ -760,7 +761,7 @@ footer {
   border-top: 10px solid #00FFAF;
   border-radius: 5px;
   height: 200px;
-  background-color: black;
+  background-color: #000000;
   background-size: cover;
   background-position: 50% 75%;
   -webkit-background-size: cover;
@@ -770,7 +771,7 @@ footer {
   margin: 0 auto;
 }
 footer #footer-content {
-  margin: 20px auto;
+  margin: 40px auto;
   text-align: center;
 }
 footer #footer-content nav .footer-link {
@@ -780,19 +781,19 @@ footer #footer-content nav .footer-link {
   font-weight: 500;
 }
 footer #footer-content nav .footer-link:hover, footer #footer-content nav .footer-link:focus {
-  color: rgba(0, 0, 0, 0.7);
+  color: #F8F8FF;
 }
 footer #footer-content #copyright {
   text-transform: uppercase;
   text-align: center;
-  color: ghostwhite;
+  color: #F8F8FF;
   margin-top: 10px;
   font-size: 18px;
 }
 
 header {
   position: relative;
-  background-color: black;
+  background-color: #000000;
   background-image: url(/assets/img/header/header.jpg);
   background-size: cover;
   background-position: 30% center;
@@ -817,7 +818,7 @@ header .header-content {
 }
 header .header-content h1 {
   margin: 0px auto 10px;
-  color: black;
+  color: #000000;
   text-shadow: 0 0 20px #00FFAF;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -827,7 +828,7 @@ header .header-content h1 {
 header .header-content h1 span {
   display: inline-block;
   padding: 0.2em 0.5em;
-  border: black solid 10px;
+  border: #000000 solid 10px;
   box-shadow: 0 0 20px #00FFAF;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -835,7 +836,7 @@ header .header-content h1 span {
 }
 header .header-content .kicker {
   display: inline-block;
-  color: black;
+  color: #000000;
   text-shadow: 0 0 20px #00FFAF;
   text-align: center;
   font-size: 24px;
@@ -852,7 +853,7 @@ header .header-content .kicker {
     font-size: 54px;
   }
   header .header-content h1 span {
-    border: black solid 8px;
+    border: #000000 solid 8px;
     padding: 0.1em 0.25em;
   }
   header .header-content .kicker {
@@ -864,7 +865,7 @@ header .header-content .kicker {
     font-size: 42px;
   }
   header .header-content h1 span {
-    border: black solid 6px;
+    border: #000000 solid 6px;
     padding: 0.05em 0.125em;
   }
   header .header-content .kicker {
@@ -944,7 +945,7 @@ header .header-content .kicker {
   color: #00FFAF;
 }
 #navbar ul .navbar-item:hover, #navbar ul .navbar-item:focus {
-  color: black;
+  color: #000000;
   background-color: #00FFAF;
 }
 
@@ -968,11 +969,11 @@ header .header-content .kicker {
     stroke: #00FFAF;
   }
   #navbar .branding .handle #navbar-menu svg.show path {
-    stroke: ghostwhite;
+    stroke: #000000;
   }
   #navbar .branding .handle #navbar-menu svg.show circle {
     fill: #00FFAF;
-    stroke: ghostwhite;
+    stroke: #000000;
   }
   #navbar ul {
     max-height: 0;
@@ -996,7 +997,7 @@ header .header-content .kicker {
 }
 #objective #objective-text {
   text-align: center;
-  color: black;
+  color: #000000;
   max-width: 620px;
   margin: 0px auto;
   padding: 30px 30px;
@@ -1016,7 +1017,7 @@ header .header-content .kicker {
   color: #00FFAF;
 }
 #work .work-title a:hover {
-  color: #305070;
+  color: #009969;
 }
 #work .work-container {
   border-radius: 5px;
@@ -1070,7 +1071,7 @@ header .header-content .kicker {
 #work .work-container .work-unit .work-overlay strong {
   display: block;
   padding: 0 20px;
-  color: black;
+  color: #000000;
   font-weight: 400;
   font-size: 24px;
   text-transform: uppercase;
@@ -1104,7 +1105,7 @@ header .header-content .kicker {
   margin: 0 auto;
   font-size: 24px;
   font-weight: 700;
-  color: black;
+  color: #000000;
   text-shadow: 1px 1px 1px #00FFAF;
   padding: 10px 20px;
   border-radius: 10px;
@@ -1142,7 +1143,7 @@ header .header-content .kicker {
   background-color: #00FFAF;
 }
 #skills .skill-lockup .skill-unit .skill-icons.skill-1 span:nth-child(n+2), #skills .skill-lockup .skill-unit .skill-icons.skill-2 span:nth-child(n+3), #skills .skill-lockup .skill-unit .skill-icons.skill-3 span:nth-child(n+4), #skills .skill-lockup .skill-unit .skill-icons.skill-4 span:nth-child(n+5), #skills .skill-lockup .skill-unit .skill-icons.skill-5 span:nth-child(n+6), #skills .skill-lockup .skill-unit .skill-icons.skill-6 span:nth-child(n+7), #skills .skill-lockup .skill-unit .skill-icons.skill-7 span:nth-child(n+8), #skills .skill-lockup .skill-unit .skill-icons.skill-8 span:nth-child(n+9), #skills .skill-lockup .skill-unit .skill-icons.skill-9 span:nth-child(n+10), #skills .skill-lockup .skill-unit .skill-icons.skill-10 span:nth-child(n+11) {
-  background: black;
+  background: #000000;
 }
 
 @media screen and (max-width: 540px) {
@@ -1154,7 +1155,7 @@ header .header-content .kicker {
   }
 }
 #slider {
-  background: linear-gradient(to left, ghostwhite, ghostwhite);
+  background: linear-gradient(to left, ghostwhite, #F8F8FF);
   position: relative;
 }
 #slider #slider-lockup {
@@ -1171,7 +1172,7 @@ header .header-content .kicker {
   margin: 0 auto;
   padding: 10px 0px;
   background: rgba(0, 255, 175, 0.7);
-  color: black;
+  color: #000000;
   width: 200px;
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
@@ -1204,7 +1205,7 @@ header .header-content .kicker {
 }
 #slider #slider-lockup .slider-button:hover {
   background: rgba(0, 255, 175, 0.7);
-  color: black;
+  color: #000000;
   cursor: pointer;
 }
 #slider #slider-lockup .left {
@@ -1226,7 +1227,7 @@ header .header-content .kicker {
   bottom: calc(0% + 10px);
   left: 50%;
   transform: translateX(-50%);
-  color: black;
+  color: #000000;
   background-color: rgba(0, 255, 175, 0.7);
   margin: 0;
   padding: 10px 0;
@@ -1328,13 +1329,13 @@ header .header-content .kicker {
 }
 #gtadvice-content .advice-primary {
   background-color: #00FFAF;
-  color: black;
+  color: #000000;
 }
 #gtadvice-content .advice-primary h3, #gtadvice-content .advice-primary h5 {
-  color: black;
+  color: #000000;
 }
 #gtadvice-content .advice-secondary {
-  background-color: ghostwhite;
+  background-color: #F8F8FF;
   color: #00FFAF;
 }
 
@@ -1422,7 +1423,7 @@ header .header-content .kicker {
   fill-opacity: 1;
 }
 #contact-page #contact-lockup .contact-item .contact-socialicon a svg:hover path {
-  fill: black;
+  fill: #000000;
 }
 #contact-page #contact-lockup .contact-item .contact-content a h1 {
   line-height: 100px;
@@ -1431,7 +1432,7 @@ header .header-content .kicker {
   color: #00FFAF;
 }
 #contact-page #contact-lockup .contact-item .contact-content a h1:hover {
-  color: #305070;
+  color: #009969;
 }
 
 .movie-container {
@@ -1444,7 +1445,7 @@ header .header-content .kicker {
   display: flex;
 }
 .movie-container .movie-image {
-  background: linear-gradient(to right, #00FFAF, ghostwhite, #00FFAF);
+  background: linear-gradient(to right, #00FFAF, #F8F8FF, #00FFAF);
   width: 25%;
   display: flex;
   justify-content: center;
@@ -1468,7 +1469,7 @@ header .header-content .kicker {
   margin: 10px auto;
 }
 .movie-container .movie-content .movie-year {
-  color: ghostwhite;
+  color: #F8F8FF;
   text-align: center;
   padding: 0;
   margin: 10px auto;
@@ -1481,7 +1482,7 @@ header .header-content .kicker {
   font-size: 1.2rem;
 }
 .movie-container .movie-content .movie-review {
-  color: ghostwhite;
+  color: #F8F8FF;
   text-align: center;
   padding: 0 5px;
   margin: 5px auto;
@@ -1537,7 +1538,7 @@ header .header-content .kicker {
   -webkit-backdrop-filter: blur(5px);
 }
 #portfolio .portfolio-unit .portfolio-overlay:hover {
-  color: black;
+  color: #000000;
   background-color: rgba(0, 255, 175, 0.7);
 }
 
@@ -1562,7 +1563,7 @@ header .header-content .kicker {
   margin: 0 auto;
   padding: 10px 0px;
   border-radius: 5px;
-  color: ghostwhite;
+  color: #F8F8FF;
 }
 .portfolio-page .portfolio-content h3 {
   text-align: center;
@@ -1603,7 +1604,7 @@ header .header-content .kicker {
   border: 0;
   height: 2px;
   background: #00FFAF;
-  background-image: linear-gradient(to right, ghostwhite, #00FFAF, ghostwhite);
+  background-image: linear-gradient(to right, #F8F8FF, #00FFAF, #F8F8FF);
 }
 
 .post-content {
@@ -1642,7 +1643,7 @@ header .header-content .kicker {
   border: 0;
   height: 2px;
   background: #00FFAF;
-  background-image: linear-gradient(to right, ghostwhite, #00FFAF, ghostwhite);
+  background-image: linear-gradient(to right, #F8F8FF, #00FFAF, #F8F8FF);
 }
 .post-content .post-button-back {
   backdrop-filter: blur(10px);
@@ -1676,19 +1677,19 @@ header .header-content .kicker {
   font-size: 24px;
   font-weight: 700;
   background-color: #00FFAF;
-  color: black;
+  color: #000000;
 }
 .presentation-contents #presentation-table table tr td {
   text-align: center;
   font-size: 16px;
   margin: 0px auto;
-  background-color: ghostwhite;
+  background-color: #F8F8FF;
   color: #00FFAF;
   padding: 0;
 }
 .presentation-contents #presentation-table table tr td a {
   text-decoration: none;
-  color: black;
+  color: #000000;
   background-color: #00FFAF;
   padding: 10px 0px;
   display: inline-block;
@@ -1697,7 +1698,7 @@ header .header-content .kicker {
   border-radius: 5px;
 }
 .presentation-contents #presentation-table table tr td a:hover {
-  background-color: black;
+  background-color: #000000;
   color: #00FFAF;
 }
 
