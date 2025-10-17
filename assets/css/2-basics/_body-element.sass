@@ -27,22 +27,25 @@ progress
   border-radius: 5px
   width: calc(100% - 40px)
   height: 20px
-  margin: 10px 20px
+  margin: 5px 20px 10px
   background: $theme-tertiary
   border: 1px solid $theme-primary
+  overflow: hidden
+  -webkit-appearance: none
+  appearance: none
 
 progress::-webkit-progress-bar
+  background: $theme-tertiary
+  border-radius: 5px
+
+progress::-webkit-progress-value
   background: $theme-primary
   border-radius: 5px
 
 progress::-moz-progress-bar
   background: $theme-primary
+  border-radius: 5px
 
-progress::-webkit-progress-value
-  background: $theme-primary
-
-progress::-moz-progress-value
-  background: $theme-primary
 
 .button
   display: inline-block

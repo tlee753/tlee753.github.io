@@ -256,26 +256,27 @@ progress {
   border-radius: 5px;
   width: calc(100% - 40px);
   height: 20px;
-  margin: 10px 20px;
+  margin: 5px 20px 10px;
   background: #000000;
   border: 1px solid #00FFAF;
+  overflow: hidden;
+  -webkit-appearance: none;
+  appearance: none;
 }
 
 progress::-webkit-progress-bar {
+  background: #000000;
+  border-radius: 5px;
+}
+
+progress::-webkit-progress-value {
   background: #00FFAF;
   border-radius: 5px;
 }
 
 progress::-moz-progress-bar {
   background: #00FFAF;
-}
-
-progress::-webkit-progress-value {
-  background: #00FFAF;
-}
-
-progress::-moz-progress-value {
-  background: #00FFAF;
+  border-radius: 5px;
 }
 
 .button {
@@ -589,7 +590,6 @@ td {
   padding: 0 20px;
   margin: 30px auto;
   font-size: 20px;
-  font-weight: 400;
 }
 #about .about-me strong {
   color: #00FFAF;
@@ -605,7 +605,7 @@ td {
   order: 3;
 }
 #about .about-content a .about-face {
-  box-shadow: 0 0 1px #00FFAF;
+  border: 4px solid #F8F8FF;
   border-radius: 50%;
   width: 200px;
   height: 200px;
@@ -617,7 +617,6 @@ td {
   border: 4px solid #00FFAF;
   border-radius: 50%;
   size: 120px;
-  box-shadow: 0 0 1px #00FFAF;
 }
 #about .about-content [class^=about-item] path {
   fill: #00FFAF;
@@ -1118,12 +1117,12 @@ header .header-content .kicker {
 }
 
 #skills .skill-lockup {
-  max-width: 700px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 30px 0 0 0;
 }
 #skills .skill-lockup .skill-unit {
-  width: 350px;
+  width: 300px;
   float: left;
 }
 #skills .skill-lockup .skill-unit .skill-label {
@@ -1131,10 +1130,10 @@ header .header-content .kicker {
 }
 #skills .skill-lockup .skill-unit .skill-icons {
   font-size: 0;
-  margin: 3px 0 30px;
+  margin: 3px 0 20px;
 }
 #skills .skill-lockup .skill-unit .skill-icons span {
-  box-shadow: 0 0 5px white;
+  border: 1px solid #F8F8FF;
   display: inline-block;
   height: 16px;
   width: 16px;
