@@ -190,6 +190,7 @@ d3.csv("/assets/js/champ-heat-index.csv").then(function(data) {
                 .attr("y", d => y(d[1]))
                 .attr("width", x.bandwidth())
                 .attr("height", d => y(d[0]) - y(d[1]))
+                .attr("rx", 2)
 
     cisvg.append('g')
         .attr('class', 'y axis-grid')
@@ -252,6 +253,7 @@ d3.csv("/assets/js/champ-heat-history.csv").then(function(data) {
         .attr("y", d => y(d.Score))
         .attr("width", x.bandwidth())
         .attr("height", d => height - y(d.Score))
+        .attr("rx", 2)
         .style("fill", function(d){
             if (d.City == "Boston") { return "red" }
             else if (d.City == "New York") { return "orange" }
