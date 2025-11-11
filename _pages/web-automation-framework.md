@@ -15,12 +15,8 @@ Just a simple to use, extremely portable, cross-platform, command line operable,
 Github
 </a>
 
-
-
 # Selenium TestNG Java Web Automation Framework
-- Author: [Tyler Lee](mailto:tlee753@gatech.edu)
 - Version: 1.0
-
 
 ## Simple Instructions
 
@@ -49,34 +45,34 @@ Github
 
 #### Screenshots
 - to take screenshots of a page use the `WAFScreenShotter` utility class
-```java
-package util;
-
-new WAFScreenShotter(<WEBDRIVER>, "<PICTURE NAME>");
-// takes picture of current page and puts it current directory
-```
+    ```java
+    package util;
+    
+    new WAFScreenShotter(<WEBDRIVER>, "<PICTURE NAME>");
+    // takes picture of current page and puts it current directory
+    ```
 - do not add a file extension to the picture name argument, a `.jpg` is automatically added
 - if you already have a `WAFScreenShotter` object you can simply use the `.takeScreenshot()` method to take another screenshot
-```java
-myWAFScreenShotter.takeScreenshot(driver, "example");
-// takes picture and places "example.jpg" in current directory
-```
+    ```java
+    myWAFScreenShotter.takeScreenshot(driver, "example");
+    // takes picture and places "example.jpg" in current directory
+    ```
 
 #### File Downloads
 - to download all files on a page matching a CSS selector pattern, use the `WAFFileDownloader` utility class
-```java
-package util;
-
-new WAFFileDownloader(<WEBDRIVER>, "<FOLDER NAME>", "<CSS SELECTOR>");
-// downloads all files on current page based on selector into the user specified folder
-```
+    ```java
+    package util;
+    
+    new WAFFileDownloader(<WEBDRIVER>, "<FOLDER NAME>", "<CSS SELECTOR>");
+    // downloads all files on current page based on selector into the user specified folder
+    ```
 - be sure to include "Files" (capitalization matters) somewhere in your folder name if you want the folder deleted when `make clean` is run
 - almost all of your CSS selectors should end in `a` since you should be clicking links to download files
 - if you already have a `WAFFileDownloader` object you can simply use the `.downloadFiles()` method to download additional files
-```java
-myWAFFileDownloader.downloadFiles(driver, "my-Files-Folder", "td > a");
-// downloads all files on the page that are table element links
-```
+    ```java
+    myWAFFileDownloader.downloadFiles(driver, "my-Files-Folder", "td > a");
+    // downloads all files on the page that are table element links
+    ```
 
 ### Compiling and Running Tests
 
@@ -137,6 +133,8 @@ make superclean
 ```
 - this removes the `build.xml` (recreated by `Main.java` each run) and the pdf copy of this README
 
+<br>
+
 ---
 
 ## Detailed Explanation
@@ -152,6 +150,8 @@ This framework works in the following manner:
         2) Performs actions using Selenium
         3) TestNG test assertions are checked
 3) TestNG framework creates output `.html` and `.xml` files to view test results
+
+<br>
 
 ### Making (Linux Only)
 - `make` runs the following commands:
@@ -174,6 +174,8 @@ rm -rf test-output *Files* *.class util/*.class *.zip *.png *.jpg
 rm -rf test-output *Files* *.class util/*.class *.zip *.png *.jpg *.pdf docs/*.pdf *.xml
 ```
 
+<br>
+    
 ---
 
 ## Developers
