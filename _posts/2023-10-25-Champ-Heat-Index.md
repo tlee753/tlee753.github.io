@@ -169,13 +169,13 @@ d3.csv("/assets/js/champ-heat-index.csv").then(function(data) {
         .call(d3.axisBottom(x).tickSizeOuter(0))
         .selectAll("text")
         .attr("transform", "translate(-16,8) rotate(-90)")
-        .style("font-family", "Century Gothic, sans-serif")
+        .style("font-family", "Lexend, sans-serif")
         .style("font-size", "16px")
         .style("text-anchor", "end");
 
     cisvg.append("g")
         .call(d3.axisLeft(y))
-        .style("font-family", "Century Gothic, sans-serif")
+        .style("font-family", "Lexend, sans-serif")
         .style("font-size", "16px");
 
     cisvg.append("g")
@@ -197,24 +197,24 @@ d3.csv("/assets/js/champ-heat-index.csv").then(function(data) {
         .style("color", "white")
         .attr("stroke-width", "2px");
 
-    cisvg.append("rect").attr("x", 20).attr("y", 20).attr("width", 110).attr("height", 180).style("fill", "white")
+    cisvg.append("rect").attr("x", 20).attr("y", 20).attr("width", 110).attr("height", 180).attr("rx", 10).style("fill", "white")
     cisvg.append("circle").attr("cx", 50).attr("cy", 50).attr("r", 10).style("fill", "red")
     cisvg.append("circle").attr("cx", 50).attr("cy", 80).attr("r", 10).style("fill", "orange")
     cisvg.append("circle").attr("cx", 50).attr("cy", 110).attr("r", 10).style("fill", "green")
     cisvg.append("circle").attr("cx", 50).attr("cy", 140).attr("r", 10).style("fill", "blue")
     cisvg.append("circle").attr("cx", 50).attr("cy", 170).attr("r", 10).style("fill", "purple")
-    cisvg.append("text").attr("x", 65).attr("y", 57).text("NHL").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    cisvg.append("text").attr("x", 65).attr("y", 87).text("MLS").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    cisvg.append("text").attr("x", 65).attr("y", 117).text("NBA").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    cisvg.append("text").attr("x", 65).attr("y", 147).text("NFL").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    cisvg.append("text").attr("x", 65).attr("y", 177).text("MLB").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
+    cisvg.append("text").attr("x", 65).attr("y", 57).text("NHL").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    cisvg.append("text").attr("x", 65).attr("y", 87).text("MLS").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    cisvg.append("text").attr("x", 65).attr("y", 117).text("NBA").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    cisvg.append("text").attr("x", 65).attr("y", 147).text("NFL").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    cisvg.append("text").attr("x", 65).attr("y", 177).text("MLB").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
 })
 
 // CHAMP HISTORY
 const chsvg = d3.select("#champ-history")
     .append("svg")
         .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
+        .attr("height", height + margin.top + margin.bottom - 80)
         .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`);
 
@@ -233,16 +233,16 @@ d3.csv("/assets/js/champ-heat-history.csv").then(function(data) {
         .call(d3.axisBottom(x).tickSizeOuter(0))
         .selectAll("text")
         .style("display", function(x){
-            if (x % 2 == 1) { return "none" }
+            if (x % 5) { return "none" }
         })
         .attr("transform", "translate(-16,8) rotate(-90)")
-        .style("font-family", "Century Gothic, sans-serif")
+        .style("font-family", "Lexend, sans-serif")
         .style("font-size", "16px")
         .style("text-anchor", "end");
 
     chsvg.append("g")
         .call(d3.axisLeft(y))
-        .style("font-family", "Century Gothic, sans-serif")
+        .style("font-family", "Lexend, sans-serif")
         .style("font-size", "16px");
 
     chsvg.selectAll("mybar")
@@ -268,7 +268,7 @@ d3.csv("/assets/js/champ-heat-history.csv").then(function(data) {
         .style("color", "white")
         .attr("stroke-width", "2px");
 
-    chsvg.append("rect").attr("x", 20).attr("y", 20).attr("width", 175).attr("height", 240).style("fill", "white")
+    chsvg.append("rect").attr("x", 20).attr("y", 20).attr("width", 175).attr("height", 240).attr("rx", 10).style("fill", "white")
     chsvg.append("circle").attr("cx", 50).attr("cy", 50).attr("r", 10).style("fill", "red")
     chsvg.append("circle").attr("cx", 50).attr("cy", 80).attr("r", 10).style("fill", "orange")
     chsvg.append("circle").attr("cx", 50).attr("cy", 110).attr("r", 10).style("fill", "forestgreen")
@@ -276,13 +276,13 @@ d3.csv("/assets/js/champ-heat-history.csv").then(function(data) {
     chsvg.append("circle").attr("cx", 50).attr("cy", 170).attr("r", 10).style("fill", "blue")
     chsvg.append("circle").attr("cx", 50).attr("cy", 200).attr("r", 10).style("fill", "purple")
     chsvg.append("circle").attr("cx", 50).attr("cy", 230).attr("r", 10).style("fill", "gray")
-    chsvg.append("text").attr("x", 65).attr("y", 57).text("Boston").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    chsvg.append("text").attr("x", 65).attr("y", 87).text("New York").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    chsvg.append("text").attr("x", 65).attr("y", 117).text("Philadelphia").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    chsvg.append("text").attr("x", 65).attr("y", 147).text("Chicago").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    chsvg.append("text").attr("x", 65).attr("y", 177).text("Los Angeles").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    chsvg.append("text").attr("x", 65).attr("y", 207).text("Montreal").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
-    chsvg.append("text").attr("x", 65).attr("y", 237).text("Other").style("font-size", "20px").style("font-family", "Century Gothic, sans-serif")
+    chsvg.append("text").attr("x", 65).attr("y", 57).text("Boston").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    chsvg.append("text").attr("x", 65).attr("y", 87).text("New York").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    chsvg.append("text").attr("x", 65).attr("y", 117).text("Philadelphia").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    chsvg.append("text").attr("x", 65).attr("y", 147).text("Chicago").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    chsvg.append("text").attr("x", 65).attr("y", 177).text("Los Angeles").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    chsvg.append("text").attr("x", 65).attr("y", 207).text("Montreal").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
+    chsvg.append("text").attr("x", 65).attr("y", 237).text("Other").style("font-size", "20px").style("font-family", "Lexend, sans-serif")
 })
 </script>
 

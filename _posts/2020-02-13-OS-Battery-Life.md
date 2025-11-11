@@ -41,43 +41,68 @@ I kept everything as stock as possible for each OS, stock browsers (Edge on Wind
 ### Beautiful D3 Bar Graph
 <script src="//d3js.org/d3.v4.min.js"></script>
 <div id="time-chart" style="margin: 0 auto; overflow-x: scroll;"></div>
+
 <script>
 var data = [{ "opersys": "Arch + i3 (Youtube)", "time": 3.32, "color": "#168fcb"}, { "opersys": "Arch + i3 (Idle)", "time": 7.25, "color": "#168fcb" }, { "opersys": "Ubuntu (YouTube)", "time": 2.92, "color": "#d84614" }, { "opersys": "Ubuntu (Idle)", "time": 7.33, "color": "#d84614" }, { "opersys": "Windows (YouTube)", "time": 3.35, "color": "#66ccfd" }, { "opersys": "Windows (Idle)", "time": 6.92, "color": "#66ccfd" }];
-var margin = { top: 20, right: 20, bottom: 60, left: 160 },
-    width = 960 - margin.left - margin.right,
-    height = 600 - margin.top - margin.bottom;
+
+var wiw = document.getElementsByClassName("post-content")[0].offsetWidth;
+var wih = window.innerHeight - 400;
+
+var margin = { top: 20, right: 20, bottom: 40, left: 160 };
+var width = wiw - margin.left - margin.right;
+var height = wih - margin.top - margin.bottom;
+
+var x = d3.scaleLinear()
+    .range([0, width]);
 var y = d3.scaleBand()
     .range([height, 0])
     .padding(0.1);
-var x = d3.scaleLinear()
-    .range([0, width]);
+
 var svg = d3.select("#time-chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
-    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
 data.forEach(function (d) {
     d.time = +d.time;
 });
 x.domain([0, d3.max(data, function (d) { return d.time; })])
 y.domain(data.map(function (d) { return d.opersys; }));
+
 svg.selectAll(".bar")
     .data(data)
     .enter().append("rect")
     .attr("width", function (d) { return x(d.time); })
     .attr("y", function (d) { return y(d.opersys); })
     .attr("fill", function (d) { return d.color })
-    .attr("height", y.bandwidth());
+    .attr("height", y.bandwidth())
+    .attr("rx", 10);
+
 svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x));
+    .attr("transform", `translate(0, ${height})`)
+    .call(d3.axisBottom(x))
+    .attr("fill", "white")
+    .style("color", "white")
+    .selectAll("text")
+    .style("font-family", "Lexend, sans-serif")
+    .style("font-size", "16px")
+    .attr("fill", "white");
+
 svg.append("g")
-    .call(d3.axisLeft(y));
-  svg.append("text")             
-      .attr("transform",
-            "translate(" + (width/2) + " ," + (height + margin.top + 20) + ")")
-      .style("text-anchor", "middle")
-      .text("Hours");
+    .call(d3.axisLeft(y))
+    .attr("fill", "white")
+    .style("color", "white")
+    .selectAll("text")
+    .style("font-family", "Lexend, sans-serif")
+    .style("font-size", "16px")
+    .attr("fill", "white");
+
+svg.append("text")             
+    .attr("transform", `translate(${width/2}, ${height + margin.top + 20})`)
+    .style("text-anchor", "middle")
+    .style("fill", "white")
+    .text("Hours");
 </script>
 
 <br>
