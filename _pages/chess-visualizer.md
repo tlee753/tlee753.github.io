@@ -12,7 +12,7 @@ progress: 100
 
 <br>
 
-![Dark Mode](/assets/img/portfolio/chess-visualizer/frontend-2.1.jpg)
+![Dark Mode](/assets/img/portfolio/chess-visualizer/frontend-2.1.webp)
 
 <br>
 
@@ -27,7 +27,7 @@ by Fischer and the net results of doing so.
 
 <br>
 
-![Midgame](/assets/img/portfolio/chess-visualizer/midgame.jpg)
+![Midgame](/assets/img/portfolio/chess-visualizer/midgame.webp)
 
 <br>
 
@@ -48,7 +48,7 @@ its not quite the queen exchange it seemed.
 
 <br>
 
-![Endgame](/assets/img/portfolio/chess-visualizer/endgame.jpg)
+![Endgame](/assets/img/portfolio/chess-visualizer/endgame.webp)
 
 <br>
 
@@ -74,7 +74,7 @@ Chess Visualizer Github
 
 <br>
 
-![Backend View](/assets/img/portfolio/chess-visualizer/backend-1.2.jpg)
+![Backend View](/assets/img/portfolio/chess-visualizer/backend-1.2.webp)
 
 <br>
 

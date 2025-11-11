@@ -26,13 +26,13 @@ Project Report
 
 <br>
 
-![3-D printed model](/assets/img/portfolio/electrathon-vehicle/electrathon-vehicle-1.jpg)
+![3-D printed model](/assets/img/portfolio/electrathon-vehicle/electrathon-vehicle-1.webp)
 <br>
-![Welding](/assets/img/portfolio/electrathon-vehicle/welding-1.jpg)
+![Welding](/assets/img/portfolio/electrathon-vehicle/welding-1.webp)
 <br>
-![Welding](/assets/img/portfolio/electrathon-vehicle/welding-2.jpg)
+![Welding](/assets/img/portfolio/electrathon-vehicle/welding-2.webp)
 <br>
-![Welding](/assets/img/portfolio/electrathon-vehicle/steel-frame.jpg)
+![Welding](/assets/img/portfolio/electrathon-vehicle/steel-frame.webp)
 <br>
 
 ### Next Generation

@@ -4,7 +4,7 @@ title: School Entertainment
 date: 2020-01-30 12:00
 tags: fun
 category: Fun
-thumbnail: ../blog/school-fun.jpg
+thumbnail: ../blog/school-fun.webp
 ---
 
 
@@ -13,11 +13,11 @@ School can be pretty boring, sitting behind the concrete walls for hours on end,
 
 ### Pink and Purple Theme
 Really any kind of hilarious theme that is entirely out of place but can't count against you. I've been a big fan of making everything pink and purple such as this accounting project, but 70's hippie themes or way too much <strong style="color: lime; background: orange;">&nbsp;NEON&nbsp;</strong> are also classics.
-![Pink and Purple](/assets/img/blog/school-fun/accounting.jpg)
+![Pink and Purple](/assets/img/blog/school-fun/accounting.webp)
 
 ### Fight Club Powerpoint Slides/Video Inserts
 This might be my all time favorite, and it works on both powerpoints and videos. If you've seen Fight Club, you know there are some random single frame inserts that show Tyler Durden ahead of time. The idea is exactly that, create a powerpoint animation on a picture to automatically appear a few seconds into the slide and then dissapear a moment later. Or a single frame in a video. The look on peoples faces after being subliminally messaged is priceless.
-![Fight Club](/assets/img/blog/school-fun/fight-club.jpg)
+![Fight Club](/assets/img/blog/school-fun/fight-club.webp)
 
 ### Lonely Island Musical Number
 Everyone loves that teacher that encourages students to "branch out to their creative side" and assigns a project that involves making a song. What better way to entertain the class than picking a Lonely Island number, changing the lyrics, and then signing it with the instrumental playing and the whole class knowing the dirty song behind it.

@@ -38,13 +38,13 @@ Ascension PC Part Picker
 </a>
 
 <br>
-![Ascension 3](/assets/img/portfolio/performance-computers/ascension-3.jpg)
+![Ascension 3](/assets/img/portfolio/performance-computers/ascension-3.webp)
 <br>
-![Ascension 2](/assets/img/portfolio/performance-computers/ascension-2.jpg)
+![Ascension 2](/assets/img/portfolio/performance-computers/ascension-2.webp)
 <br>
-![Ascension 4](/assets/img/portfolio/performance-computers/ascension-4.jpg)
+![Ascension 4](/assets/img/portfolio/performance-computers/ascension-4.webp)
 <br>
-![Ascension 5](/assets/img/portfolio/performance-computers/ascension-5.jpg)
+![Ascension 5](/assets/img/portfolio/performance-computers/ascension-5.webp)
 <br>
 
 <span id="portable">
@@ -68,15 +68,15 @@ Portable PC Part Picker
 </a>
 
 <br>
-![Portable 1](/assets/img/portfolio/performance-computers/portable-1.jpg)
+![Portable 1](/assets/img/portfolio/performance-computers/portable-1.webp)
 <br>
-![Portable 2](/assets/img/portfolio/performance-computers/portable-2.jpg)
+![Portable 2](/assets/img/portfolio/performance-computers/portable-2.webp)
 <br>
-![Portable 3](/assets/img/portfolio/performance-computers/portable-3.jpg)
+![Portable 3](/assets/img/portfolio/performance-computers/portable-3.webp)
 <br>
-![Portable 4](/assets/img/portfolio/performance-computers/portable-4.jpg)
+![Portable 4](/assets/img/portfolio/performance-computers/portable-4.webp)
 <br>
-![Portable 5](/assets/img/portfolio/performance-computers/portable-5.jpg)
+![Portable 5](/assets/img/portfolio/performance-computers/portable-5.webp)
 <br>
 
 <span id="gamer">
@@ -100,15 +100,15 @@ Low Cost Gamer PC Part Picker
 </a>
 
 <br>
-![Gamer 1](/assets/img/portfolio/performance-computers/red-1.jpg)
+![Gamer 1](/assets/img/portfolio/performance-computers/red-1.webp)
 <br>
-![Gamer 2](/assets/img/portfolio/performance-computers/red-2.jpg)
+![Gamer 2](/assets/img/portfolio/performance-computers/red-2.webp)
 <br>
-![Gamer 3](/assets/img/portfolio/performance-computers/red-3.jpg)
+![Gamer 3](/assets/img/portfolio/performance-computers/red-3.webp)
 <br>
-![Gamer 4](/assets/img/portfolio/performance-computers/red-4.jpg)
+![Gamer 4](/assets/img/portfolio/performance-computers/red-4.webp)
 <br>
-![Gamer 5](/assets/img/portfolio/performance-computers/red-5.jpg)
+![Gamer 5](/assets/img/portfolio/performance-computers/red-5.webp)
 <br>
 
 <span id="office">
@@ -127,11 +127,11 @@ Low Cost Gamer PC Part Picker
 - Case: Dell Optiplex 7010
 
 <br>
-![Office 1](/assets/img/portfolio/performance-computers/office-1.jpg)
+![Office 1](/assets/img/portfolio/performance-computers/office-1.webp)
 <br>
-![Office 3](/assets/img/portfolio/performance-computers/office-3.jpg)
+![Office 3](/assets/img/portfolio/performance-computers/office-3.webp)
 <br>
-![Office 4](/assets/img/portfolio/performance-computers/office-4.jpg)
+![Office 4](/assets/img/portfolio/performance-computers/office-4.webp)
 <br>
 
 <span id="server">

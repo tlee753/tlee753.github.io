@@ -4,7 +4,7 @@ title: OS Battery Life
 date: 2020-02-13 12:00
 tags: tech
 category: Tech
-thumbnail: ../blog/os-battery-life.jpg
+thumbnail: ../blog/os-battery-life.webp
 ---
 
 

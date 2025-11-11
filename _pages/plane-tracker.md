@@ -22,18 +22,18 @@ The idea behind this project was to make a radio controlled, controllable camera
 <br>
 
 ### Building
-![Mock 1 Mech 1](/assets/img/portfolio/plane-tracker/mock-1-mech-1.jpg)
+![Mock 1 Mech 1](/assets/img/portfolio/plane-tracker/mock-1-mech-1.webp)
 <br>
-![Mock 1 Mech 2](/assets/img/portfolio/plane-tracker/mock-1-mech-2.jpg)
+![Mock 1 Mech 2](/assets/img/portfolio/plane-tracker/mock-1-mech-2.webp)
 <br>
-![Mock 1 Mech 3](/assets/img/portfolio/plane-tracker/mock-1-mech-3.jpg)
+![Mock 1 Mech 3](/assets/img/portfolio/plane-tracker/mock-1-mech-3.webp)
 
 <br>
 
 ### Testing
 ![Mock 1 Build 1](/assets/img/portfolio/plane-tracker/mock-1-build-1.gif)
 <br>
-![Mock 1 Build 2](/assets/img/portfolio/plane-tracker/mock-1-build-2.jpg)
+![Mock 1 Build 2](/assets/img/portfolio/plane-tracker/mock-1-build-2.webp)
 <br>
 ![Mock 1 Build 3](/assets/img/portfolio/plane-tracker/mock-1-build-3.gif)
 
@@ -45,7 +45,7 @@ The idea behind this project was to make a radio controlled, controllable camera
 ### Designing
 ![Mock 2 CAD 1](/assets/img/portfolio/plane-tracker/mock-2-cad-1.png)
 <br>
-![Mock 2 CAD 1](/assets/img/portfolio/plane-tracker/mock-2-build-1.jpg)
+![Mock 2 CAD 1](/assets/img/portfolio/plane-tracker/mock-2-build-1.webp)
 
 <br>
 

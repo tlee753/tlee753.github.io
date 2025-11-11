@@ -4,7 +4,7 @@ title: Champion Heat Index
 date: 2023-10-25 12:00
 tags: sports
 category: Sports
-thumbnail: ../blog/horseshoe.jpg
+thumbnail: ../blog/horseshoe.webp
 ---
 
 <style>

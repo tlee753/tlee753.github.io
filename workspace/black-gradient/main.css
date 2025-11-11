@@ -31,7 +31,7 @@ body {
     border: 4px solid transparent;
     border-radius: 52px;
     background: black;
-    background-image: url("http://tlee753.com/assets/img/header/header.jpg");
+    background-image: url("http://tlee753.com/assets/img/header/header.webp");
     background-size: contain;
     background-repeat: no-repeat;
     background-clip: padding-box;
@@ -67,7 +67,7 @@ body {
     border: 8px solid transparent;
     border-radius: 18px;
     background: black;
-    background-image: url("http://tlee753.com/assets/img/header/header.jpg");
+    background-image: url("http://tlee753.com/assets/img/header/header.webp");
     background-size: contain;
     background-repeat: no-repeat;
     background-clip: padding-box;
@@ -103,7 +103,7 @@ body {
     border: 4px solid transparent;
     border-radius: 18px;
     background: black;
-    background-image: url("http://tlee753.com/assets/img/header/header.jpg");
+    background-image: url("http://tlee753.com/assets/img/header/header.webp");
     background-size: contain;
     background-repeat: no-repeat;
     background-clip: padding-box;

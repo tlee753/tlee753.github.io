@@ -41,7 +41,7 @@ Onshape CAD Model
 <br>
 
 ### Open Rocket Simulations
-![Rocketry 1](/assets/img/portfolio/rocketry/rocketry-1.jpg)
+![Rocketry 1](/assets/img/portfolio/rocketry/rocketry-1.webp)
 <br>
 ![Rocketry 7](/assets/img/portfolio/rocketry/rocketry-7.png)
 <br>
@@ -55,11 +55,11 @@ Onshape CAD Model
 <br>
 ![Rocketry 4](/assets/img/portfolio/rocketry/rocketry-4.png)
 <br>
-![Rocketry 5](/assets/img/portfolio/rocketry/rocketry-5.jpg)
+![Rocketry 5](/assets/img/portfolio/rocketry/rocketry-5.webp)
 <br>
 
 ### CPU Performance Video Capture Test
-![Rocketry 6](/assets/img/portfolio/rocketry/rocketry-6.jpg)
+![Rocketry 6](/assets/img/portfolio/rocketry/rocketry-6.webp)
 <br>
 
 
@@ -70,15 +70,15 @@ Onshape CAD Model
 <br>
 
 ### Assembley
-![Lab](/assets/img/portfolio/rocketry/lab.jpg)
+![Lab](/assets/img/portfolio/rocketry/lab.webp)
 <br>
-![Paint](/assets/img/portfolio/rocketry/paint.jpg)
+![Paint](/assets/img/portfolio/rocketry/paint.webp)
 <br>
 
 ### Launch Day
-![Launchpad](/assets/img/portfolio/rocketry/launchpad.jpg)
+![Launchpad](/assets/img/portfolio/rocketry/launchpad.webp)
 <br>
-![Rocketry 8](/assets/img/portfolio/rocketry/rocketry-8.jpg)
+![Rocketry 8](/assets/img/portfolio/rocketry/rocketry-8.webp)
 <br>
 
 ### Flight Pictures

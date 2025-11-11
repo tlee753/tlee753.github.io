@@ -18,15 +18,15 @@ Web Mockup
 <br>
 
 ### Initial Prototyping
-![Mockup](/assets/img/portfolio/world-history-timeline/version-1.jpg)
+![Mockup](/assets/img/portfolio/world-history-timeline/version-1.webp)
 
 <br>
 
 ### JSON Generated Version 2
-![Version 2](/assets/img/portfolio/world-history-timeline/version-2.jpg)
+![Version 2](/assets/img/portfolio/world-history-timeline/version-2.webp)
 
 <br>
 
 ### JSON Generated Version 3
-![Version 3](/assets/img/portfolio/world-history-timeline/version-3.jpg)
+![Version 3](/assets/img/portfolio/world-history-timeline/version-3.webp)
 

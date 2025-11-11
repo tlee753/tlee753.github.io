@@ -4,13 +4,13 @@ title: Interlaken
 date: 2017-02-11 12:00
 tags: travel
 category: Switzerland
-thumbnail: Switzerland/Interlaken/slider.jpg
+thumbnail: Switzerland/Interlaken/slider.webp
 ---
 
 # Interlaken
 
 {% for i in (1..24) %}
-![Interlaken-{{i}}](/assets/img/travel/Switzerland/Interlaken/Interlaken-{{i}}.JPG)
+![Interlaken-{{i}}](/assets/img/travel/Switzerland/Interlaken/Interlaken-{{i}}.webp)
 {% endfor %}
 
 <!--

@@ -47,7 +47,7 @@ Playing the game itself was fairly rage inducing, although the bets made won't b
 
 ### 9. Far Cry 3
 The greatest sandbox game I've ever played, the story was alright but exploring the massive and beautiful islands while planning out how to clear out outposts was just fantastic. I'd wingsuit into the dying sunset to replay this beauty. 
-![Far Cry 3](/assets/img/blog/video-games/far-cry-3.jpg)
+![Far Cry 3](/assets/img/blog/video-games/far-cry-3.webp)
 
 ### 10. Burnout Paradise
 Arcade racer of the century, enough with the competition, I'm here to takedown cars and burnout baby. The world was absolutely massive and the variety in the gameplay as well as exploration leaves me wishing they would remaster this classic.

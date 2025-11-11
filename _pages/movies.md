@@ -12,7 +12,7 @@ permalink: "/movies/"
 <div class="movie-container">
 
     <div class="movie-image">
-        <img src="/assets/img/movies/{{ movie[1].image }}.jpg"/>
+        <img src="/assets/img/movies/{{ movie[1].image }}.webp"/>
     </div>
 
     <div class="movie-content">

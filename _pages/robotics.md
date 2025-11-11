@@ -14,7 +14,7 @@ This project is interfaced with a software gui over the internet or via adhoc wi
 
 <br>
 
-![robotics-1](/assets/img/portfolio/robotics/robotics-1.jpg)
+![robotics-1](/assets/img/portfolio/robotics/robotics-1.webp)
 
 <br>
 
@@ -22,9 +22,9 @@ This project is interfaced with a software gui over the internet or via adhoc wi
 The structure of this robot is based around the Southeastcon 2019 design paraeters. It was CAD'd in Onshape and the frame was laser cut with spare acryllic. The timing belt pulleys were 3D printed to ensure locking fits on teh bearings and keyed to fit the motor.
 ![robotics-2](/assets/img/portfolio/robotics/robotics-2.png)
 ![robotics-3](/assets/img/portfolio/robotics/robotics-3.png)
-![robotics-4](/assets/img/portfolio/robotics/robotics-4.jpg)
-![robotics-5](/assets/img/portfolio/robotics/robotics-5.jpg)
-![robotics-6](/assets/img/portfolio/robotics/robotics-6.jpg)
+![robotics-4](/assets/img/portfolio/robotics/robotics-4.webp)
+![robotics-5](/assets/img/portfolio/robotics/robotics-5.webp)
+![robotics-6](/assets/img/portfolio/robotics/robotics-6.webp)
 
 <br>
 

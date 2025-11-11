@@ -36,7 +36,7 @@ This project is interfaced with a software gui over the internet or via adhoc wi
 
 <br>
 
-![robotics-1](/assets/img/portfolio/robotics/robotics-1.jpg)
+![robotics-1](/assets/img/portfolio/robotics/robotics-1.webp)
 
 <br>
 
@@ -47,11 +47,11 @@ The structure of this robot is based around the Southeastcon 2019 design paraete
 <br>
 ![robotics-3](/assets/img/portfolio/robotics/robotics-3.png)
 <br>
-![robotics-4](/assets/img/portfolio/robotics/robotics-4.jpg)
+![robotics-4](/assets/img/portfolio/robotics/robotics-4.webp)
 <br>
-![robotics-6](/assets/img/portfolio/robotics/robotics-6.jpg)
+![robotics-6](/assets/img/portfolio/robotics/robotics-6.webp)
 <br>
-![robotics-5](/assets/img/portfolio/robotics/robotics-5.jpg)
+![robotics-5](/assets/img/portfolio/robotics/robotics-5.webp)
 
 <br>
 

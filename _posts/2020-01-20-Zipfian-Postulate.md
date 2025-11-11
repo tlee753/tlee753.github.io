@@ -4,7 +4,7 @@ title: Zipfian Postulate
 date: 2020-01-20 12:00
 tags: fun
 category: Fun
-thumbnail: ../blog/zipf.jpg
+thumbnail: ../blog/zipf.webp
 ---
 
 # Zipfian Postulate

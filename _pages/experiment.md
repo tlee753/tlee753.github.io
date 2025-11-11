@@ -31,23 +31,23 @@ permalink: "/experiment/"
 
 | A |
 | - |
-| ![A](/assets/img/experiment/a.jpg) |
+| ![A](/assets/img/experiment/a.webp) |
 
 | B |
 | - |
-| ![B](/assets/img/experiment/b.jpg) |
+| ![B](/assets/img/experiment/b.webp) |
 
 | C |
 | - |
-| ![C](/assets/img/experiment/c.jpg) |
+| ![C](/assets/img/experiment/c.webp) |
 
 | D |
 | - |
-| ![D](/assets/img/experiment/d.jpg) |
+| ![D](/assets/img/experiment/d.webp) |
 
 | E |
 | - |
-| ![E](/assets/img/experiment/e.jpg) |
+| ![E](/assets/img/experiment/e.webp) |
 
 | F |
 | - |
@@ -55,15 +55,15 @@ permalink: "/experiment/"
 
 | G |
 | - |
-| ![G](/assets/img/experiment/g.jpg) |
+| ![G](/assets/img/experiment/g.webp) |
 
 | H |
 | - |
-| ![H](/assets/img/experiment/h.jpg) |
+| ![H](/assets/img/experiment/h.webp) |
 
 | I |
 | - |
-| ![I](/assets/img/experiment/i.jpg) |
+| ![I](/assets/img/experiment/i.webp) |
 
 | J |
 | - |
@@ -71,11 +71,11 @@ permalink: "/experiment/"
 
 | K |
 | - |
-| ![K](/assets/img/experiment/k.jpg) |
+| ![K](/assets/img/experiment/k.webp) |
 
 | L |
 | - |
-| ![L](/assets/img/experiment/l.jpg) |
+| ![L](/assets/img/experiment/l.webp) |
 
 ---
 

@@ -4,7 +4,7 @@ title: Keyboard Shortcuts
 date: 2019-11-03 12:00
 tags: tech
 category: Tech
-thumbnail: ../blog/keyboard.jpg
+thumbnail: ../blog/keyboard.webp
 ---
 
 # Keyboard Shortcuts

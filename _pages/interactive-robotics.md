@@ -34,6 +34,6 @@ Research Findings
 <br>
 ![Gazebo](/assets/img/portfolio/interactive-robotics/gazebo.png)
 <br>
-![Robot](/assets/img/portfolio/interactive-robotics/robot.jpg)
+![Robot](/assets/img/portfolio/interactive-robotics/robot.webp)
 <br>
-![Terminal](/assets/img/portfolio/interactive-robotics/terminal.jpg)
+![Terminal](/assets/img/portfolio/interactive-robotics/terminal.webp)

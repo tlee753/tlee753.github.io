@@ -31,7 +31,7 @@ Project Link
 ![D3 3](/assets/img/portfolio/school-projects/d3-3.png)
 
 ### Robotic Path Planning
-![RRT](/assets/img/portfolio/school-projects/rrt.jpg)
+![RRT](/assets/img/portfolio/school-projects/rrt.webp)
 <br>
 
 <video width="100%" controls>

@@ -4,11 +4,11 @@ title: Amsterdam
 date: 2017-03-10 12:00
 tags: travel
 category: Netherlands
-thumbnail: Netherlands/Amsterdam/slider.jpg
+thumbnail: Netherlands/Amsterdam/slider.webp
 ---
 
 # Amsterdam
 
 {% for i in (1..30) %}
-![Amsterdam-{{i}}](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-{{i}}.JPG)
+![Amsterdam-{{i}}](/assets/img/travel/Netherlands/Amsterdam/Amsterdam-{{i}}.webp)
 {% endfor %}

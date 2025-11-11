@@ -32,4 +32,4 @@ Rack Design (16U based)
 ![Structure Diagram](/assets/img/portfolio/homelab/server.png)
 
 Early Development Server Concept
-![Network Diagram](/assets/img/portfolio/homelab/network.jpg)
+![Network Diagram](/assets/img/portfolio/homelab/network.webp)

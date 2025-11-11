@@ -4,7 +4,7 @@ title: Ranking Star Wars Movies
 date: 2019-12-20 12:00
 tags: movies
 category: Movies
-thumbnail: ../blog/stormtrooper.jpg
+thumbnail: ../blog/stormtrooper.webp
 ---
 
 <br>

@@ -91,4 +91,4 @@ permalink: "/bucket/"
 - [ ] Rebuild a 1969 Mustang Mach 1, Black with Silver Chrome :)
 <br><br>
 
-![mustang](/assets/img/collection/bucket/mustang.jpg)
+![mustang](/assets/img/collection/bucket/mustang.webp)

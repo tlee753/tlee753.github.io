@@ -282,13 +282,13 @@ This is the fun part, I really believe in lowering barriers to entry and while t
 
 <br>
 Rocket Core, as configured for high alitutde balloon flight
-![Rocket Core](/assets/img/portfolio/rocket-core/build-1.jpg)
+![Rocket Core](/assets/img/portfolio/rocket-core/build-1.webp)
 <br>
 Early Flight Stack Concept, using a pi zero for processing
-![Flight Stack](/assets/img/portfolio/vape/flight-stack.jpg)
+![Flight Stack](/assets/img/portfolio/vape/flight-stack.webp)
 <br>
 Goddard's Pi Satellite "Dev Kit" using a Pi Compute Module, Rasbperry Pi 40 pin header, and a fairly standard satellite PC 104 stackable bus
-![Pi Sat](/assets/img/portfolio/vape/pi-sat.jpg)
+![Pi Sat](/assets/img/portfolio/vape/pi-sat.webp)
 <br>
 
 ### Conclusion

@@ -4,7 +4,7 @@ title: OS Comparison
 date: 2020-02-05 12:00
 tags: tech
 category: Tech
-thumbnail: ../blog/os-comparison.jpg
+thumbnail: ../blog/os-comparison.webp
 ---
 
 <style>

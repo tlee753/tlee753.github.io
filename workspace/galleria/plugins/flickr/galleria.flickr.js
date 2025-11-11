@@ -225,7 +225,7 @@ Galleria.Flickr.prototype = {
         } else if ( parseInt( photo.width_o, 10 ) > 1280 ) {
 
             return 'https://farm'+photo.farm + '.static.flickr.com/'+photo.server +
-                '/' + photo.id + '_' + photo.secret + '_b.jpg';
+                '/' + photo.id + '_' + photo.secret + '_b.webp';
         }
 
         return photo.url_o || photo.url_z || photo.url_m;

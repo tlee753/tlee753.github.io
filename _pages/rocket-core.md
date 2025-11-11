@@ -27,7 +27,7 @@ The rocket core is the brain of the rocket, specially designed to be as light as
 <br><br>
 
 ### Schematic
-![Schematic](/assets/img/portfolio/rocket-core/schematic.jpg)
+![Schematic](/assets/img/portfolio/rocket-core/schematic.webp)
 <br>
 
 ### PCB Design
@@ -44,23 +44,23 @@ Silk Screen
 ### Rapid Prototype
 To get a true understanding of my dimensioning, I (extremely) quickly fabricated a prototype, a concept I've used many times to help shake out any simple ideas or problems I might be overlooking. In this case, I can tell my rocket's outer diameter can be shrunken down (better for rocket aerodynamics). 
 <br> 
-![Prototype](/assets/img/portfolio/rocket-core/prototype.jpg)
+![Prototype](/assets/img/portfolio/rocket-core/prototype.webp)
 <br>
 
 ### Completed Electronics Build
 Here is the completed laser etched board with sensors/radios attached and working.
 <br>
-![Build 1](/assets/img/portfolio/rocket-core/build-1.jpg)
+![Build 1](/assets/img/portfolio/rocket-core/build-1.webp)
 <br>
-![Build 2](/assets/img/portfolio/rocket-core/build-2.jpg)
+![Build 2](/assets/img/portfolio/rocket-core/build-2.webp)
 <br>
 
 ### Radio Transmission Test
 Radio transmission testing using software defined radio (SDR) to ensure packets are being broadcast
-![Radio 1](/assets/img/portfolio/rocket-core/radio-1.jpg)
+![Radio 1](/assets/img/portfolio/rocket-core/radio-1.webp)
 <br>
 Transmit/Receive test between ground station and rocket core
-![Radio 2](/assets/img/portfolio/rocket-core/radio-2.jpg)
+![Radio 2](/assets/img/portfolio/rocket-core/radio-2.webp)
 <br>
 
 

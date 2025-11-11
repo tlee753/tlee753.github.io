@@ -4,7 +4,7 @@ title: Valparaiso
 date: 2016-06-27 16:00:00
 tags: travel
 category: Chile
-thumbnail: Chile/Valparaiso/slider.jpg
+thumbnail: Chile/Valparaiso/slider.webp
 ---
 
 
@@ -17,5 +17,5 @@ Known as one of the most colorful places in the world, Valparaiso looks like a p
 ---
 
 {% for i in (1..6) %}
-![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-{{i}}.JPG)
+![Vaparaiso](/assets/img/travel/Chile/Valparaiso/Valparaiso-{{i}}.webp)
 {% endfor %}

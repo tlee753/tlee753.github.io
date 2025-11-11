@@ -27,9 +27,9 @@ I also just wanted to create a static web demo that anyone could use to easily m
 <br>
 
 <h3>Version 1 (Yahoo Finance)</h3>
-![Version 1](/assets/img/portfolio/stock-dashboard/version-1.jpg)
+![Version 1](/assets/img/portfolio/stock-dashboard/version-1.webp)
 
 <br>
 
 <h3>Version 2 (IEX Trader)</h3>
-![Version 2](/assets/img/portfolio/stock-dashboard/version-2.jpg)
+![Version 2](/assets/img/portfolio/stock-dashboard/version-2.webp)

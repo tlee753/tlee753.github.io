@@ -16,4 +16,4 @@ Site in Progress
 
 <br>
 
-![Home Page](/assets/img/portfolio/finance-club/background.jpg)
+![Home Page](/assets/img/portfolio/finance-club/background.webp)

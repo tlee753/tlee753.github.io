@@ -19,11 +19,11 @@ I did the development in python (v3.5) for cross platform functionality combined
 
 <br>
 Linux, before background removal. 
-![Linux](/assets/img/portfolio/image-manipulation/Linux.jpg)
+![Linux](/assets/img/portfolio/image-manipulation/Linux.webp)
 
 <br>
 Mac, after background removal.
-![Mac](/assets/img/portfolio/image-manipulation/Mac.jpg)
+![Mac](/assets/img/portfolio/image-manipulation/Mac.webp)
 
 <br>
 
@@ -35,7 +35,7 @@ Slightly more recent project to transform images into a discrete gradient betwee
 <br><br>
 
 Initial Image
-![Initial Image](/assets/img/portfolio/image-manipulation/profile.jpg)
+![Initial Image](/assets/img/portfolio/image-manipulation/profile.webp)
 <br>
 Shifted Image
-![Shifted Image](/assets/img/portfolio/image-manipulation/profile-shifted.jpg)
+![Shifted Image](/assets/img/portfolio/image-manipulation/profile-shifted.webp)

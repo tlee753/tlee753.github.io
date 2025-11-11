@@ -4,7 +4,7 @@ title: Spiraling Particles
 date: 2020-01-12 12:00
 tags: fun
 category: Fun
-thumbnail: ../blog/spiral.jpg
+thumbnail: ../blog/spiral.webp
 ---
 
 

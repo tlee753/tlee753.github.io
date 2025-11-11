@@ -8,7 +8,7 @@ permalink: "/about/"
 <ul class="post-list">
     {% for interest in site.data.settings.interests %}
         <a class="post-link" href="{{ interest.link }}">
-            <div class="post-block" style="background-image: url(/assets/img/collection/{{ interest.folder }}/display.jpg)">
+            <div class="post-block" style="background-image: url(/assets/img/collection/{{ interest.folder }}/display.webp)">
                 <div class="post-overlay">
                     <div class="post-block-content">
                         <h2>{{ interest.name }}</h2>

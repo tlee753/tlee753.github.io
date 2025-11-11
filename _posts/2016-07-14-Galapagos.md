@@ -4,7 +4,7 @@ title: Galapagos Islands
 date: 2016-07-14 12:00:00
 tags: travel
 category: Ecuador
-thumbnail: Ecuador/Galapagos/slider.jpg
+thumbnail: Ecuador/Galapagos/slider.webp
 ---
 
 
@@ -17,5 +17,5 @@ From tropical penguins to the center of volcanoes, our group adventured across t
 ---
 
 {% for i in (1..16) %}
-![Galapagos-{{i}}](/assets/img/travel/Ecuador/Galapagos/Galapagos-{{i}}.jpg)
+![Galapagos-{{i}}](/assets/img/travel/Ecuador/Galapagos/Galapagos-{{i}}.webp)
 {% endfor %}

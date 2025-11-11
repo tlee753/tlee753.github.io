@@ -21,9 +21,9 @@ Android Beta Build
 
 ### Ideation
 <br>
-![Map](/assets/img/portfolio/awol/map.jpg)
+![Map](/assets/img/portfolio/awol/map.webp)
 <br>
-![Planner](/assets/img/portfolio/awol/planner.jpg)
+![Planner](/assets/img/portfolio/awol/planner.webp)
 
 <br>
 
@@ -31,9 +31,9 @@ Android Beta Build
 Game development is underway in Unity with iOS as the initial targeted platform...
 
 <br>
-![Mock Up](/assets/img/portfolio/awol/mockup.jpg)
+![Mock Up](/assets/img/portfolio/awol/mockup.webp)
 <br>
-![Notes](/assets/img/portfolio/awol/notes.jpg)
+![Notes](/assets/img/portfolio/awol/notes.webp)
 <br>
 
 ### Video Demo 1

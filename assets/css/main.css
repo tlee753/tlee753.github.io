@@ -606,7 +606,7 @@ td {
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  background-image: url(/assets/img/headshot.jpg);
+  background-image: url(/assets/img/headshot.webp);
   background-size: cover;
 }
 #about .about-content [class^=about-item] {
@@ -1084,7 +1084,7 @@ header .header-content .kicker {
 }
 #profile #profile-background {
   position: fixed;
-  background-image: url(/assets/img/travel/Switzerland/Geneva/Geneva-43.jpg);
+  background-image: url(/assets/img/travel/Switzerland/Geneva/Geneva-43.webp);
   background-position: 70% center;
   background-size: cover;
   height: 100vh;

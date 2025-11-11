@@ -51,11 +51,11 @@ Github
     new WAFScreenShotter(<WEBDRIVER>, "<PICTURE NAME>");
     // takes picture of current page and puts it current directory
     ```
-- do not add a file extension to the picture name argument, a `.jpg` is automatically added
+- do not add a file extension to the picture name argument, a `.webp` is automatically added
 - if you already have a `WAFScreenShotter` object you can simply use the `.takeScreenshot()` method to take another screenshot
     ```java
     myWAFScreenShotter.takeScreenshot(driver, "example");
-    // takes picture and places "example.jpg" in current directory
+    // takes picture and places "example.webp" in current directory
     ```
 
 #### File Downloads
@@ -167,11 +167,11 @@ javac -cp .:res/* *.java
 ```
 - `make clean` runs the following command:
 ```bash
-rm -rf test-output *Files* *.class util/*.class *.zip *.png *.jpg
+rm -rf test-output *Files* *.class util/*.class *.zip *.png *.webp
 ```
 - `make superclean` runs the following command:
 ```bash
-rm -rf test-output *Files* *.class util/*.class *.zip *.png *.jpg *.pdf docs/*.pdf *.xml
+rm -rf test-output *Files* *.class util/*.class *.zip *.png *.webp *.pdf docs/*.pdf *.xml
 ```
 
 <br>

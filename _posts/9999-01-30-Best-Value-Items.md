@@ -4,7 +4,7 @@ title: School Entertainment
 date: 2020-01-30 12:00
 tags: fun
 category: Fun
-thumbnail: ../blog/school-entertainment.jpg
+thumbnail: ../blog/school-entertainment.webp
 published: false
 ---
 

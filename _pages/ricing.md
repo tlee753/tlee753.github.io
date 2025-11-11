@@ -38,8 +38,8 @@ Wallpapers
 
 <br>
 
-![Red](/assets/img/portfolio/ricing/red.jpg)
+![Red](/assets/img/portfolio/ricing/red.webp)
 <br>
-![Green](/assets/img/portfolio/ricing/green.jpg)
+![Green](/assets/img/portfolio/ricing/green.webp)
 <br>
-![Blue](/assets/img/portfolio/ricing/blue.jpg)
+![Blue](/assets/img/portfolio/ricing/blue.webp)

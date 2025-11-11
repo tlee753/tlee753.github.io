@@ -1,6 +1,6 @@
 function borderMaker ()
 % function to create  pixel border around an image
-% works with .jpg's and .png's (including png transparency)
+% works with .webp's and .png's (including png transparency)
 
 imageFile = input('File name? (In same directory)\n', 's');
 borderSize = input('Border size? (Specify a number of pixels)\n');
@@ -18,8 +18,8 @@ horzArray = 255 * ones(rows + 2*borderSize, borderSize);
 horzBorder = cat(3, horzArray, horzArray, horzArray);
 img = [horzBorder, img, horzBorder];
 
-if (strcmp(imageFile(end-3:end), '.jpg'))
-    newImageName = [imageFile(1:end-4), '_border.jpg'];
+if (strcmp(imageFile(end-3:end), '.webp'))
+    newImageName = [imageFile(1:end-4), '_border.webp'];
     imwrite(img, newImageName);
     
 elseif (strcmp(imageFile(end-3:end), '.png'))

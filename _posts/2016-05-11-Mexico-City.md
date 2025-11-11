@@ -4,7 +4,7 @@ title: Mexico City
 date: 2016-05-11 12:00:00
 tags: travel
 category: Mexico
-thumbnail: Mexico/Mexico%20City/slider.jpg
+thumbnail: Mexico/Mexico%20City/slider.webp
 ---
 
 
@@ -17,5 +17,5 @@ I lived with one the finest families in Mexico for 6 weeks, learning the languag
 ---
 
 {% for i in (1..30) %}
-![Mexico City-{{i}}](/assets/img/travel/Mexico/Mexico City/Mexico-City-{{i}}.JPG)
+![Mexico City-{{i}}](/assets/img/travel/Mexico/Mexico City/Mexico-City-{{i}}.webp)
 {% endfor %}

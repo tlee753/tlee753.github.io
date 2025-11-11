@@ -15,4 +15,4 @@ The program works via creating a Bluetooth connection to the Wii board and using
 
 <br>
 
-![Vestibular Balance](/assets/img/portfolio/vestibular-balance/background.jpg)
+![Vestibular Balance](/assets/img/portfolio/vestibular-balance/background.webp)

@@ -29,7 +29,7 @@ Github
 
 <br>
 
-![Mock Up](/assets/img/portfolio/lifestyle-budget/background.jpg)
+![Mock Up](/assets/img/portfolio/lifestyle-budget/background.webp)
 
 <br>
 

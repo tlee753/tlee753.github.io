@@ -15,7 +15,7 @@ This is a little scientific experiment I've been meaning to pull off for awhile 
 Launching involved overcoming quite a few of last minute challenges, but fortunately I finally achieved the ascent rate I planned around.
 
 <br>
-![Takeoff](/assets/img/portfolio/hab/takeoff.jpg)
+![Takeoff](/assets/img/portfolio/hab/takeoff.webp)
 
 <br>
 
@@ -25,7 +25,7 @@ One of the most difficult parts of the planning and operations phases is the tra
 <br>
 ![Planning](/assets/img/portfolio/hab/planning.png)
 <br>
-![Tracking](/assets/img/portfolio/hab/tracking-1.jpg)
+![Tracking](/assets/img/portfolio/hab/tracking-1.webp)
 <br>
 ![Tracking](/assets/img/portfolio/hab/tracking-2.png)
 <br>
@@ -37,12 +37,12 @@ One of the most difficult parts of the planning and operations phases is the tra
 While searching for hours, we did not find the balloon on the launch day due to the GPS landing upside down. As luck would have it, the balloon landed on the property of an extremely kind individual who followed the instructions I had taped to the side. One more long drive later and I had my equipment back.
 
 <br>
-![Landing](/assets/img/portfolio/hab/landing.jpg)
+![Landing](/assets/img/portfolio/hab/landing.webp)
 
 <br>
 
 It was a lot of driving, but I'm glad I got to see some of the more beautiful parts of rural Georgia.
-![Sunset](/assets/img/portfolio/hab/sunset.jpg)
+![Sunset](/assets/img/portfolio/hab/sunset.webp)
 
 <br>
 
@@ -52,7 +52,7 @@ Given a weight problem, I had to remove a battery that would have sustained the 
 <br>
 
 Downward View
-![Bottom](/assets/img/portfolio/hab/bottom.jpg)
+![Bottom](/assets/img/portfolio/hab/bottom.webp)
 
 <br>
 

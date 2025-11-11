@@ -4,7 +4,7 @@ title: Cartoons and Comics
 date: 2019-12-28 12:00
 tags: fun
 category: Fun
-thumbnail: ../blog/tom-and-jerry.jpg
+thumbnail: ../blog/tom-and-jerry.webp
 ---
 
 
@@ -42,4 +42,4 @@ Suess really works wonders on an open canvas to illustrate morals to children: s
 
 ### 5. Garfield
 The cynical cat that still appreciates the simple things in life, namely lasagna. Garfield seems like one of us, wanting to sleep in, eat, thinking all kinds of sly thoughts without speaking them, and to me, demonstrates that its alright to be a little laid back and enjoy life.
-![Garfield](/assets/img/blog/cartoons/garfield-1.jpg)
+![Garfield](/assets/img/blog/cartoons/garfield-1.webp)
