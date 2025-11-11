@@ -167,11 +167,11 @@ javac -cp .:res/* *.java
 ```
 - `make clean` runs the following command:
 ```bash
-rm -rf test-output *Files* *.class util/*.class *.zip *.png *.webp
+rm -rf test-output *Files* *.class util/*.class *.zip *.png *.jpg
 ```
 - `make superclean` runs the following command:
 ```bash
-rm -rf test-output *Files* *.class util/*.class *.zip *.png *.webp *.pdf docs/*.pdf *.xml
+rm -rf test-output *Files* *.class util/*.class *.zip *.png *.jpg *.pdf docs/*.pdf *.xml
 ```
 
 <br>
