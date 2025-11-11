@@ -31,7 +31,7 @@ Mac, after background removal.
 Slightly more recent project to transform images into a discrete gradient between two colors (with maybe a base background as well). Just a fun idea I was messing around with in my head to see if I can clean up some grainy images and make a cool, psuedo-low poly image effect.
 
 <br>
-<a class="button" href="https://github.com/tlee753/image-manipulation">Github</a>
+<a class="button" href="https://github.com/tlee753/color-shifter">Github</a>
 <br><br>
 
 Initial Image

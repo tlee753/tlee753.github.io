@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
 #work .work-container .work-unit:hover .work-overlay {
   -webkit-animation: animation 750ms linear both;
   animation: animation 750ms linear both;
@@ -163,22 +162,10 @@
   }
 }
 @font-face {
-  font-family: "Century Gothic";
-  font-style: normal;
-  font-weight: 400;
-  src: local("Century Gothic"), url(/assets/fonts/century-gothic.ttf) format("truetype");
-}
-@font-face {
-  font-family: "Century Gothic";
-  font-style: normal;
-  font-weight: 700;
-  src: url(/assets/fonts/century-gothic-bold.ttf) format("truetype");
-}
-@font-face {
-  font-family: "Century Gothic";
-  font-style: italic;
-  font-weight: 400;
-  src: url(/assets/fonts/century-gothic-italic.ttf) format("truetype");
+  font-family: "Lexend";
+  font-optical-sizing: auto;
+  font-weight: 100 900;
+  src: url(/assets/fonts/lexend.ttf) format("truetype");
 }
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -758,8 +745,9 @@ ul.breadcrumb li a:hover {
 }
 footer {
   border-top: 10px solid #00FFAF;
+  border-bottom: 10px solid #00FFAF;
   border-radius: 5px;
-  height: 200px;
+  height: 150px;
   background-color: #000000;
   background-size: cover;
   background-position: 50% 75%;
@@ -767,7 +755,7 @@ footer {
   -moz-background-size: cover;
   -o-background-size: cover;
   display: flex;
-  margin: 0 auto;
+  margin: 20px auto 0;
 }
 footer #footer-content {
   margin: 40px auto;
@@ -793,7 +781,7 @@ footer #footer-content #copyright {
 header {
   position: relative;
   background-color: #000000;
-  background-image: url(/assets/img/header/header.jpg);
+  background-image: url(/assets/img/header/header.png);
   background-size: cover;
   background-position: 30% center;
   background-repeat: no-repeat;
