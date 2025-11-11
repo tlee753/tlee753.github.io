@@ -536,6 +536,16 @@ table {
   border-spacing: 4px;
 }
 
+.rouge-table .code {
+  padding: 0;
+}
+.rouge-table .gutter {
+  padding: 0;
+}
+.rouge-table pre {
+  margin: 0;
+}
+
 td, th {
   padding: 10px;
   border-radius: 5px;
