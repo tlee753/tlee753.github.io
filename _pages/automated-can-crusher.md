@@ -25,7 +25,7 @@ Project Brief
 </a>
 
 <br>
-![Can Crusher 1](/assets/img/portfolio/automated-can-crusher/can-crusher-1.png)
+![Can Crusher 1](/assets/img/portfolio/automated-can-crusher/can-crusher-1.webp)
 <br>
 ![Can Crusher 2](/assets/img/portfolio/automated-can-crusher/can-crusher-2.webp)
 <br>

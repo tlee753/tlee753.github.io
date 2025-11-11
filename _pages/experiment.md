@@ -51,7 +51,7 @@ permalink: "/experiment/"
 
 | F |
 | - |
-| ![F](/assets/img/experiment/f.png) |
+| ![F](/assets/img/experiment/f.webp) |
 
 | G |
 | - |
@@ -67,7 +67,7 @@ permalink: "/experiment/"
 
 | J |
 | - |
-| ![J](/assets/img/experiment/j.png) |
+| ![J](/assets/img/experiment/j.webp) |
 
 | K |
 | - |

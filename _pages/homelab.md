@@ -29,7 +29,7 @@ The answer is different for everyone but for me its a mixture of functionality a
 <br>
 
 Rack Design (16U based)
-![Structure Diagram](/assets/img/portfolio/homelab/server.png)
+![Structure Diagram](/assets/img/portfolio/homelab/server.webp)
 
 Early Development Server Concept
 ![Network Diagram](/assets/img/portfolio/homelab/network.webp)

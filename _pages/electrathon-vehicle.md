@@ -39,6 +39,6 @@ Project Report
 As an "electic gearhead" I've been interested in new technology and developing a more efficient (and powerful) vehicle. I pulled some motors of old donated electric scooters, with a little time and some more welding, I'll hopefully have a modern day, ultrafast "Mario Kart Racer". In the mean time, here are some concept models I've CADed up.
 
 <br>
-![Next Gen 1](/assets/img/portfolio/electrathon-vehicle/new-gen-1.png)
+![Next Gen 1](/assets/img/portfolio/electrathon-vehicle/new-gen-1.webp)
 <br>
-![Next Gen 2](/assets/img/portfolio/electrathon-vehicle/new-gen-2.png)
+![Next Gen 2](/assets/img/portfolio/electrathon-vehicle/new-gen-2.webp)

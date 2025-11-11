@@ -8,15 +8,15 @@ progress: 100
 
 
 ### SQL/PHP Database with Session Mangaement
-![Database 1](/assets/img/portfolio/school-projects/database-1.png)
+![Database 1](/assets/img/portfolio/school-projects/database-1.webp)
 <br>
-![Database 2](/assets/img/portfolio/school-projects/database-2.png)
+![Database 2](/assets/img/portfolio/school-projects/database-2.webp)
 <br>
-<!-- ![Datbase 3](/assets/img/portfolio/school-projects/database-3.png)
+<!-- ![Datbase 3](/assets/img/portfolio/school-projects/database-3.webp)
 <br> -->
-![Database 4](/assets/img/portfolio/school-projects/database-4.png)
+![Database 4](/assets/img/portfolio/school-projects/database-4.webp)
 <br>
-![Database 5](/assets/img/portfolio/school-projects/database-5.png)
+![Database 5](/assets/img/portfolio/school-projects/database-5.webp)
 <br>
 
 ### Interactive D3
@@ -24,11 +24,11 @@ progress: 100
 Project Link
 </a>
 
-![D3 1](/assets/img/portfolio/school-projects/d3-1.png)
+![D3 1](/assets/img/portfolio/school-projects/d3-1.webp)
 <br>
-![D3 2](/assets/img/portfolio/school-projects/d3-2.png)
+![D3 2](/assets/img/portfolio/school-projects/d3-2.webp)
 <br>
-![D3 3](/assets/img/portfolio/school-projects/d3-3.png)
+![D3 3](/assets/img/portfolio/school-projects/d3-3.webp)
 
 ### Robotic Path Planning
 ![RRT](/assets/img/portfolio/school-projects/rrt.webp)

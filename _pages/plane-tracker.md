@@ -11,13 +11,13 @@ The idea behind this project was to make a radio controlled, controllable camera
 # Mock 1
 
 ### Designing
-![Mock 1 CAD 1](/assets/img/portfolio/plane-tracker/mock-1-cad-1.png)
+![Mock 1 CAD 1](/assets/img/portfolio/plane-tracker/mock-1-cad-1.webp)
 <br>
-![Mock 1 CAD 2](/assets/img/portfolio/plane-tracker/mock-1-cad-2.png)
+![Mock 1 CAD 2](/assets/img/portfolio/plane-tracker/mock-1-cad-2.webp)
 <br>
-![Mock 1 CAD 3](/assets/img/portfolio/plane-tracker/mock-1-cad-4.png)
+![Mock 1 CAD 3](/assets/img/portfolio/plane-tracker/mock-1-cad-4.webp)
 <br>
-![Mock 1 CAD 4](/assets/img/portfolio/plane-tracker/mock-1-cad-3.png)
+![Mock 1 CAD 4](/assets/img/portfolio/plane-tracker/mock-1-cad-3.webp)
 
 <br>
 
@@ -43,24 +43,24 @@ The idea behind this project was to make a radio controlled, controllable camera
 # Mock 2
 
 ### Designing
-![Mock 2 CAD 1](/assets/img/portfolio/plane-tracker/mock-2-cad-1.png)
+![Mock 2 CAD 1](/assets/img/portfolio/plane-tracker/mock-2-cad-1.webp)
 <br>
 ![Mock 2 CAD 1](/assets/img/portfolio/plane-tracker/mock-2-build-1.webp)
 
 <br>
 
 ### Captures
-![Mock 2 Landing](/assets/img/portfolio/plane-tracker/mock-2-landing.png)
+![Mock 2 Landing](/assets/img/portfolio/plane-tracker/mock-2-landing.webp)
 <br>
-![Mock 2 Airborne](/assets/img/portfolio/plane-tracker/mock-2-airborne.png)
+![Mock 2 Airborne](/assets/img/portfolio/plane-tracker/mock-2-airborne.webp)
 
 <br>
 ### Video Capture Networked Dashboard
-![Mock 2 Dash](/assets/img/portfolio/plane-tracker/mock-2-dash.png)
+![Mock 2 Dash](/assets/img/portfolio/plane-tracker/mock-2-dash.webp)
 
 <br>
 
 ### Presentation
-![Mock 2 Graph](/assets/img/portfolio/plane-tracker/mock-2-graph.png)
+![Mock 2 Graph](/assets/img/portfolio/plane-tracker/mock-2-graph.webp)
 <br>
-![Mock 2 Poster](/assets/img/portfolio/plane-tracker/mock-2-poster.png)
+![Mock 2 Poster](/assets/img/portfolio/plane-tracker/mock-2-poster.webp)

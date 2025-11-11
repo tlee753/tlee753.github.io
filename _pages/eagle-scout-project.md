@@ -72,13 +72,13 @@ Eagle Scout Project Appendicies
 </a>
 
 <br>
-![Eagle 1](/assets/img/portfolio/eagle-scout-project/eagle-1.png)
+![Eagle 1](/assets/img/portfolio/eagle-scout-project/eagle-1.webp)
 <br>
-![Eagle 2](/assets/img/portfolio/eagle-scout-project/eagle-2.png)
+![Eagle 2](/assets/img/portfolio/eagle-scout-project/eagle-2.webp)
 <br>
-![Eagle 3](/assets/img/portfolio/eagle-scout-project/eagle-3.png)
+![Eagle 3](/assets/img/portfolio/eagle-scout-project/eagle-3.webp)
 <br>
-![Eagle 4](/assets/img/portfolio/eagle-scout-project/eagle-4.png)
+![Eagle 4](/assets/img/portfolio/eagle-scout-project/eagle-4.webp)
 <br>
 ![Eagle 5](/assets/img/portfolio/eagle-scout-project/eagle-5.webp)
 <br>

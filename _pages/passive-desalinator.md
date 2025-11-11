@@ -38,4 +38,4 @@ OnShape CAD Model
 
 <br>
 
-![Model](/assets/img/portfolio/passive-desalinator/model_edited.png)
+![Model](/assets/img/portfolio/passive-desalinator/model_edited.webp)

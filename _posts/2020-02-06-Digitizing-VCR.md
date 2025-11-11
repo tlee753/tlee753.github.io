@@ -4,7 +4,7 @@ title: Digitizing VCR
 date: 2020-02-06 12:00
 tags: tech
 category: Tech
-thumbnail: ../blog/digitizing-vcr.png
+thumbnail: ../blog/digitizing-vcr.webp
 ---
 
 
@@ -13,7 +13,7 @@ At some point it became time to convert old family videos on VHS/VCR to digital,
 
 <br>
 
-![USB Stick](/assets/img/blog/digitizing-vcr/usb-stick.png)
+![USB Stick](/assets/img/blog/digitizing-vcr/usb-stick.webp)
 
 <br>
 

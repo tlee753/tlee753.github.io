@@ -121,11 +121,11 @@ Just a quick foray into Space Engine demonstrates how different the amount of li
 
 <br>
 Venus
-![Venus](/assets/img/portfolio/vape/venus.png)
+![Venus](/assets/img/portfolio/vape/venus.webp)
 
 <br>
 Mars
-![Mars](/assets/img/portfolio/vape/mars.png)
+![Mars](/assets/img/portfolio/vape/mars.webp)
 
 <br>
 
@@ -174,7 +174,7 @@ It wouldn't problem solving if I didn't start with researching what we do and do
 #### HAVOC
 NASA Goddard's proposal involves a two phase approach. First, a steerable robotic blimp makes its way to the Venusian atmosphere with a largely scientific payload to study the environmental conditions and prepare for the next phase which is sending humans in a much larger blimp. From here, the decision on colonization of our sister planet can be thoroughly evaluated.
 
-![HAVOC](/assets/img/portfolio/vape/havoc.png)
+![HAVOC](/assets/img/portfolio/vape/havoc.webp)
 <br>
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/0az7DEwG68A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -189,7 +189,7 @@ A sleeper in the space race, the Soviet exploration of Venus is mind numbingly i
 So based on the Soviet balloon payloads, I wanted to create a target model with similar bouyancy characteristics, meaning a similar volume. I also wanted to incorporate a mildly flat surface for solar panels so I decided on an elipsoid. Messing around with a few axial parameters in `vPython` I came up with the following as a satisfactory model.
 
 <br>
-![size comparison](/assets/img/portfolio/vape/size-comp.png)
+![size comparison](/assets/img/portfolio/vape/size-comp.webp)
 <br>
 
 `pip3 install vpython`
@@ -238,7 +238,7 @@ Once I had my shape, I used my favorite CAD tool to make a quick rendition of th
 
 <br>
 
-![CAD](/assets/img/portfolio/vape/cad.png)
+![CAD](/assets/img/portfolio/vape/cad.webp)
 
 <br>
 
@@ -252,16 +252,16 @@ As an astute colleague pointed out, I really don't have a baseline to compare my
 <br>
 
 Stream Trace
-![cfd 4](/assets/img/portfolio/vape/cfd-4.png)
+![cfd 4](/assets/img/portfolio/vape/cfd-4.webp)
 <br>
 Side View of velocity shows current predictably moves faster on top due to shorter path - bernoulli effect
-![cfd 5](/assets/img/portfolio/vape/cfd-5.png)
+![cfd 5](/assets/img/portfolio/vape/cfd-5.webp)
 <br>
 Forward facing mid-section cut of pressure showing high pressure on the nose and tubular payload.
-![cfd 6](/assets/img/portfolio/vape/cfd-6.png)
+![cfd 6](/assets/img/portfolio/vape/cfd-6.webp)
 <br>
 Top down view to mid-section cut of velocity shows some drag and current around "edge"
-![cfd 7](/assets/img/portfolio/vape/cfd-7.png)
+![cfd 7](/assets/img/portfolio/vape/cfd-7.webp)
 <br>
 
 

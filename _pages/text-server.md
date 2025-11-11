@@ -19,7 +19,7 @@ The idea behind this project is to create a modular, text message based informat
 <br>
 
 Ideation
-![Demo](/assets/img/portfolio/text-server/demo.png)
+![Demo](/assets/img/portfolio/text-server/demo.webp)
 
 <br>
 
@@ -46,12 +46,12 @@ Python/GoogleVoice/Docker Github
 
 Dockerized Flask Server
 <br>
-![Overview](/assets/img/portfolio/text-server/overview.png)
+![Overview](/assets/img/portfolio/text-server/overview.webp)
 <br>
-![Insight 1](/assets/img/portfolio/text-server/insight-1.png)
+![Insight 1](/assets/img/portfolio/text-server/insight-1.webp)
 <br>
-![Insight 2](/assets/img/portfolio/text-server/insight-2.png)
+![Insight 2](/assets/img/portfolio/text-server/insight-2.webp)
 <br>
-![Portainer](/assets/img/portfolio/text-server/portainer.png)
+![Portainer](/assets/img/portfolio/text-server/portainer.webp)
 <br>
-![Server](/assets/img/portfolio/text-server/server.png)
+![Server](/assets/img/portfolio/text-server/server.webp)

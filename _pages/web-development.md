@@ -25,12 +25,12 @@ Depricated Site I've Made
 
 ### Examples
 <br>
-![Browns Fan](/assets/img/portfolio/web-development/site-1.png)
+![Browns Fan](/assets/img/portfolio/web-development/site-1.webp)
 <br>
 ![CWP](/assets/img/portfolio/web-development/site-2.webp)
 <br>
-![UNICEF](/assets/img/portfolio/web-development/site-3.png)
+![UNICEF](/assets/img/portfolio/web-development/site-3.webp)
 <br>
-![Mira](/assets/img/portfolio/web-development/site-4.png)
+![Mira](/assets/img/portfolio/web-development/site-4.webp)
 <br>
-![Vestibular Aid](/assets/img/portfolio/web-development/vestibular-aid.png)
+![Vestibular Aid](/assets/img/portfolio/web-development/vestibular-aid.webp)

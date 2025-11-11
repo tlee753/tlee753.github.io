@@ -30,9 +30,9 @@ Research Findings
 
 <br>
 
-![ROS Tutorial](/assets/img/portfolio/interactive-robotics/tutorial.png)
+![ROS Tutorial](/assets/img/portfolio/interactive-robotics/tutorial.webp)
 <br>
-![Gazebo](/assets/img/portfolio/interactive-robotics/gazebo.png)
+![Gazebo](/assets/img/portfolio/interactive-robotics/gazebo.webp)
 <br>
 ![Robot](/assets/img/portfolio/interactive-robotics/robot.webp)
 <br>

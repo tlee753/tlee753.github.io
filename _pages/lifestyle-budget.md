@@ -33,4 +33,4 @@ Github
 
 <br>
 
-![Electron v0.1](/assets/img/portfolio/lifestyle-budget/electron-0.1.png)
+![Electron v0.1](/assets/img/portfolio/lifestyle-budget/electron-0.1.webp)

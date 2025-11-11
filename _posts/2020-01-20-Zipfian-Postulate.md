@@ -133,6 +133,6 @@ plt.show()
 ```
 
 #### Example Results
-![zipf-1](/assets/img/blog/zipf/zipf-1.png)
-![zipf-2](/assets/img/blog/zipf/zipf-2.png)
-![zipf-3](/assets/img/blog/zipf/zipf-3.png)
+![zipf-1](/assets/img/blog/zipf/zipf-1.webp)
+![zipf-2](/assets/img/blog/zipf/zipf-2.webp)
+![zipf-3](/assets/img/blog/zipf/zipf-3.webp)

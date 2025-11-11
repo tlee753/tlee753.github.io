@@ -17,9 +17,9 @@ This is a fairly involved project as it requires the building of model rockets, 
 
 ### Rocket Modeling
 The first step is designing a rocket that will meet my functional requirements given the weight of the rocket's payload while also being extremely reusable. Here I've created a preliminary mock up and run simulations to ensure I achieve at least the 1000 feet (with insurance) apogee I feel is neccessary to ensure probable likelyhood of capture.
-![Openrocket View](/assets/img/portfolio/rocket-core/openrocket-1.png)
+![Openrocket View](/assets/img/portfolio/rocket-core/openrocket-1.webp)
 <br>
-![Simulation](/assets/img/portfolio/rocket-core/openrocket-2.png)
+![Simulation](/assets/img/portfolio/rocket-core/openrocket-2.webp)
 <br>
 
 ### Rocket Core
@@ -32,13 +32,13 @@ The rocket core is the brain of the rocket, specially designed to be as light as
 
 ### PCB Design
 Top Layer
-![Top Layer](/assets/img/portfolio/rocket-core/pcb-0.png)
+![Top Layer](/assets/img/portfolio/rocket-core/pcb-0.webp)
 <br>
 Bottom Layer
-![Bottom Layer](/assets/img/portfolio/rocket-core/pcb-1.png)
+![Bottom Layer](/assets/img/portfolio/rocket-core/pcb-1.webp)
 <br>
 Silk Screen
-![Silk Screen](/assets/img/portfolio/rocket-core/pcb-2.png)
+![Silk Screen](/assets/img/portfolio/rocket-core/pcb-2.webp)
 <br>
 
 ### Rapid Prototype

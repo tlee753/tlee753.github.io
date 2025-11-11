@@ -15,4 +15,4 @@ So far I've only developed the radio packet transmission aspect as demonstrated 
 
 <br>
 
-![Packet](/assets/img/portfolio/drone-killer/packet.png)
+![Packet](/assets/img/portfolio/drone-killer/packet.webp)

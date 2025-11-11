@@ -187,12 +187,12 @@ print(model.predict(testX, batch_size=None, verbose=1, steps=None))
 
 <br>
 Output, showing above 95% accuracy
-![basics](/assets/img/portfolio/football-automute/basics.png)
+![basics](/assets/img/portfolio/football-automute/basics.webp)
 
 <br>
-![NFL MFCCS](/assets/img/portfolio/football-automute/nfl-mfccs.png)
+![NFL MFCCS](/assets/img/portfolio/football-automute/nfl-mfccs.webp)
 <br>
-![AD MFCCS](/assets/img/portfolio/football-automute/ad1-mfccs.png)
+![AD MFCCS](/assets/img/portfolio/football-automute/ad1-mfccs.webp)
 <br>
 
 ### Next steps

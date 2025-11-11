@@ -43,17 +43,17 @@ Onshape CAD Model
 ### Open Rocket Simulations
 ![Rocketry 1](/assets/img/portfolio/rocketry/rocketry-1.webp)
 <br>
-![Rocketry 7](/assets/img/portfolio/rocketry/rocketry-7.png)
+![Rocketry 7](/assets/img/portfolio/rocketry/rocketry-7.webp)
 <br>
 
 ### Avionics Design Planning
-![Rocketry 2](/assets/img/portfolio/rocketry/rocketry-2.png)
+![Rocketry 2](/assets/img/portfolio/rocketry/rocketry-2.webp)
 <br>
 
 ### Payload v1.1
-![Rocketry 3](/assets/img/portfolio/rocketry/rocketry-3.png)
+![Rocketry 3](/assets/img/portfolio/rocketry/rocketry-3.webp)
 <br>
-![Rocketry 4](/assets/img/portfolio/rocketry/rocketry-4.png)
+![Rocketry 4](/assets/img/portfolio/rocketry/rocketry-4.webp)
 <br>
 ![Rocketry 5](/assets/img/portfolio/rocketry/rocketry-5.webp)
 <br>
@@ -64,9 +64,9 @@ Onshape CAD Model
 
 
 ### Payload v3.0
-![Rocketry 8](/assets/img/portfolio/rocketry/rocketry-8.png)
+![Rocketry 8](/assets/img/portfolio/rocketry/rocketry-8.webp)
 <br>
-![Rocketry 9](/assets/img/portfolio/rocketry/rocketry-9.png)
+![Rocketry 9](/assets/img/portfolio/rocketry/rocketry-9.webp)
 <br>
 
 ### Assembley
@@ -82,6 +82,6 @@ Onshape CAD Model
 <br>
 
 ### Flight Pictures
-![Rocketry 10](/assets/img/portfolio/rocketry/rocketry-10.png)
+![Rocketry 10](/assets/img/portfolio/rocketry/rocketry-10.webp)
 <br>
-![Rocketry 11](/assets/img/portfolio/rocketry/rocketry-11.png)
+![Rocketry 11](/assets/img/portfolio/rocketry/rocketry-11.webp)

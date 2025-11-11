@@ -22,7 +22,7 @@ I still struggle to believe these came out in the 1940's, but they are nothing i
 
 ### 2. Calvin and Hobbes
 Just the vivid imagination of a child coming to life... the simplest objects can be incredibly complex, the only limit is how big you want to think.
-![Duplicator](/assets/img/blog/cartoons/duplicator.png)
+![Duplicator](/assets/img/blog/cartoons/duplicator.webp)
 
 ### 3. Pink Panther
 Comedy in every scenario you could imagine, Pink Panther bends every rule of reality in wild scenarios ranging from chasing inanimate objects to battles against man to exploring psychedelic dream worlds. I love that Pink sometimes wins, sometimes loses, but often just leaves the scene shrugging his shoulders and moving on a little wiser.

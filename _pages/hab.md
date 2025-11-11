@@ -23,13 +23,13 @@ Launching involved overcoming quite a few of last minute challenges, but fortuna
 One of the most difficult parts of the planning and operations phases is the tracking of the balloon. It is critical to avoid major airports and large bodies of water. I choose to launch from Yonah Mountain due to the weather patterns I saw over the course of several weeks and the distance from Hartsfield Jackson. I used several online predictors such as the one shown below as well as a few simple calculations to check, and wouldn't you know it the balloon flew almost precisely as predicted.
 
 <br>
-![Planning](/assets/img/portfolio/hab/planning.png)
+![Planning](/assets/img/portfolio/hab/planning.webp)
 <br>
 ![Tracking](/assets/img/portfolio/hab/tracking-1.webp)
 <br>
-![Tracking](/assets/img/portfolio/hab/tracking-2.png)
+![Tracking](/assets/img/portfolio/hab/tracking-2.webp)
 <br>
-![Tracking](/assets/img/portfolio/hab/tracking-3.png)
+![Tracking](/assets/img/portfolio/hab/tracking-3.webp)
 
 <br>
 
@@ -57,16 +57,16 @@ Downward View
 <br>
 
 Side View
-![Side](/assets/img/portfolio/hab/side.png)
+![Side](/assets/img/portfolio/hab/side.webp)
 
 <br>
 
 ### Plane Crossing
-![Plane](/assets/img/portfolio/hab/plane.png)
+![Plane](/assets/img/portfolio/hab/plane.webp)
 
 <br>
 
-<video width="100%" poster="/assets/img/portfolio/hab/plane.png" controls>
+<video width="100%" poster="/assets/img/portfolio/hab/plane.webp" controls>
     <source src="/assets/img/portfolio/hab/plane.mp4" type="video/mp4">
     Your broswer does not support the video tag.
 </video>

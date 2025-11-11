@@ -15,4 +15,4 @@ Site In Progress
 </a>
 <br><br>
 
-![Site Demo](/assets/img/portfolio/angel-nonprofit/angel.png)
+![Site Demo](/assets/img/portfolio/angel-nonprofit/angel.webp)
