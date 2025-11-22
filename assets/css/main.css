@@ -643,10 +643,10 @@ td {
     display: block;
     background-position: center center;
     background-repeat: no-repeat;
-    margin: 0 auto 30px;
+    margin: 0 auto 10px;
   }
   #about .about-content [class^=about-item] {
-    margin: 10px 10%;
+    margin: 10px 5%;
   }
 }
 ul.breadcrumb {
@@ -888,21 +888,16 @@ header .header-content .kicker {
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
 }
-#navbar .branding {
+#navbar .navbar-logo {
   float: left;
-  overflow: hidden;
 }
-#navbar .branding .navbar-logo {
-  float: left;
-  line-height: 0;
-}
-#navbar .branding .navbar-logo svg circle {
+#navbar .navbar-logo svg circle {
   stroke: #00FFAF;
 }
-#navbar .branding .navbar-logo svg path {
+#navbar .navbar-logo svg path {
   stroke: #00FFAF;
 }
-#navbar .branding .navbar-title {
+#navbar .navbar-title {
   float: left;
   margin: 0;
   padding-left: 15px;
@@ -910,26 +905,24 @@ header .header-content .kicker {
   font-size: 2.2em;
   font-weight: 700;
 }
-#navbar .branding .navbar-title:hover, #navbar .branding .navbar-title:focus {
+#navbar .navbar-title:hover, #navbar .navbar-title:focus {
   color: rgba(0, 255, 175, 0.7);
 }
-#navbar .branding .handle {
-  margin: 0;
+#navbar .handle {
+  background: rgba(0, 0, 0, 0);
+  border: none;
   display: none;
   float: right;
-  height: 50px;
-  width: 50px;
-  padding: 0;
-  text-align: left;
-  border: none;
-  background: rgba(0, 0, 0, 0);
-}
-#navbar ul {
-  position: absolute;
-  right: 0;
-  overflow: hidden;
   margin: 0;
   padding: 0;
+  text-align: left;
+}
+#navbar ul {
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  right: 0;
   text-align: center;
 }
 #navbar ul .navbar-item {
@@ -947,44 +940,42 @@ header .header-content .kicker {
 }
 
 @media screen and (max-width: 780px) {
-  #navbar .branding {
-    float: none;
-  }
-  #navbar .branding .navbar-title {
+  #navbar .navbar-title {
     position: absolute;
     padding: 0;
     left: 50%;
     transform: translateX(-50%);
   }
-  #navbar .branding .handle {
+  #navbar .handle {
     display: inline;
   }
-  #navbar .branding .handle #navbar-menu svg circle {
+  #navbar .handle #navbar-menu svg circle {
     stroke: #00FFAF;
   }
-  #navbar .branding .handle #navbar-menu svg path {
+  #navbar .handle #navbar-menu svg path {
     stroke: #00FFAF;
-  }
-  #navbar .branding .handle #navbar-menu svg.show path {
-    stroke: #000000;
-  }
-  #navbar .branding .handle #navbar-menu svg.show circle {
-    fill: #00FFAF;
-    stroke: #000000;
   }
   #navbar ul {
-    max-height: 0;
+    margin: 50px 0;
     width: 100%;
+    display: none;
   }
   #navbar ul .navbar-item {
     box-sizing: border-box;
     width: 100%;
   }
-  #navbar ul.show {
-    max-height: 250px;
-    background: rgba(0, 0, 0, 0.7);
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
+  #navbar.show {
+    height: 300px;
+  }
+  #navbar.show #navbar-menu svg path {
+    stroke: #000000;
+  }
+  #navbar.show #navbar-menu svg circle {
+    fill: #00FFAF;
+    stroke: #000000;
+  }
+  #navbar.show ul {
+    display: inline-block;
   }
 }
 #objective {
@@ -1115,20 +1106,17 @@ header .header-content .kicker {
 }
 
 #skills .skill-lockup {
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 30px 0 0 0;
+  margin: 30px auto;
 }
 #skills .skill-lockup .skill-unit {
-  width: 340px;
-  float: left;
+  text-align: center;
+  margin: 10px 0;
 }
 #skills .skill-lockup .skill-unit .skill-label {
   font-size: 20px;
 }
 #skills .skill-lockup .skill-unit .skill-icons {
   font-size: 0;
-  margin: 3px 0 20px;
 }
 #skills .skill-lockup .skill-unit .skill-icons span {
   border: 2px solid #00FFAF;
@@ -1180,14 +1168,6 @@ header .header-content .kicker {
   border: 2px solid #F8F8FF;
 }
 
-@media screen and (max-width: 540px) {
-  .skill-lockup {
-    width: 220px;
-  }
-  .skill-lockup .skill-unit {
-    width: 220px;
-  }
-}
 #slider {
   background: linear-gradient(to left, ghostwhite, #F8F8FF);
   position: relative;

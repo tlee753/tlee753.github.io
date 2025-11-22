@@ -25,6 +25,8 @@ permalink: "/dev/"
 - blog
   - country pages links in breadcrumbs
 
+- add the start page (zola)
+
 ### Work Pages
     - reconso?
     - musings of a 20 year old?

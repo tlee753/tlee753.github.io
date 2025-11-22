@@ -1,20 +1,17 @@
 #skills
 
   .skill-lockup
-    max-width: 680px
-    margin: 0 auto
-    padding: 30px 0 0 0
+    margin: 30px auto
 
     .skill-unit
-      width: 340px
-      float: left
+      text-align: center
+      margin: 10px 0
 
       .skill-label
         font-size: 20px
 
       .skill-icons
         font-size: 0
-        margin: 3px 0 20px
 
         span
           border: 2px solid $theme-primary
@@ -29,11 +26,3 @@
           &.skill-#{$i} span:nth-child(n+#{$i+1})
             background: $theme-tertiary
             border: 2px solid $theme-secondary
-
-
-@media screen and (max-width: 540px)
-  .skill-lockup
-    width: 220px
-
-    .skill-unit
-      width: 220px

@@ -3,8 +3,7 @@ $(document).ready(function() {
     //smoothScroll(1000);
 
     $('.handle').on('click', function(){
-        $('#navbar ul').toggleClass('show');
-        $('#navbar-menu svg').toggleClass('show');
+        $('#navbar').toggleClass('show');
     });
 
     $('[class^="advice"]').on('click', function(){

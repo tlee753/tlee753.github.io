@@ -1,115 +1,106 @@
 #navbar
-  height: 50px
-  position: fixed
-  background: $theme-glass
-  color: $theme-primary
-  z-index: 10
-  text-decoration: none
-  margin: 0
-  padding: 0
-  width: 100%        
-  backdrop-filter: blur(5px)
-  -webkit-backdrop-filter: blur(5px)
-
-  .branding
-    float: left
-    overflow: hidden
-
-    .navbar-logo
-      float: left
-      line-height: 0
-      
-      svg
-        circle
-          stroke: $theme-primary
-        path
-          stroke: $theme-primary
-
-    .navbar-title
-      float: left
-      margin: 0
-      padding-left: 15px
-      line-height: 50px
-      font:
-        size: 2.2em
-        weight: 700
-      &:hover,
-      &:focus
-        color: $theme-blue-glass
-
-    .handle
-      margin: 0
-      display: none
-      float: right
-      height: 50px
-      width: 50px
-      padding: 0
-      text-align: left
-      border: none
-      background: rgba(0, 0, 0, 0)
-
-  ul
-    position: absolute
-    right: 0
-    overflow: hidden
+    height: 50px
+    position: fixed
+    background: $theme-glass
+    color: $theme-primary
+    z-index: 10
+    text-decoration: none
     margin: 0
     padding: 0
-    text-align: center
+    width: 100%
+    backdrop-filter: blur(5px)
+    -webkit-backdrop-filter: blur(5px)
 
-    .navbar-item
-      display: inline-block
-      padding: 0 15px
-      line-height: 50px
-      font:
-        size: 1.2em
-        weight: 400
-      text-transform: uppercase
-      color: $theme-primary 
+    .navbar-logo
+        float: left
 
-      &:hover,
-      &:focus
-        color: $theme-tertiary
-        background-color: $theme-primary
+        svg
+            circle
+                stroke: $theme-primary
+            path
+                stroke: $theme-primary
 
-@media screen and (max-width: 780px)
-  #navbar
+    .navbar-title
+        float: left
+        margin: 0
+        padding-left: 15px
+        line-height: 50px
+        font:
+            size: 2.2em
+            weight: 700
 
-    .branding
-      float: none
+        &:hover,&:focus
+            color: $theme-blue-glass
 
-      .navbar-title
-        position: absolute
+    .handle
+        background: rgba(0, 0, 0, 0)
+        border: none
+        display: none
+        float: right
+        margin: 0
         padding: 0
-        left: 50%
-        transform: translateX(-50%)
-
-      .handle
-        display: inline
-
-        #navbar-menu
-          svg
-            circle
-              stroke: $theme-primary
-            path
-              stroke: $theme-primary
-          
-          svg.show
-            path
-              stroke: $theme-tertiary
-            circle
-              fill: $theme-primary
-              stroke: $theme-tertiary
+        text-align: left
 
     ul
-      max-height: 0
-      width: 100%
+        margin: 0
+        overflow: hidden
+        padding: 0
+        position: absolute
+        right: 0
+        text-align: center
 
-      .navbar-item
-        box-sizing: border-box
-        width: 100%
+        .navbar-item
+            display: inline-block
+            padding: 0 15px
+            line-height: 50px
+            font:
+                size: 1.2em
+                weight: 400
+            text-transform: uppercase
+            color: $theme-primary
 
-    ul.show
-      max-height: 250px
-      background: $theme-glass
-      backdrop-filter: blur(5px)
-      -webkit-backdrop-filter: blur(5px)
+            &:hover,&:focus
+                color: $theme-tertiary
+                background-color: $theme-primary
+
+@media screen and (max-width: 780px)
+    #navbar
+
+        .navbar-title
+            position: absolute
+            padding: 0
+            left: 50%
+            transform: translateX(-50%)
+
+        .handle
+            display: inline
+
+            #navbar-menu
+                svg
+                    circle
+                        stroke: $theme-primary
+                    path
+                        stroke: $theme-primary
+
+        ul
+            margin: 50px 0
+            width: 100%
+            display: none
+
+            .navbar-item
+                box-sizing: border-box
+                width: 100%
+
+    #navbar.show
+        height: 300px
+
+        #navbar-menu
+            svg
+                path
+                    stroke: $theme-tertiary
+                circle
+                    fill: $theme-primary
+                    stroke: $theme-tertiary
+
+        ul
+            display: inline-block
