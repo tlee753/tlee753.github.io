@@ -10,9 +10,11 @@ progress: 90
 Websites I've made
 - [tlee753.com](http://tlee753.com)
 - [brownsfan.org](http://brandonlee24.github.io)
-- [unicef.gatech.edu](http://unicef.gatech.edu)
-- [mirabuildingsolutions.com](http://mirabuildingsolutions.com)
-- [cambridgewaterpolo.com](http://cambridgewaterpolo.com)
+- [Gatech UNICEF](http://unicef.gatech.edu)
+- [Mira Building Solutions](http://mirabuildingsolutions.com)
+- [Cambridge Water Polo](http://cambridge-water-polo.github.io)
+- [Baltimore Bolts](https://baltimorebolts.com/)
+- [NASA Goddard Soccer](https://nasagoddardsoccer.com)
 
 Websites I've assisted on
 - [solarracing.gatech.edu](https://solarracing.gatech.edu)
@@ -25,12 +27,14 @@ Depricated Site I've Made
 
 ### Examples
 <br>
-![Browns Fan](/assets/img/portfolio/web-development/site-1.webp)
+![Browns Fan](/assets/img/portfolio/web-development/browns.webp)
 <br>
-![CWP](/assets/img/portfolio/web-development/site-2.webp)
+![CWP](/assets/img/portfolio/web-development/cwp.webp)
 <br>
-![UNICEF](/assets/img/portfolio/web-development/site-3.webp)
+![UNICEF](/assets/img/portfolio/web-development/unicef.webp)
 <br>
-![Mira](/assets/img/portfolio/web-development/site-4.webp)
+![Mira](/assets/img/portfolio/web-development/mira.webp)
 <br>
 ![Vestibular Aid](/assets/img/portfolio/web-development/vestibular-aid.webp)
+<br>
+![Vestibular Aid](/assets/img/portfolio/web-development/gsl.webp)
