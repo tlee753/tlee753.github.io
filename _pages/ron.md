@@ -67,7 +67,7 @@ category: Misc
     const sound = new Audio();
 
     function playSound(filename) {
-        console.log("Playing song: " + filename);
+        console.log("Playing: " + filename);
         sound.src = "/assets/audio/" + filename + ".mp3";
         sound.play();
     }

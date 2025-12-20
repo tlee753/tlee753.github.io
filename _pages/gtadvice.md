@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GT Advice
-date: 2017-08-27 8:00:00
+date: 2017-08-27
 permalink: "/gtadvice/"
 ---
 
