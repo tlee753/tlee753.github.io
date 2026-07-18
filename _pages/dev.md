@@ -6,6 +6,8 @@ category: Uncategorized
 permalink: "/dev/"
 ---
 
+[![pages-build-deployment](https://github.com/tlee753/tlee753.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tlee753/tlee753.github.io/actions/workflows/pages/pages-build-deployment)
+
 # Web Design
 <a class="button" href="https://github.com/tlee753/tlee753.github.io">Github</a>
 <a class="button" href="localhost:4000">Localhost</a>
@@ -25,8 +27,6 @@ permalink: "/dev/"
 - blog
   - country pages links in breadcrumbs
 
-- add the start page (zola)
-
 ### Work Pages
     - reconso?
     - musings of a 20 year old?
@@ -37,15 +37,15 @@ permalink: "/dev/"
 ### Long Term
 - switch to zola
 - resume page
-    - timeline of life
+    - timeline of life (bucket list?)
 - index page for presentations, tutorials, dc, etc
-- start page (new tab)
 - svg header which changes with theme color
 - blog map to site pages per country (click Germany go to Germany page)
     - incorporate with blog post link
 - 4k support
+    - bootstrap
 - tutorials page
-
+- switch from d3 to echarts :D
 - search page
 
 ---
