@@ -6,6 +6,8 @@ category: Uncategorized
 permalink: "/dev/"
 ---
 
+<br>
+    
 [![pages-build-deployment](https://github.com/tlee753/tlee753.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/tlee753/tlee753.github.io/actions/workflows/pages/pages-build-deployment)
 
 # Web Design
@@ -14,10 +16,9 @@ permalink: "/dev/"
 <a class="button" href="https://tlee753.com">Site</a>
 
 ### Workspace
-- [Galleria](/workspace/galleria/themes/classic/classic-demo-cdn.html)
+- [Alpha Vantage](/workspace/alphaVantage/index.html)
+- [Black Gradient](/workspace/black-gradient/index.html)
 - [Party](/workspace/party/index.html)
-- [Stock Ticker](/workspace/stock-ticker/index.html)
-- [Stocks](/workspace/stocks/index.html)
 
 ### Short Term
 - massive overhaul on the work pages
@@ -26,13 +27,6 @@ permalink: "/dev/"
   - tutorials
 - blog
   - country pages links in breadcrumbs
-
-### Work Pages
-    - reconso?
-    - musings of a 20 year old?
-    
-##### Other Ideas
-    - star wars m-bed program
 
 ### Long Term
 - switch to zola
@@ -47,8 +41,8 @@ permalink: "/dev/"
 - tutorials page
 - switch from d3 to echarts :D
 - search page
-
----
-
-# New Website
 - parallax on home page
+
+### Work Pages
+- musings of a 20 year old?
+- star wars m-bed program
